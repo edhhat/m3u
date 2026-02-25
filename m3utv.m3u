@@ -17,7 +17,7 @@ https://jmp2.uk/stvp-FR370000288
 https://jmp2.uk/stvp-FR3700003N4
 #EXTINF:-1 tvg-id="FR3700001AG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_thriller.png",Box Office Thriller
 https://jmp2.uk/stvp-FR3700001AG
-#EXTINF:-1 tvg-id="FR:.Brefcinema.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/brefcinema.png",Brefcinema
+#EXTINF:-1 tvg-id="FRBA1000009KO" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/brefcinema.png",Brefcinema
 https://jmp2.uk/stvp-FRBA1000009KO
 #EXTINF:-1 tvg-id="6823648580b2665220d9e69a" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_666.png",Ciné 666 by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6823648580b2665220d9e69a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=229026c1-2945-4593-b471-f64a0e8a5f20
@@ -41,15 +41,15 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=439b9b95-37fe-4f98-b577-7c3ad9ebf03e
 #EXTINF:-1 tvg-id="60c3472a51a2050008dad272" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers_pluto.png",Ciné Thrillers by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
-#EXTINF:-1 tvg-id="FR:.Ciné.Western.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western_pluto.png",Ciné Western by Pluto TV
+#EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western_pluto.png",Ciné Western by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/dormir_chez_vous.png",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
-#EXTINF:-1 tvg-id="FR:.Emotion`L.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
+#EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
 https://jmp2.uk/stvp-FRBB340000115
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/la_une.png",La Une (1080p)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-id="FR:.MyTime.Movie.Network.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/mytime_movie_network.png",MyTime Movie Network France (1080p)
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/mytime_movie_network.png",MyTime Movie Network France (1080p)
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FR2600002X9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_action.png",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
@@ -69,7 +69,7 @@ https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/
 https://jmp2.uk/stvp-FRBB50000016B
 #EXTINF:-1 tvg-id="FR1800003VF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shadowz.png",Shadowz
 https://jmp2.uk/stvp-FR1800003VF
-#EXTINF:-1 tvg-id="FR:.Shark.TV.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shark.png",Shark TV
+#EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shark.png",Shark TV
 https://jmp2.uk/stvp-FR4000002JN
 #EXTINF:-1 tvg-id="FR3000139Z" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony One Hits Action (1080p)
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
