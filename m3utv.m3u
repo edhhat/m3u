@@ -13,17 +13,51 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96645b90-30f3-4cb2-9b85-4159e2359ce0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_sci-fi_pluto.png",Ciné Sci-Fi by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=439b9b95-37fe-4f98-b577-7c3ad9ebf03e
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_action_.png",Rakuten TV Films Action (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_horreur_pluto.png",Ciné Horreur by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e1978babec540008ce41ac/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6429b2eb-5c9c-49a3-95b5-18d5d888bf44
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers_pluto.png",Ciné Thrillers by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_catastrophe_pluto.png",Ciné Catastrophe by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3f52cf3e-f8c9-4cca-8b9e-885d48d663fe
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_romance_pluto.png",Ciné Romance by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=61451d44-26d9-45c2-adfc-fd67cf2b33ad
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western_pluto.png",Ciné Western by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_d'asie_pluto.png",Ciné d'Asie by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=84f8db47-cbf7-4d1b-b423-023f2fcf89a9
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_by_pluto_tv.png",Ciné by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=255097f6-d153-441c-b338-08760336877c
+#EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/action_totale.png",Action Totale
+https://jmp2.uk/stvp-FR220000105
+#EXTINF:-1 tvg-id="FRBA1000009KO" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/brefcinema.png",Brefcinema
+https://jmp2.uk/stvp-FRBA1000009KO
+#EXTINF:-1 tvg-id="CineNanar.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_nanar.png",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_action.png",Box Office Action
+https://jmp2.uk/stvp-FR370000288
+#EXTINF:-1 tvg-id="FR3700003N4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_drama.png",Box Office Drama
+https://jmp2.uk/stvp-FR3700003N4
+#EXTINF:-1 tvg-id="FR3700001AG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_thriller.png",Box Office Thriller
+https://jmp2.uk/stvp-FR3700001AG
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/mytime_movie_network.png",MyTime Movie Network France (1080p)
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FR1800003VF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shadowz.png",Shadowz
+https://jmp2.uk/stvp-FR1800003VF
+#EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shark_tv.png",Shark TV
+https://jmp2.uk/stvp-FR4000002JN
+#EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
+https://jmp2.uk/stvp-FRBB340000115
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_action.png",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_romance_.png",Rakuten TV Films Romance (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_romance.png",Rakuten TV Films Romance (720p)
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_comédie_.png",Rakuten TV Films Comédie (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_comédie.png",Rakuten TV Films Comédie (720p)
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_drames.png",Rakuten TV Films Drames (720p)
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_famille.png",Rakuten TV Films Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_top_films_france_.png",Rakuten TV Top Films France (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_top_films_france.png",Rakuten TV Top Films France (720p)
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_thriller.png",Rakuten TV Films Thriller (720p)
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
@@ -31,5 +65,3 @@ https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/zylo_screamin.png",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shark.png",Shark TV
-https://jmp2.uk/stvp-FR4000002JN
