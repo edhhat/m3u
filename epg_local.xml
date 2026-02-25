@@ -22809,6 +22809,10 @@
     <category lang="fr">Culture Infos</category>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~program~36a5a7b70b7e27a1.jpeg/640x360/quality/80/pour-tout-dire.jpg" />
   </programme>
+  <channel id="FRBD41000051L">
+    <display-name>Wasabi</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000051L_20250708T031704SQUARE.png" />
+  </channel>
   <channel id="FRBD4800001P4">
     <display-name>J'irai dormir chez vous</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260224T030937SQUARE.png" />
@@ -22825,6 +22829,10 @@
     <display-name>Brefcinema</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20241106T142654SQUARE.png" />
   </channel>
+  <channel id="FRBB39000020C">
+    <display-name>Ciné Nanar</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250902T003655SQUARE.png" />
+  </channel>
   <channel id="FRBA2200010VN">
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200010VN_20260127T040227SQUARE.png" />
@@ -22836,6 +22844,14 @@
   <channel id="FRBB50000016B">
     <display-name>Runtime</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png" />
+  </channel>
+  <channel id="FR26000068C">
+    <display-name>Comédies - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png" />
+  </channel>
+  <channel id="FRBB4600002K5">
+    <display-name>Scream'IN</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20251111T011332SQUARE.png" />
   </channel>
   <channel id="FR3700003N4">
     <display-name>Box Office Drama</display-name>
@@ -22857,6 +22873,90 @@
     <display-name>Box Office Action</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260113T032400SQUARE.png" />
   </channel>
+  <channel id="FR3000139Z">
+    <display-name>Sony One Action HITS</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20260224T030949SQUARE.png" />
+  </channel>
+  <channel id="FR2600002X9">
+    <display-name>Films d'action - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600002X9_20240827T040439SQUARE.png" />
+  </channel>
+  <programme channel="FRBD41000051L" start="20260225140928 +0000" stop="20260225144332 +0000">
+    <title>Rancune</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1574365895_0_20260125T131945374Z_46_imageprocessorclient-tvplus-linear-85d7d49859-jzjjm.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225144332 +0000" stop="20260225151722 +0000">
+    <title>Difficultés techniques</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1614569857_0_20260210T164024909Z_59_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225151722 +0000" stop="20260225154725 +0000">
+    <title>Submarine Super 99</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487179327_0_20231224T144505018Z_91.jpeg" />
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225154725 +0000" stop="20260225161315 +0000">
+    <title>La mélodie d'un funeste messager</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+    <rating>
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225161315 +0000" stop="20260225163904 +0000">
+    <title>L'apparition de l'armure d'Odin</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+    <rating>
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225163904 +0000" stop="20260225171254 +0000">
+    <title>Difficultés techniques</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1614569857_0_20260210T164024909Z_59_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225171254 +0000" stop="20260225174659 +0000">
+    <title>Rancune</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1574365895_0_20260125T131945374Z_46_imageprocessorclient-tvplus-linear-85d7d49859-jzjjm.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225174659 +0000" stop="20260225181248 +0000">
+    <title>Une prière éternelle pour Athéna</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+    <rating>
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225181248 +0000" stop="20260225184251 +0000">
+    <title>Submarine Super 99</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487179327_0_20231224T144505018Z_91.jpeg" />
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225184251 +0000" stop="20260225191241 +0000">
+    <title>Olive et Tom</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1167182891_0_20250902T161915084Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7sngq.png" />
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225191241 +0000" stop="20260225210604 +0000">
+    <title>Resident Evil Vendetta</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+  </programme>
   <programme channel="FRBD4800001P4" start="20260225133955 +0000" stop="20260225143953 +0000">
     <title>J'irai dormir chez vous</title>
     <sub-title>: Roumanie</sub-title>
@@ -23200,6 +23300,46 @@
       <value>3</value>
     </rating>
   </programme>
+  <programme channel="FRBB39000020C" start="20260225121429 +0000" stop="20260225141938 +0000">
+    <title>World of Saga</title>
+    <desc>Une société secrète appelée “Société de l'ombre”, met tout en œuvre afin que Goth Azul, le dieu immortel revienne et règne de nouveau au sein de la communauté de « SAGA », composée d'elfes, d'orques, de nains et de dragons…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496702976_25_20240626T122616320Z_84.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB39000020C" start="20260225141938 +0000" stop="20260225160553 +0000">
+    <title>Dernières Heures de la Terre</title>
+    <desc>Après que de la matière dense provenant d'un trou blanc implosé ait frappé la Terre, la rotation de la planète est dévastée. Un groupe d'agents gouvernementaux doit retrouver un réseau de satellites perdu, seul espoir de survie pour l'humanité.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1332510532_0_20251114T001415913Z_91_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB39000020C" start="20260225160553 +0000" stop="20260225180458 +0000">
+    <title>Héritage</title>
+    <desc>Lors d'un voyage de chasse dans la région sauvage isolée, un père et son fils adolescent adoptif sont transformés en proies d'agresseurs inconnus. Ils sont rejoints dans leur lutte pour la survie par un étranger qui révèle la troublante vérité sur le père biologique du fils, un seigneur du crime international, et pourquoi ce seigneur du crime a envoyé des assassins entraînés pour tuer l'adolescent.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501783902_0_20240812T233328985Z_49_imageprocessorclient-tvplus-linear-64ff86dd75-6htsd.jpeg" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB39000020C" start="20260225180458 +0000" stop="20260225195840 +0000">
+    <title>Killshot</title>
+    <desc>Une femme et son mari ouvrier sont au mauvais endroit, au mauvais moment. Ils sont témoins d'une extorsion complotée par deux criminels. Témoins gênants, ils deviennent des cibles vivantes pour ces deux tueurs.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496702945_0_20240626T122613777Z_113.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB39000020C" start="20260225195840 +0000" stop="20260225214240 +0000">
+    <title>Honneur Extrême</title>
+    <desc>Un Navy Seal hautement décoré est contraint de sortir de sa retraite pour sauver la vie de son fils et rendre justice à l'homme qui a détruit sa carrière.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1430962276_1_20251212T031508697Z_37_imageprocessorclient-tvplus-linear-85d7d49859-2hv8g.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme channel="FRBA2200010VN" start="20260225125036 +0000" stop="20260225143543 +0000">
     <title>The Date Whisperer</title>
     <desc />
@@ -23295,6 +23435,78 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_490696596_5_20240424T011905220Z_42.jpeg" />
     <rating>
       <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR26000068C" start="20260225120717 +0000" stop="20260225142704 +0000">
+    <title>Les Aiguilleurs</title>
+    <desc>Nick Falzone a tout : une femme charmante, des enfants, un métier de contrôleur aérien où il excelle. Mais Russell Bell débarque, maître zen et casse-cou à moto, et une rivalité s'installe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1481266627_0_20251227T085027100Z_133_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR26000068C" start="20260225142704 +0000" stop="20260225160913 +0000">
+    <title>Little Manhattan</title>
+    <desc>Dans une ville connue pour son effervescence, deux jeunes amis sont sur le point de se lancer dans la plus grande des aventures. Gabe et Rosemary se connaissent depuis presque toujours, mais lorsqu'ils se retrouvent face à face lors d'un cours de karaté, ils se voient sous un jour nouveau.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_503061907_0_20240826T094221425Z_47_imageprocessorclient-tvplus-linear-64ff86dd75-p882x.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR26000068C" start="20260225160913 +0000" stop="20260225174955 +0000">
+    <title>Braqueurs Amateurs</title>
+    <desc>Dick Harper vient de recevoir une grande promotion : il est nommé vice-président de la communication du groupe Globodyne. Forte de cette bonne nouvelle, son épouse, Jane, démissionne pour ne plus s'occuper que de leur fils et de leur belle maison.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_603181159_0_20250127T025729123Z_49_imageprocessorclient-tvplus-linear-7cd5d896cc-sbnsg.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR26000068C" start="20260225174955 +0000" stop="20260225193036 +0000">
+    <title>Storm Chasers</title>
+    <desc>Un ingénieur négligé est envoyé en Alaska pour vérifier l'affirmation d'un scientifique excentrique selon laquelle la capture de la foudre peut constituer une nouvelle source d'énergie renouvelable.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1283540889_0_20251027T053642036Z_125_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR26000068C" start="20260225193036 +0000" stop="20260225212348 +0000">
+    <title>Black/White</title>
+    <desc>Theresa ramène son fiancé Simon Green à la maison, pour le 25e anniversaire de mariage de ses parents, mais elle a oublié de mentionner un détail : il est blanc. Bien déterminé à mettre fin aux fiançailles de sa fille, Percy Jones va prouver qu'un père n'a pas toujours raison.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_931275633_0_20250530T014512348Z_31_imageprocessorclient-tvplus-linear-6fb5b47f79-vgkcp.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB4600002K5" start="20260225131534 +0000" stop="20260225151347 +0000">
+    <title>FEAST 2: NO LIMIT</title>
+    <desc>Les monstres se sont introduits dans une petite ville voisine au milieu de nulle part et les habitants doivent s'associer aux survivants du massacre du bar pour trouver un moyen de survivre.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496700501_34_20240626T122616499Z_87.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB4600002K5" start="20260225151347 +0000" stop="20260225172848 +0000">
+    <title>Dreamcatcher</title>
+    <desc>Deux soeurs et leurs amis se retrouvent retranchées dans un tourbillon de violence de 48 heures après une expérience traumatisante lors d'un festival de musique underground.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496701897_14_20240626T122616601Z_1.jpeg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB4600002K5" start="20260225172848 +0000" stop="20260225192742 +0000">
+    <title>Xtro III</title>
+    <desc>Des soldats sont envoyés sur une île isolée pour la déminer. Arrivés sur place, ils découvrent que celle-ci a servi de base à des activités secrètes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496702526_14_20240626T122623115Z_25.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB4600002K5" start="20260225192742 +0000" stop="20260225212658 +0000">
+    <title>Dead Mary</title>
+    <desc>Ce qui devait être un simple week-end de détente tourne au rituel sanglant lorsque six amis se retrouvent dans un chalet abandonné, près d'un lac entouré de légendes oubliées. Pour se divertir, ils décident de prononcer un nom interdit : Dead Mary, une entité morte depuis des siècles, brûlée vive pour sorcellerie… mais jamais détruite.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1549197919_0_20260114T173509252Z_25_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="FR3700003N4" start="20260225124500 +0000" stop="20260225144500 +0000">
@@ -23480,7 +23692,68 @@
       <value>NA</value>
     </rating>
   </programme>
-  <channel id="60d35a74c63c3c0008df6a90">
+  <programme channel="FR3000139Z" start="20260225135200 +0000" stop="20260225154840 +0000">
+    <title>Escape Game</title>
+    <desc>Dans ESCAPE GAME, le nouveau film d'Adam Robitel (INSIDIOUS : LA DERNIERE CLE), six personnes n'ayant rien en commun se retrouvent enfermées dans un jeu et devront trouver les indices ou mourir.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1269838253_0_20251020T201032127Z_132_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR3000139Z" start="20260225154840 +0000" stop="20260225173347 +0000">
+    <title>Escape Game 2: Gagner n'était que le début</title>
+    <desc>Six inconnus se retrouvent involontairement enfermés dans une nouvelle succession d'escape games mortels. Au fur et à mesure des énigmes résolues et des indices découverts, ils se découvrent un point commun qui sera la clé de leur survie : tous ont déjà participé à ce jeu auparavant.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1269764967_0_20251020T201031681Z_25_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
+  </programme>
+  <programme channel="FR3000139Z" start="20260225173347 +0000" stop="20260225193903 +0000">
+    <title>Sex Crimes</title>
+    <desc>Sam Lombardo est enseignant sportif sur le campus de la petite communauté de Blue Bay en floride. Les étudiantes ne sont pas insensibles à son charme. Un jour l'une d'entre elles, Kelly, l'accuse de l'avoir violée. Quand tout n'est qu'une gigantesque manipulation...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_869552522_4_20250508T222118716Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-9rknc.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR3000139Z" start="20260225193903 +0000" stop="20260225213109 +0000">
+    <title>Sexcrimes 2</title>
+    <desc>Rester proche de ses amis et encore plus proche de ses ennemis n'a jamais été plus important… ou plus dangereux. Les filles de Blue Bay sont de retour, plus farouches que jamais dans cette suite sexy du thriller érotique Wild Things où personne n'est innocent et rien n'est ce qu'il semble être.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_869517451_2_20250508T222118316Z_97_imageprocessorclient-tvplus-linear-6fb5b47f79-ns9sr.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260225135447 +0000" stop="20260225154908 +0000">
+    <title>Les Sicarios</title>
+    <desc>Un jeune homme tourmenté fuit au Mexique, où il est recruté pour rejoindre un groupe paramilitaire d'adolescents combattant les cartels de la drogue.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1151397622_0_20250826T050952335Z_91_imageprocessorclient-tvplus-linear-5db7c6bc99-cpflf.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260225154908 +0000" stop="20260225174421 +0000">
+    <title>Russian Raid</title>
+    <desc>Nikita, ancien agent des forces spéciales russes, est missionné pour trouver une faille dans la sécurité d'une usine sur laquelle l'organisation secrète qui l'emploie veut mettre la main.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1481253599_0_20251227T085027101Z_51_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260225174421 +0000" stop="20260225193216 +0000">
+    <title>Duels</title>
+    <desc>Un ancien braqueur de banques devenu shérif n'a plus aucun souvenir de son ancienne vie.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_513189210_0_20241129T032244253Z_129_imageprocessorclient-tvplus-linear-7cd5d896cc-vm4x7.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260225193216 +0000" stop="20260225211634 +0000">
+    <title>Kill the Gringo</title>
+    <desc>Un chauffeur de fuite, arrêté au Mexique avec de l'argent volé, est emprisonné à El Pueblito, une prison chaotique dirigée par un gang. Connu sous le nom de « le Gringo », il découvre un complot du chef du crime Javi visant à prélever le foie d'un garçon pour une greffe.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_887171606_0_20250515T023834546Z_55_imageprocessorclient-tvplus-linear-6fb5b47f79-sxjm2.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+<channel id="60d35a74c63c3c0008df6a90">
     <display-name>BBC Series</display-name>
     <icon src="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG_1771579997925.png" />
   </channel>
