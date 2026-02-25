@@ -55,15 +55,15 @@ https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-id="FR26000068C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_comédie.png",Rakuten TV Films Comédie (720p)
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_drames.png",Rakuten TV Films Drames (720p)
+#EXTINF:-1 tvg-id="FR2600005LH" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_drames.png",Rakuten TV Films Drames (720p)
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_famille.png",Rakuten TV Films Famille
+#EXTINF:-1 tvg-id="FR2600001PI" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_famille.png",Rakuten TV Films Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_romance.png",Rakuten TV Films Romance (720p)
+#EXTINF:-1 tvg-id="FR2600003OZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_romance.png",Rakuten TV Films Romance (720p)
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_thriller.png",Rakuten TV Films Thriller (720p)
+#EXTINF:-1 tvg-id="FR2600009UG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_thriller.png",Rakuten TV Films Thriller (720p)
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_top_films_france.png",Rakuten TV Top Films France (720p)
+#EXTINF:-1 tvg-id="FR2600007CB" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_top_films_france.png",Rakuten TV Top Films France (720p)
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/runtime.png",Runtime
 https://jmp2.uk/stvp-FRBB50000016B
