@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BFM TV.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/lci.png",LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LCI.png",LCI
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
-#EXTINF:-1 tvg-id="CNewsPrime.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews_prime.png",CNEWS PRIME
+#EXTINF:-1 tvg-id="CNewsPrime.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/CNEWS PRIME.png",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnewsprime-clair-hd.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNEWS
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-id="FRBD4100006OC" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_business.png",BFM Business
+#EXTINF:-1 tvg-id="FRBD4100006OC" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BFM Business.png",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="FR300004J5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BFMGRANDSREPORTAGES.png",BFM Grands Reportages
 https://jmp2.uk/stvp-FR300004J5
@@ -51,25 +51,25 @@ https://jmp2.uk/stvp-FR4000003O1
 https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCDecouverte_all-LG_smartTV-Live&content_id=rmc_decouverte_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&ads.devicemodel=[DEVICE_MODEL]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="FR300001M1" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rmcwow.png",RMC wow
 https://jmp2.uk/stvp-FR300001M1
-#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rmc_mystère.png",RMC MYSTÈRE
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/RMC MYSTÈRE.png",RMC MYSTÈRE
 https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
-#EXTINF:-1 tvg-id="FR300005WY" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rmc_talk_info.png",RMC TALK INFO
+#EXTINF:-1 tvg-id="FR300005WY" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/RMC TALK INFO.png",RMC TALK INFO
 https://jmp2.uk/stvp-FR300005WY
-#EXTINF:-1 tvg-id="FR300003ZB" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rmc_meca.png",RMC Meca
+#EXTINF:-1 tvg-id="FR300003ZB" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/RMC Meca.png",RMC Meca
 https://jmp2.uk/stvp-FR300003ZB
-#EXTINF:-1 tvg-id="FR4200001BN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/la_maison_france_5.png",La Maison France 5
+#EXTINF:-1 tvg-id="FR4200001BN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/La Maison France 5.png",La Maison France 5
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
-#EXTINF:-1 tvg-id="FRBD5100003TP" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/epicurieux_avec_jamy.png",Epicurieux avec Jamy
+#EXTINF:-1 tvg-id="FRBD5100003TP" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Epicurieux avec Jamy.png",Epicurieux avec Jamy
 https://jmp2.uk/stvp-FRBD5100003TP
-#EXTINF:-1 tvg-id="FRBD4100010ZZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tech_&_co.png",Tech & Co
+#EXTINF:-1 tvg-id="FRBD4100010ZZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Tech & Co.png",Tech & Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
 #EXTINF:-1 tvg-id="FR3000139Z" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony Hits Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="FR3000082K" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_comédie.png",Sony Hits Comédie
+#EXTINF:-1 tvg-id="FR3000082K" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Hits Comédie.png",Sony Hits Comédie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="FR3000125U" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_séries_thriller.png",Sony Séries Thriller
+#EXTINF:-1 tvg-id="FR3000125U" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Séries Thriller.png",Sony Séries Thriller
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="FR2600007CB" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_top_films.png",Rakuten Top Films
+#EXTINF:-1 tvg-id="FR2600007CB" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Top Films.png",Rakuten Top Films
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-id="FR4600001FK" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_sci-fi.png",Rakuten Sci-Fi
 https://jmp2.uk/stvp-FR4100001D0
@@ -79,7 +79,7 @@ https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 #EXTINF:-1 tvg-id="FR2600002X9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_action.png",Rakuten Action
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="FR26000068C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_comédie.png",Rakuten Comédie
+#EXTINF:-1 tvg-id="FR26000068C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Comédie.png",Rakuten Comédie
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
 #EXTINF:-1 tvg-id="FR2600001PI" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_famille.png",Rakuten Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
@@ -93,7 +93,7 @@ https://jmp2.uk/stvp-FR3700003N4
 https://jmp2.uk/stvp-FR3700001AG
 #EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
 https://jmp2.uk/stvp-FRBB340000115
-#EXTINF:-1 tvg-id="60b4d6c806ad2a00073b3108" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/wild_side_tv.png",Wild Side TV
+#EXTINF:-1 tvg-id="60b4d6c806ad2a00073b3108" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Wild Side TV.png",Wild Side TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e90257df-432a-43f7-8ae2-66ec425f29d9
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/runtime.png",Runtime
 https://jmp2.uk/stvp-FRBB50000016B
@@ -109,9 +109,9 @@ https://jmp2.uk/stvp-FR4000002JN
 https://jmp2.uk/stvp-FR220000105
 #EXTINF:-1 tvg-id="FRBB39000020C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_nanar.png",Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FR300011G9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_favoris.png",Sony Favoris
+#EXTINF:-1 tvg-id="FR300011G9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Favoris.png",Sony Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="FR300010HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_blacklist.png",Sony Blacklist
+#EXTINF:-1 tvg-id="FR300010HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Blacklist.png",Sony Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/j'irai_dormir_chez_vous.png",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
