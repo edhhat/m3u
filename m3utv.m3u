@@ -107,7 +107,7 @@ https://jmp2.uk/stvp-FR1800003VF
 https://jmp2.uk/stvp-FR4000002JN
 #EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Action Totale.png",Action Totale
 https://jmp2.uk/stvp-FR220000105
-#EXTINF:-1 tvg-id="FRBB39000020C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_nanar.png",Ciné Nanar
+#EXTINF:-1 tvg-id="FRBB39000020C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Nanar.png",Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FR300011G9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Favoris.png",Sony Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
@@ -117,37 +117,37 @@ https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/
 https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 tvg-id="66f55cf2483d460008f68746" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/zone-interdite.png",Zone Interdite
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66f55cf2483d460008f68746/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=151a0cdd-820a-4c13-bd78-ef39b273e386
-#EXTINF:-1 tvg-id="66f55d0b5e4a6e0008c2b920" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/enquêtes_criminelles.png",Enquêtes Criminelles
+#EXTINF:-1 tvg-id="66f55d0b5e4a6e0008c2b920" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Enquêtes Criminelles.png",Enquêtes Criminelles
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66f55d0b5e4a6e0008c2b920/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=33cf88ba-1b18-4f98-a412-65d9477e1f62
 #EXTINF:-1 tvg-id="63b578b524f0cf00072f2a52" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ECHAPPEES BELLES.png",ECHAPPEES BELLES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ac38fe35-85a0-45cf-857a-03ebfe7b6d54
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/SOCIETY PLUS.png",SOCIETY PLUS
 https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
-#EXTINF:-1 tvg-id="FRBC90000220" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/enquêtes_de_choc.png",Enquêtes de Choc
+#EXTINF:-1 tvg-id="FRBC90000220" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Enquêtes de Choc.png",Enquêtes de Choc
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=cb87f5e6-74e1-438c-92d9-9c3ed3d99f1d
-#EXTINF:-1 tvg-id="FR1400002XF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/faites_entrer_l'accusé.png",Faites entrer l'accusé
+#EXTINF:-1 tvg-id="FR1400002XF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Faites entrer l'accusé.png",Faites entrer l'accusé
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/662a622b5e2370000800f392/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7b8f1c59-f633-46b8-9ef3-101bac274717
-#EXTINF:-1 tvg-id="66e1978babec540008ce41ac" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_horreur.png",Ciné Horreur
+#EXTINF:-1 tvg-id="66e1978babec540008ce41ac" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Horreur.png",Ciné Horreur
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e1978babec540008ce41ac/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6429b2eb-5c9c-49a3-95b5-18d5d888bf44
 #EXTINF:-1 tvg-id="6823648580b2665220d9e69a" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_666.png",Ciné 666
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6823648580b2665220d9e69a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=229026c1-2945-4593-b471-f64a0e8a5f20
-#EXTINF:-1 tvg-id="60c34592c911890007f29a73" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_sci-fi.png",Ciné Sci-Fi
+#EXTINF:-1 tvg-id="60c34592c911890007f29a73" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Sci-Fi.png",Ciné Sci-Fi
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=439b9b95-37fe-4f98-b577-7c3ad9ebf03e
-#EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_action.png",Ciné Action
+#EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Action.png",Ciné Action
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bcebf8f3-d9a7-44e7-aa81-3233790bff43
-#EXTINF:-1 tvg-id="FRAJ3800002W5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_by_pluto_tv.png",Ciné by Pluto TV
+#EXTINF:-1 tvg-id="FRAJ3800002W5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné by Pluto TV.png",Ciné by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=255097f6-d153-441c-b338-08760336877c
-#EXTINF:-1 tvg-id="65a69ef53af63d000825e0ee" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_catastrophe.png",Ciné Catastrophe
+#EXTINF:-1 tvg-id="65a69ef53af63d000825e0ee" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Catastrophe.png",Ciné Catastrophe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3f52cf3e-f8c9-4cca-8b9e-885d48d663fe
-#EXTINF:-1 tvg-id="62f3e2d000418d00070f7dbc" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_d'asie.png",Ciné d'Asie
+#EXTINF:-1 tvg-id="62f3e2d000418d00070f7dbc" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné d'Asie.png",Ciné d'Asie
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=84f8db47-cbf7-4d1b-b423-023f2fcf89a9
-#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_rétro.png",Ciné Rétro
+#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Rétro.png",Ciné Rétro
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96645b90-30f3-4cb2-9b85-4159e2359ce0
 #EXTINF:-1 tvg-id="60812fc8539963000707d1e1" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_romance.png",Ciné Romance
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=61451d44-26d9-45c2-adfc-fd67cf2b33ad
 #EXTINF:-1 tvg-id="60c3472a51a2050008dad272" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers.png",Ciné Thrillers
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
-#EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western.png",Ciné Western
+#EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Western.png",Ciné Western
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
 #EXTINF:-1 tvg-id="FR2900001UF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BBC Series.png",BBC Series
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2b1e3f4e-134b-4b4d-9fb8-f5de97a0792c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b6fa99c2-bcbf-4a51-a55d-95e7ada32084&userId=&serverSideAds=true
@@ -177,7 +177,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782&avod=1&coppa=0&td=6&
 https://jmp2.uk/stvp-FRBD39000064E
 #EXTINF:-1 tvg-id="FR1800005X0" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/TV5MONDE INFO.png",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="FRBD4100001DF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/les_anges.png",Les Anges
+#EXTINF:-1 tvg-id="FRBD4100001DF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Les Anges.png",Les Anges
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b228d4cd0d3100085d27b7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a05f6367-bc45-4061-a633-2337f407091a
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rtl-tvi.png",RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
@@ -205,9 +205,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680291e38e1ff89c2427aefd/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=43851305-4572-4306-a145-d186471dd096
 #EXTINF:-1 tvg-id="6380c94947c72b0007ee9a13" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/One Piece.png",One Piece
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a29bb48a-bb8e-42bd-85a1-9480b0b33f71
-#EXTINF:-1 tvg-id="662a63275a402e00086bc8a5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/olive_&_tom.png",Olive & Tom
+#EXTINF:-1 tvg-id="662a63275a402e00086bc8a5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Olive & Tom.png",Olive & Tom
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/662a63275a402e00086bc8a5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c151cb91-4872-4d80-ac5b-3c49c6db19e0
-#EXTINF:-1 tvg-id="62f3e8ad2a8e8000077b013d" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/detective_conan.png",Detective Conan
+#EXTINF:-1 tvg-id="62f3e8ad2a8e8000077b013d" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Detective Conan.png",Detective Conan
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b4cba12d-8ca8-441a-8e4c-062d9c28015f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/the_x-files.png",The X-Files
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/691b023a7613e09a8b209539/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=32de4823-7501-4845-ba26-8699462954dd&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f9ea4903-dd88-4f52-ac93-d504177b6a21
