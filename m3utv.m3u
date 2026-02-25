@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/action_totale.png",Action Totale
 https://jmp2.uk/stvp-FR220000105
-#EXTINF:-1 tvg-id="FR300004J5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_grands_reportages.png",BFM Grands Reportages
-https://jmp2.uk/stvp-FR300004J5
-#EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm2.png",BFM2
+#EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm.png",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_action.png",Box Office Action
 https://jmp2.uk/stvp-FR370000288
 #EXTINF:-1 tvg-id="FR3700003N4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_drama.png",Box Office Drama
