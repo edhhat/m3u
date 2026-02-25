@@ -29823,6 +29823,10 @@
     <display-name>Crime - Rakuten TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" />
   </channel>
+  <channel id="FRBD4800001P4">
+    <display-name>J'irai dormir chez vous</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260224T030937SQUARE.png" />
+  </channel>
   <channel id="FR1400003Y0">
     <display-name>BFM 2</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" />
@@ -29891,9 +29895,17 @@
     <display-name>Box Office Thriller</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png" />
   </channel>
+  <channel id="FR1800003VF">
+    <display-name>Shadowz</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20241210T052746SQUARE.png" />
+  </channel>
   <channel id="FR4000002JN">
     <display-name>Shark TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000002JN_20251230T031021SQUARE.png" />
+  </channel>
+  <channel id="FR370000288">
+    <display-name>Box Office Action</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260113T032400SQUARE.png" />
   </channel>
   <channel id="FR3000139Z">
     <display-name>Sony One Action HITS</display-name>
@@ -29907,14 +29919,6 @@
     <display-name>Films d'action - Rakuten TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600002X9_20240827T040439SQUARE.png" />
   </channel>
-  <programme channel="FRBD41000051L" start="20260225161315 +0000" stop="20260225163904 +0000">
-    <title>L'apparition de l'armure d'Odin</title>
-    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
-    <rating>
-      <value>4</value>
-    </rating>
-  </programme>
   <programme channel="FRBD41000051L" start="20260225163904 +0000" stop="20260225171254 +0000">
     <title>Difficultés techniques</title>
     <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
@@ -29975,10 +29979,18 @@
       <value>4</value>
     </rating>
   </programme>
-  <programme channel="FR2900001UF" start="20260225160936 +0000" stop="20260225170439 +0000">
-    <title>Orgueil et Préjugés Épisode 5</title>
-    <desc>Darcy est ravi de présent Elizabeth à sa sœur, Georgiana.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422563_0_20250604T152424863Z_129_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
+  <programme channel="FRBD41000051L" start="20260225222746 +0000" stop="20260225225335 +0000">
+    <title>Une prière éternelle pour Athéna</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+    <rating>
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225225335 +0000" stop="20260225232338 +0000">
+    <title>Submarine Super 99</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487179327_0_20231224T144505018Z_91.jpeg" />
   </programme>
   <programme channel="FR2900001UF" start="20260225170439 +0000" stop="20260225180311 +0000">
     <title>Orgueil et Préjugés Épisode 6</title>
@@ -30010,17 +30022,10 @@
     <desc>Darcy est ravi de présent Elizabeth à sa sœur, Georgiana.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422563_0_20250604T152424863Z_129_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
   </programme>
-  <programme channel="FR3000082K" start="20260225155427 +0000" stop="20260225162023 +0000">
-    <title>The Goldbergs S6E3</title>
-    <sub-title>Rad!</sub-title>
-    <desc>Après que Lainey et Barry ont dépensé les économies qu'ils ont reçus de Pops, Barry se tourne vers son père pour des leçons de frugalité. Beverly essaie de nouer des liens mère-fille avec Erica dans un bar à karaoké.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108114355_0_20250804T223707703Z_129_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
-  </programme>
-  <programme channel="FR3000082K" start="20260225162023 +0000" stop="20260225164622 +0000">
-    <title>The Goldbergs S6E4</title>
-    <sub-title>Hersheypark</sub-title>
-    <desc>Adam découvre que Beverly l'a manipulé. Après être allé à la soirée Carrières, Geoff se rend compte qu'il ne veut pas être ophtalmologue comme son père.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108203353_0_20250804T223707703Z_32_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
+  <programme channel="FR2900001UF" start="20260225230307 +0000" stop="20260226000139 +0000">
+    <title>Orgueil et Préjugés Épisode 6</title>
+    <desc>Jane et Bingley sont réunis, mais l'avenir de Darcy et Lizzie est usurpé par un visiteur.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422563_0_20250604T152424863Z_129_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
   </programme>
   <programme channel="FR3000082K" start="20260225164622 +0000" stop="20260225171251 +0000">
     <title>The Goldbergs S6E5</title>
@@ -30100,14 +30105,17 @@
     <desc>Les fiançailles de Barry et Lainey distraient leurs parents, et Erica en profite pour organiser une fête pour les 16 ans d'Adam.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108125210_0_20250804T223707702Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
   </programme>
-  <programme channel="FR2600009UG" start="20260225155619 +0000" stop="20260225170337 +0000">
-    <title>The Fall</title>
-    <sub-title>S3:E1 Silence et souffrance</sub-title>
-    <desc>S3:E1 Silence et souffrance - Spector est pris en charge aux urgences. Il subit ensuite une lourde intervention qui se passe bien, et quelques heures plus tard, finit par ouvrir les yeux. Burns défend Gibson auprès de Franks afin que l'affaire ne lui soit pas retirée.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1593397861_0_20260202T061129016Z_62_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
+  <programme channel="FR3000082K" start="20260225223832 +0000" stop="20260225230431 +0000">
+    <title>The Goldbergs S6E2</title>
+    <sub-title>You Got Zuko'd</sub-title>
+    <desc>Adam se réinvente en rockeur punk pour impressionner Jackie. Barry aimerait que Lainey apprennent à cuisiner avec Beverly.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108125211_0_20250804T223715976Z_120_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
+  </programme>
+  <programme channel="FR3000082K" start="20260225230431 +0000" stop="20260225233027 +0000">
+    <title>The Goldbergs S6E3</title>
+    <sub-title>Rad!</sub-title>
+    <desc>Après que Lainey et Barry ont dépensé les économies qu'ils ont reçus de Pops, Barry se tourne vers son père pour des leçons de frugalité. Beverly essaie de nouer des liens mère-fille avec Erica dans un bar à karaoké.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108114355_0_20250804T223707703Z_129_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
   </programme>
   <programme channel="FR2600009UG" start="20260225170337 +0000" stop="20260225181052 +0000">
     <title>The Fall</title>
@@ -30154,10 +30162,55 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR1400003Y0" start="20260225150000 +0000" stop="20260225170000 +0000">
-    <title>Le direct BFM2</title>
-    <desc>Le direct BFM2</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1118717637_0_20250810T023853968Z_101_imageprocessorclient-tvplus-linear-5db7c6bc99-cpflf.jpeg" />
+  <programme channel="FRBD4800001P4" start="20260225162339 +0000" stop="20260225172410 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Japon</sub-title>
+    <desc>Antoine de Maximy a décidé de parcourir la planète avec l'idée d'aller dormir chez l'habitant. Comme à son habitude, il porte sur lui plusieurs caméras qui filment ses rencontres en temps réel. Bien qu'il ne parle pas japonais et qu'il n'ait jamais mis les pieds au "pays du soleil levant", il débarque sans aucune préparation à Tokyo pour découvrir comment vivent les Japonais. Bien évidemment, il compte sur l'hospitalité des locaux pour mener à bien son périple. Mais au Japon, il n'est pas d'usage d'accueillir ses amis chez soi, et encore moins les étrangers. La partie s´annonce difficile pour le globe-trotteur. Il faudra beaucoup d'énergie et de diplomatie à Antoine pour entrer dans l'intimité des habitants. Mais le Japon est aussi connu pour être le pays de la technologie, alors le choc des cultures et la barrière des langues ajoutées à la détermination optimiste d'Antoine de Maximy, provoque bien des situations cocasses...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496774116_0_20240627T055515505Z_81.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225172410 +0000" stop="20260225182216 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Nouvelle-Zélande</sub-title>
+    <desc>Le baroudeur et sa mythique chemise rouge débarquent en Nouvelle-Zélande. Après quelques tentatives, il s´attire la sympathie d´un couple qui l´invite chaleureusement et lui raconte la culture autour du tatouage. Comme à son habitude, Antoine veut rencontrer des habitants authentiques loin de l´agitation touristique. Direction l'Ile du Sud. Pour finir son périple Antoine se rend dans une région où vivent les Maoris. Il erre dans une petite ville déserte avant de tomber sur Nikora qui l'invite pour une interview à la radio locale. Dans cette ambiance détendue et conviviale, le globe-trotter rencontre les vrais habitants du coin. La nuit sera longue et festive au milieu de chants bien arrosés. Décidemment, le véritable sens de l´accueil se trouve n´importe où, aux quatre coins de la planète !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1386638801_0_20251128T130920745Z_29_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225182216 +0000" stop="20260225192247 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Argentine</sub-title>
+    <desc>Pour cette nouvelle destination Antoine débarque en Argentine. Il commence son voyage à Buenos Aires. Il découvre très rapidement la convivialité des argentins, en quelques minutes il se fait inviter chez un avocat dans un quartier chic de la capitale, une rencontre surprenante. Il continue sa route vers Ushuaia tout au sud de la Patagonie. Le centre-ville est très touristique et ressemble étrangement à Chamonix... Antoine préfère quitter la ville pour se rendre à Puerto Almanza, un hameau de quelques maisons situé au bord du canal de Beagle. Il y règne une atmosphère de bout du monde. Puis il décide de remonter aux chutes d'Igauzu, à la frontière du Brésil et de l'Uruguay. Changement radical de climat. Là-bas, il veut rencontrer les Indiens Guaranis, une communauté qui vit à l´écart de la ville de Puerto Iguazu. Ils n'ont pas les meilleurs rapports avec les occidentaux. La tâche s´annonce difficile pour Antoine...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496931180_0_20240628T202605484Z_137.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225192247 +0000" stop="20260225204939 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title> : MALI</sub-title>
+    <desc>Toujours équipé de ses minuscules caméras, Antoine de Maximy se rend au Vanuatu, un archipel situé près de la Nouvelle-Calédonie, dans l'Océan Pacifique. En 2004, le tourisme n'était pas ce qu'il est aujourd'hui et aller seul dans certaines îles éloignées du Vanuatu était audacieux. Plus il s'enfonçait dans le pays, plus les rencontres étaient surprenantes. Pendant son voyage, il a été menacé par des hommes armés de machettes parce qu'il n'avait pas respecté les usages. Plus tard, dans un village reculé, les hommes vivaient encore nus avec seulement un étui pénien. Il s'y pratique encore le saut du Gol, une cérémonie spectaculaire au cours de laquelle les hommes se jettent dans le vide du haut d'une tour de 25 mètres (huit étages). Dans cet épisode, Antoine de Maximy revient sur les origines de cette histoire en racontant l'envers du décor de l'un de ses premiers voyages, agrémenté des séquences exclusives dans « L'intégrale J'irai dormir chez vous : Vanuatu ».</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496827042_0_20240627T193627234Z_156.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225204939 +0000" stop="20260225215017 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Namibie</sub-title>
+    <desc>Antoine commence son voyage à San Francisco. Il découvre avec surprise des gens complètement nus dans le quartier de Castro. Puis il croise plusieurs membres de la communauté des "Soeurs de la perpétuelle indulgence". Leur tenue vestimentaire et leur maquillage sont étonnants. Elles militent contre l'homophobie, le sida et la culpabilité. Puis Antoine se procure un "Trike", une splendide Harley Davidson à trois roues et file vers le nord. Sur la route, une sculpture attire son attention. Il remonte ensuite jusqu'à la ville d'Eureka. Malgré le mois de juin, ici c'est l'hiver à cause des courants glacés qui descendent d'Alaska. Il passe un moment avec un groupe de sans-abris en lutte pour une hypothétique révolution et apprend qu'en Californie, on peut légalement consommer de la marijuana à des fins thérapeutiques. Plus au sud, à la recherche des vignerons californiens, il fait la connaissance de Kurt et de ses amis qui l'invitent spontanément chez eux et le gardent pour la nuit. Le voyageur termine son road-trip à San Francisco pour à la célèbre Gay Pride. Une grande fête déjantée dans un pays où on ne peut paradoxalement pas boire de bière dans la rue.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496729537_0_20240626T173231933Z_72.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225215017 +0000" stop="20260225233158 +0000">
+    <title>J'Irai Dormir Chez Vous : Oman</title>
+    <desc>Pour ce nouvel épisode inédit, Antoine de Maximy parcourt le sultanat d'Oman. Ce pays situé sur la péninsule arabique s'ouvre progressivement au tourisme et au reste du monde. Les traditions ont gardé toute leur force. Ici, toutes les femmes sont voilées de noir et les hommes sont en blanc. Et la partie sera dure, puisqu'on n'invite jamais un étranger chez soi. Antoine commence son voyage par la ville touristique de Nizwa. Cela démarre plutôt bien. Les hommes comme les femmes sont faciles d'accès. Mais personne ne l'accueille. Il part ensuite dans le désert, à Haima, où il est chaleureusement hébergé par une famille, mais uniquement dans les pièces de réception. Puis il se rend à Salalah près du Yémen où il lui impossible d'établir un contact avec les femmes. Il arrive ensuite dans un village de pêcheurs. Il est bien accueilli mais dormira dans l'hôtel de l'un d'eux. Il termine son voyage à Mascate où il rencontre Mutasim. Ce jeune artiste fantasque se fait photographier tenant une pendule en laisse dans le souk de Matrah. Il l'accueille une petite heure chez lui. C'est la seule fois où le globe-squatteur entrera dans la maison d'un Omanais. Comme à la fin de chaque Spéciale, Antoine raconte les coulisses de son voyage. Au programme, le marché aux bestiaux de Nizwa, le beau parcours d'un homme qui ne sait pas quand il est né, et les villes "far-ouest" du désert omanais.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1167789135_0_20250902T225442304Z_64_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -30234,6 +30287,14 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme channel="FR2600007CB" start="20260225222008 +0000" stop="20260225235851 +0000">
+    <title>Le 51e État</title>
+    <desc>Un éminent chimiste américain projette de réaliser un gros coup grâce à une occasion unique impliquant un trafic de drogue. Tout ne se passe pas comme prévu et il se trouve bientôt embarqué dans un monde d'escrocs.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1578461053_0_20260127T053126449Z_107_imageprocessorclient-tvplus-linear-85d7d49859-scbk2.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="FR2600001PI" start="20260225155325 +0000" stop="20260225173617 +0000">
     <title>Robo-Dog</title>
     <desc>Lorsque Poil, le Chien et meilleur ami de Tyler meurt tragiquement, son père, inventeur de génie, crée un nouveau chien pour le remplacer, avec des pouvoirs et des capacités physiques surnaturels afin de protéger toute sa famille.</desc>
@@ -30266,12 +30327,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FR220000105" start="20260225150644 +0000" stop="20260225164855 +0000">
-    <title>L'heure du crime</title>
-    <desc>Une femme de chambre, qui sort depuis peu avec un ancien policier devenu veilleur de nuit, assiste à la mort de son amant lors d'un cambriolage.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_662999596_0_20250223T061458127Z_108_imageprocessorclient-tvplus-linear-6fb5b47f79-jmtht.jpeg" />
+  <programme channel="FR2600001PI" start="20260225223214 +0000" stop="20260226001818 +0000">
+    <title>Les aventures de Gamba</title>
+    <desc>Gamba est un rat courageux avec un goût prononcé pour l'aventure. Un jour, il décide de partir à la découverte de l'océan avec son ami Mathéo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_552195509_0_20250103T024127671Z_68_imageprocessorclient-tvplus-linear-7cd5d896cc-c6snm.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="FR220000105" start="20260225164855 +0000" stop="20260225183530 +0000">
@@ -30305,14 +30366,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_574811546_0_20250113T161532988Z_131_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260225160241 +0000" stop="20260225170638 +0000">
-    <title>La Cinémamecque</title>
-    <desc>La Cinémamecque est une série de courts métrages en stop motion, une histoire du cinéma modelée, animée et analysée et un ciné-club.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277518_1_20231228T173233330Z_139.jpeg" />
-    <rating>
-      <value>3</value>
     </rating>
   </programme>
   <programme channel="FRBA1000009KO" start="20260225170638 +0000" stop="20260225171215 +0000">
@@ -30515,10 +30568,26 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBA1000009KO" start="20260225221618 +0000" stop="20260225224056 +0000">
+  <programme channel="FRBA1000009KO" start="20260225221618 +0000" stop="20260225224057 +0000">
     <title>Miaou miaou fourrure</title>
     <desc>Un village, l'été. Alice, la soixantaine, fête son anniversaire avec ses deux enfants, Stéphane et Joséphine, qui s'entendent comme chien et chat. Soucieuse de les réunifier, Alice choisit de disparaître. A sa manière, radicale.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_486587201_0_20231130T173236990Z_18.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225224057 +0000" stop="20260225225756 +0000">
+    <title>Le club</title>
+    <desc>Maryse, 75 ans, découvre l'existence du didgeridoo lors d'une activité de groupe de sa maison de retraite animée par un certain Charlie. Emoustillée par cette rencontre, elle entraîne sa copine octogénaire Fabienne dans sa quête de vibrations.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_493655972_0_20240528T173330578Z_101.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225225756 +0000" stop="20260225231655 +0000">
+    <title>Accouchement sonique</title>
+    <desc>Suite à un accident, Serge tombe dans le coma. Une équipe de chercheurs va tenter de stimuler sa mémoire afin de le ramener à la conscience. Serge va alors être confronté à une sorte de rêve lucide, au cours duquel il devra finalement choisir entre la vie et la mort.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_486587192_0_20231130T173225798Z_123.jpeg" />
     <rating>
       <value>3</value>
     </rating>
@@ -30554,11 +30623,6 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme>
-  <programme channel="FRBA2200010VN" start="20260225143543 +0000" stop="20260225162050 +0000">
-    <title>The Wedding Rule</title>
-    <desc />
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
   </programme>
   <programme channel="FRBA2200010VN" start="20260225162050 +0000" stop="20260225180559 +0000">
     <title>L'amour en cuisine</title>
@@ -30606,12 +30670,12 @@
     <desc>Weldon Parish, célèbre écrivain, s'est retiré depuis 20 ans en Toscane. Une maison d'édition londonienne envoie un jeune agent lui faire signer un contrat. C'est sans compter sur Isabella, fille du romancier, dont il tombe amoureux, oubliant sa mission...</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1641854570_0_20260221T012854967Z_1_imageprocessorclient-tvplus-linear-85d7d49859-9bnxw.jpeg" />
   </programme>
-  <programme channel="FR2600003OZ" start="20260225152057 +0000" stop="20260225170741 +0000">
-    <title>Comment séduire une amie</title>
-    <desc>Un scénariste de film qui travaille sur le script d'une comédie romantique peine à y arriver alors qu'il ne peut lui-même entretenir une relation amoureuse. Il finit cependant par rencontrer la fille parfaite? jusqu'à ce qu'il réalise qu'elle est déjà fiancée.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1170308856_0_20250904T033749113Z_33_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.png" />
+  <programme channel="FRAJ3800002W5" start="20260225222514 +0000" stop="20260226001514 +0000">
+    <title>Lenigme</title>
+    <desc>Holly Teller se rend à Riddle, à la recherche de son frère. Lorsqu'elle semble tenir une piste la menant à enquêter sur un hôpital abandonné, elle rencontre les foudres des habitants et de leur shérif.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1642892379_0_20260221T084625156Z_1_imageprocessorclient-tvplus-linear-85d7d49859-5kvkj.jpeg" />
     <rating>
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme channel="FR2600003OZ" start="20260225170741 +0000" stop="20260225184017 +0000">
@@ -30646,14 +30710,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FRBB340000115" start="20260225143557 +0000" stop="20260225162350 +0000">
-    <title>Suspicion</title>
-    <desc>Catherine rencontre Nick, un veuf, qu'elle épouse et avec qui elle emménage. Des choses étranges commencent à lui arriver dans son appartement. Est-elle en train de l'imaginer ou...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496703879_28_20240626T122616314Z_79.jpeg" />
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme>
   <programme channel="FRBB340000115" start="20260225162350 +0000" stop="20260225181029 +0000">
     <title>Il était un Mariage</title>
     <desc>Une semaine avant son mariage, une femme blesse un homme dans un accident de voiture. Alors qu'elle prend soin de lui pour le remettre sur pied, elle commence à douter du chemin que prend sa vie. Son père, un dictateur puissant, n'est pas du tout ravi de ce changement de programme.</desc>
@@ -30686,14 +30742,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRBB50000016B" start="20260225151500 +0000" stop="20260225170000 +0000">
-    <title>5 Weddings</title>
-    <desc>Une journaliste écrivant sur des mariages punjabi tombe amoureuse de son officier de liaison, qui tente de censurer son histoire au milieu d'un coloré mélange de danseurs trans et de chocs culturels.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_533065953_0_20241225T001741762Z_20_imageprocessorclient-tvplus-linear-retry-7b756c86ff-cszh5.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FRBB50000016B" start="20260225170000 +0000" stop="20260225183000 +0000">
     <title>The Cake Eaters: Absolution in Love</title>
     <desc>Deux familles se retrouvent à l'occasion du retour de l'un des fils. Mais ces retrouvailles vont faire réapparaître de vieux fantômes...</desc>
@@ -30714,6 +30762,22 @@
     <title>Elle: La Cendrillon des temps modernes</title>
     <desc>Il était une fois, Elle rêvait de devenir une chanteuse célèbre, mais maintenant elle vit à Los Angeles en faisant un stage dans une maison de disques. Un jour, elle rencontre son prince charmant pop, mais un petit problème surgit : les divas de la maison de disques feront tout pour empêcher son succès. Avec l'aide de ses amis, Elle prouve que les rêves se réalisent et que le "heureux pour toujours" n'est qu'à une chanson de distance.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_843858261_0_20250430T003319649Z_119_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB50000016B" start="20260225223000 +0000" stop="20260225230000 +0000">
+    <title>The New Captain Scarlet</title>
+    <desc>The New Captain Scarlet - Épisode 13: Situé en 2068, Captain Scarlet suit la "guerre psychologique" entre la Terre et les Mysterons, une race martienne qui possède un contrôle partiel sur la matière. Lorsqu'un malentendu pousse des astronautes humains à attaquer leur ville sur Mars, les Mysterons jurent de se venger et lancent une série de représailles contre la Terre.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_598631224_1_20250125T001753987Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-9srmr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB50000016B" start="20260225230000 +0000" stop="20260226003000 +0000">
+    <title>War of the Dead</title>
+    <desc>Des chercheurs nazis inventent un virus pour transformer leurs prisonniers en zombies.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489744105_8_20240328T004156713Z_92.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -30748,14 +30812,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1375056782_0_20251125T054617240Z_23_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
     <rating>
       <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="FRBD19000095S" start="20260225145305 +0000" stop="20260225162140 +0000">
-    <title>Les couleurs du désert</title>
-    <desc>Deux hommes trouvent un bébé abandonné et se disputent la propriété de l'enfant, ce qui entraîne une rivalité à vie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496705648_12_20240626T122614560Z_113.jpeg" />
-    <rating>
-      <value>3</value>
     </rating>
   </programme>
   <programme channel="FRBD19000095S" start="20260225162140 +0000" stop="20260225180625 +0000">
@@ -30862,14 +30918,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR3700003N4" start="20260225144500 +0000" stop="20260225170000 +0000">
-    <title>Tracks</title>
-    <desc>Une jeune femme parcourt 3200 kilomètres à travers le désert d'Australie occidentale avec quatre chameaux et son fidèle chien.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1460645241_1_20251222T031955085Z_1_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FR3700003N4" start="20260225170000 +0000" stop="20260225191500 +0000">
     <title>Rommel, le stratège du 3ème Reich</title>
     <desc>L'histoire des sept derniers mois de la vie du maréchal allemand Erwin Rommel.</desc>
@@ -30894,10 +30942,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR3700001AG" start="20260225150000 +0000" stop="20260225170000 +0000">
-    <title>Dark Web: Cicada 3301</title>
-    <desc>Connor, un jeune pirate informatique, son meilleur ami Avi et une bibliothécaire rusée se retrouvent obligés de participer à un jeu de recrutement mondial de la société secrète du Dark Web.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1577836857_0_20260126T213555427Z_1_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
+  <programme channel="FR3700003N4" start="20260225224500 +0000" stop="20260226003000 +0000">
+    <title>All in : La dernière carte</title>
+    <desc>Six étudiants en médecine aux talents uniques unissent leurs ressources pour remporter les World Series of Poker.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1577836871_0_20260126T213555429Z_32_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -30925,6 +30973,50 @@
     <rating>
       <value>NA</value>
     </rating>
+  </programme>
+  <programme channel="FR3700001AG" start="20260225224500 +0000" stop="20260226004500 +0000">
+    <title>The Endless</title>
+    <desc>Deux frères retournent dans la secte qu'ils ont fui des années auparavant pour découvrir que les croyances du groupe sont peut-être plus saines qu'ils ne le pensaient autrefois.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1253710438_0_20251013T113303608Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225164705 +0000" stop="20260225173703 +0000">
+    <title>In Search of Darkness</title>
+    <sub-title>Part III: Episode III</sub-title>
+    <desc>Plongez dans l'horreur des années 80 avec cette conclusion gargantuesque qui s'attaque à l'âge d'or de la VHS et des vidéoclubs, dresse les portraits d'artistes et artisans incontournables et aborde de nombreuses pépites oubliées d'un cinéma imaginatif, sanglant, expérimental, indispensable…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754152027_0_20250328T121940443Z_47_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225173703 +0000" stop="20260225191108 +0000">
+    <title>Chromosome 3</title>
+    <desc>Un psychiatre invente une thérapie révolutionnaire qu'il applique à ses malades, grâce à une substance appelée psychoprotoplasmes. Ces derniers sont en mesure d'extérioriser leurs troubles mentaux à travers des manifestations physiques spontanées, telles des pustules ou des tumeurs qui apparaissent instantanément. Mais il n'a pas prévu les effets secondaires, particulièrement destructeurs, lorsque l'une de ses patientes en vient à donner spontanément naissance à des enfants mutants...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1110440606_0_20250806T024332378Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-lswmc.jpeg" />
+  </programme>
+  <programme channel="FR1800003VF" start="20260225191108 +0000" stop="20260225203540 +0000">
+    <title>In Search of Darkness</title>
+    <sub-title>Part III: Episode IV</sub-title>
+    <desc>Plongez dans l'horreur des années 80 avec cette conclusion gargantuesque qui s'attaque à l'âge d'or de la VHS et des vidéoclubs, dresse les portraits d'artistes et artisans incontournables et aborde de nombreuses pépites oubliées d'un cinéma imaginatif, sanglant, expérimental, indispensable…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754077558_0_20250328T121933726Z_58_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225203540 +0000" stop="20260225221043 +0000">
+    <title>The Belgian Wave</title>
+    <desc>Au début des années 90, le journaliste Marc Varenberg et son caméraman disparaissent dans des circonstances mystérieuses alors qu'ils enquêtent sur la Vague Belge (une série d'observations d'Ovni survenus entre 1989 et 1991). Près de 30 ans plus tard, deux webreporters rouvrent l'enquête pour découvrir ce qui s'est réellement passé.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754120402_0_20250328T121937433Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225221043 +0000" stop="20260226003633 +0000">
+    <title>Terrifier 2</title>
+    <desc>Après avoir été ressuscité par une entité sinistre, Art le Clown revient dans la ville de Miles County où il prend pour cible une adolescente et son jeune frère le soir d'Halloween.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1113523209_0_20250807T124443290Z_31_imageprocessorclient-tvplus-linear-5db7c6bc99-fqt88.png" />
   </programme>
   <programme channel="FR4000002JN" start="20260225161921 +0000" stop="20260225175431 +0000">
     <title>Sharknado 4</title>
@@ -30958,6 +31050,46 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme channel="FR4000002JN" start="20260225230241 +0000" stop="20260226023234 +0000">
+    <title>La Malédiction des profondeurs et Rottweiler</title>
+    <desc>La Malédiction des profondeurs et Rottweiler</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1639682116_0_20260220T062134040Z_1_imageprocessorclient-tvplus-linear-85d7d49859-2fhcp.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225170000 +0000" stop="20260225193000 +0000">
+    <title>South Wind</title>
+    <desc>Peter est un jeune délinquant de Belgrade plein d'ambition, spécialisé dans le vol de voitures. Mais le jour où il se trompe de véhicule, il se met à dos le chef des narcotrafiquants de la ville.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1028141906_0_20250703T143604958Z_114_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225193000 +0000" stop="20260225204500 +0000">
+    <title>Drive Hard</title>
+    <desc>Simon Keller, braqueur, cherche un pilote pour assurer sa fuite lors de son prochain casse. Il réussit a enrôler de force Peter Roberts, ancien champion de F1.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_514105937_0_20241207T002220248Z_142_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225204500 +0000" stop="20260225221500 +0000">
+    <title>Wolfcop</title>
+    <desc>Alors qu'une série d'événements étranges et violents commencent à se produire, un policier alcoolique se rend compte qu'il a été transformé en loup-garou dans le cadre d'un plan plus vaste.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1274077083_0_20251022T174201440Z_70_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225221500 +0000" stop="20260226000000 +0000">
+    <title>Rapid Action</title>
+    <desc>Se reprochant la mort de sa femme, Gao Feng quitte le secteur de la sécurité et mène une vie ordinaire avec son fils. Six ans plus tard, à la suite de l'arrivée de son ancien patron, Gao Feng doit reprendre son ancien métier.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1274047838_0_20251022T214237447Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR3000139Z" start="20260225154840 +0000" stop="20260225173347 +0000">
     <title>Escape Game 2: Gagner n'était que le début</title>
     <desc>Six inconnus se retrouvent involontairement enfermés dans une nouvelle succession d'escape games mortels. Au fur et à mesure des énigmes résolues et des indices découverts, ils se découvrent un point commun qui sera la clé de leur survie : tous ont déjà participé à ce jeu auparavant.</desc>
@@ -30987,14 +31119,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FR2600005LH" start="20260225144903 +0000" stop="20260225164418 +0000">
-    <title>Butcher's Crossing</title>
-    <desc>Un étudiant de l'Ivy League qui a abandonné ses études se rend dans les régions sauvages du Colorado, où il rejoint une équipe de chasseurs de bisons pour un voyage qui met sa vie et sa santé mentale en péril.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1388770775_0_20251129T054028833Z_141_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
   <programme channel="FR2600005LH" start="20260225164418 +0000" stop="20260225185956 +0000">
     <title>Michael Clayton</title>
     <desc>Avocat dans l'un des plus grands cabinets juridiques de New York, Michael Clayton découvre que une multinationale est prête à faire des millions de victimes pour s'enrichir, il ne peut plus échapper au choix qui s'impose à lui : étouffer la vérité ou la faire éclater, au péril de sa vie...</desc>
@@ -31015,6 +31139,14 @@
     <title>L'Assassinat de Kenneth Chamberlain</title>
     <desc>L'assassinat de Kenneth Chamberlain raconte l'histoire vraie des dernières heures de la vie de Kenneth Chamberlain Sr., un vétéran afro-américain âgé atteint de trouble bipolaire.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1381799644_0_20251127T043718945Z_85_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.png" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260225222422 +0000" stop="20260226002411 +0000">
+    <title>Personal Effects</title>
+    <desc>Walter, un jeune lutteur professionnel, a perdu sa soeur jumelle, sauvagement violée et battue à mort. Pour assister au procès de l'assassin présumé et réconforter sa mère et sa nièce, il revient dans sa ville natale où il trouve un travail comme homme à tout faire dans un restaurant fast-food.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1489522668_0_20251229T065520896Z_1_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -31051,15 +31183,15 @@
       <value>16</value>
     </rating>
   </programme>
-<programme channel="FRBD41000051L" start="20260225161315 +0000" stop="20260225163904 +0000">
-    <title>L'apparition de l'armure d'Odin</title>
-    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+  <programme channel="FR2600002X9" start="20260225225422 +0000" stop="20260226004349 +0000">
+    <title>The cash collector 2</title>
+    <desc>Après avoir réchappé de peu à Barbosa, un caïd de la mafia, French et Sue reprennent du service à Las Vegas, où ils doivent récupérer l'argent dû à leur patron par un directeur de casino malhonnête.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_502655067_0_20240822T053039285Z_85_imageprocessorclient-tvplus-linear-64ff86dd75-hkjbp.jpeg" />
     <rating>
-      <value>4</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme channel="FRBD41000051L" start="20260225163904 +0000" stop="20260225171254 +0000">
+<programme channel="FRBD41000051L" start="20260225163904 +0000" stop="20260225171254 +0000">
     <title>Difficultés techniques</title>
     <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_1614569857_0_20260210T164024909Z_59_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.jpeg" />
@@ -31119,10 +31251,18 @@
       <value>4</value>
     </rating>
   </programme>
-  <programme channel="FR2900001UF" start="20260225160936 +0000" stop="20260225170439 +0000">
-    <title>Orgueil et Préjugés Épisode 5</title>
-    <desc>Darcy est ravi de présent Elizabeth à sa sœur, Georgiana.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422563_0_20250604T152424863Z_129_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
+  <programme channel="FRBD41000051L" start="20260225222746 +0000" stop="20260225225335 +0000">
+    <title>Une prière éternelle pour Athéna</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487132790_0_20231222T153918373Z_92.png" />
+    <rating>
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD41000051L" start="20260225225335 +0000" stop="20260225232338 +0000">
+    <title>Submarine Super 99</title>
+    <desc>est la chaine des fans d'Anime made in Japan.  Séries cultes, nouveautés, shonen, shojo ou seinen, retrouvez le meilleur de l'Anime sur Wasabi</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_487179327_0_20231224T144505018Z_91.jpeg" />
   </programme>
   <programme channel="FR2900001UF" start="20260225170439 +0000" stop="20260225180311 +0000">
     <title>Orgueil et Préjugés Épisode 6</title>
@@ -31154,17 +31294,10 @@
     <desc>Darcy est ravi de présent Elizabeth à sa sœur, Georgiana.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422563_0_20250604T152424863Z_129_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
   </programme>
-  <programme channel="FR3000082K" start="20260225155427 +0000" stop="20260225162023 +0000">
-    <title>The Goldbergs S6E3</title>
-    <sub-title>Rad!</sub-title>
-    <desc>Après que Lainey et Barry ont dépensé les économies qu'ils ont reçus de Pops, Barry se tourne vers son père pour des leçons de frugalité. Beverly essaie de nouer des liens mère-fille avec Erica dans un bar à karaoké.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108114355_0_20250804T223707703Z_129_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
-  </programme>
-  <programme channel="FR3000082K" start="20260225162023 +0000" stop="20260225164622 +0000">
-    <title>The Goldbergs S6E4</title>
-    <sub-title>Hersheypark</sub-title>
-    <desc>Adam découvre que Beverly l'a manipulé. Après être allé à la soirée Carrières, Geoff se rend compte qu'il ne veut pas être ophtalmologue comme son père.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108203353_0_20250804T223707703Z_32_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
+  <programme channel="FR2900001UF" start="20260225230307 +0000" stop="20260226000139 +0000">
+    <title>Orgueil et Préjugés Épisode 6</title>
+    <desc>Jane et Bingley sont réunis, mais l'avenir de Darcy et Lizzie est usurpé par un visiteur.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_947422563_0_20250604T152424863Z_129_imageprocessorclient-tvplus-linear-6fb5b47f79-74rn7.jpeg" />
   </programme>
   <programme channel="FR3000082K" start="20260225164622 +0000" stop="20260225171251 +0000">
     <title>The Goldbergs S6E5</title>
@@ -31244,14 +31377,17 @@
     <desc>Les fiançailles de Barry et Lainey distraient leurs parents, et Erica en profite pour organiser une fête pour les 16 ans d'Adam.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108125210_0_20250804T223707702Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
   </programme>
-  <programme channel="FR2600009UG" start="20260225155619 +0000" stop="20260225170337 +0000">
-    <title>The Fall</title>
-    <sub-title>S3:E1 Silence et souffrance</sub-title>
-    <desc>S3:E1 Silence et souffrance - Spector est pris en charge aux urgences. Il subit ensuite une lourde intervention qui se passe bien, et quelques heures plus tard, finit par ouvrir les yeux. Burns défend Gibson auprès de Franks afin que l'affaire ne lui soit pas retirée.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1593397861_0_20260202T061129016Z_62_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
+  <programme channel="FR3000082K" start="20260225223832 +0000" stop="20260225230431 +0000">
+    <title>The Goldbergs S6E2</title>
+    <sub-title>You Got Zuko'd</sub-title>
+    <desc>Adam se réinvente en rockeur punk pour impressionner Jackie. Barry aimerait que Lainey apprennent à cuisiner avec Beverly.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108125211_0_20250804T223715976Z_120_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
+  </programme>
+  <programme channel="FR3000082K" start="20260225230431 +0000" stop="20260225233027 +0000">
+    <title>The Goldbergs S6E3</title>
+    <sub-title>Rad!</sub-title>
+    <desc>Après que Lainey et Barry ont dépensé les économies qu'ils ont reçus de Pops, Barry se tourne vers son père pour des leçons de frugalité. Beverly essaie de nouer des liens mère-fille avec Erica dans un bar à karaoké.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108114355_0_20250804T223707703Z_129_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
   </programme>
   <programme channel="FR2600009UG" start="20260225170337 +0000" stop="20260225181052 +0000">
     <title>The Fall</title>
@@ -31298,10 +31434,55 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR1400003Y0" start="20260225150000 +0000" stop="20260225170000 +0000">
-    <title>Le direct BFM2</title>
-    <desc>Le direct BFM2</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1118717637_0_20250810T023853968Z_101_imageprocessorclient-tvplus-linear-5db7c6bc99-cpflf.jpeg" />
+  <programme channel="FRBD4800001P4" start="20260225162339 +0000" stop="20260225172410 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Japon</sub-title>
+    <desc>Antoine de Maximy a décidé de parcourir la planète avec l'idée d'aller dormir chez l'habitant. Comme à son habitude, il porte sur lui plusieurs caméras qui filment ses rencontres en temps réel. Bien qu'il ne parle pas japonais et qu'il n'ait jamais mis les pieds au "pays du soleil levant", il débarque sans aucune préparation à Tokyo pour découvrir comment vivent les Japonais. Bien évidemment, il compte sur l'hospitalité des locaux pour mener à bien son périple. Mais au Japon, il n'est pas d'usage d'accueillir ses amis chez soi, et encore moins les étrangers. La partie s´annonce difficile pour le globe-trotteur. Il faudra beaucoup d'énergie et de diplomatie à Antoine pour entrer dans l'intimité des habitants. Mais le Japon est aussi connu pour être le pays de la technologie, alors le choc des cultures et la barrière des langues ajoutées à la détermination optimiste d'Antoine de Maximy, provoque bien des situations cocasses...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496774116_0_20240627T055515505Z_81.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225172410 +0000" stop="20260225182216 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Nouvelle-Zélande</sub-title>
+    <desc>Le baroudeur et sa mythique chemise rouge débarquent en Nouvelle-Zélande. Après quelques tentatives, il s´attire la sympathie d´un couple qui l´invite chaleureusement et lui raconte la culture autour du tatouage. Comme à son habitude, Antoine veut rencontrer des habitants authentiques loin de l´agitation touristique. Direction l'Ile du Sud. Pour finir son périple Antoine se rend dans une région où vivent les Maoris. Il erre dans une petite ville déserte avant de tomber sur Nikora qui l'invite pour une interview à la radio locale. Dans cette ambiance détendue et conviviale, le globe-trotter rencontre les vrais habitants du coin. La nuit sera longue et festive au milieu de chants bien arrosés. Décidemment, le véritable sens de l´accueil se trouve n´importe où, aux quatre coins de la planète !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1386638801_0_20251128T130920745Z_29_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225182216 +0000" stop="20260225192247 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Argentine</sub-title>
+    <desc>Pour cette nouvelle destination Antoine débarque en Argentine. Il commence son voyage à Buenos Aires. Il découvre très rapidement la convivialité des argentins, en quelques minutes il se fait inviter chez un avocat dans un quartier chic de la capitale, une rencontre surprenante. Il continue sa route vers Ushuaia tout au sud de la Patagonie. Le centre-ville est très touristique et ressemble étrangement à Chamonix... Antoine préfère quitter la ville pour se rendre à Puerto Almanza, un hameau de quelques maisons situé au bord du canal de Beagle. Il y règne une atmosphère de bout du monde. Puis il décide de remonter aux chutes d'Igauzu, à la frontière du Brésil et de l'Uruguay. Changement radical de climat. Là-bas, il veut rencontrer les Indiens Guaranis, une communauté qui vit à l´écart de la ville de Puerto Iguazu. Ils n'ont pas les meilleurs rapports avec les occidentaux. La tâche s´annonce difficile pour Antoine...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496931180_0_20240628T202605484Z_137.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225192247 +0000" stop="20260225204939 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title> : MALI</sub-title>
+    <desc>Toujours équipé de ses minuscules caméras, Antoine de Maximy se rend au Vanuatu, un archipel situé près de la Nouvelle-Calédonie, dans l'Océan Pacifique. En 2004, le tourisme n'était pas ce qu'il est aujourd'hui et aller seul dans certaines îles éloignées du Vanuatu était audacieux. Plus il s'enfonçait dans le pays, plus les rencontres étaient surprenantes. Pendant son voyage, il a été menacé par des hommes armés de machettes parce qu'il n'avait pas respecté les usages. Plus tard, dans un village reculé, les hommes vivaient encore nus avec seulement un étui pénien. Il s'y pratique encore le saut du Gol, une cérémonie spectaculaire au cours de laquelle les hommes se jettent dans le vide du haut d'une tour de 25 mètres (huit étages). Dans cet épisode, Antoine de Maximy revient sur les origines de cette histoire en racontant l'envers du décor de l'un de ses premiers voyages, agrémenté des séquences exclusives dans « L'intégrale J'irai dormir chez vous : Vanuatu ».</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496827042_0_20240627T193627234Z_156.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225204939 +0000" stop="20260225215017 +0000">
+    <title>J'irai dormir chez vous</title>
+    <sub-title>: Namibie</sub-title>
+    <desc>Antoine commence son voyage à San Francisco. Il découvre avec surprise des gens complètement nus dans le quartier de Castro. Puis il croise plusieurs membres de la communauté des "Soeurs de la perpétuelle indulgence". Leur tenue vestimentaire et leur maquillage sont étonnants. Elles militent contre l'homophobie, le sida et la culpabilité. Puis Antoine se procure un "Trike", une splendide Harley Davidson à trois roues et file vers le nord. Sur la route, une sculpture attire son attention. Il remonte ensuite jusqu'à la ville d'Eureka. Malgré le mois de juin, ici c'est l'hiver à cause des courants glacés qui descendent d'Alaska. Il passe un moment avec un groupe de sans-abris en lutte pour une hypothétique révolution et apprend qu'en Californie, on peut légalement consommer de la marijuana à des fins thérapeutiques. Plus au sud, à la recherche des vignerons californiens, il fait la connaissance de Kurt et de ses amis qui l'invitent spontanément chez eux et le gardent pour la nuit. Le voyageur termine son road-trip à San Francisco pour à la célèbre Gay Pride. Une grande fête déjantée dans un pays où on ne peut paradoxalement pas boire de bière dans la rue.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496729537_0_20240626T173231933Z_72.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBD4800001P4" start="20260225215017 +0000" stop="20260225233158 +0000">
+    <title>J'Irai Dormir Chez Vous : Oman</title>
+    <desc>Pour ce nouvel épisode inédit, Antoine de Maximy parcourt le sultanat d'Oman. Ce pays situé sur la péninsule arabique s'ouvre progressivement au tourisme et au reste du monde. Les traditions ont gardé toute leur force. Ici, toutes les femmes sont voilées de noir et les hommes sont en blanc. Et la partie sera dure, puisqu'on n'invite jamais un étranger chez soi. Antoine commence son voyage par la ville touristique de Nizwa. Cela démarre plutôt bien. Les hommes comme les femmes sont faciles d'accès. Mais personne ne l'accueille. Il part ensuite dans le désert, à Haima, où il est chaleureusement hébergé par une famille, mais uniquement dans les pièces de réception. Puis il se rend à Salalah près du Yémen où il lui impossible d'établir un contact avec les femmes. Il arrive ensuite dans un village de pêcheurs. Il est bien accueilli mais dormira dans l'hôtel de l'un d'eux. Il termine son voyage à Mascate où il rencontre Mutasim. Ce jeune artiste fantasque se fait photographier tenant une pendule en laisse dans le souk de Matrah. Il l'accueille une petite heure chez lui. C'est la seule fois où le globe-squatteur entrera dans la maison d'un Omanais. Comme à la fin de chaque Spéciale, Antoine raconte les coulisses de son voyage. Au programme, le marché aux bestiaux de Nizwa, le beau parcours d'un homme qui ne sait pas quand il est né, et les villes "far-ouest" du désert omanais.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1167789135_0_20250902T225442304Z_64_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -31378,6 +31559,14 @@
       <value>16</value>
     </rating>
   </programme>
+  <programme channel="FR2600007CB" start="20260225222008 +0000" stop="20260225235851 +0000">
+    <title>Le 51e État</title>
+    <desc>Un éminent chimiste américain projette de réaliser un gros coup grâce à une occasion unique impliquant un trafic de drogue. Tout ne se passe pas comme prévu et il se trouve bientôt embarqué dans un monde d'escrocs.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1578461053_0_20260127T053126449Z_107_imageprocessorclient-tvplus-linear-85d7d49859-scbk2.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="FR2600001PI" start="20260225155325 +0000" stop="20260225173617 +0000">
     <title>Robo-Dog</title>
     <desc>Lorsque Poil, le Chien et meilleur ami de Tyler meurt tragiquement, son père, inventeur de génie, crée un nouveau chien pour le remplacer, avec des pouvoirs et des capacités physiques surnaturels afin de protéger toute sa famille.</desc>
@@ -31410,12 +31599,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FR220000105" start="20260225150644 +0000" stop="20260225164855 +0000">
-    <title>L'heure du crime</title>
-    <desc>Une femme de chambre, qui sort depuis peu avec un ancien policier devenu veilleur de nuit, assiste à la mort de son amant lors d'un cambriolage.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_662999596_0_20250223T061458127Z_108_imageprocessorclient-tvplus-linear-6fb5b47f79-jmtht.jpeg" />
+  <programme channel="FR2600001PI" start="20260225223214 +0000" stop="20260226001818 +0000">
+    <title>Les aventures de Gamba</title>
+    <desc>Gamba est un rat courageux avec un goût prononcé pour l'aventure. Un jour, il décide de partir à la découverte de l'océan avec son ami Mathéo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_552195509_0_20250103T024127671Z_68_imageprocessorclient-tvplus-linear-7cd5d896cc-c6snm.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="FR220000105" start="20260225164855 +0000" stop="20260225183530 +0000">
@@ -31449,14 +31638,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_574811546_0_20250113T161532988Z_131_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260225160241 +0000" stop="20260225170638 +0000">
-    <title>La Cinémamecque</title>
-    <desc>La Cinémamecque est une série de courts métrages en stop motion, une histoire du cinéma modelée, animée et analysée et un ciné-club.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277518_1_20231228T173233330Z_139.jpeg" />
-    <rating>
-      <value>3</value>
     </rating>
   </programme>
   <programme channel="FRBA1000009KO" start="20260225170638 +0000" stop="20260225171215 +0000">
@@ -31659,10 +31840,26 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBA1000009KO" start="20260225221618 +0000" stop="20260225224056 +0000">
+  <programme channel="FRBA1000009KO" start="20260225221618 +0000" stop="20260225224057 +0000">
     <title>Miaou miaou fourrure</title>
     <desc>Un village, l'été. Alice, la soixantaine, fête son anniversaire avec ses deux enfants, Stéphane et Joséphine, qui s'entendent comme chien et chat. Soucieuse de les réunifier, Alice choisit de disparaître. A sa manière, radicale.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_486587201_0_20231130T173236990Z_18.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225224057 +0000" stop="20260225225756 +0000">
+    <title>Le club</title>
+    <desc>Maryse, 75 ans, découvre l'existence du didgeridoo lors d'une activité de groupe de sa maison de retraite animée par un certain Charlie. Emoustillée par cette rencontre, elle entraîne sa copine octogénaire Fabienne dans sa quête de vibrations.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_493655972_0_20240528T173330578Z_101.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225225756 +0000" stop="20260225231655 +0000">
+    <title>Accouchement sonique</title>
+    <desc>Suite à un accident, Serge tombe dans le coma. Une équipe de chercheurs va tenter de stimuler sa mémoire afin de le ramener à la conscience. Serge va alors être confronté à une sorte de rêve lucide, au cours duquel il devra finalement choisir entre la vie et la mort.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_486587192_0_20231130T173225798Z_123.jpeg" />
     <rating>
       <value>3</value>
     </rating>
@@ -31698,11 +31895,6 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme>
-  <programme channel="FRBA2200010VN" start="20260225143543 +0000" stop="20260225162050 +0000">
-    <title>The Wedding Rule</title>
-    <desc />
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
   </programme>
   <programme channel="FRBA2200010VN" start="20260225162050 +0000" stop="20260225180559 +0000">
     <title>L'amour en cuisine</title>
@@ -31750,12 +31942,12 @@
     <desc>Weldon Parish, célèbre écrivain, s'est retiré depuis 20 ans en Toscane. Une maison d'édition londonienne envoie un jeune agent lui faire signer un contrat. C'est sans compter sur Isabella, fille du romancier, dont il tombe amoureux, oubliant sa mission...</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1641854570_0_20260221T012854967Z_1_imageprocessorclient-tvplus-linear-85d7d49859-9bnxw.jpeg" />
   </programme>
-  <programme channel="FR2600003OZ" start="20260225152057 +0000" stop="20260225170741 +0000">
-    <title>Comment séduire une amie</title>
-    <desc>Un scénariste de film qui travaille sur le script d'une comédie romantique peine à y arriver alors qu'il ne peut lui-même entretenir une relation amoureuse. Il finit cependant par rencontrer la fille parfaite? jusqu'à ce qu'il réalise qu'elle est déjà fiancée.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1170308856_0_20250904T033749113Z_33_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.png" />
+  <programme channel="FRAJ3800002W5" start="20260225222514 +0000" stop="20260226001514 +0000">
+    <title>Lenigme</title>
+    <desc>Holly Teller se rend à Riddle, à la recherche de son frère. Lorsqu'elle semble tenir une piste la menant à enquêter sur un hôpital abandonné, elle rencontre les foudres des habitants et de leur shérif.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1642892379_0_20260221T084625156Z_1_imageprocessorclient-tvplus-linear-85d7d49859-5kvkj.jpeg" />
     <rating>
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme channel="FR2600003OZ" start="20260225170741 +0000" stop="20260225184017 +0000">
@@ -31790,14 +31982,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FRBB340000115" start="20260225143557 +0000" stop="20260225162350 +0000">
-    <title>Suspicion</title>
-    <desc>Catherine rencontre Nick, un veuf, qu'elle épouse et avec qui elle emménage. Des choses étranges commencent à lui arriver dans son appartement. Est-elle en train de l'imaginer ou...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496703879_28_20240626T122616314Z_79.jpeg" />
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme>
   <programme channel="FRBB340000115" start="20260225162350 +0000" stop="20260225181029 +0000">
     <title>Il était un Mariage</title>
     <desc>Une semaine avant son mariage, une femme blesse un homme dans un accident de voiture. Alors qu'elle prend soin de lui pour le remettre sur pied, elle commence à douter du chemin que prend sa vie. Son père, un dictateur puissant, n'est pas du tout ravi de ce changement de programme.</desc>
@@ -31830,14 +32014,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FRBB50000016B" start="20260225151500 +0000" stop="20260225170000 +0000">
-    <title>5 Weddings</title>
-    <desc>Une journaliste écrivant sur des mariages punjabi tombe amoureuse de son officier de liaison, qui tente de censurer son histoire au milieu d'un coloré mélange de danseurs trans et de chocs culturels.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_533065953_0_20241225T001741762Z_20_imageprocessorclient-tvplus-linear-retry-7b756c86ff-cszh5.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FRBB50000016B" start="20260225170000 +0000" stop="20260225183000 +0000">
     <title>The Cake Eaters: Absolution in Love</title>
     <desc>Deux familles se retrouvent à l'occasion du retour de l'un des fils. Mais ces retrouvailles vont faire réapparaître de vieux fantômes...</desc>
@@ -31858,6 +32034,22 @@
     <title>Elle: La Cendrillon des temps modernes</title>
     <desc>Il était une fois, Elle rêvait de devenir une chanteuse célèbre, mais maintenant elle vit à Los Angeles en faisant un stage dans une maison de disques. Un jour, elle rencontre son prince charmant pop, mais un petit problème surgit : les divas de la maison de disques feront tout pour empêcher son succès. Avec l'aide de ses amis, Elle prouve que les rêves se réalisent et que le "heureux pour toujours" n'est qu'à une chanson de distance.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_843858261_0_20250430T003319649Z_119_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB50000016B" start="20260225223000 +0000" stop="20260225230000 +0000">
+    <title>The New Captain Scarlet</title>
+    <desc>The New Captain Scarlet - Épisode 13: Situé en 2068, Captain Scarlet suit la "guerre psychologique" entre la Terre et les Mysterons, une race martienne qui possède un contrôle partiel sur la matière. Lorsqu'un malentendu pousse des astronautes humains à attaquer leur ville sur Mars, les Mysterons jurent de se venger et lancent une série de représailles contre la Terre.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_598631224_1_20250125T001753987Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-9srmr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FRBB50000016B" start="20260225230000 +0000" stop="20260226003000 +0000">
+    <title>War of the Dead</title>
+    <desc>Des chercheurs nazis inventent un virus pour transformer leurs prisonniers en zombies.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489744105_8_20240328T004156713Z_92.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -31892,14 +32084,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1375056782_0_20251125T054617240Z_23_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
     <rating>
       <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="FRBD19000095S" start="20260225145305 +0000" stop="20260225162140 +0000">
-    <title>Les couleurs du désert</title>
-    <desc>Deux hommes trouvent un bébé abandonné et se disputent la propriété de l'enfant, ce qui entraîne une rivalité à vie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496705648_12_20240626T122614560Z_113.jpeg" />
-    <rating>
-      <value>3</value>
     </rating>
   </programme>
   <programme channel="FRBD19000095S" start="20260225162140 +0000" stop="20260225180625 +0000">
@@ -32006,14 +32190,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme channel="FR3700003N4" start="20260225144500 +0000" stop="20260225170000 +0000">
-    <title>Tracks</title>
-    <desc>Une jeune femme parcourt 3200 kilomètres à travers le désert d'Australie occidentale avec quatre chameaux et son fidèle chien.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1460645241_1_20251222T031955085Z_1_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="FR3700003N4" start="20260225170000 +0000" stop="20260225191500 +0000">
     <title>Rommel, le stratège du 3ème Reich</title>
     <desc>L'histoire des sept derniers mois de la vie du maréchal allemand Erwin Rommel.</desc>
@@ -32038,10 +32214,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR3700001AG" start="20260225150000 +0000" stop="20260225170000 +0000">
-    <title>Dark Web: Cicada 3301</title>
-    <desc>Connor, un jeune pirate informatique, son meilleur ami Avi et une bibliothécaire rusée se retrouvent obligés de participer à un jeu de recrutement mondial de la société secrète du Dark Web.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1577836857_0_20260126T213555427Z_1_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
+  <programme channel="FR3700003N4" start="20260225224500 +0000" stop="20260226003000 +0000">
+    <title>All in : La dernière carte</title>
+    <desc>Six étudiants en médecine aux talents uniques unissent leurs ressources pour remporter les World Series of Poker.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1577836871_0_20260126T213555429Z_32_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -32069,6 +32245,50 @@
     <rating>
       <value>NA</value>
     </rating>
+  </programme>
+  <programme channel="FR3700001AG" start="20260225224500 +0000" stop="20260226004500 +0000">
+    <title>The Endless</title>
+    <desc>Deux frères retournent dans la secte qu'ils ont fui des années auparavant pour découvrir que les croyances du groupe sont peut-être plus saines qu'ils ne le pensaient autrefois.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1253710438_0_20251013T113303608Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225164705 +0000" stop="20260225173703 +0000">
+    <title>In Search of Darkness</title>
+    <sub-title>Part III: Episode III</sub-title>
+    <desc>Plongez dans l'horreur des années 80 avec cette conclusion gargantuesque qui s'attaque à l'âge d'or de la VHS et des vidéoclubs, dresse les portraits d'artistes et artisans incontournables et aborde de nombreuses pépites oubliées d'un cinéma imaginatif, sanglant, expérimental, indispensable…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754152027_0_20250328T121940443Z_47_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225173703 +0000" stop="20260225191108 +0000">
+    <title>Chromosome 3</title>
+    <desc>Un psychiatre invente une thérapie révolutionnaire qu'il applique à ses malades, grâce à une substance appelée psychoprotoplasmes. Ces derniers sont en mesure d'extérioriser leurs troubles mentaux à travers des manifestations physiques spontanées, telles des pustules ou des tumeurs qui apparaissent instantanément. Mais il n'a pas prévu les effets secondaires, particulièrement destructeurs, lorsque l'une de ses patientes en vient à donner spontanément naissance à des enfants mutants...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1110440606_0_20250806T024332378Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-lswmc.jpeg" />
+  </programme>
+  <programme channel="FR1800003VF" start="20260225191108 +0000" stop="20260225203540 +0000">
+    <title>In Search of Darkness</title>
+    <sub-title>Part III: Episode IV</sub-title>
+    <desc>Plongez dans l'horreur des années 80 avec cette conclusion gargantuesque qui s'attaque à l'âge d'or de la VHS et des vidéoclubs, dresse les portraits d'artistes et artisans incontournables et aborde de nombreuses pépites oubliées d'un cinéma imaginatif, sanglant, expérimental, indispensable…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754077558_0_20250328T121933726Z_58_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225203540 +0000" stop="20260225221043 +0000">
+    <title>The Belgian Wave</title>
+    <desc>Au début des années 90, le journaliste Marc Varenberg et son caméraman disparaissent dans des circonstances mystérieuses alors qu'ils enquêtent sur la Vague Belge (une série d'observations d'Ovni survenus entre 1989 et 1991). Près de 30 ans plus tard, deux webreporters rouvrent l'enquête pour découvrir ce qui s'est réellement passé.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754120402_0_20250328T121937433Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR1800003VF" start="20260225221043 +0000" stop="20260226003633 +0000">
+    <title>Terrifier 2</title>
+    <desc>Après avoir été ressuscité par une entité sinistre, Art le Clown revient dans la ville de Miles County où il prend pour cible une adolescente et son jeune frère le soir d'Halloween.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1113523209_0_20250807T124443290Z_31_imageprocessorclient-tvplus-linear-5db7c6bc99-fqt88.png" />
   </programme>
   <programme channel="FR4000002JN" start="20260225161921 +0000" stop="20260225175431 +0000">
     <title>Sharknado 4</title>
@@ -32102,6 +32322,46 @@
       <value>12</value>
     </rating>
   </programme>
+  <programme channel="FR4000002JN" start="20260225230241 +0000" stop="20260226023234 +0000">
+    <title>La Malédiction des profondeurs et Rottweiler</title>
+    <desc>La Malédiction des profondeurs et Rottweiler</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1639682116_0_20260220T062134040Z_1_imageprocessorclient-tvplus-linear-85d7d49859-2fhcp.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225170000 +0000" stop="20260225193000 +0000">
+    <title>South Wind</title>
+    <desc>Peter est un jeune délinquant de Belgrade plein d'ambition, spécialisé dans le vol de voitures. Mais le jour où il se trompe de véhicule, il se met à dos le chef des narcotrafiquants de la ville.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1028141906_0_20250703T143604958Z_114_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225193000 +0000" stop="20260225204500 +0000">
+    <title>Drive Hard</title>
+    <desc>Simon Keller, braqueur, cherche un pilote pour assurer sa fuite lors de son prochain casse. Il réussit a enrôler de force Peter Roberts, ancien champion de F1.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_514105937_0_20241207T002220248Z_142_imageprocessorclient-tvplus-linear-7cd5d896cc-qtxcr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225204500 +0000" stop="20260225221500 +0000">
+    <title>Wolfcop</title>
+    <desc>Alors qu'une série d'événements étranges et violents commencent à se produire, un policier alcoolique se rend compte qu'il a été transformé en loup-garou dans le cadre d'un plan plus vaste.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1274077083_0_20251022T174201440Z_70_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="FR370000288" start="20260225221500 +0000" stop="20260226000000 +0000">
+    <title>Rapid Action</title>
+    <desc>Se reprochant la mort de sa femme, Gao Feng quitte le secteur de la sécurité et mène une vie ordinaire avec son fils. Six ans plus tard, à la suite de l'arrivée de son ancien patron, Gao Feng doit reprendre son ancien métier.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1274047838_0_20251022T214237447Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR3000139Z" start="20260225154840 +0000" stop="20260225173347 +0000">
     <title>Escape Game 2: Gagner n'était que le début</title>
     <desc>Six inconnus se retrouvent involontairement enfermés dans une nouvelle succession d'escape games mortels. Au fur et à mesure des énigmes résolues et des indices découverts, ils se découvrent un point commun qui sera la clé de leur survie : tous ont déjà participé à ce jeu auparavant.</desc>
@@ -32131,14 +32391,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FR2600005LH" start="20260225144903 +0000" stop="20260225164418 +0000">
-    <title>Butcher's Crossing</title>
-    <desc>Un étudiant de l'Ivy League qui a abandonné ses études se rend dans les régions sauvages du Colorado, où il rejoint une équipe de chasseurs de bisons pour un voyage qui met sa vie et sa santé mentale en péril.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1388770775_0_20251129T054028833Z_141_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
   <programme channel="FR2600005LH" start="20260225164418 +0000" stop="20260225185956 +0000">
     <title>Michael Clayton</title>
     <desc>Avocat dans l'un des plus grands cabinets juridiques de New York, Michael Clayton découvre que une multinationale est prête à faire des millions de victimes pour s'enrichir, il ne peut plus échapper au choix qui s'impose à lui : étouffer la vérité ou la faire éclater, au péril de sa vie...</desc>
@@ -32159,6 +32411,14 @@
     <title>L'Assassinat de Kenneth Chamberlain</title>
     <desc>L'assassinat de Kenneth Chamberlain raconte l'histoire vraie des dernières heures de la vie de Kenneth Chamberlain Sr., un vétéran afro-américain âgé atteint de trouble bipolaire.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1381799644_0_20251127T043718945Z_85_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.png" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260225222422 +0000" stop="20260226002411 +0000">
+    <title>Personal Effects</title>
+    <desc>Walter, un jeune lutteur professionnel, a perdu sa soeur jumelle, sauvagement violée et battue à mort. Pour assister au procès de l'assassin présumé et réconforter sa mère et sa nièce, il revient dans sa ville natale où il trouve un travail comme homme à tout faire dans un restaurant fast-food.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1489522668_0_20251229T065520896Z_1_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -32191,6 +32451,14 @@
     <title>Zero Tolerance</title>
     <desc>Un ancien agent paramilitaire recherche les assassins de sa fille à Bangkok. Il fait un carnage pour se venger et se faire justice.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_535264050_0_20241226T033232063Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-vm4x7.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260225225422 +0000" stop="20260226004349 +0000">
+    <title>The cash collector 2</title>
+    <desc>Après avoir réchappé de peu à Barbosa, un caïd de la mafia, French et Sue reprennent du service à Las Vegas, où ils doivent récupérer l'argent dû à leur patron par un directeur de casino malhonnête.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_502655067_0_20240822T053039285Z_85_imageprocessorclient-tvplus-linear-64ff86dd75-hkjbp.jpeg" />
     <rating>
       <value>16</value>
     </rating>
