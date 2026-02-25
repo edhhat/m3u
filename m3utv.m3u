@@ -7,6 +7,14 @@ https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 https://jmp2.uk/stvp-FR220000105
 #EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_series.png",BBC Series
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2b1e3f4e-134b-4b4d-9fb8-f5de97a0792c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b6fa99c2-bcbf-4a51-a55d-95e7ada32084&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_drama.png",BBC Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4d5655b4-4e19-49a2-ba89-0b1046b7d468
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_tv_(576p).png",BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_tv.png",BFM TV
+https://jmp2.uk/stvp-FRBD410000783
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_tv.png",998 BFMTV
+https://live-cdn-bfmtv-lg-fr-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=BFMTV_all-LG_smartTV-Live&ads.devicemodel=[DEVICE_MODEL]&content_id=bfmtv_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm.png",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 2 (1080p)
@@ -43,7 +51,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=61451d44-26d9-45c2-adfc-fd67cf2b33ad
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_sci-fi_pluto.png",Ciné Sci-Fi by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=439b9b95-37fe-4f98-b577-7c3ad9ebf03e
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers_pluto.png",Ciné Thrillers by Pluto TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers.png",Ciné Thrillers by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western_pluto.png",Ciné Western by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
@@ -87,6 +95,12 @@ https://jmp2.uk/stvp-FR1800003VF
 https://jmp2.uk/stvp-FR4000002JN
 #EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony One Hits Action (1080p)
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="FR3000125U" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_séries__thriller.png",Sony One Séries Thriller
+https://jmp2.uk/stvp-FR3000125U
+#EXTINF:-1 tvg-id="FR3000082K" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_séries___comédie.png",Sony One Séries Comédie
+https://jmp2.uk/stvp-FR3000082K
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_favoris_.png",Sony One Favoris (1080p)
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_comedie.png",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/the_asylum.png",The Asylum
