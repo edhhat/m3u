@@ -11,8 +11,6 @@ http://69.64.57.208/france2/mono.m3u8
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNews (1080p) [Geo-blocked]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_action.png",Box Office Action
-https://jmp2.uk/stvp-FR370000288
 #EXTINF:-1 tvg-id="FR3700003N4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_drama.png",Box Office Drama
 https://jmp2.uk/stvp-FR3700003N4
 #EXTINF:-1 tvg-id="FR3700001AG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_thriller.png",Box Office Thriller
@@ -43,8 +41,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western_pluto.png",Ciné Western by Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
-#EXTINF:-1 tvg-id="FRBD4800001P4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/dormir_chez_vous.png",J'irai dormir chez vous
-https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
 https://jmp2.uk/stvp-FRBB340000115
 #EXTINF:-1 tvg-id="LaUne.be@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/la_une.png",La Une (1080p)
@@ -71,8 +67,6 @@ https://jmp2.uk/stvp-FR4100001D0
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/runtime.png",Runtime
 https://jmp2.uk/stvp-FRBB50000016B
-#EXTINF:-1 tvg-id="FR1800003VF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shadowz.png",Shadowz
-https://jmp2.uk/stvp-FR1800003VF
 #EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shark.png",Shark TV
 https://jmp2.uk/stvp-FR4000002JN
 #EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony One Hits Action (1080p)
