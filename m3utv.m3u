@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_tv.png",BFM TV
+#EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BFM TV.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/lci.png",LCI
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
