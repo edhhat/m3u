@@ -79,23 +79,23 @@ https://jmp2.uk/stvp-FRBD5100003TP
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-id="FR4600001FK" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_sci-fi.png",Rakuten Sci-Fi
 https://jmp2.uk/stvp-FR4100001D0
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_thriller.png",Rakuten Thriller
+#EXTINF:-1 tvg-id="FR2600009UG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_thriller.png",Rakuten Thriller
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_drames.png",Rakuten Drames
+#EXTINF:-1 tvg-id="FR2600005LH" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_drames.png",Rakuten Drames
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_action.png",Rakuten Action
+#EXTINF:-1 tvg-id="FR2600002X9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_action.png",Rakuten Action
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_comédie.png",Rakuten Comédie
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_famille.png",Rakuten Famille
+#EXTINF:-1 tvg-id="FR2600001PI" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_famille.png",Rakuten Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_romance.png",Rakuten Romance
+#EXTINF:-1 tvg-id="FR2600003OZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_romance.png",Rakuten Romance
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony Hits Action
+#EXTINF:-1 tvg-id="FR3000139Z" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony Hits Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="FR3000125U" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_séries_thriller.png",Sony Séries Thriller
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_comédie.png",Sony Hits Comédie
+#EXTINF:-1 tvg-id="FR3000082K" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_comédie.png",Sony Hits Comédie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="66e1978babec540008ce41ac" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_horreur.png",Ciné Horreur
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e1978babec540008ce41ac/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6429b2eb-5c9c-49a3-95b5-18d5d888bf44
@@ -145,9 +145,9 @@ https://jmp2.uk/stvp-FR220000105
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2b1e3f4e-134b-4b4d-9fb8-f5de97a0792c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b6fa99c2-bcbf-4a51-a55d-95e7ada32084&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_drama.png",BBC Drama
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4d5655b4-4e19-49a2-ba89-0b1046b7d468
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_favoris.png",Sony Favoris
+#EXTINF:-1 tvg-id="FR300011G9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_favoris.png",Sony Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_blacklist.png",Sony Blacklist
+#EXTINF:-1 tvg-id="FR300010HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_blacklist.png",Sony Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/mytime_movie_network.png",MyTime Movie Network
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
@@ -189,7 +189,7 @@ https://cdnapisec.kaltura.com/p/6234172/playManifest/entryId/1_tk6zpgcs/protocol
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/brefcinéma.png",Brefcinéma
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/popcorn_tv.png",PopCorn TV
+#EXTINF:-1 tvg-id="FRBD4100002R7" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/popcorn_tv.png",PopCorn TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13923&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_fr&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-id="FRBD4100010ZZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tech_&_co.png",Tech & Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
