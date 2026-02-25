@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/100%_docs.png",100% Docs Crime
+https://jmp2.uk/stvp-FRBD39000064E
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bref_cinéma_100%_court_métrage.png",Bref Cinéma 100% Court Métrage
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/action_totale.png",Action Totale
 https://jmp2.uk/stvp-FR220000105
 #EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_series.png",BBC Series
