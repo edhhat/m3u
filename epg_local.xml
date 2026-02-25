@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator="EPG-Multi-Alias-v2"><channel id="France2.fr">
+<tv generator="EPG-External-Alias-v2"><channel id="France2.fr">
     <display-name>France 2</display-name>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~606394a5b095653a.png/480x480/quality/100/france-2.png" />
   </channel>
@@ -18491,10 +18491,6 @@
     <display-name>Brefcinema</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20241106T142654SQUARE.png" />
   </channel>
-  <channel id="FRBB39000020C">
-    <display-name>Ciné Nanar</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250902T003655SQUARE.png" />
-  </channel>
   <channel id="FRBA2200010VN">
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200010VN_20260127T040227SQUARE.png" />
@@ -18530,10 +18526,6 @@
   <channel id="FR370000288">
     <display-name>Box Office Action</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260113T032400SQUARE.png" />
-  </channel>
-  <channel id="FR3000139Z">
-    <display-name>Sony One Action HITS</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20260224T030949SQUARE.png" />
   </channel>
   <channel id="FR2600002X9">
     <display-name>Films d'action - Rakuten TV</display-name>
@@ -18882,38 +18874,6 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBB39000020C" start="20260225141938 +0000" stop="20260225160553 +0000">
-    <title>Dernières Heures de la Terre</title>
-    <desc>Après que de la matière dense provenant d'un trou blanc implosé ait frappé la Terre, la rotation de la planète est dévastée. Un groupe d'agents gouvernementaux doit retrouver un réseau de satellites perdu, seul espoir de survie pour l'humanité.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1332510532_0_20251114T001415913Z_91_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme channel="FRBB39000020C" start="20260225160553 +0000" stop="20260225180458 +0000">
-    <title>Héritage</title>
-    <desc>Lors d'un voyage de chasse dans la région sauvage isolée, un père et son fils adolescent adoptif sont transformés en proies d'agresseurs inconnus. Ils sont rejoints dans leur lutte pour la survie par un étranger qui révèle la troublante vérité sur le père biologique du fils, un seigneur du crime international, et pourquoi ce seigneur du crime a envoyé des assassins entraînés pour tuer l'adolescent.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501783902_0_20240812T233328985Z_49_imageprocessorclient-tvplus-linear-64ff86dd75-6htsd.jpeg" />
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme channel="FRBB39000020C" start="20260225180458 +0000" stop="20260225195840 +0000">
-    <title>Killshot</title>
-    <desc>Une femme et son mari ouvrier sont au mauvais endroit, au mauvais moment. Ils sont témoins d'une extorsion complotée par deux criminels. Témoins gênants, ils deviennent des cibles vivantes pour ces deux tueurs.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_496702945_0_20240626T122613777Z_113.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="FRBB39000020C" start="20260225195840 +0000" stop="20260225214240 +0000">
-    <title>Honneur Extrême</title>
-    <desc>Un Navy Seal hautement décoré est contraint de sortir de sa retraite pour sauver la vie de son fils et rendre justice à l'homme qui a détruit sa carrière.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1430962276_1_20251212T031508697Z_37_imageprocessorclient-tvplus-linear-85d7d49859-2hv8g.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
   <programme channel="FRBA2200010VN" start="20260225143543 +0000" stop="20260225162050 +0000">
     <title>The Wedding Rule</title>
     <desc />
@@ -19211,35 +19171,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1274077083_0_20251022T174201440Z_70_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="FR3000139Z" start="20260225135200 +0000" stop="20260225154840 +0000">
-    <title>Escape Game</title>
-    <desc>Dans ESCAPE GAME, le nouveau film d'Adam Robitel (INSIDIOUS : LA DERNIERE CLE), six personnes n'ayant rien en commun se retrouvent enfermées dans un jeu et devront trouver les indices ou mourir.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1269838253_0_20251020T201032127Z_132_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="FR3000139Z" start="20260225154840 +0000" stop="20260225173347 +0000">
-    <title>Escape Game 2: Gagner n'était que le début</title>
-    <desc>Six inconnus se retrouvent involontairement enfermés dans une nouvelle succession d'escape games mortels. Au fur et à mesure des énigmes résolues et des indices découverts, ils se découvrent un point commun qui sera la clé de leur survie : tous ont déjà participé à ce jeu auparavant.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1269764967_0_20251020T201031681Z_25_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
-  </programme>
-  <programme channel="FR3000139Z" start="20260225173347 +0000" stop="20260225193903 +0000">
-    <title>Sex Crimes</title>
-    <desc>Sam Lombardo est enseignant sportif sur le campus de la petite communauté de Blue Bay en floride. Les étudiantes ne sont pas insensibles à son charme. Un jour l'une d'entre elles, Kelly, l'accuse de l'avoir violée. Quand tout n'est qu'une gigantesque manipulation...</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_869552522_4_20250508T222118716Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-9rknc.png" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="FR3000139Z" start="20260225193903 +0000" stop="20260225213109 +0000">
-    <title>Sexcrimes 2</title>
-    <desc>Rester proche de ses amis et encore plus proche de ses ennemis n'a jamais été plus important… ou plus dangereux. Les filles de Blue Bay sont de retour, plus farouches que jamais dans cette suite sexy du thriller érotique Wild Things où personne n'est innocent et rien n'est ce qu'il semble être.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_869517451_2_20250508T222118316Z_97_imageprocessorclient-tvplus-linear-6fb5b47f79-ns9sr.jpeg" />
-    <rating>
-      <value>12</value>
     </rating>
   </programme>
   <programme channel="FR2600002X9" start="20260225135447 +0000" stop="20260225154908 +0000">
