@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator="EPG-External-Alias-v2"><channel id="France2.fr">
+<tv generator="EPG-Helper-v2"><channel id="France2.fr">
     <display-name>France 2</display-name>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~606394a5b095653a.png/480x480/quality/100/france-2.png" />
   </channel>
@@ -18585,6 +18585,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FRBD4800001P4" start="20260225215017 +0000" stop="20260225233158 +0000">
+    <title>J'Irai Dormir Chez Vous : Oman</title>
+    <desc>Pour ce nouvel épisode inédit, Antoine de Maximy parcourt le sultanat d'Oman. Ce pays situé sur la péninsule arabique s'ouvre progressivement au tourisme et au reste du monde. Les traditions ont gardé toute leur force. Ici, toutes les femmes sont voilées de noir et les hommes sont en blanc. Et la partie sera dure, puisqu'on n'invite jamais un étranger chez soi. Antoine commence son voyage par la ville touristique de Nizwa. Cela démarre plutôt bien. Les hommes comme les femmes sont faciles d'accès. Mais personne ne l'accueille. Il part ensuite dans le désert, à Haima, où il est chaleureusement hébergé par une famille, mais uniquement dans les pièces de réception. Puis il se rend à Salalah près du Yémen où il lui impossible d'établir un contact avec les femmes. Il arrive ensuite dans un village de pêcheurs. Il est bien accueilli mais dormira dans l'hôtel de l'un d'eux. Il termine son voyage à Mascate où il rencontre Mutasim. Ce jeune artiste fantasque se fait photographier tenant une pendule en laisse dans le souk de Matrah. Il l'accueille une petite heure chez lui. C'est la seule fois où le globe-squatteur entrera dans la maison d'un Omanais. Comme à la fin de chaque Spéciale, Antoine raconte les coulisses de son voyage. Au programme, le marché aux bestiaux de Nizwa, le beau parcours d'un homme qui ne sait pas quand il est né, et les villes "far-ouest" du désert omanais.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1167789135_0_20250902T225442304Z_64_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR1400003Y0" start="20260225150000 +0000" stop="20260225170000 +0000">
     <title>Le direct BFM2</title>
     <desc>Le direct BFM2</desc>
@@ -18633,6 +18641,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FR1400003Y0" start="20260225213000 +0000" stop="20260226033000 +0000">
+    <title>La nuit BFM2</title>
+    <desc>La nuit BFM2</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1118717637_0_20250810T023853968Z_101_imageprocessorclient-tvplus-linear-5db7c6bc99-cpflf.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="FR220000105" start="20260225150644 +0000" stop="20260225164855 +0000">
     <title>L'heure du crime</title>
     <desc>Une femme de chambre, qui sort depuis peu avec un ancien policier devenu veilleur de nuit, assiste à la mort de son amant lors d'un cambriolage.</desc>
@@ -18666,36 +18682,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FRBA1000009KO" start="20260225145849 +0000" stop="20260225152636 +0000">
-    <title>Plaine orientale</title>
-    <desc>C'est le printemps. Dans la Plaine Orientale Corse, la récolte des fruits bat son plein. De nombreux travailleurs venus de loin y trouvent un emploi pour la saison. Mathilde, une jeune cueilleuse de pomelos, évolue entre les deux équipes de son patron. D'un côté, des Européens, de l'autre, des Maghrébins.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277510_1_20231228T173233331Z_119.jpeg" />
+  <programme channel="FR220000105" start="20260225213509 +0000" stop="20260225233720 +0000">
+    <title>A Better Tomorrow</title>
+    <desc>Kai dirige une opération de contrebande, tandis que son frère Chao, étoile montante de la police, décide de s'éloigner de lui après la mort de leur père causée par un deal de drogue qui a mal tourné.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_574811546_0_20250113T161532988Z_131_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.jpeg" />
     <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260225152636 +0000" stop="20260225153645 +0000">
-    <title>Truth or Consequences</title>
-    <desc>Truth or Consequences est une ville du Nouveau-Mexique. Ronan Guillou en a fait une étape de ses investigations photographiques américaines. En mêlant photos, son et textes il nous propose ici un portrait sensible de la ville et de ses habitants.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277511_0_20231228T173233356Z_72.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260225153645 +0000" stop="20260225154124 +0000">
-    <title>Du vent dans les épaules</title>
-    <desc>Si vous dîtes à votre médecin “j'ai un peu de vent dans les épaules”, il va vous regarder de travers... Mais pour un chinois, c'est absolument évident !</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277514_0_20231228T173239455Z_99.jpeg" />
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="FRBA1000009KO" start="20260225154124 +0000" stop="20260225160241 +0000">
-    <title>Gamin</title>
-    <desc>Un gamin, Paulo, bricole sa voiture, une Peugeot 205 toit ouvrant, aidé par ses potes, pour aller retrouver son père, un père pas vu, plus vu depuis des années. Un père qu'il n'en peut plus d'espérer.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_485614280_0_20231028T174139002Z_109.jpeg" />
-    <rating>
-      <value>3</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FRBA1000009KO" start="20260225160241 +0000" stop="20260225170638 +0000">
@@ -18866,10 +18858,50 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBA1000009KO" start="20260225210604 +0000" stop="20260225212020 +0000">
+  <programme channel="FRBA1000009KO" start="20260225210604 +0000" stop="20260225212021 +0000">
     <title>Grand Hôtel Barbès</title>
     <desc>Paris, quartier de la Goutte d'or, printemps 2018. Ulysse, 20 ans, misérable et désœuvré, rencontre au détour d'une rue Wolfgang Amadeus Mozart. Le compositeur autrichien pourrait lui sauver la mise… en échange d'une danse.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_488131059_0_20240130T174557675Z_154.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225212021 +0000" stop="20260225213632 +0000">
+    <title>Benidorm</title>
+    <desc>Dans une station balnéaire vivent une jeune mère et sa fille. L'une vit la nuit, l'autre le jour. Elles ne se croisent jamais et le seul lien qui leur permet de maintenir un semblant de vie commune est un talkie-walkie.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_488131124_0_20240130T174553088Z_52.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225213632 +0000" stop="20260225214640 +0000">
+    <title>Truth or Consequences</title>
+    <desc>Truth or Consequences est une ville du Nouveau-Mexique. Ronan Guillou en a fait une étape de ses investigations photographiques américaines. En mêlant photos, son et textes il nous propose ici un portrait sensible de la ville et de ses habitants.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_487277511_0_20231228T173233356Z_72.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225214640 +0000" stop="20260225221051 +0000">
+    <title>L'Amour du risque</title>
+    <desc>Lila est coach love. Elle anime un séminaire sur l'amour et la séduction pour jeunes hommes en grande souffrance au Bois de Boulogne. Mais un jour, voilà qu'elle voit débarquer son ex.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_488130971_0_20240130T174553087Z_1.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225221051 +0000" stop="20260225221618 +0000">
+    <title>Boobzilla change de pneus</title>
+    <desc>Leyomi Bum Bum, ancienne championne de tuning, filme le tutoriel de son dernier projet: Boobzilla.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_488130899_0_20240130T174557875Z_80.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme channel="FRBA1000009KO" start="20260225221618 +0000" stop="20260225224056 +0000">
+    <title>Miaou miaou fourrure</title>
+    <desc>Un village, l'été. Alice, la soixantaine, fête son anniversaire avec ses deux enfants, Stéphane et Joséphine, qui s'entendent comme chien et chat. Soucieuse de les réunifier, Alice choisit de disparaître. A sa manière, radicale.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352137A_486587201_0_20231130T173236990Z_18.jpeg" />
     <rating>
       <value>3</value>
     </rating>
@@ -18892,6 +18924,11 @@
   <programme channel="FRBA2200010VN" start="20260225194534 +0000" stop="20260225212550 +0000">
     <title>Dans l'enfer de la captivité</title>
     <desc>Mai 1977, Janice et Cameron prennent une auto-stoppeuse nommée Colleen dans leur voiture et la kidnappent,</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
+  </programme>
+  <programme channel="FRBA2200010VN" start="20260225212550 +0000" stop="20260225231504 +0000">
+    <title>The Love Advisor</title>
+    <desc />
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
   </programme>
   <programme channel="FRBB340000115" start="20260225143557 +0000" stop="20260225162350 +0000">
@@ -18926,12 +18963,12 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="FRBB50000016B" start="20260225133000 +0000" stop="20260225151500 +0000">
-    <title>Elle: La Cendrillon des temps modernes</title>
-    <desc>Il était une fois, Elle rêvait de devenir une chanteuse célèbre, mais maintenant elle vit à Los Angeles en faisant un stage dans une maison de disques. Un jour, elle rencontre son prince charmant pop, mais un petit problème surgit : les divas de la maison de disques feront tout pour empêcher son succès. Avec l'aide de ses amis, Elle prouve que les rêves se réalisent et que le "heureux pour toujours" n'est qu'à une chanson de distance.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_843858261_0_20250430T003319649Z_119_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
+  <programme channel="FRBB340000115" start="20260225215801 +0000" stop="20260225235629 +0000">
+    <title>The Other Me</title>
+    <desc>Un architecte est atteint d'une maladie oculaire qui l'introduit dans une réalité surréaliste dans laquelle il voit les motivations des gens. Les visions devenant intolérables, il tombe amoureux d'une femme mystérieuse.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_508571504_0_20241017T234427357Z_81_imageprocessorclient-tvplus-linear-7cd5d896cc-w48lf.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="FRBB50000016B" start="20260225151500 +0000" stop="20260225170000 +0000">
@@ -18966,14 +19003,6 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR26000068C" start="20260225142704 +0000" stop="20260225160913 +0000">
-    <title>Little Manhattan</title>
-    <desc>Dans une ville connue pour son effervescence, deux jeunes amis sont sur le point de se lancer dans la plus grande des aventures. Gabe et Rosemary se connaissent depuis presque toujours, mais lorsqu'ils se retrouvent face à face lors d'un cours de karaté, ils se voient sous un jour nouveau.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_503061907_0_20240826T094221425Z_47_imageprocessorclient-tvplus-linear-64ff86dd75-p882x.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
-  </programme>
   <programme channel="FR26000068C" start="20260225160913 +0000" stop="20260225174955 +0000">
     <title>Braqueurs Amateurs</title>
     <desc>Dick Harper vient de recevoir une grande promotion : il est nommé vice-président de la communication du groupe Globodyne. Forte de cette bonne nouvelle, son épouse, Jane, démissionne pour ne plus s'occuper que de leur fils et de leur belle maison.</desc>
@@ -18994,6 +19023,14 @@
     <title>Black/White</title>
     <desc>Theresa ramène son fiancé Simon Green à la maison, pour le 25e anniversaire de mariage de ses parents, mais elle a oublié de mentionner un détail : il est blanc. Bien déterminé à mettre fin aux fiançailles de sa fille, Percy Jones va prouver qu'un père n'a pas toujours raison.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_931275633_0_20250530T014512348Z_31_imageprocessorclient-tvplus-linear-6fb5b47f79-vgkcp.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR26000068C" start="20260225212348 +0000" stop="20260225232026 +0000">
+    <title>La femme du dimanche</title>
+    <desc>Un architecte est mystérieusement assassiné à Turin. L'enquête amène le commissaire Santamaria à orienter ses soupçons sur certains membres de la haute société, et en particulier sur Anna, épouse d'un grand industriel, et son confident, un médecin.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1375056782_0_20251125T054617240Z_23_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -19054,12 +19091,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR1800003VF" start="20260225133844 +0000" stop="20260225151026 +0000">
-    <title>Spit'n'Split</title>
-    <desc>Une tournée de rock band, c'est des fans prêtes à tomber le tanga pour un autographe, des brouettes de coke et des pluies de billets. Les membres de ce groupe de rock aimeraient confirmer ce mythe. Sauf qu'eux, ce sont des longs trajets dans un van pourri, de l'aspirine et des bars vides.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_754120397_0_20250328T121940432Z_81_imageprocessorclient-tvplus-linear-6fb5b47f79-btpzm.jpeg" />
+  <programme channel="FR3700001AG" start="20260225211500 +0000" stop="20260225224500 +0000">
+    <title>Deep Fear</title>
+    <desc>Des trafiquants de drogue frappés par une tempête obligent une navigatrice à récupérer leur cachette de cocaïne engloutie dans des eaux infestées de requins.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1248999541_0_20251010T173945932Z_96_imageprocessorclient-tvplus-linear-5db7c6bc99-p9nvg.jpeg" />
     <rating>
-      <value>12</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FR1800003VF" start="20260225151026 +0000" stop="20260225164705 +0000">
@@ -19101,13 +19138,10 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="FR4000002JN" start="20260225145007 +0000" stop="20260225161921 +0000">
-    <title>Meg Rising 2</title>
-    <desc>De nouveaux requins titanesques et leurs progénitures reviennent à la charge.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1639686546_0_20260220T062134040Z_100_imageprocessorclient-tvplus-linear-85d7d49859-2fhcp.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
+  <programme channel="FR1800003VF" start="20260225221043 +0000" stop="20260226003633 +0000">
+    <title>Terrifier 2</title>
+    <desc>Après avoir été ressuscité par une entité sinistre, Art le Clown revient dans la ville de Miles County où il prend pour cible une adolescente et son jeune frère le soir d'Halloween.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1113523209_0_20250807T124443290Z_31_imageprocessorclient-tvplus-linear-5db7c6bc99-fqt88.png" />
   </programme>
   <programme channel="FR4000002JN" start="20260225161921 +0000" stop="20260225175431 +0000">
     <title>Sharknado 4</title>
@@ -19129,6 +19163,14 @@
     <title>L'ombre de la Loi</title>
     <desc>Un avocat au passé militaire traque le gang qui a tué sa femme et son frère et enlevé sa fille.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1262685068_1_20251017T073440530Z_76_imageprocessorclient-tvplus-linear-5db7c6bc99-d5mt6.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR4000002JN" start="20260225212503 +0000" stop="20260225230241 +0000">
+    <title>Last Man Down</title>
+    <desc>John, un ex-soldat, recueille Maria, traquée pour son sang, et affronte le meurtrier de sa femme.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1605997821_0_20260207T050238260Z_1_imageprocessorclient-tvplus-linear-85d7d49859-bjc9b.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -19173,12 +19215,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="FR2600002X9" start="20260225135447 +0000" stop="20260225154908 +0000">
-    <title>Les Sicarios</title>
-    <desc>Un jeune homme tourmenté fuit au Mexique, où il est recruté pour rejoindre un groupe paramilitaire d'adolescents combattant les cartels de la drogue.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1151397622_0_20250826T050952335Z_91_imageprocessorclient-tvplus-linear-5db7c6bc99-cpflf.jpeg" />
+  <programme channel="FR370000288" start="20260225221500 +0000" stop="20260226000000 +0000">
+    <title>Rapid Action</title>
+    <desc>Se reprochant la mort de sa femme, Gao Feng quitte le secteur de la sécurité et mène une vie ordinaire avec son fils. Six ans plus tard, à la suite de l'arrivée de son ancien patron, Gao Feng doit reprendre son ancien métier.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1274047838_0_20251022T214237447Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-8v2f6.jpeg" />
     <rating>
-      <value>16</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="FR2600002X9" start="20260225154908 +0000" stop="20260225174421 +0000">
@@ -19201,6 +19243,14 @@
     <title>Kill the Gringo</title>
     <desc>Un chauffeur de fuite, arrêté au Mexique avec de l'argent volé, est emprisonné à El Pueblito, une prison chaotique dirigée par un gang. Connu sous le nom de « le Gringo », il découvre un complot du chef du crime Javi visant à prélever le foie d'un garçon pour une greffe.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_887171606_0_20250515T023834546Z_55_imageprocessorclient-tvplus-linear-6fb5b47f79-sxjm2.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600002X9" start="20260225211634 +0000" stop="20260225225422 +0000">
+    <title>Zero Tolerance</title>
+    <desc>Un ancien agent paramilitaire recherche les assassins de sa fille à Bangkok. Il fait un carnage pour se venger et se faire justice.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_535264050_0_20241226T033232063Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-vm4x7.jpeg" />
     <rating>
       <value>16</value>
     </rating>
