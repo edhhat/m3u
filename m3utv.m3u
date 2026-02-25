@@ -1,97 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_tv.png",BFM TV (576p)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNews (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNews
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/action_totale.png",Action Totale
+https://jmp2.uk/stvp-FR220000105
+#EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_series.png",BBC Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2b1e3f4e-134b-4b4d-9fb8-f5de97a0792c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b6fa99c2-bcbf-4a51-a55d-95e7ada32084&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm.png",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 2 (1080p)
 http://69.64.57.208/france2/mono.m3u8
 #EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_5.png",France 5 (1080p)
 http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24
-https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (720p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (720p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (576p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (576p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (360p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Arabic (360p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (1080p)
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (1080p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (1080p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (720p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (720p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (576p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (576p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (360p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English (360p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 English
-https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (720p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (720p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (576p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (576p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (360p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 Español (360p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (720p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (720p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (576p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (576p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (360p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 French (360p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 24 FAST English
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_5.png",La maison France 5
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/685a999bd33909bdd7d2fb1e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7f89cdb7-9b62-4853-b9ea-fee6e2a64fa9
-#EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_series.png",BBC Series
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2b1e3f4e-134b-4b4d-9fb8-f5de97a0792c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b6fa99c2-bcbf-4a51-a55d-95e7ada32084&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="685a999bd33909bdd7d2fb1e" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_5.png",La maison France 5
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/685a999bd33909bdd7d2fb1e/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=212843d5-d5d4-4a6b-8567-e4ee69cdb031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=27747752-425a-4e44-abca-3aed7d485d39&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/action_totale.png",Action Totale
-https://jmp2.uk/stvp-FR220000105
-#EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_tv.png",BFM TV
-https://jmp2.uk/stvp-FRBD410000783
-#EXTINF:-1 tvg-id="FR4200001BN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_5.png",La Maison France 5
-https://jmp2.uk/stvp-FR4200001BN
+#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_action.png",Box Office Action
+https://jmp2.uk/stvp-FR370000288
+#EXTINF:-1 tvg-id="FR3700003N4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_drama.png",Box Office Drama
+https://jmp2.uk/stvp-FR3700003N4
+#EXTINF:-1 tvg-id="FR3700001AG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_thriller.png",Box Office Thriller
+https://jmp2.uk/stvp-FR3700001AG
+#EXTINF:-1 tvg-id="FRBA1000009KO" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/brefcinema.png",Brefcinema
+https://jmp2.uk/stvp-FRBA1000009KO
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_666.png",Ciné 666 by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6823648580b2665220d9e69a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=229026c1-2945-4593-b471-f64a0e8a5f20
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_action_pluto.png",Ciné Action by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bcebf8f3-d9a7-44e7-aa81-3233790bff43
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_by_pluto_tv.png",Ciné by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=255097f6-d153-441c-b338-08760336877c
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_catastrophe_pluto.png",Ciné Catastrophe by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3f52cf3e-f8c9-4cca-8b9e-885d48d663fe
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_d'asie_pluto.png",Ciné d'Asie by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=84f8db47-cbf7-4d1b-b423-023f2fcf89a9
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_horreur_pluto.png",Ciné Horreur by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e1978babec540008ce41ac/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6429b2eb-5c9c-49a3-95b5-18d5d888bf44
+#EXTINF:-1 tvg-id="CineNanar.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_nanar.png",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_rétro_pluto.png",Ciné Rétro by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96645b90-30f3-4cb2-9b85-4159e2359ce0
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_romance_pluto.png",Ciné Romance by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=61451d44-26d9-45c2-adfc-fd67cf2b33ad
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_sci-fi_pluto.png",Ciné Sci-Fi by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=439b9b95-37fe-4f98-b577-7c3ad9ebf03e
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers_pluto.png",Ciné Thrillers by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western_pluto.png",Ciné Western by Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
+#EXTINF:-1 tvg-id="FRBD4800001P4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/dormir_chez_vous.png",J'irai dormir chez vous
+https://jmp2.uk/stvp-FRBD4800001P4
+#EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
+https://jmp2.uk/stvp-FRBB340000115
+#EXTINF:-1 tvg-id="LaUne.be@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/la_une.png",La Une (1080p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/mytime_movie_network.png",MyTime Movie Network France (1080p)
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_action.png",Rakuten TV Films Action (720p)
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_comédie.png",Rakuten TV Films Comédie (720p)
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_drames.png",Rakuten TV Films Drames (720p)
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_famille.png",Rakuten TV Films Famille
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_romance.png",Rakuten TV Films Romance (720p)
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_films_thriller.png",Rakuten TV Films Thriller (720p)
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_tv_top_films_france.png",Rakuten TV Top Films France (720p)
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/runtime.png",Runtime
+https://jmp2.uk/stvp-FRBB50000016B
 #EXTINF:-1 tvg-id="FR1800003VF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shadowz.png",Shadowz
 https://jmp2.uk/stvp-FR1800003VF
+#EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/shark.png",Shark TV
+https://jmp2.uk/stvp-FR4000002JN
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_action.png",Sony One Hits Action (1080p)
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/sony_hits_comedie.png",Sony One Hits Comedie (1080p)
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/the_asylum.png",The Asylum
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=551f0638-e4a6-4c23-9add-ffff1e6f3d9a
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/wasabi_anime.png",Wasabi la chaîne anime
+https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/wild_side_tv.png",Wild Side TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e90257df-432a-43f7-8ae2-66ec425f29d9
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/nanar.png",225 Cine Nanar
+https://zylo-cinenanar-lg.amagi.tv/hls/amagi_hls_data_zyloAAAAA-zylo-cinenanar-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/screamin.png",Zylo ScreamIN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/t18.png",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
