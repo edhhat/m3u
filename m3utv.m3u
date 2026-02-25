@@ -73,9 +73,9 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-id="FR4600001FK" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Sci-Fi.png",Rakuten Sci-Fi
 https://jmp2.uk/stvp-FR4100001D0
-#EXTINF:-1 tvg-id="FR2600009UG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_thriller.png",Rakuten Thriller
+#EXTINF:-1 tvg-id="FR2600009UG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Thriller.png",Rakuten Thriller
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 tvg-id="FR2600005LH" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_drames.png",Rakuten Drames
+#EXTINF:-1 tvg-id="FR2600005LH" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Drames.png",Rakuten Drames
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 #EXTINF:-1 tvg-id="FR2600002X9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Action.png",Rakuten Action
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
@@ -105,7 +105,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://jmp2.uk/stvp-FR1800003VF
 #EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Shark.png",Shark
 https://jmp2.uk/stvp-FR4000002JN
-#EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/action_totale.png",Action Totale
+#EXTINF:-1 tvg-id="FR220000105" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Action Totale.png",Action Totale
 https://jmp2.uk/stvp-FR220000105
 #EXTINF:-1 tvg-id="FRBB39000020C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_nanar.png",Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
@@ -121,7 +121,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66f55d0b5e4a6e0008c2b920/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=33cf88ba-1b18-4f98-a412-65d9477e1f62
 #EXTINF:-1 tvg-id="63b578b524f0cf00072f2a52" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ECHAPPEES BELLES.png",ECHAPPEES BELLES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ac38fe35-85a0-45cf-857a-03ebfe7b6d54
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/society_plus.png",SOCIETY PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/SOCIETY PLUS.png",SOCIETY PLUS
 https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
 #EXTINF:-1 tvg-id="FRBC90000220" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/enquêtes_de_choc.png",Enquêtes de Choc
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=cb87f5e6-74e1-438c-92d9-9c3ed3d99f1d
@@ -153,7 +153,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2b1e3f4e-134b-4b4d-9fb8-f5de97a0792c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b6fa99c2-bcbf-4a51-a55d-95e7ada32084&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bbc_drama.png",BBC Drama
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4d5655b4-4e19-49a2-ba89-0b1046b7d468
-#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/mytime_movie_network.png",MyTime Movie Network
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/MyTime Movie Network.png",MyTime Movie Network
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="67b4b2d976a934282e92d71c" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/comédies_cultes.png",Comédies Cultes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67b4b2d976a934282e92d71c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3156e169-4904-4539-a6ea-4789dde086b4
@@ -173,9 +173,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13956&avod=1&coppa=0&td=6&
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_fr&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/lg_1.png",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_fr&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/100_docs.png",100% Docs
+#EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/100% Docs.png",100% Docs
 https://jmp2.uk/stvp-FRBD39000064E
-#EXTINF:-1 tvg-id="FR1800005X0" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tv5monde_info.png",TV5MONDE INFO
+#EXTINF:-1 tvg-id="FR1800005X0" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/TV5MONDE INFO.png",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="FRBD4100001DF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/les_anges.png",Les Anges
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b228d4cd0d3100085d27b7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a05f6367-bc45-4061-a633-2337f407091a
