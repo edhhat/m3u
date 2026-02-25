@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Gemini-EPG-Generator"><channel id="France2.fr">
+<tv generator="EPG-Sync-Pro"><channel id="France2.fr">
     <display-name>France 2</display-name>
     <icon src="https://www.programme-tv.net/imgre/fit/~2~channel~606394a5b095653a.png/480x480/quality/100/france-2.png" />
   </channel>
@@ -18491,6 +18491,10 @@
     <display-name>Brefcinema</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20241106T142654SQUARE.png" />
   </channel>
+  <channel id="FRBA2200010VN">
+    <display-name>MyTime Movie Network</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200010VN_20260127T040227SQUARE.png" />
+  </channel>
   <channel id="FRBB340000115">
     <display-name>Emotion'L</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20251209T004344SQUARE.png" />
@@ -18861,6 +18865,31 @@
     <rating>
       <value>3</value>
     </rating>
+  </programme>
+  <programme channel="FRBA2200010VN" start="20260225125036 +0000" stop="20260225143543 +0000">
+    <title>The Date Whisperer</title>
+    <desc />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
+  </programme>
+  <programme channel="FRBA2200010VN" start="20260225143543 +0000" stop="20260225162050 +0000">
+    <title>The Wedding Rule</title>
+    <desc />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
+  </programme>
+  <programme channel="FRBA2200010VN" start="20260225162050 +0000" stop="20260225180559 +0000">
+    <title>L'amour en cuisine</title>
+    <desc>Une chef parie de redresser le pire restaurant, mais l'amour du propriétaire grincheux est la clé.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
+  </programme>
+  <programme channel="FRBA2200010VN" start="20260225180559 +0000" stop="20260225194534 +0000">
+    <title>Enfants stars, garçons brisée</title>
+    <desc>L'histoire de Corey Feldman et Corey Haim, ado star des années 80, qui ont sombré dans la toxicomanie.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
+  </programme>
+  <programme channel="FRBA2200010VN" start="20260225194534 +0000" stop="20260225212550 +0000">
+    <title>Dans l'enfer de la captivité</title>
+    <desc>Mai 1977, Janice et Cameron prennent une auto-stoppeuse nommée Colleen dans leur voiture et la kidnappent,</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQO570425A_485200835_0_20231012T131943120Z_70.jpeg" />
   </programme>
   <programme channel="FRBB340000115" start="20260225122749 +0000" stop="20260225143557 +0000">
     <title>En Transit</title>
