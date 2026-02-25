@@ -26253,6 +26253,10 @@
     <display-name>Sony One Séries Comédie</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000082K_20260224T031006SQUARE.png" />
   </channel>
+  <channel id="FR2600009UG">
+    <display-name>Crime - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" />
+  </channel>
   <channel id="FRBD4800001P4">
     <display-name>J'irai dormir chez vous</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260224T030937SQUARE.png" />
@@ -26260,6 +26264,14 @@
   <channel id="FR1400003Y0">
     <display-name>BFM 2</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" />
+  </channel>
+  <channel id="FR2600007CB">
+    <display-name>Top Films - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png" />
+  </channel>
+  <channel id="FR2600001PI">
+    <display-name>Famille - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251230T031018SQUARE.png" />
   </channel>
   <channel id="FR220000105">
     <display-name>Action Totale</display-name>
@@ -26272,6 +26284,10 @@
   <channel id="FRAJ3800002W5">
     <display-name>Pluto TV Ciné</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800002W5_20241015T042543SQUARE.png" />
+  </channel>
+  <channel id="FR2600003OZ">
+    <display-name>Films Romantiques - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600003OZ_20250121T012912SQUARE.png" />
   </channel>
   <channel id="FRBB50000016B">
     <display-name>Runtime</display-name>
@@ -26304,6 +26320,10 @@
   <channel id="FR3000139Z">
     <display-name>Sony One Action HITS</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20260224T030949SQUARE.png" />
+  </channel>
+  <channel id="FR2600005LH">
+    <display-name>Drames - Rakuten TV</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20241015T040143SQUARE.png" />
   </channel>
   <channel id="FR2600002X9">
     <display-name>Films d'action - Rakuten TV</display-name>
@@ -26502,6 +26522,60 @@
     <desc>Les fiançailles de Barry et Lainey distraient leurs parents, et Erica en profite pour organiser une fête pour les 16 ans d'Adam.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1108125210_0_20250804T223707702Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
   </programme>
+  <programme channel="FR2600009UG" start="20260225155619 +0000" stop="20260225170337 +0000">
+    <title>The Fall</title>
+    <sub-title>S3:E1 Silence et souffrance</sub-title>
+    <desc>S3:E1 Silence et souffrance - Spector est pris en charge aux urgences. Il subit ensuite une lourde intervention qui se passe bien, et quelques heures plus tard, finit par ouvrir les yeux. Burns défend Gibson auprès de Franks afin que l'affaire ne lui soit pas retirée.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1593397861_0_20260202T061129016Z_62_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600009UG" start="20260225170337 +0000" stop="20260225181052 +0000">
+    <title>The Fall</title>
+    <sub-title>S3:E2 Mémoire trouble</sub-title>
+    <desc>S3:E2 Mémoire trouble - Gibson apprend que le groupe d'intervention change de locaux. Elle est ensuite interrogée par l'Inspection Générale, qui lui fait des reproches quant à sa gestion du dossier. Spector se réveille, mais ne se souvient plus de ces dix dernières années.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1593406683_0_20260202T061129016Z_54_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600009UG" start="20260225181052 +0000" stop="20260225191720 +0000">
+    <title>Bron</title>
+    <sub-title>S3:E8 Épisode 8</sub-title>
+    <desc>S3:E8 Épisode 8 - Saga apprend qu'une enquête interne est en cours contre elle. A-t-elle quelque chose à voir avec la mort de sa mère ? Parallèlement, la police retrouve Emil Larsson sain et sauf. Il a miraculeusement échappé à son ravisseur.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1519754244_0_20260105T090304478Z_42_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600009UG" start="20260225191720 +0000" stop="20260225202341 +0000">
+    <title>Bron</title>
+    <sub-title>S3:E9 Épisode 9</sub-title>
+    <desc>S3:E9 Épisode 9 - Rasmus est chargé de remplacer Saga, écartée de l'enquête par sa hiérarchie. De son côté, Freddie est inquiet pour Jeanette, qui n'a toujours pas donné de nouvelles. Redoutant le pire, il découvre le cadavre de Marc.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1519747319_0_20260105T090304478Z_92_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600009UG" start="20260225202341 +0000" stop="20260225220657 +0000">
+    <title>Une femme d'honneur</title>
+    <sub-title>S7:E1 Femmes d'occasions</sub-title>
+    <desc>S7:E1 Femmes d'occasions - Une femme apparemment sans histoire se fait tuer dans la rue par un mystérieux motard casqué.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_812739293_0_20250419T021438856Z_104_imageprocessorclient-tvplus-linear-6fb5b47f79-ns9sr.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600009UG" start="20260225220657 +0000" stop="20260225234650 +0000">
+    <title>Une femme d'honneur</title>
+    <sub-title>S7:E2 Mortelle cavale</sub-title>
+    <desc>S7:E2 Mortelle cavale - La brigade quadrille la région pour retrouver des prisonniers en cavale et leur otage : une religieuse. Parallèlement, le cadavre d'une jeune femme de 35 ans tuée par balle est retrouvé sur le bord d'une route.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_815351282_0_20250420T014947753Z_125_imageprocessorclient-tvplus-linear-6fb5b47f79-m7gkj.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme channel="FRBD4800001P4" start="20260225143953 +0000" stop="20260225162339 +0000">
     <title>J'irai dormir chez vous</title>
     <sub-title>: Serbie</sub-title>
@@ -26620,6 +26694,62 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="FR2600007CB" start="20260225153124 +0000" stop="20260225174646 +0000">
+    <title>Birdman</title>
+    <desc>L'acteur Riggan Thomson, connu pour avoir incarné un super-héros, monte une pièce à Broadway autour de son propre personnage dans l'espoir de renouer avec sa gloire passée...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_512835512_0_20241126T032100615Z_74_imageprocessorclient-tvplus-linear-7cd5d896cc-kk2zh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600007CB" start="20260225174646 +0000" stop="20260225200224 +0000">
+    <title>Michael Clayton</title>
+    <desc>Avocat dans l'un des plus grands cabinets juridiques de New York, Michael Clayton découvre que une multinationale est prête à faire des millions de victimes pour s'enrichir, il ne peut plus échapper au choix qui s'impose à lui : étouffer la vérité ou la faire éclater, au péril de sa vie...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1385254388_0_20251128T045603250Z_47_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600007CB" start="20260225200224 +0000" stop="20260225222008 +0000">
+    <title>King Rising Au Nom Du Roi</title>
+    <desc>Dans le royaume d'Ehb, un conflit sanglant fait rage entre le roi Konreid et Gallian, puissant sorcier des ombres. Un ancien maître d'armes, qui connait bien les ravages de la guerre, refuse de prendre part au combat. Jusqu'au jour où les créatures maléfique ss'en prennent à sa famille.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_509729373_0_20241029T034629827Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600001PI" start="20260225155325 +0000" stop="20260225173617 +0000">
+    <title>Robo-Dog</title>
+    <desc>Lorsque Poil, le Chien et meilleur ami de Tyler meurt tragiquement, son père, inventeur de génie, crée un nouveau chien pour le remplacer, avec des pouvoirs et des capacités physiques surnaturels afin de protéger toute sa famille.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1581054600_0_20260128T061939990Z_110_imageprocessorclient-tvplus-linear-85d7d49859-mxj4d.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600001PI" start="20260225173617 +0000" stop="20260225191550 +0000">
+    <title>Lino</title>
+    <desc>Lino, mascotte de fêtes pour enfants, déteste son costume de chat et la façon dont il est traité. Il consulte un magicien pour changer de vie, mais un sort tourne mal. À son réveil, il est piégé dans le costume qu'il voulait fuir.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1481262158_0_20251227T085027102Z_107_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600001PI" start="20260225191550 +0000" stop="20260225205104 +0000">
+    <title>Joey &amp; Ella</title>
+    <desc>Lorsque Joey, un bébé kangourou, se retrouve accidentellement mêlé à une affaire de vol de bijoux, elle est séparée de sa mère pour la première fois.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1581050035_0_20260128T061939985Z_133_imageprocessorclient-tvplus-linear-85d7d49859-mxj4d.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600001PI" start="20260225205104 +0000" stop="20260225223214 +0000">
+    <title>A.R.C.H.I.E Chien Robot</title>
+    <desc>Isabel, 15 ans, part s'installer chez son oncle dans une peLte ville des Etats-Unis après la mort de ses parents. Sa vie change le jour où elle rencontre Archie, un chien robot très convoité aux pouvoirs extraordinaires…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_662658594_0_20250223T033844161Z_65_imageprocessorclient-tvplus-linear-6fb5b47f79-82db7.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
   <programme channel="FR220000105" start="20260225150644 +0000" stop="20260225164855 +0000">
     <title>L'heure du crime</title>
     <desc>Une femme de chambre, qui sort depuis peu avec un ancien policier devenu veilleur de nuit, assiste à la mort de son amant lors d'un cambriolage.</desc>
@@ -26718,6 +26848,46 @@
     <title>Coup de foudre en Toscane</title>
     <desc>Weldon Parish, célèbre écrivain, s'est retiré depuis 20 ans en Toscane. Une maison d'édition londonienne envoie un jeune agent lui faire signer un contrat. C'est sans compter sur Isabella, fille du romancier, dont il tombe amoureux, oubliant sa mission...</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQU352135A_1641854570_0_20260221T012854967Z_1_imageprocessorclient-tvplus-linear-85d7d49859-9bnxw.jpeg" />
+  </programme>
+  <programme channel="FR2600003OZ" start="20260225152057 +0000" stop="20260225170741 +0000">
+    <title>Comment séduire une amie</title>
+    <desc>Un scénariste de film qui travaille sur le script d'une comédie romantique peine à y arriver alors qu'il ne peut lui-même entretenir une relation amoureuse. Il finit cependant par rencontrer la fille parfaite? jusqu'à ce qu'il réalise qu'elle est déjà fiancée.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1170308856_0_20250904T033749113Z_33_imageprocessorclient-tvplus-linear-5db7c6bc99-q6tkt.png" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600003OZ" start="20260225170741 +0000" stop="20260225184017 +0000">
+    <title>Un amour au poil</title>
+    <desc>Lors d'une fête pour chiots, Hailey rencontre le père célibataire Ryan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1489519381_0_20251229T065520897Z_90_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600003OZ" start="20260225184017 +0000" stop="20260225201650 +0000">
+    <title>Heart Beat</title>
+    <desc>Faire de la musique signifie tout pour la timide Zoé. Mais depuis que son père est parti, elle n'a jamais pu retoucher sa guitare. Mais avec la rencontre explosive de Mik, un sosie de Justin Bieber, une coopération plus que musicale risque de voir le jour…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1155665946_0_20250828T033846137Z_42_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600003OZ" start="20260225201650 +0000" stop="20260225215258 +0000">
+    <title>Retour vers l'amour</title>
+    <desc>Josie, responsable marketing, rentre chez elle lorsqu'elle devient la tutrice inattendue de sa nièce et de son neveu. Là-bas, elle renoue avec Cooper, son petit ami du lycée.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1481263327_0_20251227T085027099Z_115_imageprocessorclient-tvplus-linear-85d7d49859-5pt4p.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600003OZ" start="20260225215258 +0000" stop="20260226000328 +0000">
+    <title>Le Mytho</title>
+    <desc>Danny est un brillant chirurgien esthétique qui a toujours prétendu être marié pour éviter toute forme d'engagement. Lorsqu'il trouve finalement la femme de ses rêves, il ne joue pas de ce stratagème mais l'alliance qui lui servait d'alibi est découverte.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_512835673_0_20241126T032058615Z_41_imageprocessorclient-tvplus-linear-7cd5d896cc-kk2zh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
   </programme>
   <programme channel="FRBB50000016B" start="20260225151500 +0000" stop="20260225170000 +0000">
     <title>5 Weddings</title>
@@ -26998,6 +27168,38 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1549862261_0_20260115T003223333Z_131_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.jpeg" />
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260225144903 +0000" stop="20260225164418 +0000">
+    <title>Butcher's Crossing</title>
+    <desc>Un étudiant de l'Ivy League qui a abandonné ses études se rend dans les régions sauvages du Colorado, où il rejoint une équipe de chasseurs de bisons pour un voyage qui met sa vie et sa santé mentale en péril.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1388770775_0_20251129T054028833Z_141_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260225164418 +0000" stop="20260225185956 +0000">
+    <title>Michael Clayton</title>
+    <desc>Avocat dans l'un des plus grands cabinets juridiques de New York, Michael Clayton découvre que une multinationale est prête à faire des millions de victimes pour s'enrichir, il ne peut plus échapper au choix qui s'impose à lui : étouffer la vérité ou la faire éclater, au péril de sa vie...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1385254388_0_20251128T045603250Z_47_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260225185956 +0000" stop="20260225205337 +0000">
+    <title>Au nom des femmes</title>
+    <desc>L'histoire vraie de Judy Wood, une avocate qui a changé le droit d'asile américain pour sauver la vie de femmes immigrantes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1019151141_0_20250630T023532664Z_87_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="FR2600005LH" start="20260225205337 +0000" stop="20260225222422 +0000">
+    <title>L'Assassinat de Kenneth Chamberlain</title>
+    <desc>L'assassinat de Kenneth Chamberlain raconte l'histoire vraie des dernières heures de la vie de Kenneth Chamberlain Sr., un vétéran afro-américain âgé atteint de trouble bipolaire.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_DEQY451056A_1381799644_0_20251127T043718945Z_85_imageprocessorclient-tvplus-linear-85d7d49859-pk5q8.png" />
+    <rating>
+      <value>16</value>
     </rating>
   </programme>
   <programme channel="FR2600002X9" start="20260225154908 +0000" stop="20260225174421 +0000">
