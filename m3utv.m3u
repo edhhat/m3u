@@ -173,7 +173,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_vqff78xz/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rti2.png",RTI 2
 https://cdnapisec.kaltura.com/p/6234172/playManifest/entryId/1_tk6zpgcs/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LIFE TV.png",LIFE TV
+#EXTINF:-1 tvg-id="180762" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LIFE TV.png",LIFE TV
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="6245ccd0c6cdb800074632e4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/MacGyver.png",MacGyver
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6245ccd0c6cdb800074632e4/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2ac42258-3a71-4eed-8cdf-6f4eeff4874f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=4750ec62-4d95-4147-9ee2-ab5ca406e839&userId=&serverSideAds=true
