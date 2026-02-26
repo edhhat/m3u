@@ -9,8 +9,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_business.png",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="FR300004J5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_grands_reportages.png",BFM Grands Reportages
-https://jmp2.uk/stvp-FR300004J5
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm2.png",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_info.png",France Info
@@ -23,8 +21,8 @@ https://amg01076-amg01076c19-lg-fr-10330.playouts.now.amagi.tv/ts-eu-w1-n2/playl
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tf1.png",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 2
-http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_2.png",France 2
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_3.png",France 3
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_4.png",France 4
@@ -59,7 +57,7 @@ https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://jmp2.uk/stvp-FR300003ZB
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/j'irai_dormir_chez_vous.png",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
-#EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/la_maison_france_5.png",La Maison France 5
+#EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/maison_&_travaux.png",MAISON & TRAVAUX
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rakuten_top_films.png",Rakuten Top Films
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
@@ -143,8 +141,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=61451d44-26d9-45c2-adfc-fd67cf2b33ad
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_thrillers.png",Ciné Thrillers
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6cd239bb-eca8-497c-82f7-842d16b7ef91
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western.png",Ciné Western
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=37c4a8fb-3b02-4af0-84eb-22a0b3141ab9
+#EXTINF:-1 tvg-id="CineWestern.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ciné_western.png",Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/pluto_tv_comédie.png",Pluto TV Comédie
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=904ee07b-4288-421a-beb9-7054d967c229
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/wild_side_tv.png",Wild Side TV
@@ -166,7 +164,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/pluto_tv_paranormal.png",Pluto TV Paranormal
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d958607a-c051-496e-852b-f94c438cfe4e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/les_anges.png",Les Anges
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b228d4cd0d3100085d27b7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=af957bbe-0438-4805-a305-7c8656f00195&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a05f6367-bc45-4061-a633-2337f407091a
+https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLTVI.be@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rtl-tvi.png",RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/la_une.png",La Une
@@ -197,7 +195,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://jmp2.uk/stvp-FRBD5100003TP
 #EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/100_docs.png",100% Docs
 https://jmp2.uk/stvp-FRBD39000064E
-#EXTINF:-1 tvg-id="FRBD4100010ZZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tech_&_co.png",Tech & Co
-https://jmp2.uk/stvp-FRBD4100010ZZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tech_&_co.png",Tech & Co
+https://live-cdn-technco-lg-main-euw1.bfmb.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=TechCo_all-LG_smartTV-Live&content_id=tech_co_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/wasabi_anime.png",Wasabi Anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
