@@ -810,4 +810,190 @@
   <programme start="20260301053000 +0000" stop="20260301060000 +0000" channel="180076">
     <title lang="fr">Tontou Bataaxal</title>
   </programme>
+  <channel id="180666">
+    <display-name>RTS 2 (180666)</display-name>
+  </channel>
+  <programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="180666">
+    <title lang="fr">Lecture Coran</title>
+  </programme>
+  <programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260226080000 +0000" stop="20260226085500 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260226085500 +0000" stop="20260226090000 +0000" channel="180666">
+    <title lang="fr">Inspiration</title>
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226100000 +0000" channel="180666">
+    <title lang="fr">C'était hier</title>
+  </programme>
+  <programme start="20260226100000 +0000" stop="20260226103000 +0000" channel="180666">
+    <title lang="fr">Diegou Poussou</title>
+  </programme>
+  <programme start="20260226103000 +0000" stop="20260226114500 +0000" channel="180666">
+    <title lang="fr">Rayon de soleil</title>
+  </programme>
+  <programme start="20260226114500 +0000" stop="20260226120000 +0000" channel="180666">
+    <title lang="fr">Inspiration</title>
+  </programme>
+  <programme start="20260226120000 +0000" stop="20260226122500 +0000" channel="180666">
+    <title lang="fr">Midi Mag</title>
+  </programme>
+  <programme start="20260226122500 +0000" stop="20260226123000 +0000" channel="180666">
+    <title lang="fr">Portrait</title>
+  </programme>
+  <programme start="20260226123000 +0000" stop="20260226140000 +0000" channel="180666">
+    <title lang="fr">Bob Marley, les circonstances de sa mort</title>
+  </programme>
+  <programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="180666">
+    <title lang="fr">Concert : hommage à Bob Marley</title>
+  </programme>
+  <programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="180666">
+    <title lang="fr">Focus</title>
+  </programme>
+  <programme start="20260226153000 +0000" stop="20260226163000 +0000" channel="180666">
+    <title lang="fr">Musi'qualité</title>
+  </programme>
+  <programme start="20260226163000 +0000" stop="20260226173000 +0000" channel="180666">
+    <title lang="fr">Alioune Badara Bèye : 50 ans de présence culturelle</title>
+  </programme>
+  <programme start="20260226173000 +0000" stop="20260226183000 +0000" channel="180666">
+    <title lang="fr">Sports Show</title>
+  </programme>
+  <programme start="20260226183000 +0000" stop="20260226190000 +0000" channel="180666">
+    <title lang="fr">Midi Mag</title>
+  </programme>
+  <programme start="20260226190000 +0000" stop="20260226192500 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260226192500 +0000" stop="20260226193000 +0000" channel="180666">
+    <title lang="fr">Clips Reggae</title>
+  </programme>
+  <programme start="20260226193000 +0000" stop="20260226200000 +0000" channel="180666">
+    <title lang="fr">Diegou Poussou</title>
+  </programme>
+  <programme start="20260226200000 +0000" stop="20260226220000 +0000" channel="180666">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="180666">
+    <title lang="fr">Kepaaru Islam</title>
+  </programme>
+  <programme start="20260226230000 +0000" stop="20260227070000 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260227070000 +0000" stop="20260227073000 +0000" channel="180666">
+    <title lang="fr">Lecture Coran</title>
+  </programme>
+  <programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="180666">
+    <title lang="fr">Jotaayu Jourgi</title>
+  </programme>
+  <programme start="20260227100000 +0000" stop="20260227103000 +0000" channel="180666">
+    <title lang="fr">Portrait Anne Marie et clips religieux</title>
+  </programme>
+  <programme start="20260227103000 +0000" stop="20260227114500 +0000" channel="180666">
+    <title lang="fr">Rayon de soleil</title>
+  </programme>
+  <programme start="20260227114500 +0000" stop="20260227120000 +0000" channel="180666">
+    <title lang="fr">Siratoune Nabawyya</title>
+  </programme>
+  <programme start="20260227120000 +0000" stop="20260227123000 +0000" channel="180666">
+    <title lang="fr">Midi Mag</title>
+  </programme>
+  <programme start="20260227123000 +0000" stop="20260227140000 +0000" channel="180666">
+    <title lang="fr">Docs ou Capsules religieux</title>
+  </programme>
+  <programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="180666">
+    <title lang="fr">Saxal Garab</title>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="180666">
+    <title lang="fr">Clips religieux</title>
+  </programme>
+  <programme start="20260227153000 +0000" stop="20260227163000 +0000" channel="180666">
+    <title lang="fr">Kepaaru Islam</title>
+  </programme>
+  <programme start="20260227163000 +0000" stop="20260227173000 +0000" channel="180666">
+    <title lang="fr">Rétro Théâtre : Ibra Italien</title>
+  </programme>
+  <programme start="20260227173000 +0000" stop="20260227183000 +0000" channel="180666">
+    <title lang="fr">Geewu Nabiens</title>
+  </programme>
+  <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="180666">
+    <title lang="fr">Cuisine de Iba</title>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227192500 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260227192500 +0000" stop="20260227193000 +0000" channel="180666">
+    <title lang="fr">Clips religieux</title>
+  </programme>
+  <programme start="20260227193000 +0000" stop="20260227200000 +0000" channel="180666">
+    <title lang="fr">Tool Ci Keur</title>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227230000 +0000" channel="180666">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228070000 +0000" channel="180666">
+    <title lang="fr">Kepaaru Islam</title>
+  </programme>
+  <programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="180666">
+    <title lang="fr">Lecture Coran</title>
+  </programme>
+  <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="180666">
+    <title lang="fr">Chants religieux chrétiens</title>
+  </programme>
+  <programme start="20260228083000 +0000" stop="20260228090000 +0000" channel="180666">
+    <title lang="fr">Globe vert</title>
+  </programme>
+  <programme start="20260228090000 +0000" stop="20260228103000 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260228103000 +0000" stop="20260228114500 +0000" channel="180666">
+    <title lang="fr">Rayon de soleil</title>
+  </programme>
+  <programme start="20260228114500 +0000" stop="20260228120000 +0000" channel="180666">
+    <title lang="fr">La sacoche</title>
+  </programme>
+  <programme start="20260228120000 +0000" stop="20260228123000 +0000" channel="180666">
+    <title lang="fr">Cuisine de Iba</title>
+  </programme>
+  <programme start="20260228123000 +0000" stop="20260228140000 +0000" channel="180666">
+    <title lang="fr">Weltinmo</title>
+  </programme>
+  <programme start="20260228140000 +0000" stop="20260228150000 +0000" channel="180666">
+    <title lang="fr">Carré culture</title>
+  </programme>
+  <programme start="20260228150000 +0000" stop="20260228163000 +0000" channel="180666">
+    <title lang="fr">Digital Connect</title>
+  </programme>
+  <programme start="20260228163000 +0000" stop="20260228173000 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260228173000 +0000" stop="20260228183000 +0000" channel="180666">
+    <title lang="fr">Musi'qualité</title>
+  </programme>
+  <programme start="20260228183000 +0000" stop="20260228193000 +0000" channel="180666">
+    <title lang="fr">Diegou Poussou</title>
+  </programme>
+  <programme start="20260228193000 +0000" stop="20260228200000 +0000" channel="180666">
+    <title lang="fr">Clips</title>
+  </programme>
+  <programme start="20260228200000 +0000" stop="20260228233000 +0000" channel="180666">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260228233000 +0000" stop="20260301001500 +0000" channel="180666">
+    <title lang="fr">Clin d'oeil</title>
+  </programme>
+  <programme start="20260301001500 +0000" stop="20260301070000 +0000" channel="180666">
+    <title lang="fr">Matam Show</title>
+  </programme>
 </tv>
