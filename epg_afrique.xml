@@ -1,2 +1,813 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv />
+<tv>
+  <channel id="180171">
+    <display-name>RTI TV (180171)</display-name>
+  </channel>
+  <programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226120000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226120000 +0000" stop="20260226130000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226190000 +0000" stop="20260226200000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226200000 +0000" stop="20260226210000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226210000 +0000" stop="20260226220000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260227060000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227060000 +0000" stop="20260227090000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227120000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227160000 +0000" stop="20260227170000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227190000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227210000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227220000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227220000 +0000" stop="20260227230000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228000000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260228055500 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260228055500 +0000" stop="20260228060000 +0000" channel="180171">
+    <title lang="fr">Hymme national</title>
+  </programme>
+  <programme start="20260228060000 +0000" stop="20260228062700 +0000" channel="180171">
+    <title lang="fr">Au cœur de notre patrimoine</title>
+  </programme>
+  <programme start="20260228062700 +0000" stop="20260228063000 +0000" channel="180171">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260228063000 +0000" stop="20260228064600 +0000" channel="180171">
+    <title lang="fr">Le journal 06h30</title>
+  </programme>
+  <programme start="20260228064600 +0000" stop="20260228074000 +0000" channel="180171">
+    <title lang="fr">Arrête-découverte</title>
+  </programme>
+  <programme start="20260228074000 +0000" stop="20260228090800 +0000" channel="180171">
+    <title lang="fr">Les Schtroumpfs</title>
+  </programme>
+  <programme start="20260228090800 +0000" stop="20260228100200 +0000" channel="180171">
+    <title lang="fr">Arrête-découverte</title>
+  </programme>
+  <programme start="20260228100200 +0000" stop="20260228103000 +0000" channel="180171">
+    <title lang="fr">RTI</title>
+  </programme>
+  <programme start="20260228103000 +0000" stop="20260228121300 +0000" channel="180171">
+    <title lang="fr">Tempo</title>
+  </programme>
+  <programme start="20260228121300 +0000" stop="20260228122500 +0000" channel="180171">
+    <title lang="fr">Reg'art</title>
+  </programme>
+  <programme start="20260228122500 +0000" stop="20260228125100 +0000" channel="180171">
+    <title lang="fr">Faut pas fâcher</title>
+  </programme>
+  <programme start="20260228125100 +0000" stop="20260228125600 +0000" channel="180171">
+    <title lang="fr">Agenda</title>
+  </programme>
+  <programme start="20260228125600 +0000" stop="20260228130000 +0000" channel="180171">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260228130000 +0000" stop="20260228133100 +0000" channel="180171">
+    <title lang="fr">JT 13H RTI</title>
+  </programme>
+  <programme start="20260228133100 +0000" stop="20260228133700 +0000" channel="180171">
+    <title lang="fr">Agenda</title>
+  </programme>
+  <programme start="20260228133700 +0000" stop="20260228135300 +0000" channel="180171">
+    <title lang="fr">Terre et progrès</title>
+  </programme>
+  <programme start="20260228135300 +0000" stop="20260228140800 +0000" channel="180171">
+    <title lang="fr">RTI</title>
+  </programme>
+  <programme start="20260228140800 +0000" stop="20260228150000 +0000" channel="180171">
+    <title lang="fr">RTI</title>
+  </programme>
+  <programme start="20260228150000 +0000" stop="20260228150500 +0000" channel="180171">
+    <title lang="fr">Flash 15h</title>
+  </programme>
+  <programme start="20260228150500 +0000" stop="20260228150600 +0000" channel="180171">
+    <title lang="fr">RTI pub music</title>
+  </programme>
+  <programme start="20260228150600 +0000" stop="20260228160000 +0000" channel="180171">
+    <title lang="fr">Babywood</title>
+  </programme>
+  <programme start="20260228160000 +0000" stop="20260228165400 +0000" channel="180171">
+    <title lang="fr">Arrête-découverte</title>
+  </programme>
+  <programme start="20260228165400 +0000" stop="20260228172100 +0000" channel="180171">
+    <title lang="fr">Humour</title>
+  </programme>
+  <programme start="20260228172100 +0000" stop="20260228175300 +0000" channel="180171">
+    <title lang="fr">Select Ivoire</title>
+  </programme>
+  <programme start="20260228175300 +0000" stop="20260228182100 +0000" channel="180171">
+    <title lang="fr">RTI</title>
+  </programme>
+  <programme start="20260228182100 +0000" stop="20260228185300 +0000" channel="180171">
+    <title lang="fr">RTI</title>
+  </programme>
+  <programme start="20260228185300 +0000" stop="20260228194700 +0000" channel="180171">
+    <title lang="fr">12 Cas</title>
+  </programme>
+  <programme start="20260228194700 +0000" stop="20260228195500 +0000" channel="180171">
+    <title lang="fr">Agenda</title>
+  </programme>
+  <programme start="20260228195500 +0000" stop="20260228195600 +0000" channel="180171">
+    <title lang="fr">La chaîne qui rassemble</title>
+  </programme>
+  <programme start="20260228195600 +0000" stop="20260228200000 +0000" channel="180171">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260228200000 +0000" stop="20260228204000 +0000" channel="180171">
+    <title lang="fr">JT 20H RTI</title>
+  </programme>
+  <programme start="20260228204000 +0000" stop="20260228204700 +0000" channel="180171">
+    <title lang="fr">Publi reportage</title>
+  </programme>
+  <programme start="20260228204700 +0000" stop="20260228205500 +0000" channel="180171">
+    <title lang="fr">Agenda</title>
+  </programme>
+  <programme start="20260228205500 +0000" stop="20260228224500 +0000" channel="180171">
+    <title lang="fr">Côte Ouest</title>
+  </programme>
+  <programme start="20260228224500 +0000" stop="20260228230000 +0000" channel="180171">
+    <title lang="fr">RTI</title>
+  </programme>
+  <programme start="20260228230000 +0000" stop="20260228233200 +0000" channel="180171">
+    <title lang="fr">JT 23H</title>
+  </programme>
+  <programme start="20260228233200 +0000" stop="20260301010500 +0000" channel="180171">
+    <title lang="fr">Sugar Daddy</title>
+  </programme>
+  <programme start="20260301010500 +0000" stop="20260301013800 +0000" channel="180171">
+    <title lang="fr">Select Ivoire</title>
+  </programme>
+  <programme start="20260301013800 +0000" stop="20260301023600 +0000" channel="180171">
+    <title lang="fr">Emission culte</title>
+  </programme>
+  <programme start="20260301023600 +0000" stop="20260301033200 +0000" channel="180171">
+    <title lang="fr">Pays profond</title>
+  </programme>
+  <programme start="20260301033200 +0000" stop="20260301040000 +0000" channel="180171">
+    <title lang="fr">Faut pas fâcher</title>
+  </programme>
+  <programme start="20260301040000 +0000" stop="20260301044000 +0000" channel="180171">
+    <title lang="fr">JT 20H RTI</title>
+  </programme>
+  <programme start="20260301044000 +0000" stop="20260301044400 +0000" channel="180171">
+    <title lang="fr">Hymme national</title>
+  </programme>
+  <programme start="20260301044400 +0000" stop="20260301055500 +0000" channel="180171">
+    <title lang="fr">Mie</title>
+  </programme>
+  <programme start="20260301055500 +0000" stop="20260301060000 +0000" channel="180171">
+    <title lang="fr">Hymme national</title>
+  </programme>
+  <channel id="180762">
+    <display-name>LIFE TV (180762)</display-name>
+  </channel>
+  <programme start="20260226060000 +0000" stop="20260226080000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260226080000 +0000" stop="20260226090000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226093000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260226093000 +0000" stop="20260226100000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260226100000 +0000" stop="20260226101500 +0000" channel="180762">
+    <title lang="fr">Case Commerciale</title>
+  </programme>
+  <programme start="20260226101500 +0000" stop="20260226113000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260226113000 +0000" stop="20260226124500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260226124500 +0000" stop="20260226130000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="180762">
+    <title lang="fr">Le vrai match</title>
+  </programme>
+  <programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260226153000 +0000" stop="20260226163000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260226163000 +0000" stop="20260226170000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260226170000 +0000" stop="20260226171500 +0000" channel="180762">
+    <title lang="fr">Case Commerciale</title>
+  </programme>
+  <programme start="20260226171500 +0000" stop="20260226183000 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260226183000 +0000" stop="20260226190000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260226190000 +0000" stop="20260226194500 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260226194500 +0000" stop="20260226200000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260226200000 +0000" stop="20260226203000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260226203000 +0000" stop="20260226210000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260226210000 +0000" stop="20260226214500 +0000" channel="180762">
+    <title lang="fr">Petit poteau politique</title>
+  </programme>
+  <programme start="20260226214500 +0000" stop="20260226220000 +0000" channel="180762">
+    <title lang="fr">Programmes Courts</title>
+  </programme>
+  <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="180762">
+    <title lang="fr">Le vrai match</title>
+  </programme>
+  <programme start="20260226230000 +0000" stop="20260227001500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260227001500 +0000" stop="20260227011500 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260227011500 +0000" stop="20260227014500 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260227014500 +0000" stop="20260227024500 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260227024500 +0000" stop="20260227060000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227093000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260227093000 +0000" stop="20260227100000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260227100000 +0000" stop="20260227101500 +0000" channel="180762">
+    <title lang="fr">Case Commerciale</title>
+  </programme>
+  <programme start="20260227101500 +0000" stop="20260227113000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260227113000 +0000" stop="20260227124500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260227124500 +0000" stop="20260227130000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="180762">
+    <title lang="fr">Le vrai match</title>
+  </programme>
+  <programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260227153000 +0000" stop="20260227163000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227171500 +0000" channel="180762">
+    <title lang="fr">Case Commerciale</title>
+  </programme>
+  <programme start="20260227171500 +0000" stop="20260227183000 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227194500 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260227194500 +0000" stop="20260227200000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227203000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260227203000 +0000" stop="20260227210000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227223000 +0000" channel="180762">
+    <title lang="fr">Ciné international</title>
+  </programme>
+  <programme start="20260227223000 +0000" stop="20260227230000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228001500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260228001500 +0000" stop="20260228011500 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260228011500 +0000" stop="20260228014500 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260228014500 +0000" stop="20260228024500 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260228024500 +0000" stop="20260228060000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="180762">
+    <title lang="fr">Immersion</title>
+  </programme>
+  <programme start="20260228100000 +0000" stop="20260228113000 +0000" channel="180762">
+    <title lang="fr">Life TV la télé sans filtre</title>
+  </programme>
+  <programme start="20260228113000 +0000" stop="20260228124500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi (Best of)</title>
+  </programme>
+  <programme start="20260228124500 +0000" stop="20260228130000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260228130000 +0000" stop="20260228140000 +0000" channel="180762">
+    <title lang="fr">Le vrai match</title>
+  </programme>
+  <programme start="20260228140000 +0000" stop="20260228150000 +0000" channel="180762">
+    <title lang="fr">Y'a problème / Le jour de mon jour</title>
+  </programme>
+  <programme start="20260228150000 +0000" stop="20260228153000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260228153000 +0000" stop="20260228160000 +0000" channel="180762">
+    <title lang="fr">Au Quartier</title>
+  </programme>
+  <programme start="20260228160000 +0000" stop="20260228170000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260228170000 +0000" stop="20260228190000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260228190000 +0000" stop="20260228193000 +0000" channel="180762">
+    <title lang="fr">Tara &amp; Esther</title>
+  </programme>
+  <programme start="20260228193000 +0000" stop="20260228194500 +0000" channel="180762">
+    <title lang="fr">Programmes Courts</title>
+  </programme>
+  <programme start="20260228194500 +0000" stop="20260228200000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260228200000 +0000" stop="20260228210000 +0000" channel="180762">
+    <title lang="fr">Life TV la télé sans filtre</title>
+  </programme>
+  <programme start="20260228210000 +0000" stop="20260228223000 +0000" channel="180762">
+    <title lang="fr">Ciné international</title>
+  </programme>
+  <programme start="20260228223000 +0000" stop="20260301000000 +0000" channel="180762">
+    <title lang="fr">Ciné international</title>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260301060000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <channel id="180076">
+    <display-name>RTS (180076)</display-name>
+  </channel>
+  <programme start="20260226060000 +0000" stop="20260226063000 +0000" channel="180076">
+    <title lang="fr">Récital Coran</title>
+  </programme>
+  <programme start="20260226063000 +0000" stop="20260226080000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260226080000 +0000" stop="20260226090000 +0000" channel="180076">
+    <title lang="fr">Clubs des Sports</title>
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226103000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260226103000 +0000" stop="20260226104500 +0000" channel="180076">
+    <title lang="fr">Journal Balante</title>
+  </programme>
+  <programme start="20260226104500 +0000" stop="20260226110000 +0000" channel="180076">
+    <title lang="fr">Journal en Mandjack</title>
+  </programme>
+  <programme start="20260226110000 +0000" stop="20260226120000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260226120000 +0000" stop="20260226123000 +0000" channel="180076">
+    <title lang="fr">Le point</title>
+  </programme>
+  <programme start="20260226123000 +0000" stop="20260226124500 +0000" channel="180076">
+    <title lang="fr">Journal en Joola</title>
+  </programme>
+  <programme start="20260226124500 +0000" stop="20260226130000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="180076">
+    <title lang="fr">Journal 13h</title>
+  </programme>
+  <programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="180076">
+    <title lang="fr">Journal Xibaar</title>
+  </programme>
+  <programme start="20260226140000 +0000" stop="20260226141500 +0000" channel="180076">
+    <title lang="fr">Journal en Manding</title>
+  </programme>
+  <programme start="20260226141500 +0000" stop="20260226144500 +0000" channel="180076">
+    <title lang="fr">Guew Bii</title>
+  </programme>
+  <programme start="20260226144500 +0000" stop="20260226153000 +0000" channel="180076">
+    <title lang="fr">Clubs des Sports</title>
+  </programme>
+  <programme start="20260226153000 +0000" stop="20260226154000 +0000" channel="180076">
+    <title lang="fr">Journal en Bassari</title>
+  </programme>
+  <programme start="20260226154000 +0000" stop="20260226160000 +0000" channel="180076">
+    <title lang="fr">Journal Puulaar</title>
+  </programme>
+  <programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260226170000 +0000" stop="20260226171500 +0000" channel="180076">
+    <title lang="fr">Journal en Soninké</title>
+  </programme>
+  <programme start="20260226171500 +0000" stop="20260226173000 +0000" channel="180076">
+    <title lang="fr">Journal en Sérère</title>
+  </programme>
+  <programme start="20260226173000 +0000" stop="20260226180000 +0000" channel="180076">
+    <title lang="fr">Appels religieux</title>
+  </programme>
+  <programme start="20260226180000 +0000" stop="20260226183000 +0000" channel="180076">
+    <title lang="fr">Yeurmande</title>
+  </programme>
+  <programme start="20260226183000 +0000" stop="20260226190000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260226190000 +0000" stop="20260226193000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260226193000 +0000" stop="20260226195500 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260226195500 +0000" stop="20260226200000 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260226200000 +0000" stop="20260226205000 +0000" channel="180076">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260226205000 +0000" stop="20260226210500 +0000" channel="180076">
+    <title lang="fr">Publi-reportages</title>
+  </programme>
+  <programme start="20260226210500 +0000" stop="20260226213000 +0000" channel="180076">
+    <title lang="fr">Al mizaan</title>
+  </programme>
+  <programme start="20260226213000 +0000" stop="20260226220000 +0000" channel="180076">
+    <title lang="fr">La voie du croyant</title>
+  </programme>
+  <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="180076">
+    <title lang="fr">Spécial Gamou</title>
+  </programme>
+  <programme start="20260226230000 +0000" stop="20260226233000 +0000" channel="180076">
+    <title lang="fr">Journal du soir</title>
+  </programme>
+  <programme start="20260226233000 +0000" stop="20260227000000 +0000" channel="180076">
+    <title lang="fr">Kaddug islam</title>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="180076">
+    <title lang="fr">Tontou Bataaxal</title>
+  </programme>
+  <programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260227010000 +0000" stop="20260227020000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260227020000 +0000" stop="20260227025000 +0000" channel="180076">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260227025000 +0000" stop="20260227042000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260227042000 +0000" stop="20260227043000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260227043000 +0000" stop="20260227050000 +0000" channel="180076">
+    <title lang="fr">Al mizaan</title>
+  </programme>
+  <programme start="20260227050000 +0000" stop="20260227053000 +0000" channel="180076">
+    <title lang="fr">Kaddug islam</title>
+  </programme>
+  <programme start="20260227053000 +0000" stop="20260227060000 +0000" channel="180076">
+    <title lang="fr">La voie du croyant</title>
+  </programme>
+  <programme start="20260227060000 +0000" stop="20260227063000 +0000" channel="180076">
+    <title lang="fr">Récital Coran</title>
+  </programme>
+  <programme start="20260227063000 +0000" stop="20260227080000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="180076">
+    <title lang="fr">Tontou Bataaxal</title>
+  </programme>
+  <programme start="20260227083000 +0000" stop="20260227090000 +0000" channel="180076">
+    <title lang="fr">Al mizaan</title>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227103000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260227103000 +0000" stop="20260227104500 +0000" channel="180076">
+    <title lang="fr">Journal Balante</title>
+  </programme>
+  <programme start="20260227104500 +0000" stop="20260227110000 +0000" channel="180076">
+    <title lang="fr">Journal en Mandjack</title>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="180076">
+    <title lang="fr">Al Bayaan</title>
+  </programme>
+  <programme start="20260227120000 +0000" stop="20260227123000 +0000" channel="180076">
+    <title lang="fr">Kaddug islam</title>
+  </programme>
+  <programme start="20260227123000 +0000" stop="20260227124500 +0000" channel="180076">
+    <title lang="fr">Journal en Joola</title>
+  </programme>
+  <programme start="20260227124500 +0000" stop="20260227130000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227133000 +0000" channel="180076">
+    <title lang="fr">Journal + Météo</title>
+  </programme>
+  <programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260227140000 +0000" stop="20260227141500 +0000" channel="180076">
+    <title lang="fr">Journal en Mandinka</title>
+  </programme>
+  <programme start="20260227141500 +0000" stop="20260227143000 +0000" channel="180076">
+    <title lang="fr">Récital Coran</title>
+  </programme>
+  <programme start="20260227143000 +0000" stop="20260227150000 +0000" channel="180076">
+    <title lang="fr">Nouroul Islam</title>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="180076">
+    <title lang="fr">Spécial Gamou</title>
+  </programme>
+  <programme start="20260227153000 +0000" stop="20260227154500 +0000" channel="180076">
+    <title lang="fr">Journal en Bassari</title>
+  </programme>
+  <programme start="20260227154500 +0000" stop="20260227160000 +0000" channel="180076">
+    <title lang="fr">Journal Puulaar</title>
+  </programme>
+  <programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="180076">
+    <title lang="fr">La voie du croyant</title>
+  </programme>
+  <programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="180076">
+    <title lang="fr">Tafsir du Coran</title>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227171500 +0000" channel="180076">
+    <title lang="fr">Journal en Soninké</title>
+  </programme>
+  <programme start="20260227171500 +0000" stop="20260227173000 +0000" channel="180076">
+    <title lang="fr">Journal en Séréer</title>
+  </programme>
+  <programme start="20260227173000 +0000" stop="20260227180000 +0000" channel="180076">
+    <title lang="fr">Programme non communiqué</title>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227183000 +0000" channel="180076">
+    <title lang="fr">Yeurmande</title>
+  </programme>
+  <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227193000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260227193000 +0000" stop="20260227195500 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260227195500 +0000" stop="20260227200000 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227205000 +0000" channel="180076">
+    <title lang="fr">Journal + Météo</title>
+  </programme>
+  <programme start="20260227205000 +0000" stop="20260227210500 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260227210500 +0000" stop="20260227223500 +0000" channel="180076">
+    <title lang="fr">Kassabor</title>
+  </programme>
+  <programme start="20260227223500 +0000" stop="20260227230000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260227233000 +0000" channel="180076">
+    <title lang="fr">Journal du soir</title>
+  </programme>
+  <programme start="20260227233000 +0000" stop="20260228000000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260228013000 +0000" channel="180076">
+    <title lang="fr">Le Dimanche Soir</title>
+  </programme>
+  <programme start="20260228013000 +0000" stop="20260228020000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260228020000 +0000" stop="20260228025000 +0000" channel="180076">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260228025000 +0000" stop="20260228042000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260228042000 +0000" stop="20260228052000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260228052000 +0000" stop="20260228053000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260228053000 +0000" stop="20260228060000 +0000" channel="180076">
+    <title lang="fr">Yeurmande</title>
+  </programme>
+  <programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="180076">
+    <title lang="fr">Tafsir du Coran</title>
+  </programme>
+  <programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="180076">
+    <title lang="fr">Récital Coran</title>
+  </programme>
+  <programme start="20260228070000 +0000" stop="20260228080000 +0000" channel="180076">
+    <title lang="fr">Programme non communiqué</title>
+  </programme>
+  <programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="180076">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="180076">
+    <title lang="fr">Club des Sports</title>
+  </programme>
+  <programme start="20260228100000 +0000" stop="20260228103000 +0000" channel="180076">
+    <title lang="fr">Guew Bii</title>
+  </programme>
+  <programme start="20260228103000 +0000" stop="20260228120000 +0000" channel="180076">
+    <title lang="fr">Clips Rétro</title>
+  </programme>
+  <programme start="20260228120000 +0000" stop="20260228125500 +0000" channel="180076">
+    <title lang="fr">Compil concert</title>
+  </programme>
+  <programme start="20260228125500 +0000" stop="20260228130000 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260228130000 +0000" stop="20260228133000 +0000" channel="180076">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260228133000 +0000" stop="20260228140000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260228140000 +0000" stop="20260228143000 +0000" channel="180076">
+    <title lang="fr">Tatami</title>
+  </programme>
+  <programme start="20260228143000 +0000" stop="20260228150000 +0000" channel="180076">
+    <title lang="fr">Mbekh Mi ak Joor</title>
+  </programme>
+  <programme start="20260228150000 +0000" stop="20260228163000 +0000" channel="180076">
+    <title lang="fr">Kassabor</title>
+  </programme>
+  <programme start="20260228163000 +0000" stop="20260228170000 +0000" channel="180076">
+    <title lang="fr">Magazine en langue nationale</title>
+  </programme>
+  <programme start="20260228170000 +0000" stop="20260228183000 +0000" channel="180076">
+    <title lang="fr">Beegleen</title>
+  </programme>
+  <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="180076">
+    <title lang="fr">Sélection de clips USA</title>
+  </programme>
+  <programme start="20260228190000 +0000" stop="20260228193000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260228193000 +0000" stop="20260228195500 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260228195500 +0000" stop="20260228200000 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260228200000 +0000" stop="20260228205000 +0000" channel="180076">
+    <title lang="fr">Journal + Météo</title>
+  </programme>
+  <programme start="20260228205000 +0000" stop="20260228210500 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260228210500 +0000" stop="20260228223500 +0000" channel="180076">
+    <title lang="fr">Divertissement du Samedi</title>
+  </programme>
+  <programme start="20260228223500 +0000" stop="20260228230000 +0000" channel="180076">
+    <title lang="fr">Sélection de clips</title>
+  </programme>
+  <programme start="20260228230000 +0000" stop="20260228233000 +0000" channel="180076">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260228233000 +0000" stop="20260301010000 +0000" channel="180076">
+    <title lang="fr">Beegleen</title>
+  </programme>
+  <programme start="20260301010000 +0000" stop="20260301013000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260301013000 +0000" stop="20260301030000 +0000" channel="180076">
+    <title lang="fr">Sélection de clips</title>
+  </programme>
+  <programme start="20260301030000 +0000" stop="20260301035000 +0000" channel="180076">
+    <title lang="fr">Journal + Météo</title>
+  </programme>
+  <programme start="20260301035000 +0000" stop="20260301042000 +0000" channel="180076">
+    <title lang="fr">Divertissement du Samedi</title>
+  </programme>
+  <programme start="20260301042000 +0000" stop="20260301045000 +0000" channel="180076">
+    <title lang="fr">Magazine en langue nationale</title>
+  </programme>
+  <programme start="20260301045000 +0000" stop="20260301050000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260301050000 +0000" stop="20260301053000 +0000" channel="180076">
+    <title lang="fr">Récital Coran</title>
+  </programme>
+  <programme start="20260301053000 +0000" stop="20260301060000 +0000" channel="180076">
+    <title lang="fr">Tontou Bataaxal</title>
+  </programme>
+</tv>
