@@ -9,8 +9,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_business.png",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="FR300004J5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm_grands_reportages.png",BFM Grands Reportages
+https://jmp2.uk/stvp-FR300004J5
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm2.png",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_info.png",France Info
+https://raw.githubusercontent.com/BG47510/sniftv/refs/heads/main/a02/frinfo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/m6.png",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/w9.png",W9
@@ -83,6 +87,8 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 https://jmp2.uk/stvp-FR370000288
 #EXTINF:-1 tvg-id="FR3700003N4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_drama.png",Box Office Drama
 https://jmp2.uk/stvp-FR3700003N4
+#EXTINF:-1 tvg-id="FR3700001AG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/box_office_thriller.png",Box Office Thriller
+https://jmp2.uk/stvp-FR3700001AG
 #EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/emotion'l.png",Emotion'L
 https://jmp2.uk/stvp-FRBB340000115
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/runtime.png",Runtime
@@ -189,6 +195,8 @@ https://jmp2.uk/stvp-FR300005WY
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="FRBD5100003TP" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/epicurieux_avec_jamy.png",Epicurieux avec Jamy
 https://jmp2.uk/stvp-FRBD5100003TP
+#EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/100_docs.png",100% Docs
+https://jmp2.uk/stvp-FRBD39000064E
 #EXTINF:-1 tvg-id="FRBD4100010ZZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/tech_&_co.png",Tech & Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/wasabi_anime.png",Wasabi Anime
