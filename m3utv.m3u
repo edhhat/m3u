@@ -175,10 +175,14 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/nci.png",NCI
 https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/reflet_tv.png",REFLET TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rts_1.png",RTS 1
 http://69.64.57.208/rts1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rts_2.png",RTS 2
 http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ortm1.png",ORTM1
+http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="6245ccd0c6cdb800074632e4" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/macgyver.png",MacGyver
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6245ccd0c6cdb800074632e4/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=2ac42258-3a71-4eed-8cdf-6f4eeff4874f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=4750ec62-4d95-4147-9ee2-ab5ca406e839&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="680291e38e1ff89c2427aefd" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/voyages_&_saveurs.png",Voyages & Saveurs
