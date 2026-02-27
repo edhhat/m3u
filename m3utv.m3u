@@ -177,6 +177,8 @@ https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/reflet_tv.png",REFLET TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ivoire_channel.png",IVOIRE CHANNEL
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rts_1.png",RTS 1
 http://69.64.57.208/rts1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rts_2.png",RTS 2
