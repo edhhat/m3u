@@ -3976,7 +3976,7 @@
     <title lang="fr">JT 22h30</title>
   </programme>
   <channel id="180258">
-    <display-name>RTB</display-name>
+    <display-name>RTB3</display-name>
   </channel>
   <programme start="20260301060000 +0000" stop="20260301070000 +0000" channel="180258">
     <title lang="fr">RTB 3</title>
