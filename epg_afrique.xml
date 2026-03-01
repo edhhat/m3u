@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="180271">
-    <display-name>RTI2 (180271)</display-name>
+    <display-name>RTI2</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228061500 +0000" channel="180271">
     <title lang="fr">Folly dance</title>
@@ -298,7 +298,7 @@
     <title lang="fr">Ouverture d'antenne</title>
   </programme>
   <channel id="180761">
-    <display-name>LA3 (180761)</display-name>
+    <display-name>LA3</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="180761">
     <title lang="fr">Playlist</title>
@@ -517,7 +517,7 @@
     <title lang="fr">Ouverture d'antenne</title>
   </programme>
   <channel id="180715">
-    <display-name>NCI (180715)</display-name>
+    <display-name>NCI</display-name>
   </channel>
   <programme start="20260228070000 +0000" stop="20260228071000 +0000" channel="180715">
     <title lang="fr">Ivory Best</title>
@@ -973,7 +973,7 @@
     <title lang="fr">Clips</title>
   </programme>
   <channel id="180762">
-    <display-name>LIFE TV (180762)</display-name>
+    <display-name>LIFE TV</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="180762">
     <title lang="fr">Musique</title>
@@ -1168,7 +1168,7 @@
     <title lang="fr">Musique</title>
   </programme>
   <channel id="180085">
-    <display-name>REFLET TV (180085)</display-name>
+    <display-name>REFLET TV</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228090000 +0000" channel="180085">
     <title lang="fr">Playlist</title>
@@ -1321,7 +1321,7 @@
     <title lang="fr">Playlist</title>
   </programme>
   <channel id="180580">
-    <display-name>IVOIRE TV Music (180580)</display-name>
+    <display-name>IVOIRE TV Music</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228090000 +0000" channel="180580">
     <title lang="fr">Mix moi ça : Remix DJ</title>
@@ -1438,7 +1438,7 @@
     <title lang="fr">Sélection musicale</title>
   </programme>
   <channel id="180122">
-    <display-name>2STV (180122)</display-name>
+    <display-name>2STV</display-name>
   </channel>
   <programme start="20260228063000 +0000" stop="20260228080000 +0000" channel="180122">
     <title lang="fr">Tafsir</title>
@@ -1630,7 +1630,7 @@
     <title lang="fr">Albarakh</title>
   </programme>
   <channel id="180069">
-    <display-name>ORTM1 (180069)</display-name>
+    <display-name>ORTM1</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="180069">
     <title lang="fr">Documentaire</title>
@@ -1909,7 +1909,7 @@
     <title lang="fr">Hymne National</title>
   </programme>
   <channel id="180397">
-    <display-name>ORTM2 (180397)</display-name>
+    <display-name>ORTM2</display-name>
   </channel>
   <programme start="20260228063000 +0000" stop="20260228080000 +0000" channel="180397">
     <title lang="fr">Musique</title>
@@ -2173,7 +2173,7 @@
     <title lang="fr">Variétés Clips</title>
   </programme>
   <channel id="180723">
-    <display-name>TM1 (180723)</display-name>
+    <display-name>TM1</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228090000 +0000" channel="180723">
     <title lang="fr">Infos, culture et divertissement au Mali</title>
@@ -2239,7 +2239,7 @@
     <title lang="fr">Infos, culture et divertissement au Mali</title>
   </programme>
   <channel id="180202">
-    <display-name>RTG (180202)</display-name>
+    <display-name>RTG</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228090000 +0000" channel="180202">
     <title lang="fr">La chaîne généraliste de Guinée</title>
@@ -2404,7 +2404,7 @@
     <title lang="fr">La chaîne généraliste de Guinée</title>
   </programme>
   <channel id="180017">
-    <display-name>RTG (180017)</display-name>
+    <display-name>RTG</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228090000 +0000" channel="180017">
     <title lang="fr">Plus proche de vous !</title>
@@ -2569,7 +2569,7 @@
     <title lang="fr">Plus proche de vous !</title>
   </programme>
   <channel id="180121">
-    <display-name>RTB  (180121)</display-name>
+    <display-name>RTB</display-name>
   </channel>
   <programme start="20260228060500 +0000" stop="20260228062000 +0000" channel="180121">
     <title lang="fr">Musique</title>
@@ -2926,7 +2926,7 @@
     <title lang="fr">JT 22h30</title>
   </programme>
   <channel id="180258">
-    <display-name>RTB  (180258)</display-name>
+    <display-name>RTB</display-name>
   </channel>
   <programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="180258">
     <title lang="fr">RTB 3</title>
