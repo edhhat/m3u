@@ -287,7 +287,7 @@ https://video1.getstreamhosting.com:1936/8338/8338/chunklist_w379982665.m3u8
 #EXTINF:-1 tvg-id="180085" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/REFLET TV.png",REFLET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/IVOIRE CHANNEL.png",IVOIRE CHANNEL
+#EXTINF:-1 tvg-id="180580" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/IVOIRE CHANNEL.png",IVOIRE CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w1691867485.m3u8
 #EXTINF:-1 tvg-id="RTB.af" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rtb.png",RTB
