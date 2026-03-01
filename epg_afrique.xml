@@ -674,7 +674,6 @@
   </programme>
   <programme start="20260301180000 +0000" stop="20260301183000 +0000" channel="180715">
     <title lang="fr">Médecines d'ailleurs - Saison 1</title>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/d18e/d18e0898196549d6ade0f75ff0ceba9e" />
   </programme>
   <programme start="20260301183000 +0000" stop="20260301191500 +0000" channel="180715">
     <title lang="fr">NCI Reportages</title>
@@ -852,7 +851,6 @@
   </programme>
   <programme start="20260302213000 +0000" stop="20260302215600 +0000" channel="180715">
     <title lang="fr">Castes, les amours interdites</title>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/50491/canal-ouah/GEN169/NCI_FALLBACK_AFR_16x9-ISN4" />
   </programme>
   <programme start="20260302215600 +0000" stop="20260302220000 +0000" channel="180715">
     <title lang="fr">Comblage</title>
@@ -1075,7 +1073,6 @@
   </programme>
   <programme start="20260303213000 +0000" stop="20260303215600 +0000" channel="180715">
     <title lang="fr">Castes, les amours interdites</title>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/50491/canal-ouah/GEN169/NCI_FALLBACK_AFR_16x9-ISN4" />
   </programme>
   <programme start="20260303215600 +0000" stop="20260303220000 +0000" channel="180715">
     <title lang="fr">Comblage</title>
@@ -2627,171 +2624,6 @@
   </programme>
   <programme start="20260304020000 +0000" stop="20260304060000 +0000" channel="180202">
     <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <channel id="180017">
-    <display-name>RTG</display-name>
-  </channel>
-  <programme start="20260301060000 +0000" stop="20260301090000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301090000 +0000" stop="20260301120000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301120000 +0000" stop="20260301130000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301130000 +0000" stop="20260301140000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301140000 +0000" stop="20260301150000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301150000 +0000" stop="20260301160000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301160000 +0000" stop="20260301170000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301170000 +0000" stop="20260301180000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301180000 +0000" stop="20260301190000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301190000 +0000" stop="20260301200000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301200000 +0000" stop="20260301210000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301210000 +0000" stop="20260301220000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301220000 +0000" stop="20260301230000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260301230000 +0000" stop="20260302000000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302000000 +0000" stop="20260302010000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302010000 +0000" stop="20260302020000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302020000 +0000" stop="20260302030000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302030000 +0000" stop="20260302060000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302120000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303010000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303010000 +0000" stop="20260303020000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303030000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303030000 +0000" stop="20260303060000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303060000 +0000" stop="20260303090000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303090000 +0000" stop="20260303120000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303120000 +0000" stop="20260303130000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303130000 +0000" stop="20260303140000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303140000 +0000" stop="20260303150000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303150000 +0000" stop="20260303160000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303160000 +0000" stop="20260303170000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303180000 +0000" stop="20260303190000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303190000 +0000" stop="20260303200000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303200000 +0000" stop="20260303210000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303210000 +0000" stop="20260303220000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303220000 +0000" stop="20260303230000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303230000 +0000" stop="20260304000000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260304000000 +0000" stop="20260304010000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260304010000 +0000" stop="20260304020000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260304020000 +0000" stop="20260304030000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260304030000 +0000" stop="20260304060000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
   </programme>
   <channel id="180121">
     <display-name>RTB</display-name>
