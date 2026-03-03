@@ -3,174 +3,6 @@
   <channel id="180171">
     <display-name>RTI 1</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302062700 +0000" channel="180171">
-    <title lang="fr">Matin Bonheur</title>
-  </programme>
-  <programme start="20260302062700 +0000" stop="20260302063000 +0000" channel="180171">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302063000 +0000" stop="20260302064500 +0000" channel="180171">
-    <title lang="fr">Le journal 06h30</title>
-  </programme>
-  <programme start="20260302064500 +0000" stop="20260302073000 +0000" channel="180171">
-    <title lang="fr">Matin Bonheur</title>
-  </programme>
-  <programme start="20260302073000 +0000" stop="20260302080000 +0000" channel="180171">
-    <title lang="fr">Select Ivoire</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302084500 +0000" channel="180171">
-    <title lang="fr">Coeur guerrier</title>
-  </programme>
-  <programme start="20260302084500 +0000" stop="20260302090000 +0000" channel="180171">
-    <title lang="fr">RTI</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302095500 +0000" channel="180171">
-    <title lang="fr">Pays profond</title>
-  </programme>
-  <programme start="20260302095500 +0000" stop="20260302100300 +0000" channel="180171">
-    <title lang="fr">RTI</title>
-  </programme>
-  <programme start="20260302100300 +0000" stop="20260302110000 +0000" channel="180171">
-    <title lang="fr">Babywood</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302112800 +0000" channel="180171">
-    <title lang="fr">12 Cas</title>
-  </programme>
-  <programme start="20260302112800 +0000" stop="20260302113000 +0000" channel="180171">
-    <title lang="fr">RTI pub music</title>
-  </programme>
-  <programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="180171">
-    <title lang="fr">Les RDV de la DCM</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302125200 +0000" channel="180171">
-    <title lang="fr">C'Midi</title>
-  </programme>
-  <programme start="20260302125200 +0000" stop="20260302125700 +0000" channel="180171">
-    <title lang="fr">Agenda</title>
-  </programme>
-  <programme start="20260302125700 +0000" stop="20260302130000 +0000" channel="180171">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302133200 +0000" channel="180171">
-    <title lang="fr">JT 13H RTI</title>
-  </programme>
-  <programme start="20260302133200 +0000" stop="20260302133500 +0000" channel="180171">
-    <title lang="fr">Agenda</title>
-  </programme>
-  <programme start="20260302133500 +0000" stop="20260302142500 +0000" channel="180171">
-    <title lang="fr">Coeur guerrier</title>
-  </programme>
-  <programme start="20260302142500 +0000" stop="20260302145000 +0000" channel="180171">
-    <title lang="fr">Intrigue à Baby</title>
-  </programme>
-  <programme start="20260302145000 +0000" stop="20260302150000 +0000" channel="180171">
-    <title lang="fr">Capsules</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302150500 +0000" channel="180171">
-    <title lang="fr">Flash 15h</title>
-  </programme>
-  <programme start="20260302150500 +0000" stop="20260302150600 +0000" channel="180171">
-    <title lang="fr">RTI pub music</title>
-  </programme>
-  <programme start="20260302150600 +0000" stop="20260302160000 +0000" channel="180171">
-    <title lang="fr">So Wrong So Wright 2.0</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="180171">
-    <title lang="fr">RTI</title>
-  </programme>
-  <programme start="20260302163000 +0000" stop="20260302170000 +0000" channel="180171">
-    <title lang="fr">Matin Bonheur</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302174500 +0000" channel="180171">
-    <title lang="fr">Les infos en langues nationales</title>
-  </programme>
-  <programme start="20260302174500 +0000" stop="20260302180000 +0000" channel="180171">
-    <title lang="fr">Les Schtroumpfs</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302181600 +0000" channel="180171">
-    <title lang="fr">Infos régionales</title>
-  </programme>
-  <programme start="20260302181600 +0000" stop="20260302191500 +0000" channel="180171">
-    <title lang="fr">C'Midi</title>
-  </programme>
-  <programme start="20260302191500 +0000" stop="20260302192500 +0000" channel="180171">
-    <title lang="fr">Agenda</title>
-  </programme>
-  <programme start="20260302192500 +0000" stop="20260302195200 +0000" channel="180171">
-    <title lang="fr">La Moderna</title>
-  </programme>
-  <programme start="20260302195200 +0000" stop="20260302195600 +0000" channel="180171">
-    <title lang="fr">Spot présidence le drapeau</title>
-  </programme>
-  <programme start="20260302195600 +0000" stop="20260302195700 +0000" channel="180171">
-    <title lang="fr">La chaîne qui rassemble</title>
-  </programme>
-  <programme start="20260302195700 +0000" stop="20260302200000 +0000" channel="180171">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302203300 +0000" channel="180171">
-    <title lang="fr">JT 20H RTI</title>
-  </programme>
-  <programme start="20260302203300 +0000" stop="20260302204000 +0000" channel="180171">
-    <title lang="fr">Agenda</title>
-  </programme>
-  <programme start="20260302204000 +0000" stop="20260302204500 +0000" channel="180171">
-    <title lang="fr">Humour</title>
-  </programme>
-  <programme start="20260302204500 +0000" stop="20260302205000 +0000" channel="180171">
-    <title lang="fr">Spot présidence la devise</title>
-  </programme>
-  <programme start="20260302205000 +0000" stop="20260302211600 +0000" channel="180171">
-    <title lang="fr">Fair Play</title>
-  </programme>
-  <programme start="20260302211600 +0000" stop="20260302212000 +0000" channel="180171">
-    <title lang="fr">Agenda</title>
-  </programme>
-  <programme start="20260302212000 +0000" stop="20260302213500 +0000" channel="180171">
-    <title lang="fr">L'impôt et vous</title>
-  </programme>
-  <programme start="20260302213500 +0000" stop="20260302223000 +0000" channel="180171">
-    <title lang="fr">Lundi Sport</title>
-  </programme>
-  <programme start="20260302223000 +0000" stop="20260302224700 +0000" channel="180171">
-    <title lang="fr">RTI</title>
-  </programme>
-  <programme start="20260302224700 +0000" stop="20260302230000 +0000" channel="180171">
-    <title lang="fr">Infos régionales</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260302233200 +0000" channel="180171">
-    <title lang="fr">JT 23H</title>
-  </programme>
-  <programme start="20260302233200 +0000" stop="20260303003000 +0000" channel="180171">
-    <title lang="fr">C'Midi</title>
-  </programme>
-  <programme start="20260303003000 +0000" stop="20260303020200 +0000" channel="180171">
-    <title lang="fr">Sugar Daddy</title>
-  </programme>
-  <programme start="20260303020200 +0000" stop="20260303023000 +0000" channel="180171">
-    <title lang="fr">Suivez le guide</title>
-  </programme>
-  <programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="180171">
-    <title lang="fr">Vidéo night</title>
-  </programme>
-  <programme start="20260303030000 +0000" stop="20260303033000 +0000" channel="180171">
-    <title lang="fr">Matin Bonheur</title>
-  </programme>
-  <programme start="20260303033000 +0000" stop="20260303040000 +0000" channel="180171">
-    <title lang="fr">12 Cas</title>
-  </programme>
-  <programme start="20260303040000 +0000" stop="20260303043000 +0000" channel="180171">
-    <title lang="fr">JT 20H RTI</title>
-  </programme>
-  <programme start="20260303043000 +0000" stop="20260303043400 +0000" channel="180171">
-    <title lang="fr">Hymme national</title>
-  </programme>
-  <programme start="20260303043400 +0000" stop="20260303055500 +0000" channel="180171">
-    <title lang="fr">Mie</title>
-  </programme>
-  <programme start="20260303055500 +0000" stop="20260303060000 +0000" channel="180171">
-    <title lang="fr">Hymme national</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303062700 +0000" channel="180171">
     <title lang="fr">Faut pas fâcher</title>
   </programme>
@@ -360,147 +192,54 @@
   <programme start="20260305000000 +0000" stop="20260305060000 +0000" channel="180171">
     <title lang="fr">RTI 1, la télévision ivoirienne</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305090000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305120000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306060000 +0000" channel="180171">
+    <title lang="fr">RTI 1, la télévision ivoirienne</title>
+  </programme>
   <channel id="180271">
     <display-name>RTI 2</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302061500 +0000" channel="180271">
-    <title lang="fr">Folly dance</title>
-  </programme>
-  <programme start="20260302061500 +0000" stop="20260302063000 +0000" channel="180271">
-    <title lang="fr">Sur le net</title>
-  </programme>
-  <programme start="20260302063000 +0000" stop="20260302073000 +0000" channel="180271">
-    <title lang="fr">Secrets de vies</title>
-  </programme>
-  <programme start="20260302073000 +0000" stop="20260302080000 +0000" channel="180271">
-    <title lang="fr">Les soeurs de sang</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="180271">
-    <title lang="fr">Fun hits</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302093000 +0000" channel="180271">
-    <title lang="fr">Vendeur d'illusion</title>
-  </programme>
-  <programme start="20260302093000 +0000" stop="20260302100000 +0000" channel="180271">
-    <title lang="fr">Kigah</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302102500 +0000" channel="180271">
-    <title lang="fr">Capitales africaines : Niamey</title>
-  </programme>
-  <programme start="20260302102500 +0000" stop="20260302103000 +0000" channel="180271">
-    <title lang="fr">Flash en images</title>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302112500 +0000" channel="180271">
-    <title lang="fr">Réunion de famille</title>
-  </programme>
-  <programme start="20260302112500 +0000" stop="20260302114000 +0000" channel="180271">
-    <title lang="fr">Sublime touche</title>
-  </programme>
-  <programme start="20260302114000 +0000" stop="20260302123000 +0000" channel="180271">
-    <title lang="fr">Le prix de la passion</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302124500 +0000" channel="180271">
-    <title lang="fr">Le JT de 12H30</title>
-  </programme>
-  <programme start="20260302124500 +0000" stop="20260302130000 +0000" channel="180271">
-    <title lang="fr">Ma cuisine</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302133000 +0000" channel="180271">
-    <title lang="fr">Les soeurs de sang</title>
-  </programme>
-  <programme start="20260302133000 +0000" stop="20260302140000 +0000" channel="180271">
-    <title lang="fr">Voyage de rêve</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302144500 +0000" channel="180271">
-    <title lang="fr">Avant avant</title>
-  </programme>
-  <programme start="20260302144500 +0000" stop="20260302151500 +0000" channel="180271">
-    <title lang="fr">Les secrets de l'amour</title>
-  </programme>
-  <programme start="20260302151500 +0000" stop="20260302154500 +0000" channel="180271">
-    <title lang="fr">Casting pour maman</title>
-  </programme>
-  <programme start="20260302154500 +0000" stop="20260302161500 +0000" channel="180271">
-    <title lang="fr">CAPITALES AFRICAINES [YAOUNDÉ]</title>
-  </programme>
-  <programme start="20260302161500 +0000" stop="20260302162500 +0000" channel="180271">
-    <title lang="fr">Chroni'k urbaine</title>
-  </programme>
-  <programme start="20260302162500 +0000" stop="20260302163000 +0000" channel="180271">
-    <title lang="fr">Mes cheveux, ma santé</title>
-  </programme>
-  <programme start="20260302163000 +0000" stop="20260302171500 +0000" channel="180271">
-    <title lang="fr">Madam Secretary</title>
-  </programme>
-  <programme start="20260302171500 +0000" stop="20260302172500 +0000" channel="180271">
-    <title lang="fr">Tusker comédie</title>
-  </programme>
-  <programme start="20260302172500 +0000" stop="20260302174000 +0000" channel="180271">
-    <title lang="fr">La cour éducative</title>
-  </programme>
-  <programme start="20260302174000 +0000" stop="20260302174500 +0000" channel="180271">
-    <title lang="fr">Flash info</title>
-  </programme>
-  <programme start="20260302174500 +0000" stop="20260302183000 +0000" channel="180271">
-    <title lang="fr">Le prix de la passion</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302192500 +0000" channel="180271">
-    <title lang="fr">Secrets de vies</title>
-  </programme>
-  <programme start="20260302192500 +0000" stop="20260302193000 +0000" channel="180271">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302195000 +0000" channel="180271">
-    <title lang="fr">JT 19H30</title>
-  </programme>
-  <programme start="20260302195000 +0000" stop="20260302200500 +0000" channel="180271">
-    <title lang="fr">Sur le net</title>
-  </programme>
-  <programme start="20260302200500 +0000" stop="20260302203000 +0000" channel="180271">
-    <title lang="fr">Les soeurs de sang</title>
-  </programme>
-  <programme start="20260302203000 +0000" stop="20260302210000 +0000" channel="180271">
-    <title lang="fr">Casting pour maman</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302214500 +0000" channel="180271">
-    <title lang="fr">Madam Secretary</title>
-  </programme>
-  <programme start="20260302214500 +0000" stop="20260302220000 +0000" channel="180271">
-    <title lang="fr">Sur le net</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180271">
-    <title lang="fr">Secrets de vies</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="180271">
-    <title lang="fr">CAPITALES AFRICAINES [YAOUNDÉ]</title>
-  </programme>
-  <programme start="20260302233000 +0000" stop="20260302235000 +0000" channel="180271">
-    <title lang="fr">JT 19H30</title>
-  </programme>
-  <programme start="20260302235000 +0000" stop="20260303000500 +0000" channel="180271">
-    <title lang="fr">Sur le net</title>
-  </programme>
-  <programme start="20260303000500 +0000" stop="20260303003500 +0000" channel="180271">
-    <title lang="fr">Voyage de rêve</title>
-  </programme>
-  <programme start="20260303003500 +0000" stop="20260303010500 +0000" channel="180271">
-    <title lang="fr">Casting pour maman</title>
-  </programme>
-  <programme start="20260303010500 +0000" stop="20260303015000 +0000" channel="180271">
-    <title lang="fr">Le prix de la passion</title>
-  </programme>
-  <programme start="20260303015000 +0000" stop="20260303023500 +0000" channel="180271">
-    <title lang="fr">Madam Secretary</title>
-  </programme>
-  <programme start="20260303023500 +0000" stop="20260303032000 +0000" channel="180271">
-    <title lang="fr">Avant avant</title>
-  </programme>
-  <programme start="20260303032000 +0000" stop="20260303053000 +0000" channel="180271">
-    <title lang="fr">Fermeture d'antenne</title>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="180271">
-    <title lang="fr">Ouverture d'antenne</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303061500 +0000" channel="180271">
     <title lang="fr">Folly dance</title>
   </programme>
@@ -771,96 +510,147 @@
   <programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="180271">
     <title lang="fr">Ouverture d'antenne</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305061500 +0000" channel="180271">
+    <title lang="fr">Folly dance</title>
+  </programme>
+  <programme start="20260305061500 +0000" stop="20260305063000 +0000" channel="180271">
+    <title lang="fr">Sur le net</title>
+  </programme>
+  <programme start="20260305063000 +0000" stop="20260305073000 +0000" channel="180271">
+    <title lang="fr">Secrets de vies</title>
+  </programme>
+  <programme start="20260305073000 +0000" stop="20260305080000 +0000" channel="180271">
+    <title lang="fr">Les soeurs de sang</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305090000 +0000" channel="180271">
+    <title lang="fr">Fun hits</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305093000 +0000" channel="180271">
+    <title lang="fr">Vendeur d'illusion</title>
+  </programme>
+  <programme start="20260305093000 +0000" stop="20260305100000 +0000" channel="180271">
+    <title lang="fr">Kigah</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305102500 +0000" channel="180271">
+    <title lang="fr">Capitales africaines : A Yaoundé</title>
+  </programme>
+  <programme start="20260305102500 +0000" stop="20260305103000 +0000" channel="180271">
+    <title lang="fr">Flash en images</title>
+  </programme>
+  <programme start="20260305103000 +0000" stop="20260305112500 +0000" channel="180271">
+    <title lang="fr">Réunion de famille</title>
+  </programme>
+  <programme start="20260305112500 +0000" stop="20260305114000 +0000" channel="180271">
+    <title lang="fr">Sur le net</title>
+  </programme>
+  <programme start="20260305114000 +0000" stop="20260305123000 +0000" channel="180271">
+    <title lang="fr">Le prix de la passion</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305124500 +0000" channel="180271">
+    <title lang="fr">Le JT de 12H30</title>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305130000 +0000" channel="180271">
+    <title lang="fr">Ma cuisine</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="180271">
+    <title lang="fr">Les soeurs de sang</title>
+  </programme>
+  <programme start="20260305133000 +0000" stop="20260305140000 +0000" channel="180271">
+    <title lang="fr">Voyage de rêve</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305144500 +0000" channel="180271">
+    <title lang="fr">Avant avant</title>
+  </programme>
+  <programme start="20260305144500 +0000" stop="20260305151500 +0000" channel="180271">
+    <title lang="fr">Les secrets de l'amour</title>
+  </programme>
+  <programme start="20260305151500 +0000" stop="20260305154500 +0000" channel="180271">
+    <title lang="fr">Casting pour maman</title>
+  </programme>
+  <programme start="20260305154500 +0000" stop="20260305161500 +0000" channel="180271">
+    <title lang="fr">Capitales africaines : A Yaoundé</title>
+  </programme>
+  <programme start="20260305161500 +0000" stop="20260305162500 +0000" channel="180271">
+    <title lang="fr">Chroni'k urbaine</title>
+  </programme>
+  <programme start="20260305162500 +0000" stop="20260305163000 +0000" channel="180271">
+    <title lang="fr">Mes cheveux, ma santé</title>
+  </programme>
+  <programme start="20260305163000 +0000" stop="20260305171500 +0000" channel="180271">
+    <title lang="fr">Madam Secretary - Saison 3</title>
+  </programme>
+  <programme start="20260305171500 +0000" stop="20260305172500 +0000" channel="180271">
+    <title lang="fr">Tusker comédie</title>
+  </programme>
+  <programme start="20260305172500 +0000" stop="20260305174000 +0000" channel="180271">
+    <title lang="fr">La cour éducative</title>
+  </programme>
+  <programme start="20260305174000 +0000" stop="20260305174500 +0000" channel="180271">
+    <title lang="fr">Flash info</title>
+  </programme>
+  <programme start="20260305174500 +0000" stop="20260305183000 +0000" channel="180271">
+    <title lang="fr">Le prix de la passion</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305192500 +0000" channel="180271">
+    <title lang="fr">Secrets de vies</title>
+  </programme>
+  <programme start="20260305192500 +0000" stop="20260305193000 +0000" channel="180271">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305195000 +0000" channel="180271">
+    <title lang="fr">JT 19H30</title>
+  </programme>
+  <programme start="20260305195000 +0000" stop="20260305200500 +0000" channel="180271">
+    <title lang="fr">Sublime touche</title>
+  </programme>
+  <programme start="20260305200500 +0000" stop="20260305203000 +0000" channel="180271">
+    <title lang="fr">Les soeurs de sang</title>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305210000 +0000" channel="180271">
+    <title lang="fr">Casting pour maman</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305214500 +0000" channel="180271">
+    <title lang="fr">Madam Secretary - Saison 3</title>
+  </programme>
+  <programme start="20260305214500 +0000" stop="20260305220000 +0000" channel="180271">
+    <title lang="fr">Sur le net</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180271">
+    <title lang="fr">Secrets de vies</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260305233000 +0000" channel="180271">
+    <title lang="fr">Capitales africaines : A Yaoundé</title>
+  </programme>
+  <programme start="20260305233000 +0000" stop="20260305235000 +0000" channel="180271">
+    <title lang="fr">JT 19H30</title>
+  </programme>
+  <programme start="20260305235000 +0000" stop="20260306000500 +0000" channel="180271">
+    <title lang="fr">Sublime touche</title>
+  </programme>
+  <programme start="20260306000500 +0000" stop="20260306003500 +0000" channel="180271">
+    <title lang="fr">Voyage de rêve</title>
+  </programme>
+  <programme start="20260306003500 +0000" stop="20260306010500 +0000" channel="180271">
+    <title lang="fr">Casting pour maman</title>
+  </programme>
+  <programme start="20260306010500 +0000" stop="20260306015000 +0000" channel="180271">
+    <title lang="fr">Le prix de la passion</title>
+  </programme>
+  <programme start="20260306015000 +0000" stop="20260306023500 +0000" channel="180271">
+    <title lang="fr">Madam Secretary - Saison 3</title>
+  </programme>
+  <programme start="20260306023500 +0000" stop="20260306032000 +0000" channel="180271">
+    <title lang="fr">Avant avant</title>
+  </programme>
+  <programme start="20260306032000 +0000" stop="20260306053000 +0000" channel="180271">
+    <title lang="fr">Fermeture d'antenne</title>
+  </programme>
+  <programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="180271">
+    <title lang="fr">Ouverture d'antenne</title>
+  </programme>
   <channel id="180761">
     <display-name>LA3</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302070000 +0000" channel="180761">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302070000 +0000" stop="20260302073000 +0000" channel="180761">
-    <title lang="fr">Flashpoint</title>
-  </programme>
-  <programme start="20260302073000 +0000" stop="20260302090000 +0000" channel="180761">
-    <title lang="fr">La grande team</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302094500 +0000" channel="180761">
-    <title lang="fr">Au rythme de l'amour</title>
-  </programme>
-  <programme start="20260302094500 +0000" stop="20260302100000 +0000" channel="180761">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302104500 +0000" channel="180761">
-    <title lang="fr">L'heure des tchatcheurs</title>
-  </programme>
-  <programme start="20260302104500 +0000" stop="20260302111500 +0000" channel="180761">
-    <title lang="fr">Hommage</title>
-  </programme>
-  <programme start="20260302111500 +0000" stop="20260302123000 +0000" channel="180761">
-    <title lang="fr">Le Mid'Yves</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302131500 +0000" channel="180761">
-    <title lang="fr">Rêves en or</title>
-  </programme>
-  <programme start="20260302131500 +0000" stop="20260302133000 +0000" channel="180761">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302133000 +0000" stop="20260302143000 +0000" channel="180761">
-    <title lang="fr">Emission polémique</title>
-  </programme>
-  <programme start="20260302143000 +0000" stop="20260302151500 +0000" channel="180761">
-    <title lang="fr">Au rythme de l'amour</title>
-  </programme>
-  <programme start="20260302151500 +0000" stop="20260302171500 +0000" channel="180761">
-    <title lang="fr">Basket-ball : Coupe du monde</title>
-  </programme>
-  <programme start="20260302171500 +0000" stop="20260302182500 +0000" channel="180761">
-    <title lang="fr">Le Mid'Yves</title>
-  </programme>
-  <programme start="20260302182500 +0000" stop="20260302183000 +0000" channel="180761">
-    <title lang="fr">Grand JT : music &amp; sport</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302193000 +0000" channel="180761">
-    <title lang="fr">Emission polémique</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302201500 +0000" channel="180761">
-    <title lang="fr">L'heure des tchatcheurs</title>
-  </programme>
-  <programme start="20260302201500 +0000" stop="20260302203000 +0000" channel="180761">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302203000 +0000" stop="20260302215500 +0000" channel="180761">
-    <title lang="fr">La grande team</title>
-  </programme>
-  <programme start="20260302215500 +0000" stop="20260302220000 +0000" channel="180761">
-    <title lang="fr">Grand JT : music &amp; sport</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302224500 +0000" channel="180761">
-    <title lang="fr">Rêves en or</title>
-  </programme>
-  <programme start="20260302224500 +0000" stop="20260302234500 +0000" channel="180761">
-    <title lang="fr">Emission polémique</title>
-  </programme>
-  <programme start="20260302234500 +0000" stop="20260303003000 +0000" channel="180761">
-    <title lang="fr">Au rythme de l'amour</title>
-  </programme>
-  <programme start="20260303003000 +0000" stop="20260303014500 +0000" channel="180761">
-    <title lang="fr">Le Mid'Yves</title>
-  </programme>
-  <programme start="20260303014500 +0000" stop="20260303023000 +0000" channel="180761">
-    <title lang="fr">L'heure des tchatcheurs</title>
-  </programme>
-  <programme start="20260303023000 +0000" stop="20260303043000 +0000" channel="180761">
-    <title lang="fr">Basket-ball : Coupe du monde</title>
-  </programme>
-  <programme start="20260303043000 +0000" stop="20260303050000 +0000" channel="180761">
-    <title lang="fr">Hommage</title>
-  </programme>
-  <programme start="20260303050000 +0000" stop="20260303055800 +0000" channel="180761">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260303055800 +0000" stop="20260303060000 +0000" channel="180761">
-    <title lang="fr">Ouverture d'antenne</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303070000 +0000" channel="180761">
     <title lang="fr">Playlist</title>
   </programme>
@@ -898,7 +688,7 @@
     <title lang="fr">Au rythme de l'amour</title>
   </programme>
   <programme start="20260303151500 +0000" stop="20260303171500 +0000" channel="180761">
-    <title lang="fr">Basket-ball : Coupe du monde</title>
+    <title lang="fr">Football : Ligue des champions de la CAF</title>
   </programme>
   <programme start="20260303171500 +0000" stop="20260303182500 +0000" channel="180761">
     <title lang="fr">Le Mid'Yves</title>
@@ -937,7 +727,7 @@
     <title lang="fr">L'heure des tchatcheurs</title>
   </programme>
   <programme start="20260304023000 +0000" stop="20260304043000 +0000" channel="180761">
-    <title lang="fr">Basket-ball : Coupe du monde</title>
+    <title lang="fr">Football : Ligue des champions de la CAF</title>
   </programme>
   <programme start="20260304043000 +0000" stop="20260304050000 +0000" channel="180761">
     <title lang="fr">Icônes nationales</title>
@@ -985,7 +775,7 @@
     <title lang="fr">Au rythme de l'amour</title>
   </programme>
   <programme start="20260304151500 +0000" stop="20260304171500 +0000" channel="180761">
-    <title lang="fr">Basket-ball : Coupe du monde</title>
+    <title lang="fr">Football : Coupe de la Confédération de la CAF</title>
   </programme>
   <programme start="20260304171500 +0000" stop="20260304182500 +0000" channel="180761">
     <title lang="fr">Le Mid'Yves</title>
@@ -1024,7 +814,7 @@
     <title lang="fr">L'heure des tchatcheurs</title>
   </programme>
   <programme start="20260305023000 +0000" stop="20260305043000 +0000" channel="180761">
-    <title lang="fr">Basket-ball : Coupe du monde</title>
+    <title lang="fr">Football : Coupe de la Confédération de la CAF</title>
   </programme>
   <programme start="20260305043000 +0000" stop="20260305050000 +0000" channel="180761">
     <title lang="fr">Against the odds</title>
@@ -1035,222 +825,96 @@
   <programme start="20260305055800 +0000" stop="20260305060000 +0000" channel="180761">
     <title lang="fr">Ouverture d'antenne</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305073000 +0000" channel="180761">
+    <title lang="fr">Club Land</title>
+  </programme>
+  <programme start="20260305073000 +0000" stop="20260305090000 +0000" channel="180761">
+    <title lang="fr">La grande team</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305094500 +0000" channel="180761">
+    <title lang="fr">Au rythme de l'amour</title>
+  </programme>
+  <programme start="20260305094500 +0000" stop="20260305100000 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305104500 +0000" channel="180761">
+    <title lang="fr">L'heure des tchatcheurs</title>
+  </programme>
+  <programme start="20260305104500 +0000" stop="20260305111500 +0000" channel="180761">
+    <title lang="fr">Dans l'intimité</title>
+  </programme>
+  <programme start="20260305111500 +0000" stop="20260305123000 +0000" channel="180761">
+    <title lang="fr">Le Mid'Yves</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305131500 +0000" channel="180761">
+    <title lang="fr">Rêves en or</title>
+  </programme>
+  <programme start="20260305131500 +0000" stop="20260305133000 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260305133000 +0000" stop="20260305143000 +0000" channel="180761">
+    <title lang="fr">Emission polémique</title>
+  </programme>
+  <programme start="20260305143000 +0000" stop="20260305151500 +0000" channel="180761">
+    <title lang="fr">Au rythme de l'amour</title>
+  </programme>
+  <programme start="20260305151500 +0000" stop="20260305171500 +0000" channel="180761">
+    <title lang="fr">Football : Ligue 1 Ivoirienne</title>
+  </programme>
+  <programme start="20260305171500 +0000" stop="20260305182500 +0000" channel="180761">
+    <title lang="fr">Le Mid'Yves</title>
+  </programme>
+  <programme start="20260305182500 +0000" stop="20260305183000 +0000" channel="180761">
+    <title lang="fr">Grand JT : music &amp; sport</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305193000 +0000" channel="180761">
+    <title lang="fr">Emission polémique</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305201500 +0000" channel="180761">
+    <title lang="fr">L'heure des tchatcheurs</title>
+  </programme>
+  <programme start="20260305201500 +0000" stop="20260305203000 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305215500 +0000" channel="180761">
+    <title lang="fr">La grande team</title>
+  </programme>
+  <programme start="20260305215500 +0000" stop="20260305220000 +0000" channel="180761">
+    <title lang="fr">Grand JT : music &amp; sport</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305224500 +0000" channel="180761">
+    <title lang="fr">Rêves en or</title>
+  </programme>
+  <programme start="20260305224500 +0000" stop="20260305234500 +0000" channel="180761">
+    <title lang="fr">Emission polémique</title>
+  </programme>
+  <programme start="20260305234500 +0000" stop="20260306003000 +0000" channel="180761">
+    <title lang="fr">Au rythme de l'amour</title>
+  </programme>
+  <programme start="20260306003000 +0000" stop="20260306014500 +0000" channel="180761">
+    <title lang="fr">Le Mid'Yves</title>
+  </programme>
+  <programme start="20260306014500 +0000" stop="20260306023000 +0000" channel="180761">
+    <title lang="fr">L'heure des tchatcheurs</title>
+  </programme>
+  <programme start="20260306023000 +0000" stop="20260306043000 +0000" channel="180761">
+    <title lang="fr">Football : Ligue 1 Ivoirienne</title>
+  </programme>
+  <programme start="20260306043000 +0000" stop="20260306050000 +0000" channel="180761">
+    <title lang="fr">Dans l'intimité</title>
+  </programme>
+  <programme start="20260306050000 +0000" stop="20260306055800 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260306055800 +0000" stop="20260306060000 +0000" channel="180761">
+    <title lang="fr">Ouverture d'antenne</title>
+  </programme>
   <channel id="180715">
     <display-name>NCI</display-name>
   </channel>
-  <programme start="20260302070000 +0000" stop="20260302073000 +0000" channel="180715">
-    <title lang="fr">N'mix</title>
-  </programme>
-  <programme start="20260302073000 +0000" stop="20260302073500 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302073500 +0000" stop="20260302080000 +0000" channel="180715">
-    <title lang="fr">Nostalgie Hits</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302084000 +0000" channel="180715">
-    <title lang="fr">Ivory Best</title>
-  </programme>
-  <programme start="20260302084000 +0000" stop="20260302084500 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302084500 +0000" stop="20260302094500 +0000" channel="180715">
-    <title lang="fr">NCI 360</title>
-  </programme>
-  <programme start="20260302094500 +0000" stop="20260302102000 +0000" channel="180715">
-    <title lang="fr">NCI 360</title>
-  </programme>
-  <programme start="20260302102000 +0000" stop="20260302105500 +0000" channel="180715">
-    <title lang="fr">NCI 360</title>
-  </programme>
-  <programme start="20260302105500 +0000" stop="20260302110000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302112500 +0000" channel="180715">
-    <title lang="fr">Castes, les amours interdites</title>
-  </programme>
-  <programme start="20260302112500 +0000" stop="20260302113000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302113000 +0000" stop="20260302124500 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260302124500 +0000" stop="20260302125000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302125000 +0000" stop="20260302130000 +0000" channel="180715">
-    <title lang="fr">Nci news en images</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302130500 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302130500 +0000" stop="20260302132500 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260302132500 +0000" stop="20260302134000 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260302134000 +0000" stop="20260302140000 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302140500 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302140500 +0000" stop="20260302143000 +0000" channel="180715">
-    <title lang="fr">Une note d'espoir</title>
-  </programme>
-  <programme start="20260302143000 +0000" stop="20260302145500 +0000" channel="180715">
-    <title lang="fr">Une note d'espoir</title>
-  </programme>
-  <programme start="20260302145500 +0000" stop="20260302150000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302152500 +0000" channel="180715">
-    <title lang="fr">Castes, les amours interdites</title>
-  </programme>
-  <programme start="20260302152500 +0000" stop="20260302153000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302155600 +0000" channel="180715">
-    <title lang="fr">Kiu</title>
-  </programme>
-  <programme start="20260302155600 +0000" stop="20260302160000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302163700 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260302163700 +0000" stop="20260302165700 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260302165700 +0000" stop="20260302171500 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260302171500 +0000" stop="20260302173000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302173000 +0000" stop="20260302175000 +0000" channel="180715">
-    <title lang="fr">Le coffre magic</title>
-  </programme>
-  <programme start="20260302175000 +0000" stop="20260302181000 +0000" channel="180715">
-    <title lang="fr">Le coffre magic</title>
-  </programme>
-  <programme start="20260302181000 +0000" stop="20260302183000 +0000" channel="180715">
-    <title lang="fr">Le coffre magic</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302184500 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260302184500 +0000" stop="20260302190000 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302191500 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260302191500 +0000" stop="20260302193000 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302195000 +0000" channel="180715">
-    <title lang="fr">La quotidienne info</title>
-  </programme>
-  <programme start="20260302195000 +0000" stop="20260302201000 +0000" channel="180715">
-    <title lang="fr">NCI News</title>
-  </programme>
-  <programme start="20260302201000 +0000" stop="20260302211500 +0000" channel="180715">
-    <title lang="fr">La quotidienne info</title>
-  </programme>
-  <programme start="20260302211500 +0000" stop="20260302211700 +0000" channel="180715">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302211700 +0000" stop="20260302213000 +0000" channel="180715">
-    <title lang="fr">NCI Sport Express</title>
-  </programme>
-  <programme start="20260302213000 +0000" stop="20260302215600 +0000" channel="180715">
-    <title lang="fr">Castes, les amours interdites</title>
-  </programme>
-  <programme start="20260302215600 +0000" stop="20260302220000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302222600 +0000" channel="180715">
-    <title lang="fr">Blog</title>
-  </programme>
-  <programme start="20260302222600 +0000" stop="20260302225200 +0000" channel="180715">
-    <title lang="fr">Blog</title>
-  </programme>
-  <programme start="20260302225200 +0000" stop="20260302230000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260302232000 +0000" channel="180715">
-    <title lang="fr">NCI News</title>
-  </programme>
-  <programme start="20260302232000 +0000" stop="20260302232200 +0000" channel="180715">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302232200 +0000" stop="20260302233000 +0000" channel="180715">
-    <title lang="fr">Comblage</title>
-  </programme>
-  <programme start="20260302233000 +0000" stop="20260302235000 +0000" channel="180715">
-    <title lang="fr">Le coffre magic</title>
-  </programme>
-  <programme start="20260302235000 +0000" stop="20260303001000 +0000" channel="180715">
-    <title lang="fr">Le coffre magic</title>
-  </programme>
-  <programme start="20260303001000 +0000" stop="20260303003000 +0000" channel="180715">
-    <title lang="fr">Le coffre magic</title>
-  </programme>
-  <programme start="20260303003000 +0000" stop="20260303004500 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303004500 +0000" stop="20260303010000 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303010000 +0000" stop="20260303011500 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303011500 +0000" stop="20260303013000 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303013000 +0000" stop="20260303015000 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260303015000 +0000" stop="20260303020500 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260303020500 +0000" stop="20260303022500 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260303022500 +0000" stop="20260303030200 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260303030200 +0000" stop="20260303032200 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260303032200 +0000" stop="20260303034000 +0000" channel="180715">
-    <title lang="fr">Showbuzz</title>
-  </programme>
-  <programme start="20260303034000 +0000" stop="20260303035500 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303035500 +0000" stop="20260303041000 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303041000 +0000" stop="20260303042500 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303042500 +0000" stop="20260303044000 +0000" channel="180715">
-    <title lang="fr">La télé d'ici</title>
-  </programme>
-  <programme start="20260303044000 +0000" stop="20260303050000 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260303050000 +0000" stop="20260303051500 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260303051500 +0000" stop="20260303053500 +0000" channel="180715">
-    <title lang="fr">Les femmes d'ici</title>
-  </programme>
-  <programme start="20260303053500 +0000" stop="20260303070000 +0000" channel="180715">
-    <title lang="fr">Clips</title>
-  </programme>
   <programme start="20260303070000 +0000" stop="20260303073000 +0000" channel="180715">
     <title lang="fr">N'mix</title>
   </programme>
@@ -1704,93 +1368,231 @@
   <programme start="20260305053500 +0000" stop="20260305070000 +0000" channel="180715">
     <title lang="fr">Clips</title>
   </programme>
+  <programme start="20260305070000 +0000" stop="20260305073000 +0000" channel="180715">
+    <title lang="fr">N'mix</title>
+  </programme>
+  <programme start="20260305073000 +0000" stop="20260305073500 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305073500 +0000" stop="20260305080000 +0000" channel="180715">
+    <title lang="fr">Nostalgie Hits</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305083000 +0000" channel="180715">
+    <title lang="fr">Ivory Best</title>
+  </programme>
+  <programme start="20260305083000 +0000" stop="20260305085000 +0000" channel="180715">
+    <title lang="fr">La quotidienne info</title>
+  </programme>
+  <programme start="20260305085000 +0000" stop="20260305092000 +0000" channel="180715">
+    <title lang="fr">La quotidienne info</title>
+  </programme>
+  <programme start="20260305092000 +0000" stop="20260305094500 +0000" channel="180715">
+    <title lang="fr">La quotidienne info</title>
+  </programme>
+  <programme start="20260305094500 +0000" stop="20260305100000 +0000" channel="180715">
+    <title lang="fr">La quotidienne info</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305102000 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260305102000 +0000" stop="20260305103500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260305103500 +0000" stop="20260305105500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260305105500 +0000" stop="20260305110000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305112600 +0000" channel="180715">
+    <title lang="fr">Castes, les amours interdites</title>
+  </programme>
+  <programme start="20260305112600 +0000" stop="20260305113000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305113000 +0000" stop="20260305124500 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305125000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305125000 +0000" stop="20260305130000 +0000" channel="180715">
+    <title lang="fr">Nci news en images</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305130500 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305130500 +0000" stop="20260305132500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260305132500 +0000" stop="20260305134000 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260305134000 +0000" stop="20260305140000 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305140500 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305140500 +0000" stop="20260305143000 +0000" channel="180715">
+    <title lang="fr">Une note d'espoir</title>
+  </programme>
+  <programme start="20260305143000 +0000" stop="20260305145500 +0000" channel="180715">
+    <title lang="fr">Une note d'espoir</title>
+  </programme>
+  <programme start="20260305145500 +0000" stop="20260305150000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305152600 +0000" channel="180715">
+    <title lang="fr">Castes, les amours interdites</title>
+  </programme>
+  <programme start="20260305152600 +0000" stop="20260305153000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305155600 +0000" channel="180715">
+    <title lang="fr">Kiu</title>
+  </programme>
+  <programme start="20260305155600 +0000" stop="20260305160000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305163700 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260305163700 +0000" stop="20260305165700 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260305165700 +0000" stop="20260305171500 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260305171500 +0000" stop="20260305173000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305173000 +0000" stop="20260305175000 +0000" channel="180715">
+    <title lang="fr">Le coffre magic</title>
+  </programme>
+  <programme start="20260305175000 +0000" stop="20260305181000 +0000" channel="180715">
+    <title lang="fr">Le coffre magic</title>
+  </programme>
+  <programme start="20260305181000 +0000" stop="20260305183000 +0000" channel="180715">
+    <title lang="fr">Le coffre magic</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305184500 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260305184500 +0000" stop="20260305190000 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305191500 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260305191500 +0000" stop="20260305193000 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305195000 +0000" channel="180715">
+    <title lang="fr">La quotidienne info</title>
+  </programme>
+  <programme start="20260305195000 +0000" stop="20260305201000 +0000" channel="180715">
+    <title lang="fr">NCI News</title>
+  </programme>
+  <programme start="20260305201000 +0000" stop="20260305211500 +0000" channel="180715">
+    <title lang="fr">La quotidienne info</title>
+  </programme>
+  <programme start="20260305211500 +0000" stop="20260305211700 +0000" channel="180715">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305211700 +0000" stop="20260305213000 +0000" channel="180715">
+    <title lang="fr">NCI sport news</title>
+  </programme>
+  <programme start="20260305213000 +0000" stop="20260305215600 +0000" channel="180715">
+    <title lang="fr">Castes, les amours interdites</title>
+  </programme>
+  <programme start="20260305215600 +0000" stop="20260305220000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305222600 +0000" channel="180715">
+    <title lang="fr">Blog</title>
+  </programme>
+  <programme start="20260305222600 +0000" stop="20260305225200 +0000" channel="180715">
+    <title lang="fr">Blog</title>
+  </programme>
+  <programme start="20260305225200 +0000" stop="20260305230000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260305232000 +0000" channel="180715">
+    <title lang="fr">NCI News</title>
+  </programme>
+  <programme start="20260305232000 +0000" stop="20260305232200 +0000" channel="180715">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305232200 +0000" stop="20260305233000 +0000" channel="180715">
+    <title lang="fr">Comblage</title>
+  </programme>
+  <programme start="20260305233000 +0000" stop="20260305235000 +0000" channel="180715">
+    <title lang="fr">Le coffre magic</title>
+  </programme>
+  <programme start="20260305235000 +0000" stop="20260306001000 +0000" channel="180715">
+    <title lang="fr">Le coffre magic</title>
+  </programme>
+  <programme start="20260306001000 +0000" stop="20260306003000 +0000" channel="180715">
+    <title lang="fr">Le coffre magic</title>
+  </programme>
+  <programme start="20260306003000 +0000" stop="20260306004500 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306004500 +0000" stop="20260306010000 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306011500 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306011500 +0000" stop="20260306013000 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306013000 +0000" stop="20260306015000 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260306015000 +0000" stop="20260306020500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260306020500 +0000" stop="20260306022500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260306022500 +0000" stop="20260306030200 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260306030200 +0000" stop="20260306032200 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260306032200 +0000" stop="20260306034000 +0000" channel="180715">
+    <title lang="fr">Showbuzz</title>
+  </programme>
+  <programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306035500 +0000" stop="20260306041000 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306041000 +0000" stop="20260306042500 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306042500 +0000" stop="20260306044000 +0000" channel="180715">
+    <title lang="fr">La télé d'ici</title>
+  </programme>
+  <programme start="20260306044000 +0000" stop="20260306050000 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260306050000 +0000" stop="20260306051500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260306051500 +0000" stop="20260306053500 +0000" channel="180715">
+    <title lang="fr">Les femmes d'ici</title>
+  </programme>
+  <programme start="20260306053500 +0000" stop="20260306070000 +0000" channel="180715">
+    <title lang="fr">Clips</title>
+  </programme>
   <channel id="180762">
     <display-name>LIFE TV</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="180762">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="180762">
-    <title lang="fr">Le Club</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302093000 +0000" channel="180762">
-    <title lang="fr">Le Grand chaud</title>
-  </programme>
-  <programme start="20260302093000 +0000" stop="20260302100000 +0000" channel="180762">
-    <title lang="fr">Biama city</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302101500 +0000" channel="180762">
-    <title lang="fr">Case Commerciale</title>
-  </programme>
-  <programme start="20260302101500 +0000" stop="20260302113000 +0000" channel="180762">
-    <title lang="fr">Le grand talk</title>
-  </programme>
-  <programme start="20260302113000 +0000" stop="20260302124500 +0000" channel="180762">
-    <title lang="fr">Willy à Midi</title>
-  </programme>
-  <programme start="20260302124500 +0000" stop="20260302130000 +0000" channel="180762">
-    <title lang="fr">Journal Télévisé</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="180762">
-    <title lang="fr">Le vrai match</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="180762">
-    <title lang="fr">Le Club</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302153000 +0000" channel="180762">
-    <title lang="fr">Le Grand chaud</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302163000 +0000" channel="180762">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302163000 +0000" stop="20260302170000 +0000" channel="180762">
-    <title lang="fr">Biama city</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302171500 +0000" channel="180762">
-    <title lang="fr">Case Commerciale</title>
-  </programme>
-  <programme start="20260302171500 +0000" stop="20260302183000 +0000" channel="180762">
-    <title lang="fr">Willy à Midi</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302190000 +0000" channel="180762">
-    <title lang="fr">Le grand talk</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302194500 +0000" channel="180762">
-    <title lang="fr">Le grand talk</title>
-  </programme>
-  <programme start="20260302194500 +0000" stop="20260302200000 +0000" channel="180762">
-    <title lang="fr">Journal Télévisé</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302203000 +0000" channel="180762">
-    <title lang="fr">Le grand talk</title>
-  </programme>
-  <programme start="20260302203000 +0000" stop="20260302210000 +0000" channel="180762">
-    <title lang="fr">Biama city</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302214500 +0000" channel="180762">
-    <title lang="fr">Petit poteau politique</title>
-  </programme>
-  <programme start="20260302214500 +0000" stop="20260302220000 +0000" channel="180762">
-    <title lang="fr">Programmes Courts</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180762">
-    <title lang="fr">Le vrai match</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303001500 +0000" channel="180762">
-    <title lang="fr">Willy à Midi</title>
-  </programme>
-  <programme start="20260303001500 +0000" stop="20260303011500 +0000" channel="180762">
-    <title lang="fr">Le grand talk</title>
-  </programme>
-  <programme start="20260303011500 +0000" stop="20260303014500 +0000" channel="180762">
-    <title lang="fr">Biama city</title>
-  </programme>
-  <programme start="20260303014500 +0000" stop="20260303024500 +0000" channel="180762">
-    <title lang="fr">Le Club</title>
-  </programme>
-  <programme start="20260303024500 +0000" stop="20260303060000 +0000" channel="180762">
-    <title lang="fr">Musique</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303080000 +0000" channel="180762">
     <title lang="fr">Musique</title>
   </programme>
@@ -1962,66 +1764,93 @@
   <programme start="20260305024500 +0000" stop="20260305060000 +0000" channel="180762">
     <title lang="fr">Musique</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305080000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305090000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305093000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260305093000 +0000" stop="20260305100000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305101500 +0000" channel="180762">
+    <title lang="fr">Case Commerciale</title>
+  </programme>
+  <programme start="20260305101500 +0000" stop="20260305113000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260305113000 +0000" stop="20260305124500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305130000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="180762">
+    <title lang="fr">Le vrai match</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="180762">
+    <title lang="fr">Le Grand chaud</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305163000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305163000 +0000" stop="20260305170000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305171500 +0000" channel="180762">
+    <title lang="fr">Case Commerciale</title>
+  </programme>
+  <programme start="20260305171500 +0000" stop="20260305183000 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305194500 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260305194500 +0000" stop="20260305200000 +0000" channel="180762">
+    <title lang="fr">Journal Télévisé</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305203000 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305210000 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305214500 +0000" channel="180762">
+    <title lang="fr">Petit poteau politique</title>
+  </programme>
+  <programme start="20260305214500 +0000" stop="20260305220000 +0000" channel="180762">
+    <title lang="fr">Programmes Courts</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180762">
+    <title lang="fr">Le vrai match</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306001500 +0000" channel="180762">
+    <title lang="fr">Willy à Midi</title>
+  </programme>
+  <programme start="20260306001500 +0000" stop="20260306011500 +0000" channel="180762">
+    <title lang="fr">Le grand talk</title>
+  </programme>
+  <programme start="20260306011500 +0000" stop="20260306014500 +0000" channel="180762">
+    <title lang="fr">Biama city</title>
+  </programme>
+  <programme start="20260306014500 +0000" stop="20260306024500 +0000" channel="180762">
+    <title lang="fr">Le Club</title>
+  </programme>
+  <programme start="20260306024500 +0000" stop="20260306060000 +0000" channel="180762">
+    <title lang="fr">Musique</title>
+  </programme>
   <channel id="180085">
     <display-name>REFLET TV</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302101800 +0000" channel="180085">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302101800 +0000" stop="20260302112800 +0000" channel="180085">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302112800 +0000" stop="20260302113000 +0000" channel="180085">
-    <title lang="fr">Pub et annonce programme</title>
-  </programme>
-  <programme start="20260302113000 +0000" stop="20260302124800 +0000" channel="180085">
-    <title lang="fr">On prend le contrôle</title>
-  </programme>
-  <programme start="20260302124800 +0000" stop="20260302142700 +0000" channel="180085">
-    <title lang="fr">Something Wicked</title>
-  </programme>
-  <programme start="20260302142700 +0000" stop="20260302143000 +0000" channel="180085">
-    <title lang="fr">Pub et annonce programme</title>
-  </programme>
-  <programme start="20260302143000 +0000" stop="20260302163300 +0000" channel="180085">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302163300 +0000" stop="20260302183300 +0000" channel="180085">
-    <title lang="fr">Playlist</title>
-  </programme>
-  <programme start="20260302183300 +0000" stop="20260302183400 +0000" channel="180085">
-    <title lang="fr">Pub et annonce programme</title>
-  </programme>
-  <programme start="20260302183400 +0000" stop="20260302190300 +0000" channel="180085">
-    <title lang="fr">Edukid</title>
-  </programme>
-  <programme start="20260302190300 +0000" stop="20260302192900 +0000" channel="180085">
-    <title lang="fr">La revanche d'Ana</title>
-  </programme>
-  <programme start="20260302192900 +0000" stop="20260302193000 +0000" channel="180085">
-    <title lang="fr">Pub et annonce programme</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302195000 +0000" channel="180085">
-    <title lang="fr">Le journal télévisé</title>
-  </programme>
-  <programme start="20260302195000 +0000" stop="20260302195300 +0000" channel="180085">
-    <title lang="fr">Pub et annonce programme</title>
-  </programme>
-  <programme start="20260302195300 +0000" stop="20260302200300 +0000" channel="180085">
-    <title lang="fr">Heure africaine</title>
-  </programme>
-  <programme start="20260302200300 +0000" stop="20260302200600 +0000" channel="180085">
-    <title lang="fr">Pub et annonce programme</title>
-  </programme>
-  <programme start="20260302200600 +0000" stop="20260302213600 +0000" channel="180085">
-    <title lang="fr">Outfall</title>
-  </programme>
-  <programme start="20260302213600 +0000" stop="20260302215900 +0000" channel="180085">
-    <title lang="fr">Le journal télévisé</title>
-  </programme>
-  <programme start="20260302215900 +0000" stop="20260303060000 +0000" channel="180085">
-    <title lang="fr">Playlist</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303113000 +0000" channel="180085">
     <title lang="fr">Playlist</title>
   </programme>
@@ -2136,45 +1965,66 @@
   <programme start="20260304234600 +0000" stop="20260305060000 +0000" channel="180085">
     <title lang="fr">Playlist</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305112500 +0000" channel="180085">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260305112500 +0000" stop="20260305113000 +0000" channel="180085">
+    <title lang="fr">Pub et annonce programme</title>
+  </programme>
+  <programme start="20260305113000 +0000" stop="20260305124800 +0000" channel="180085">
+    <title lang="fr">On prend le contrôle</title>
+  </programme>
+  <programme start="20260305124800 +0000" stop="20260305145800 +0000" channel="180085">
+    <title lang="fr">The personal assistant</title>
+  </programme>
+  <programme start="20260305145800 +0000" stop="20260305150100 +0000" channel="180085">
+    <title lang="fr">Pub et annonce programme</title>
+  </programme>
+  <programme start="20260305150100 +0000" stop="20260305153000 +0000" channel="180085">
+    <title lang="fr">Urban Flow</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305183300 +0000" channel="180085">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260305183300 +0000" stop="20260305185900 +0000" channel="180085">
+    <title lang="fr">Edukid</title>
+  </programme>
+  <programme start="20260305185900 +0000" stop="20260305190000 +0000" channel="180085">
+    <title lang="fr">Pub et annonce programme</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305192600 +0000" channel="180085">
+    <title lang="fr">La revanche d'Ana</title>
+  </programme>
+  <programme start="20260305192600 +0000" stop="20260305193000 +0000" channel="180085">
+    <title lang="fr">Pub et annonce programme</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305195000 +0000" channel="180085">
+    <title lang="fr">Le journal télévisé</title>
+  </programme>
+  <programme start="20260305195000 +0000" stop="20260305195500 +0000" channel="180085">
+    <title lang="fr">Pub et annonce programme</title>
+  </programme>
+  <programme start="20260305195500 +0000" stop="20260305200500 +0000" channel="180085">
+    <title lang="fr">Heure africaine</title>
+  </programme>
+  <programme start="20260305200500 +0000" stop="20260305200800 +0000" channel="180085">
+    <title lang="fr">Pub et annonce programme</title>
+  </programme>
+  <programme start="20260305200800 +0000" stop="20260305215000 +0000" channel="180085">
+    <title lang="fr">Social Killer</title>
+  </programme>
+  <programme start="20260305215000 +0000" stop="20260305221900 +0000" channel="180085">
+    <title lang="fr">Défi cuisine</title>
+  </programme>
+  <programme start="20260305221900 +0000" stop="20260305224200 +0000" channel="180085">
+    <title lang="fr">Le journal télévisé</title>
+  </programme>
+  <programme start="20260305224200 +0000" stop="20260306060000 +0000" channel="180085">
+    <title lang="fr">Playlist</title>
+  </programme>
   <channel id="180580">
     <display-name>IVOIRE TV Music</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302100000 +0000" channel="180580">
-    <title lang="fr">Mix moi ça : Remix DJ</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="180580">
-    <title lang="fr">Kel Wé</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302150000 +0000" channel="180580">
-    <title lang="fr">Dédicace Selfie</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302170000 +0000" channel="180580">
-    <title lang="fr">Rumba : sélection congolaise</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180580">
-    <title lang="fr">Classement des meilleurs Hits</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180580">
-    <title lang="fr">Kel Wé</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="180580">
-    <title lang="fr">Sketch satirique</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="180580">
-    <title lang="fr">Playlist : Hit tube et débutant</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180580">
-    <title lang="fr">3 Hits : les 3 meilleurs Hits</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180580">
-    <title lang="fr">Mix moi ça : Remix DJ</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="180580">
-    <title lang="fr">Zouglou+, la sélection</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303060000 +0000" channel="180580">
-    <title lang="fr">Sélection musicale</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303100000 +0000" channel="180580">
     <title lang="fr">Mix moi ça : Remix DJ</title>
   </programme>
@@ -2250,129 +2100,48 @@
   <programme start="20260305000000 +0000" stop="20260305060000 +0000" channel="180580">
     <title lang="fr">Sélection musicale</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305100000 +0000" channel="180580">
+    <title lang="fr">Mix moi ça : Remix DJ</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="180580">
+    <title lang="fr">Kel Wé</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="180580">
+    <title lang="fr">Rumba : sélection congolaise</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305150000 +0000" channel="180580">
+    <title lang="fr">Sketch satirique</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="180580">
+    <title lang="fr">Coupe décalé : sélection DJ</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180580">
+    <title lang="fr">Back to Life : hits rétro</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="180580">
+    <title lang="fr">Classement des meilleurs Hits</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305200000 +0000" channel="180580">
+    <title lang="fr">Kel Wé</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="180580">
+    <title lang="fr">3 Hits : les 3 meilleurs Hits</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="180580">
+    <title lang="fr">Une star, une histoire</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180580">
+    <title lang="fr">Mix moi ça : Remix DJ</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="180580">
+    <title lang="fr">New : nouveautés musicales</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306060000 +0000" channel="180580">
+    <title lang="fr">Sélection musicale</title>
+  </programme>
   <channel id="180076">
     <display-name>RTS 1</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302063000 +0000" channel="180076">
-    <title lang="fr">La voie du croyant</title>
-  </programme>
-  <programme start="20260302063000 +0000" stop="20260302080000 +0000" channel="180076">
-    <title lang="fr">Kenkélibaa</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="180076">
-    <title lang="fr">Interlude</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302103000 +0000" channel="180076">
-    <title lang="fr">Kenkélibaa</title>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302104500 +0000" channel="180076">
-    <title lang="fr">Journal Balante</title>
-  </programme>
-  <programme start="20260302104500 +0000" stop="20260302110000 +0000" channel="180076">
-    <title lang="fr">Journal Manjack</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302120000 +0000" channel="180076">
-    <title lang="fr">Jeek Ak Keureum</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="180076">
-    <title lang="fr">Reeni koom koom</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302124500 +0000" channel="180076">
-    <title lang="fr">Journal en Joola</title>
-  </programme>
-  <programme start="20260302124500 +0000" stop="20260302130000 +0000" channel="180076">
-    <title lang="fr">Interlude</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302133000 +0000" channel="180076">
-    <title lang="fr">Journal</title>
-  </programme>
-  <programme start="20260302133000 +0000" stop="20260302140000 +0000" channel="180076">
-    <title lang="fr">Xibaar yi</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302141500 +0000" channel="180076">
-    <title lang="fr">Journal en Mandinka</title>
-  </programme>
-  <programme start="20260302141500 +0000" stop="20260302150000 +0000" channel="180076">
-    <title lang="fr">Point de vue</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302153000 +0000" channel="180076">
-    <title lang="fr">Magazine en langue nationale</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302154500 +0000" channel="180076">
-    <title lang="fr">Journal en Bassari</title>
-  </programme>
-  <programme start="20260302154500 +0000" stop="20260302160000 +0000" channel="180076">
-    <title lang="fr">Journal Puulaar</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="180076">
-    <title lang="fr">Jeek Ak Keureum</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302171500 +0000" channel="180076">
-    <title lang="fr">Journal en Soninké</title>
-  </programme>
-  <programme start="20260302171500 +0000" stop="20260302173000 +0000" channel="180076">
-    <title lang="fr">Journal en Sérère</title>
-  </programme>
-  <programme start="20260302173000 +0000" stop="20260302180000 +0000" channel="180076">
-    <title lang="fr">Programme non communiqué</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302183000 +0000" channel="180076">
-    <title lang="fr">Waxal way…</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302190000 +0000" channel="180076">
-    <title lang="fr">Interlude</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302193000 +0000" channel="180076">
-    <title lang="fr">Xibaar yi</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302195500 +0000" channel="180076">
-    <title lang="fr">Interlude</title>
-  </programme>
-  <programme start="20260302195500 +0000" stop="20260302200000 +0000" channel="180076">
-    <title lang="fr">Publicité</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302205000 +0000" channel="180076">
-    <title lang="fr">Journal + Météo</title>
-  </programme>
-  <programme start="20260302205000 +0000" stop="20260302210500 +0000" channel="180076">
-    <title lang="fr">Publicité</title>
-  </programme>
-  <programme start="20260302210500 +0000" stop="20260302213500 +0000" channel="180076">
-    <title lang="fr">Guew Bii</title>
-  </programme>
-  <programme start="20260302213500 +0000" stop="20260302223500 +0000" channel="180076">
-    <title lang="fr">Galaxie sport</title>
-  </programme>
-  <programme start="20260302223500 +0000" stop="20260302230000 +0000" channel="180076">
-    <title lang="fr">Interlude</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="180076">
-    <title lang="fr">Journal du soir</title>
-  </programme>
-  <programme start="20260302233000 +0000" stop="20260303000000 +0000" channel="180076">
-    <title lang="fr">Xibaar yi</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="180076">
-    <title lang="fr">Jeek Ak Keureum</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303025000 +0000" channel="180076">
-    <title lang="fr">Journal 20h00 RTS</title>
-  </programme>
-  <programme start="20260303025000 +0000" stop="20260303042000 +0000" channel="180076">
-    <title lang="fr">Kenkélibaa</title>
-  </programme>
-  <programme start="20260303042000 +0000" stop="20260303045000 +0000" channel="180076">
-    <title lang="fr">Reeni koom koom</title>
-  </programme>
-  <programme start="20260303045000 +0000" stop="20260303052000 +0000" channel="180076">
-    <title lang="fr">Magazine en langue nationale</title>
-  </programme>
-  <programme start="20260303052000 +0000" stop="20260303053000 +0000" channel="180076">
-    <title lang="fr">Interlude</title>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="180076">
-    <title lang="fr">Al mizaan</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303063000 +0000" channel="180076">
     <title lang="fr">Récital Coran</title>
   </programme>
@@ -2619,72 +2388,135 @@
   <programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="180076">
     <title lang="fr">Xaima xam xam</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305063000 +0000" channel="180076">
+    <title lang="fr">Récital Coran</title>
+  </programme>
+  <programme start="20260305063000 +0000" stop="20260305080000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305090000 +0000" channel="180076">
+    <title lang="fr">Clubs des Sports</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305103000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260305103000 +0000" stop="20260305104500 +0000" channel="180076">
+    <title lang="fr">Journal Balante</title>
+  </programme>
+  <programme start="20260305104500 +0000" stop="20260305110000 +0000" channel="180076">
+    <title lang="fr">Journal en Mandjack</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305123000 +0000" channel="180076">
+    <title lang="fr">Le point</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305124500 +0000" channel="180076">
+    <title lang="fr">Journal en Joola</title>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305130000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="180076">
+    <title lang="fr">Journal 13h</title>
+  </programme>
+  <programme start="20260305133000 +0000" stop="20260305140000 +0000" channel="180076">
+    <title lang="fr">Journal Xibaar</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305141500 +0000" channel="180076">
+    <title lang="fr">Journal en Manding</title>
+  </programme>
+  <programme start="20260305141500 +0000" stop="20260305144500 +0000" channel="180076">
+    <title lang="fr">Guew Bii</title>
+  </programme>
+  <programme start="20260305144500 +0000" stop="20260305153000 +0000" channel="180076">
+    <title lang="fr">Clubs des Sports</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305154000 +0000" channel="180076">
+    <title lang="fr">Journal en Bassari</title>
+  </programme>
+  <programme start="20260305154000 +0000" stop="20260305160000 +0000" channel="180076">
+    <title lang="fr">Journal Puulaar</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305171500 +0000" channel="180076">
+    <title lang="fr">Journal en Soninké</title>
+  </programme>
+  <programme start="20260305171500 +0000" stop="20260305173000 +0000" channel="180076">
+    <title lang="fr">Journal en Sérère</title>
+  </programme>
+  <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="180076">
+    <title lang="fr">Appels religieux</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305183000 +0000" channel="180076">
+    <title lang="fr">Yeurmande</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305193000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305195500 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260305195500 +0000" stop="20260305200000 +0000" channel="180076">
+    <title lang="fr">Publicité</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305205000 +0000" channel="180076">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260305205000 +0000" stop="20260305210500 +0000" channel="180076">
+    <title lang="fr">Publi-reportages</title>
+  </programme>
+  <programme start="20260305210500 +0000" stop="20260305213000 +0000" channel="180076">
+    <title lang="fr">Al mizaan</title>
+  </programme>
+  <programme start="20260305213000 +0000" stop="20260305220000 +0000" channel="180076">
+    <title lang="fr">La voie du croyant</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180076">
+    <title lang="fr">Spécial Gamou</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260305233000 +0000" channel="180076">
+    <title lang="fr">Journal du soir</title>
+  </programme>
+  <programme start="20260305233000 +0000" stop="20260306000000 +0000" channel="180076">
+    <title lang="fr">Kaddug islam</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="180076">
+    <title lang="fr">Tontou Bataaxal</title>
+  </programme>
+  <programme start="20260306003000 +0000" stop="20260306010000 +0000" channel="180076">
+    <title lang="fr">Xibaar yi</title>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="180076">
+    <title lang="fr">Jeek Ak Keureum</title>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306025000 +0000" channel="180076">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260306025000 +0000" stop="20260306042000 +0000" channel="180076">
+    <title lang="fr">Kenkélibaa</title>
+  </programme>
+  <programme start="20260306042000 +0000" stop="20260306043000 +0000" channel="180076">
+    <title lang="fr">Interlude</title>
+  </programme>
+  <programme start="20260306043000 +0000" stop="20260306050000 +0000" channel="180076">
+    <title lang="fr">Al mizaan</title>
+  </programme>
+  <programme start="20260306050000 +0000" stop="20260306053000 +0000" channel="180076">
+    <title lang="fr">Kaddug islam</title>
+  </programme>
+  <programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="180076">
+    <title lang="fr">La voie du croyant</title>
+  </programme>
   <channel id="180122">
     <display-name>2STV</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302070000 +0000" channel="180122">
-    <title lang="fr">Tafsir</title>
-  </programme>
-  <programme start="20260302070000 +0000" stop="20260302083000 +0000" channel="180122">
-    <title lang="fr">Matin Bonheur</title>
-  </programme>
-  <programme start="20260302083000 +0000" stop="20260302100000 +0000" channel="180122">
-    <title lang="fr">Good Morning</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="180122">
-    <title lang="fr">Pencci Rewmi</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302130000 +0000" channel="180122">
-    <title lang="fr">11.13</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302133000 +0000" channel="180122">
-    <title lang="fr">Journal Xibaar</title>
-  </programme>
-  <programme start="20260302133000 +0000" stop="20260302140000 +0000" channel="180122">
-    <title lang="fr">Laye Diarra</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="180122">
-    <title lang="fr">Made in Africa</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302153000 +0000" channel="180122">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302160000 +0000" channel="180122">
-    <title lang="fr">Actu Pulaar</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="180122">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180122">
-    <title lang="fr">Mbecte Teranga</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180122">
-    <title lang="fr">Sénégal ca kanam</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="180122">
-    <title lang="fr">Journal Xibaar</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="180122">
-    <title lang="fr">Journal 20h</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180122">
-    <title lang="fr">Sport 2S</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302234500 +0000" channel="180122">
-    <title lang="fr">Débat du lundi</title>
-  </programme>
-  <programme start="20260302234500 +0000" stop="20260303011300 +0000" channel="180122">
-    <title lang="fr">Entre Temps</title>
-  </programme>
-  <programme start="20260303011300 +0000" stop="20260303031300 +0000" channel="180122">
-    <title lang="fr">11.13</title>
-  </programme>
-  <programme start="20260303031300 +0000" stop="20260303053000 +0000" channel="180122">
-    <title lang="fr">Albarakh</title>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="180122">
-    <title lang="fr">Albarakh</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303070000 +0000" channel="180122">
     <title lang="fr">Tafsir</title>
   </programme>
@@ -2790,63 +2622,69 @@
   <programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="180122">
     <title lang="fr">Albarakh</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="180122">
+    <title lang="fr">Tafsir</title>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305083000 +0000" channel="180122">
+    <title lang="fr">Matin Bonheur</title>
+  </programme>
+  <programme start="20260305083000 +0000" stop="20260305100000 +0000" channel="180122">
+    <title lang="fr">Good Morning</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="180122">
+    <title lang="fr">Pencci Rewmi</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="180122">
+    <title lang="fr">11.13</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="180122">
+    <title lang="fr">Journal Xibaar</title>
+  </programme>
+  <programme start="20260305133000 +0000" stop="20260305140000 +0000" channel="180122">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180122">
+    <title lang="fr">Aaru Mbed</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="180122">
+    <title lang="fr">Yernduu</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="180122">
+    <title lang="fr">Actu Pulaar</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180122">
+    <title lang="fr">After work</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="180122">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305203000 +0000" channel="180122">
+    <title lang="fr">Sénégal ca kanam</title>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305213000 +0000" channel="180122">
+    <title lang="fr">Urgence</title>
+  </programme>
+  <programme start="20260305213000 +0000" stop="20260305225000 +0000" channel="180122">
+    <title lang="fr">Plateau spécial</title>
+  </programme>
+  <programme start="20260305225000 +0000" stop="20260305235900 +0000" channel="180122">
+    <title lang="fr">Yoon wi</title>
+  </programme>
+  <programme start="20260305235900 +0000" stop="20260306010000 +0000" channel="180122">
+    <title lang="fr">Entre Temps</title>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306024500 +0000" channel="180122">
+    <title lang="fr">11.13</title>
+  </programme>
+  <programme start="20260306024500 +0000" stop="20260306053000 +0000" channel="180122">
+    <title lang="fr">Aaru Mbed</title>
+  </programme>
+  <programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="180122">
+    <title lang="fr">Albarakh</title>
+  </programme>
   <channel id="180666">
     <display-name>RTS 2</display-name>
   </channel>
-  <programme start="20260302070000 +0000" stop="20260302072500 +0000" channel="180666">
-    <title lang="fr">Lecture Coran</title>
-  </programme>
-  <programme start="20260302072500 +0000" stop="20260302080000 +0000" channel="180666">
-    <title lang="fr">Dessins animés</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302085500 +0000" channel="180666">
-    <title lang="fr">Cinéma</title>
-  </programme>
-  <programme start="20260302085500 +0000" stop="20260302090000 +0000" channel="180666">
-    <title lang="fr">Portrait</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302103000 +0000" channel="180666">
-    <title lang="fr">Geewu Nabiens</title>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302114500 +0000" channel="180666">
-    <title lang="fr">Rayon de soleil</title>
-  </programme>
-  <programme start="20260302114500 +0000" stop="20260302120000 +0000" channel="180666">
-    <title lang="fr">Inspiration</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="180666">
-    <title lang="fr">Midi Mag</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302140000 +0000" channel="180666">
-    <title lang="fr">Cuisine de Iba</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302153000 +0000" channel="180666">
-    <title lang="fr">Programme : prime du dimanche</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302163000 +0000" channel="180666">
-    <title lang="fr">Carré culture</title>
-  </programme>
-  <programme start="20260302163000 +0000" stop="20260302173000 +0000" channel="180666">
-    <title lang="fr">Cinéma</title>
-  </programme>
-  <programme start="20260302173000 +0000" stop="20260302183000 +0000" channel="180666">
-    <title lang="fr">Métiers de femmes</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302190000 +0000" channel="180666">
-    <title lang="fr">Midi Mag</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302193000 +0000" channel="180666">
-    <title lang="fr">Dessins animés</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302200000 +0000" channel="180666">
-    <title lang="fr">Film sénégalais</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302230000 +0000" channel="180666">
-    <title lang="fr">Journal 20h00 RTS</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303070000 +0000" channel="180666">
-    <title lang="fr">Kepaaru Islam</title>
-  </programme>
   <programme start="20260303070000 +0000" stop="20260303073000 +0000" channel="180666">
     <title lang="fr">Lecture Coran</title>
   </programme>
@@ -2967,99 +2805,78 @@
   <programme start="20260304230000 +0000" stop="20260305070000 +0000" channel="180666">
     <title lang="fr">Musi'qualité</title>
   </programme>
+  <programme start="20260305070000 +0000" stop="20260305073000 +0000" channel="180666">
+    <title lang="fr">Lecture Coran</title>
+  </programme>
+  <programme start="20260305073000 +0000" stop="20260305080000 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305085500 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260305085500 +0000" stop="20260305090000 +0000" channel="180666">
+    <title lang="fr">Inspiration</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="180666">
+    <title lang="fr">C'était hier</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305103000 +0000" channel="180666">
+    <title lang="fr">Diegou Poussou</title>
+  </programme>
+  <programme start="20260305103000 +0000" stop="20260305114500 +0000" channel="180666">
+    <title lang="fr">Rayon de soleil</title>
+  </programme>
+  <programme start="20260305114500 +0000" stop="20260305120000 +0000" channel="180666">
+    <title lang="fr">Inspiration</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305122500 +0000" channel="180666">
+    <title lang="fr">Midi Mag</title>
+  </programme>
+  <programme start="20260305122500 +0000" stop="20260305123000 +0000" channel="180666">
+    <title lang="fr">Portrait</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305140000 +0000" channel="180666">
+    <title lang="fr">Bob Marley, les circonstances de sa mort</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180666">
+    <title lang="fr">Concert : hommage à Bob Marley</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="180666">
+    <title lang="fr">Focus</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305163000 +0000" channel="180666">
+    <title lang="fr">Musi'qualité</title>
+  </programme>
+  <programme start="20260305163000 +0000" stop="20260305173000 +0000" channel="180666">
+    <title lang="fr">Alioune Badara Bèye : 50 ans de présence culturelle</title>
+  </programme>
+  <programme start="20260305173000 +0000" stop="20260305183000 +0000" channel="180666">
+    <title lang="fr">Sports Show</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="180666">
+    <title lang="fr">Midi Mag</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305192500 +0000" channel="180666">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260305192500 +0000" stop="20260305193000 +0000" channel="180666">
+    <title lang="fr">Clips Reggae</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305200000 +0000" channel="180666">
+    <title lang="fr">Diegou Poussou</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305220000 +0000" channel="180666">
+    <title lang="fr">Journal 20h00 RTS</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180666">
+    <title lang="fr">Kepaaru Islam</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306070000 +0000" channel="180666">
+    <title lang="fr">Cinéma</title>
+  </programme>
   <channel id="180069">
     <display-name>ORTM1</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302063000 +0000" channel="180069">
-    <title lang="fr">Feuilleton : Télénovéla</title>
-  </programme>
-  <programme start="20260302063000 +0000" stop="20260302070000 +0000" channel="180069">
-    <title lang="fr">Dessins animés</title>
-  </programme>
-  <programme start="20260302070000 +0000" stop="20260302074000 +0000" channel="180069">
-    <title lang="fr">Journal 20H</title>
-  </programme>
-  <programme start="20260302074000 +0000" stop="20260302080000 +0000" channel="180069">
-    <title lang="fr">Don Kibaru : Journal télévisé en bamanankan</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302093000 +0000" channel="180069">
-    <title lang="fr">Aw Bédi Koura</title>
-  </programme>
-  <programme start="20260302093000 +0000" stop="20260302100000 +0000" channel="180069">
-    <title lang="fr">Série malienne</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302101500 +0000" channel="180069">
-    <title lang="fr">Flash Info</title>
-  </programme>
-  <programme start="20260302101500 +0000" stop="20260302103000 +0000" channel="180069">
-    <title lang="fr">Circulation routière</title>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302110000 +0000" channel="180069">
-    <title lang="fr">Feuilleton télénovéla, série indienne : Tic o Tac</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302123000 +0000" channel="180069">
-    <title lang="fr">Le Grin de Midi</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302130000 +0000" channel="180069">
-    <title lang="fr">Série africaine N°1</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302132500 +0000" channel="180069">
-    <title lang="fr">Journal télévisé 1ère édition</title>
-  </programme>
-  <programme start="20260302132500 +0000" stop="20260302140000 +0000" channel="180069">
-    <title lang="fr">Feuilleton : Télénovéla</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302153000 +0000" channel="180069">
-    <title lang="fr">Question d'actualité, au coeur de l'éco : tribune de vérité</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302170000 +0000" channel="180069">
-    <title lang="fr">Jouvence / Djeliblon / Face-à-face</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302173000 +0000" channel="180069">
-    <title lang="fr">Invité de la semaine</title>
-  </programme>
-  <programme start="20260302173000 +0000" stop="20260302180000 +0000" channel="180069">
-    <title lang="fr">Dessins animés</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302183000 +0000" channel="180069">
-    <title lang="fr">Feuilleton : Télénovéla</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302190000 +0000" channel="180069">
-    <title lang="fr">Bulletin langues nationales</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302192500 +0000" channel="180069">
-    <title lang="fr">Don Kibaru : Journal télévisé en bamanankan</title>
-  </programme>
-  <programme start="20260302192500 +0000" stop="20260302204500 +0000" channel="180069">
-    <title lang="fr">Quoti Téléréalité</title>
-  </programme>
-  <programme start="20260302204500 +0000" stop="20260302211000 +0000" channel="180069">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302211000 +0000" stop="20260302214000 +0000" channel="180069">
-    <title lang="fr">Série malienne</title>
-  </programme>
-  <programme start="20260302214000 +0000" stop="20260302231500 +0000" channel="180069">
-    <title lang="fr">Score</title>
-  </programme>
-  <programme start="20260302231500 +0000" stop="20260302233500 +0000" channel="180069">
-    <title lang="fr">Journal télévisé dernière édition</title>
-  </programme>
-  <programme start="20260302233500 +0000" stop="20260303010500 +0000" channel="180069">
-    <title lang="fr">Le Grin de Midi</title>
-  </programme>
-  <programme start="20260303010500 +0000" stop="20260303020000 +0000" channel="180069">
-    <title lang="fr">Série aventure</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303033000 +0000" channel="180069">
-    <title lang="fr">Aw Bédi Koura</title>
-  </programme>
-  <programme start="20260303033000 +0000" stop="20260303055500 +0000" channel="180069">
-    <title lang="fr">SOS env. / Vision rurale / A l'écoute de l'école / Siguida kouma</title>
-  </programme>
-  <programme start="20260303055500 +0000" stop="20260303060000 +0000" channel="180069">
-    <title lang="fr">Hymne National</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303063000 +0000" channel="180069">
     <title lang="fr">Feuilleton : Télénovéla</title>
   </programme>
@@ -3252,102 +3069,108 @@
   <programme start="20260305055500 +0000" stop="20260305060000 +0000" channel="180069">
     <title lang="fr">Hymne National</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305063000 +0000" channel="180069">
+    <title lang="fr">Feuilleton : Télénovéla</title>
+  </programme>
+  <programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="180069">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305074000 +0000" channel="180069">
+    <title lang="fr">Journal 20H</title>
+  </programme>
+  <programme start="20260305074000 +0000" stop="20260305080000 +0000" channel="180069">
+    <title lang="fr">Don Kibaru : Journal télévisé en bamanankan</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305093000 +0000" channel="180069">
+    <title lang="fr">Aw Bédi Koura</title>
+  </programme>
+  <programme start="20260305093000 +0000" stop="20260305100000 +0000" channel="180069">
+    <title lang="fr">Série malienne</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305101500 +0000" channel="180069">
+    <title lang="fr">Flash Info</title>
+  </programme>
+  <programme start="20260305101500 +0000" stop="20260305103000 +0000" channel="180069">
+    <title lang="fr">Mag Femme / Nyéléni / Bolonkan</title>
+  </programme>
+  <programme start="20260305103000 +0000" stop="20260305110000 +0000" channel="180069">
+    <title lang="fr">Feuilleton télénovéla, série indienne : Tic o Tac</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305123000 +0000" channel="180069">
+    <title lang="fr">Le Grin de Midi</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="180069">
+    <title lang="fr">Série africaine N°1</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305132500 +0000" channel="180069">
+    <title lang="fr">Journal télévisé 1ère édition</title>
+  </programme>
+  <programme start="20260305132500 +0000" stop="20260305140000 +0000" channel="180069">
+    <title lang="fr">Feuilleton : Télénovéla</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305153000 +0000" channel="180069">
+    <title lang="fr">Maxi jeunes / Maxi vacances / Niaga / Sambé Sambé</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305163000 +0000" channel="180069">
+    <title lang="fr">Rétro biennale / An bo kolo</title>
+  </programme>
+  <programme start="20260305163000 +0000" stop="20260305170000 +0000" channel="180069">
+    <title lang="fr">Documentaire</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305173000 +0000" channel="180069">
+    <title lang="fr">Cyber tic / Echos de nos régions / Taama Denw-Djandjo</title>
+  </programme>
+  <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="180069">
+    <title lang="fr">Dessins animés</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305183000 +0000" channel="180069">
+    <title lang="fr">Feuilleton : Télénovéla</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="180069">
+    <title lang="fr">Bulletin langues nationales</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305192500 +0000" channel="180069">
+    <title lang="fr">Don Kibaru : Journal télévisé en bamanankan</title>
+  </programme>
+  <programme start="20260305192500 +0000" stop="20260305204500 +0000" channel="180069">
+    <title lang="fr">Circulation routière</title>
+  </programme>
+  <programme start="20260305204500 +0000" stop="20260305211000 +0000" channel="180069">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305211000 +0000" stop="20260305214000 +0000" channel="180069">
+    <title lang="fr">Invité de la semaine</title>
+  </programme>
+  <programme start="20260305214000 +0000" stop="20260305221000 +0000" channel="180069">
+    <title lang="fr">Connaissance de l'Islam</title>
+  </programme>
+  <programme start="20260305221000 +0000" stop="20260305224000 +0000" channel="180069">
+    <title lang="fr">Nour</title>
+  </programme>
+  <programme start="20260305224000 +0000" stop="20260305231500 +0000" channel="180069">
+    <title lang="fr">Hidji Blon / Zikhr</title>
+  </programme>
+  <programme start="20260305231500 +0000" stop="20260305233500 +0000" channel="180069">
+    <title lang="fr">Journal télévisé dernière édition</title>
+  </programme>
+  <programme start="20260305233500 +0000" stop="20260306010500 +0000" channel="180069">
+    <title lang="fr">Le Grin de Midi</title>
+  </programme>
+  <programme start="20260306010500 +0000" stop="20260306020000 +0000" channel="180069">
+    <title lang="fr">Série (Action/Police)</title>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306033000 +0000" channel="180069">
+    <title lang="fr">Aw Bédi Koura</title>
+  </programme>
+  <programme start="20260306033000 +0000" stop="20260306055500 +0000" channel="180069">
+    <title lang="fr">Carte visite / Un site, une image</title>
+  </programme>
+  <programme start="20260306055500 +0000" stop="20260306060000 +0000" channel="180069">
+    <title lang="fr">Hymne National</title>
+  </programme>
   <channel id="180397">
     <display-name>ORTM2</display-name>
   </channel>
-  <programme start="20260302063000 +0000" stop="20260302070000 +0000" channel="180397">
-    <title lang="fr">Documentaire historique</title>
-  </programme>
-  <programme start="20260302070000 +0000" stop="20260302083000 +0000" channel="180397">
-    <title lang="fr">Cocorico !</title>
-  </programme>
-  <programme start="20260302083000 +0000" stop="20260302093000 +0000" channel="180397">
-    <title lang="fr">Gorobinè Kènè : tendance musique</title>
-  </programme>
-  <programme start="20260302093000 +0000" stop="20260302094500 +0000" channel="180397">
-    <title lang="fr">Kibaru 19h50</title>
-  </programme>
-  <programme start="20260302094500 +0000" stop="20260302100000 +0000" channel="180397">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="180397">
-    <title lang="fr">Cocorico !</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302113000 +0000" channel="180397">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302113000 +0000" stop="20260302123000 +0000" channel="180397">
-    <title lang="fr">Sani Ni Féré</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302124000 +0000" channel="180397">
-    <title lang="fr">Le 12h30 Journal</title>
-  </programme>
-  <programme start="20260302124000 +0000" stop="20260302130000 +0000" channel="180397">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="180397">
-    <title lang="fr">Musow</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302153000 +0000" channel="180397">
-    <title lang="fr">Rap / Hip Hop</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302163000 +0000" channel="180397">
-    <title lang="fr">Fèrè Kènè</title>
-  </programme>
-  <programme start="20260302163000 +0000" stop="20260302180000 +0000" channel="180397">
-    <title lang="fr">Energy 2 !</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180397">
-    <title lang="fr">Musow</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302193000 +0000" channel="180397">
-    <title lang="fr">Séries maliennes et africaines</title>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302194500 +0000" channel="180397">
-    <title lang="fr">JT ORTM2 : le 19h30</title>
-  </programme>
-  <programme start="20260302194500 +0000" stop="20260302195000 +0000" channel="180397">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20260302195000 +0000" stop="20260302200000 +0000" channel="180397">
-    <title lang="fr">Kibaru 19h50</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302201500 +0000" channel="180397">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302201500 +0000" stop="20260302210000 +0000" channel="180397">
-    <title lang="fr">NTolan Kouma : 24 sport</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180397">
-    <title lang="fr">Maquis des stars</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180397">
-    <title lang="fr">Baroda</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="180397">
-    <title lang="fr">Cocorico !</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303003000 +0000" channel="180397">
-    <title lang="fr">JT ORTM2 : le 19h30</title>
-  </programme>
-  <programme start="20260303003000 +0000" stop="20260303013000 +0000" channel="180397">
-    <title lang="fr">Télégrin</title>
-  </programme>
-  <programme start="20260303013000 +0000" stop="20260303023000 +0000" channel="180397">
-    <title lang="fr">NTolan Kouma : 24 sport</title>
-  </programme>
-  <programme start="20260303023000 +0000" stop="20260303033000 +0000" channel="180397">
-    <title lang="fr">Show Time</title>
-  </programme>
-  <programme start="20260303033000 +0000" stop="20260303043000 +0000" channel="180397">
-    <title lang="fr">Baroda</title>
-  </programme>
-  <programme start="20260303043000 +0000" stop="20260303053000 +0000" channel="180397">
-    <title lang="fr">Musow</title>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303063000 +0000" channel="180397">
-    <title lang="fr">Variétés Clips</title>
-  </programme>
   <programme start="20260303063000 +0000" stop="20260303070000 +0000" channel="180397">
     <title lang="fr">Documentaire historique</title>
   </programme>
@@ -3531,30 +3354,105 @@
   <programme start="20260305053000 +0000" stop="20260305063000 +0000" channel="180397">
     <title lang="fr">Variétés Clips</title>
   </programme>
+  <programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="180397">
+    <title lang="fr">Documentaire historique</title>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305083000 +0000" channel="180397">
+    <title lang="fr">Cocorico !</title>
+  </programme>
+  <programme start="20260305083000 +0000" stop="20260305084500 +0000" channel="180397">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305084500 +0000" stop="20260305093000 +0000" channel="180397">
+    <title lang="fr">Diaspora en marche : Taama Denw</title>
+  </programme>
+  <programme start="20260305093000 +0000" stop="20260305094500 +0000" channel="180397">
+    <title lang="fr">Kibaru 19h50</title>
+  </programme>
+  <programme start="20260305094500 +0000" stop="20260305100000 +0000" channel="180397">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="180397">
+    <title lang="fr">Cocorico !</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305113000 +0000" channel="180397">
+    <title lang="fr">Gwa Doumani</title>
+  </programme>
+  <programme start="20260305113000 +0000" stop="20260305123000 +0000" channel="180397">
+    <title lang="fr">Sani Ni Féré</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305124000 +0000" channel="180397">
+    <title lang="fr">Le 12h30 Journal</title>
+  </programme>
+  <programme start="20260305124000 +0000" stop="20260305130000 +0000" channel="180397">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="180397">
+    <title lang="fr">Musow</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305152500 +0000" channel="180397">
+    <title lang="fr">Les Expats</title>
+  </programme>
+  <programme start="20260305152500 +0000" stop="20260305153000 +0000" channel="180397">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305163000 +0000" channel="180397">
+    <title lang="fr">Fèrè Kènè</title>
+  </programme>
+  <programme start="20260305163000 +0000" stop="20260305180000 +0000" channel="180397">
+    <title lang="fr">A nous la télé</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="180397">
+    <title lang="fr">Musow</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305193000 +0000" channel="180397">
+    <title lang="fr">Séries maliennes et africaines</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305194500 +0000" channel="180397">
+    <title lang="fr">JT ORTM2 : le 19h30</title>
+  </programme>
+  <programme start="20260305194500 +0000" stop="20260305195000 +0000" channel="180397">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20260305195000 +0000" stop="20260305200000 +0000" channel="180397">
+    <title lang="fr">Kibaru 19h50</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305201500 +0000" channel="180397">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305201500 +0000" stop="20260305203000 +0000" channel="180397">
+    <title lang="fr">Doniya Café</title>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305210000 +0000" channel="180397">
+    <title lang="fr">Dine Kouna Foli</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="180397">
+    <title lang="fr">Mon plus beau mariage</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="180397">
+    <title lang="fr">Cocorico !</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="180397">
+    <title lang="fr">JT ORTM2 : le 19h30</title>
+  </programme>
+  <programme start="20260306003000 +0000" stop="20260306013000 +0000" channel="180397">
+    <title lang="fr">Télégrin</title>
+  </programme>
+  <programme start="20260306013000 +0000" stop="20260306033000 +0000" channel="180397">
+    <title lang="fr">Awn : Nous</title>
+  </programme>
+  <programme start="20260306033000 +0000" stop="20260306043000 +0000" channel="180397">
+    <title lang="fr">N'Gana Kene</title>
+  </programme>
+  <programme start="20260306043000 +0000" stop="20260306053000 +0000" channel="180397">
+    <title lang="fr">Musow</title>
+  </programme>
+  <programme start="20260306053000 +0000" stop="20260306063000 +0000" channel="180397">
+    <title lang="fr">Variétés Clips</title>
+  </programme>
   <channel id="180723">
     <display-name>TM1</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302120000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302150000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302180000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302210000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260303000000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303060000 +0000" channel="180723">
-    <title lang="fr">Infos, culture et divertissement au Mali</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303090000 +0000" channel="180723">
     <title lang="fr">Infos, culture et divertissement au Mali</title>
   </programme>
@@ -3597,63 +3495,30 @@
   <programme start="20260305000000 +0000" stop="20260305060000 +0000" channel="180723">
     <title lang="fr">Infos, culture et divertissement au Mali</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305090000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305120000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305150000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305180000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305210000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260306000000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306060000 +0000" channel="180723">
+    <title lang="fr">Infos, culture et divertissement au Mali</title>
+  </programme>
   <channel id="180202">
     <display-name>RTG</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302110000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302120000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303010000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260303010000 +0000" stop="20260303020000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303060000 +0000" channel="180202">
-    <title lang="fr">La chaîne généraliste de Guinée</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303090000 +0000" channel="180202">
     <title lang="fr">La chaîne généraliste de Guinée</title>
   </programme>
@@ -3762,63 +3627,63 @@
   <programme start="20260305020000 +0000" stop="20260305060000 +0000" channel="180202">
     <title lang="fr">La chaîne généraliste de Guinée</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305090000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305110000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306060000 +0000" channel="180202">
+    <title lang="fr">La chaîne généraliste de Guinée</title>
+  </programme>
   <channel id="180017">
     <display-name>RTG</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302120000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303010000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303010000 +0000" stop="20260303020000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303030000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
-  <programme start="20260303030000 +0000" stop="20260303060000 +0000" channel="180017">
-    <title lang="fr">Plus proche de vous !</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303090000 +0000" channel="180017">
     <title lang="fr">Plus proche de vous !</title>
   </programme>
@@ -3927,93 +3792,63 @@
   <programme start="20260305030000 +0000" stop="20260305060000 +0000" channel="180017">
     <title lang="fr">Plus proche de vous !</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305090000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305120000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306030000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
+  <programme start="20260306030000 +0000" stop="20260306060000 +0000" channel="180017">
+    <title lang="fr">Plus proche de vous !</title>
+  </programme>
   <channel id="180060">
     <display-name>RTB</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="180060">
-    <title lang="fr">Zénith Matin</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302083000 +0000" channel="180060">
-    <title lang="fr">Musique tradi-moderne</title>
-  </programme>
-  <programme start="20260302083000 +0000" stop="20260302090000 +0000" channel="180060">
-    <title lang="fr">7 jours à la Une</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302103000 +0000" channel="180060">
-    <title lang="fr">Cinéma</title>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302112000 +0000" channel="180060">
-    <title lang="fr">Musique traditionnelle</title>
-  </programme>
-  <programme start="20260302112000 +0000" stop="20260302114500 +0000" channel="180060">
-    <title lang="fr">Dessin animé</title>
-  </programme>
-  <programme start="20260302114500 +0000" stop="20260302120000 +0000" channel="180060">
-    <title lang="fr">13 Info</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="180060">
-    <title lang="fr">Feuilleton</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302130000 +0000" channel="180060">
-    <title lang="fr">Musique slow</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302133000 +0000" channel="180060">
-    <title lang="fr">Kultur'Act Entretien</title>
-  </programme>
-  <programme start="20260302133000 +0000" stop="20260302150000 +0000" channel="180060">
-    <title lang="fr">Cinéma</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302170000 +0000" channel="180060">
-    <title lang="fr">Zénith Matin</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180060">
-    <title lang="fr">Dessin animé</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302183000 +0000" channel="180060">
-    <title lang="fr">Feuilleton</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302184500 +0000" channel="180060">
-    <title lang="fr">13 Info</title>
-  </programme>
-  <programme start="20260302184500 +0000" stop="20260302194500 +0000" channel="180060">
-    <title lang="fr">Documentaire</title>
-  </programme>
-  <programme start="20260302194500 +0000" stop="20260302200000 +0000" channel="180060">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302213000 +0000" channel="180060">
-    <title lang="fr">Chez Alima</title>
-  </programme>
-  <programme start="20260302213000 +0000" stop="20260302214500 +0000" channel="180060">
-    <title lang="fr">13 Info</title>
-  </programme>
-  <programme start="20260302214500 +0000" stop="20260302221500 +0000" channel="180060">
-    <title lang="fr">Kultur'Act Entretien</title>
-  </programme>
-  <programme start="20260302221500 +0000" stop="20260302234500 +0000" channel="180060">
-    <title lang="fr">Cinéma</title>
-  </programme>
-  <programme start="20260302234500 +0000" stop="20260303003000 +0000" channel="180060">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260303003000 +0000" stop="20260303020000 +0000" channel="180060">
-    <title lang="fr">Zénith Venegr Sonsga</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303030000 +0000" channel="180060">
-    <title lang="fr">Documentaire</title>
-  </programme>
-  <programme start="20260303030000 +0000" stop="20260303043000 +0000" channel="180060">
-    <title lang="fr">Cinéma</title>
-  </programme>
-  <programme start="20260303043000 +0000" stop="20260303050000 +0000" channel="180060">
-    <title lang="fr">Musique</title>
-  </programme>
-  <programme start="20260303050000 +0000" stop="20260303053000 +0000" channel="180060">
-    <title lang="fr">JT Matin</title>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="180060">
-    <title lang="fr">Musique</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303080000 +0000" channel="180060">
     <title lang="fr">Zénith Matin</title>
   </programme>
@@ -4185,81 +4020,96 @@
   <programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="180060">
     <title lang="fr">Musique traditionnelle</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305080000 +0000" channel="180060">
+    <title lang="fr">Zénith Matin</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305083000 +0000" channel="180060">
+    <title lang="fr">Intégrale</title>
+  </programme>
+  <programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="180060">
+    <title lang="fr">Documentaire</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305103000 +0000" channel="180060">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260305103000 +0000" stop="20260305105000 +0000" channel="180060">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305105000 +0000" stop="20260305112000 +0000" channel="180060">
+    <title lang="fr">Documentaire</title>
+  </programme>
+  <programme start="20260305112000 +0000" stop="20260305114500 +0000" channel="180060">
+    <title lang="fr">Dessin animé</title>
+  </programme>
+  <programme start="20260305114500 +0000" stop="20260305120000 +0000" channel="180060">
+    <title lang="fr">13 Info</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305123000 +0000" channel="180060">
+    <title lang="fr">Feuilleton</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305131500 +0000" channel="180060">
+    <title lang="fr">Série Western</title>
+  </programme>
+  <programme start="20260305131500 +0000" stop="20260305133000 +0000" channel="180060">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305133000 +0000" stop="20260305150000 +0000" channel="180060">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="180060">
+    <title lang="fr">Zénith Matin</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305173000 +0000" channel="180060">
+    <title lang="fr">Dessin animé</title>
+  </programme>
+  <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="180060">
+    <title lang="fr">Documentaire</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305183000 +0000" channel="180060">
+    <title lang="fr">Feuilleton</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305184500 +0000" channel="180060">
+    <title lang="fr">13 Info</title>
+  </programme>
+  <programme start="20260305184500 +0000" stop="20260305190000 +0000" channel="180060">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305193000 +0000" channel="180060">
+    <title lang="fr">Kultur'Act Info</title>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305200000 +0000" channel="180060">
+    <title lang="fr">Série africaine</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305213000 +0000" channel="180060">
+    <title lang="fr">Zénith Venegr Sonsga</title>
+  </programme>
+  <programme start="20260305213000 +0000" stop="20260305214500 +0000" channel="180060">
+    <title lang="fr">13 Info</title>
+  </programme>
+  <programme start="20260305214500 +0000" stop="20260305231500 +0000" channel="180060">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260305231500 +0000" stop="20260306001500 +0000" channel="180060">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260306001500 +0000" stop="20260306021500 +0000" channel="180060">
+    <title lang="fr">Zénith Matin</title>
+  </programme>
+  <programme start="20260306021500 +0000" stop="20260306034500 +0000" channel="180060">
+    <title lang="fr">Cinéma</title>
+  </programme>
+  <programme start="20260306034500 +0000" stop="20260306050000 +0000" channel="180060">
+    <title lang="fr">Musique</title>
+  </programme>
+  <programme start="20260306050000 +0000" stop="20260306053000 +0000" channel="180060">
+    <title lang="fr">JT Matin</title>
+  </programme>
+  <programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="180060">
+    <title lang="fr">Musique traditionnelle</title>
+  </programme>
   <channel id="180258">
     <display-name>RTB3</display-name>
   </channel>
-  <programme start="20260302060000 +0000" stop="20260302070000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302100000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302120000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303010000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260303010000 +0000" stop="20260303020000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303030000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260303030000 +0000" stop="20260303040000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260303040000 +0000" stop="20260303050000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
-  <programme start="20260303050000 +0000" stop="20260303060000 +0000" channel="180258">
-    <title lang="fr">RTB 3</title>
-  </programme>
   <programme start="20260303060000 +0000" stop="20260303070000 +0000" channel="180258">
     <title lang="fr">RTB 3</title>
   </programme>
@@ -4404,174 +4254,81 @@
   <programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="180258">
     <title lang="fr">RTB 3</title>
   </programme>
+  <programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305080000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305090000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306030000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260306030000 +0000" stop="20260306040000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260306040000 +0000" stop="20260306050000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
+  <programme start="20260306050000 +0000" stop="20260306060000 +0000" channel="180258">
+    <title lang="fr">RTB 3</title>
+  </programme>
   <channel id="180664">
     <display-name>SAVANE TV</display-name>
   </channel>
-  <programme start="20260302070000 +0000" stop="20260302070500 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302070500 +0000" stop="20260302071500 +0000" channel="180664">
-    <title lang="fr">Tang sèga</title>
-  </programme>
-  <programme start="20260302071500 +0000" stop="20260302073000 +0000" channel="180664">
-    <title lang="fr">Toègatingré</title>
-  </programme>
-  <programme start="20260302073000 +0000" stop="20260302090000 +0000" channel="180664">
-    <title lang="fr">Bonjour le Faso</title>
-  </programme>
-  <programme start="20260302090000 +0000" stop="20260302091500 +0000" channel="180664">
-    <title lang="fr">Télé-infos-services</title>
-  </programme>
-  <programme start="20260302091500 +0000" stop="20260302094500 +0000" channel="180664">
-    <title lang="fr">Ah !!! OUAGA !</title>
-  </programme>
-  <programme start="20260302094500 +0000" stop="20260302100000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302100600 +0000" channel="180664">
-    <title lang="fr">Flash français et mooré</title>
-  </programme>
-  <programme start="20260302100600 +0000" stop="20260302105500 +0000" channel="180664">
-    <title lang="fr">7 jours dans la savane</title>
-  </programme>
-  <programme start="20260302105500 +0000" stop="20260302110000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302110600 +0000" channel="180664">
-    <title lang="fr">Flash français et mooré</title>
-  </programme>
-  <programme start="20260302110600 +0000" stop="20260302115500 +0000" channel="180664">
-    <title lang="fr">Cadeau du jour</title>
-  </programme>
-  <programme start="20260302115500 +0000" stop="20260302120000 +0000" channel="180664">
-    <title lang="fr">Météo des villes d'affaires</title>
-  </programme>
-  <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="180664">
-    <title lang="fr">Invité politique : Bonjour le Faso</title>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302124500 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302124500 +0000" stop="20260302131500 +0000" channel="180664">
-    <title lang="fr">Journal en français</title>
-  </programme>
-  <programme start="20260302131500 +0000" stop="20260302132500 +0000" channel="180664">
-    <title lang="fr">Tang sèga</title>
-  </programme>
-  <programme start="20260302132500 +0000" stop="20260302134000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302134000 +0000" stop="20260302140000 +0000" channel="180664">
-    <title lang="fr">Champion</title>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302153000 +0000" channel="180664">
-    <title lang="fr">Sonré</title>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302154000 +0000" channel="180664">
-    <title lang="fr">Ah !!! OUAGA !</title>
-  </programme>
-  <programme start="20260302154000 +0000" stop="20260302160000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302160600 +0000" channel="180664">
-    <title lang="fr">Flash français et mooré</title>
-  </programme>
-  <programme start="20260302160600 +0000" stop="20260302170000 +0000" channel="180664">
-    <title lang="fr">Sunog Wakat</title>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302170600 +0000" channel="180664">
-    <title lang="fr">Flash français et mooré</title>
-  </programme>
-  <programme start="20260302170600 +0000" stop="20260302175000 +0000" channel="180664">
-    <title lang="fr">Espace théâtre</title>
-  </programme>
-  <programme start="20260302175000 +0000" stop="20260302180000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302181000 +0000" channel="180664">
-    <title lang="fr">Toègatingré</title>
-  </programme>
-  <programme start="20260302181000 +0000" stop="20260302183000 +0000" channel="180664">
-    <title lang="fr">Clips du Faso</title>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302184500 +0000" channel="180664">
-    <title lang="fr">Champion</title>
-  </programme>
-  <programme start="20260302184500 +0000" stop="20260302191500 +0000" channel="180664">
-    <title lang="fr">Journal du soir</title>
-  </programme>
-  <programme start="20260302191500 +0000" stop="20260302192000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302192000 +0000" stop="20260302193500 +0000" channel="180664">
-    <title lang="fr">L'Avocat des causes perdues</title>
-  </programme>
-  <programme start="20260302193500 +0000" stop="20260302194500 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302194500 +0000" stop="20260302201500 +0000" channel="180664">
-    <title lang="fr">Journal mooré</title>
-  </programme>
-  <programme start="20260302201500 +0000" stop="20260302202500 +0000" channel="180664">
-    <title lang="fr">Tang sèga</title>
-  </programme>
-  <programme start="20260302202500 +0000" stop="20260302205000 +0000" channel="180664">
-    <title lang="fr">Télé-infos-services</title>
-  </programme>
-  <programme start="20260302205000 +0000" stop="20260302210000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302210000 +0000" stop="20260302215500 +0000" channel="180664">
-    <title lang="fr">Ma nourriture ma santé</title>
-  </programme>
-  <programme start="20260302215500 +0000" stop="20260302220000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302220000 +0000" stop="20260302225000 +0000" channel="180664">
-    <title lang="fr">Clips du Faso</title>
-  </programme>
-  <programme start="20260302225000 +0000" stop="20260302230000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="180664">
-    <title lang="fr">Journal du soir</title>
-  </programme>
-  <programme start="20260302233000 +0000" stop="20260302233200 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260302233200 +0000" stop="20260303000200 +0000" channel="180664">
-    <title lang="fr">Journal mooré</title>
-  </programme>
-  <programme start="20260303000200 +0000" stop="20260303000400 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260303000400 +0000" stop="20260303013400 +0000" channel="180664">
-    <title lang="fr">Sonré</title>
-  </programme>
-  <programme start="20260303013400 +0000" stop="20260303014000 +0000" channel="180664">
-    <title lang="fr">Savane Pub</title>
-  </programme>
-  <programme start="20260303014000 +0000" stop="20260303015000 +0000" channel="180664">
-    <title lang="fr">Toègatingré</title>
-  </programme>
-  <programme start="20260303015000 +0000" stop="20260303020000 +0000" channel="180664">
-    <title lang="fr">Clips du Faso</title>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303033000 +0000" channel="180664">
-    <title lang="fr">Bonjour le Faso</title>
-  </programme>
-  <programme start="20260303033000 +0000" stop="20260303040000 +0000" channel="180664">
-    <title lang="fr">Journal du soir</title>
-  </programme>
-  <programme start="20260303040000 +0000" stop="20260303043000 +0000" channel="180664">
-    <title lang="fr">Journal mooré</title>
-  </programme>
-  <programme start="20260303043000 +0000" stop="20260303053000 +0000" channel="180664">
-    <title lang="fr">Clips du Faso</title>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303070000 +0000" channel="180664">
-    <title lang="fr">Sonré</title>
-  </programme>
   <programme start="20260303070000 +0000" stop="20260303070500 +0000" channel="180664">
     <title lang="fr">Savane Pub</title>
   </programme>
@@ -4900,6 +4657,174 @@
     <title lang="fr">Clips du Faso</title>
   </programme>
   <programme start="20260305053000 +0000" stop="20260305070000 +0000" channel="180664">
+    <title lang="fr">Sonré</title>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305070500 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305070500 +0000" stop="20260305071500 +0000" channel="180664">
+    <title lang="fr">Tang sèga</title>
+  </programme>
+  <programme start="20260305071500 +0000" stop="20260305073000 +0000" channel="180664">
+    <title lang="fr">Toègatingré</title>
+  </programme>
+  <programme start="20260305073000 +0000" stop="20260305090000 +0000" channel="180664">
+    <title lang="fr">Bonjour le Faso</title>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305091500 +0000" channel="180664">
+    <title lang="fr">Télé-infos-services</title>
+  </programme>
+  <programme start="20260305091500 +0000" stop="20260305094500 +0000" channel="180664">
+    <title lang="fr">Ah !!! OUAGA !</title>
+  </programme>
+  <programme start="20260305094500 +0000" stop="20260305100000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305100600 +0000" channel="180664">
+    <title lang="fr">Flash français et mooré</title>
+  </programme>
+  <programme start="20260305100600 +0000" stop="20260305105500 +0000" channel="180664">
+    <title lang="fr">Savane éco</title>
+  </programme>
+  <programme start="20260305105500 +0000" stop="20260305110000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305110600 +0000" channel="180664">
+    <title lang="fr">Flash français et mooré</title>
+  </programme>
+  <programme start="20260305110600 +0000" stop="20260305115500 +0000" channel="180664">
+    <title lang="fr">Cadeau du jour</title>
+  </programme>
+  <programme start="20260305115500 +0000" stop="20260305120000 +0000" channel="180664">
+    <title lang="fr">Météo des villes d'affaires</title>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305123000 +0000" channel="180664">
+    <title lang="fr">Invité politique : Bonjour le Faso</title>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305124500 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305131500 +0000" channel="180664">
+    <title lang="fr">Journal mooré</title>
+  </programme>
+  <programme start="20260305131500 +0000" stop="20260305132500 +0000" channel="180664">
+    <title lang="fr">Tang sèga</title>
+  </programme>
+  <programme start="20260305132500 +0000" stop="20260305134000 +0000" channel="180664">
+    <title lang="fr">Télé-infos-services</title>
+  </programme>
+  <programme start="20260305134000 +0000" stop="20260305140000 +0000" channel="180664">
+    <title lang="fr">Champion</title>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305153000 +0000" channel="180664">
+    <title lang="fr">Sonré</title>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305154000 +0000" channel="180664">
+    <title lang="fr">Ah !!! OUAGA !</title>
+  </programme>
+  <programme start="20260305154000 +0000" stop="20260305160000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305160600 +0000" channel="180664">
+    <title lang="fr">Flash français et mooré</title>
+  </programme>
+  <programme start="20260305160600 +0000" stop="20260305170000 +0000" channel="180664">
+    <title lang="fr">Clips du Faso</title>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305170600 +0000" channel="180664">
+    <title lang="fr">Flash français et mooré</title>
+  </programme>
+  <programme start="20260305170600 +0000" stop="20260305175000 +0000" channel="180664">
+    <title lang="fr">Reem Yaaré</title>
+  </programme>
+  <programme start="20260305175000 +0000" stop="20260305180000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305181000 +0000" channel="180664">
+    <title lang="fr">Toègatingré</title>
+  </programme>
+  <programme start="20260305181000 +0000" stop="20260305181500 +0000" channel="180664">
+    <title lang="fr">Clips du Faso</title>
+  </programme>
+  <programme start="20260305181500 +0000" stop="20260305183000 +0000" channel="180664">
+    <title lang="fr">Ah !!! OUAGA !</title>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305184500 +0000" channel="180664">
+    <title lang="fr">Champion</title>
+  </programme>
+  <programme start="20260305184500 +0000" stop="20260305191500 +0000" channel="180664">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260305191500 +0000" stop="20260305192000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305192000 +0000" stop="20260305193500 +0000" channel="180664">
+    <title lang="fr">L'Avocat des causes perdues</title>
+  </programme>
+  <programme start="20260305193500 +0000" stop="20260305194500 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305194500 +0000" stop="20260305201500 +0000" channel="180664">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260305201500 +0000" stop="20260305202500 +0000" channel="180664">
+    <title lang="fr">Tang sèga</title>
+  </programme>
+  <programme start="20260305202500 +0000" stop="20260305205500 +0000" channel="180664">
+    <title lang="fr">Télé-infos-services</title>
+  </programme>
+  <programme start="20260305205500 +0000" stop="20260305210000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305215500 +0000" channel="180664">
+    <title lang="fr">Bloc-Notes</title>
+  </programme>
+  <programme start="20260305215500 +0000" stop="20260305220000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260305225000 +0000" channel="180664">
+    <title lang="fr">Faso School</title>
+  </programme>
+  <programme start="20260305225000 +0000" stop="20260305230000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260305233000 +0000" channel="180664">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260305233000 +0000" stop="20260305233200 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260305233200 +0000" stop="20260306000200 +0000" channel="180664">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260306000200 +0000" stop="20260306000400 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260306000400 +0000" stop="20260306013400 +0000" channel="180664">
+    <title lang="fr">Sonré</title>
+  </programme>
+  <programme start="20260306013400 +0000" stop="20260306014000 +0000" channel="180664">
+    <title lang="fr">Savane Pub</title>
+  </programme>
+  <programme start="20260306014000 +0000" stop="20260306015000 +0000" channel="180664">
+    <title lang="fr">Toègatingré</title>
+  </programme>
+  <programme start="20260306015000 +0000" stop="20260306020000 +0000" channel="180664">
+    <title lang="fr">Clips du Faso</title>
+  </programme>
+  <programme start="20260306020000 +0000" stop="20260306033000 +0000" channel="180664">
+    <title lang="fr">Bonjour le Faso</title>
+  </programme>
+  <programme start="20260306033000 +0000" stop="20260306040000 +0000" channel="180664">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260306040000 +0000" stop="20260306043000 +0000" channel="180664">
+    <title lang="fr">Journal</title>
+  </programme>
+  <programme start="20260306043000 +0000" stop="20260306053000 +0000" channel="180664">
+    <title lang="fr">Clips du Faso</title>
+  </programme>
+  <programme start="20260306053000 +0000" stop="20260306070000 +0000" channel="180664">
     <title lang="fr">Sonré</title>
   </programme>
 </tv>
