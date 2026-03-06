@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BFM TV.png",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FRBD410000783|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10e0a5f152-6c8a1cbd-0ed4-4158-be76-b38d68756f36&category=all&mm_sp|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/cnews.png",CNEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -14,7 +14,7 @@ https://simulcast-p.ftven.fr/ZXhwPTE3NzI3NjYyMTZ+YWNsPSUyZip+aG1hYz0xY2JhYWFkYjl
 #EXTINF:-1 tvg-id="FR1400003Y0" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/bfm2.png",BFM2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR1400003Y0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://d1ib1gsg71oarf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/4336c802-2aa8-4441-9306-17c62a4ab9e6/0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/m6.png",M6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -95,7 +95,7 @@ https://jmp2.uk/stvp-FR300001M1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FR300006GF|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FR4200001BN" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/La Maison France 5.png",La Maison France 5
+#EXTINF:-1 tvg-id="FR:.La.Maison.France.5.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/La Maison France 5.png",La Maison France 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FR4200001BN|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
@@ -147,7 +147,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/682318568e6c0f2f6c6e0038/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=12b5dcc8-18c8-11f1-bc25-000d3a61fe78&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=12b5dcc8-18c8-11f1-bc25-000d3a61fe78&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=12bc939e-18c8-11f1-ab5e-ce645d9f3568&sid=12bc939e-18c8-11f1-ab5e-ce645d9f3568&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRjZDNkMmY3LThkNWMtNDhkMC1hNGNhLTVmYmMyNjc3MDdiYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMmJjOTM5ZS0xOGM4LTExZjEtYWI1ZS1jZTY0NWQ5ZjM1NjgiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMTJiNWRjYzgtMThjOC0xMWYxLWJjMjUtMDAwZDNhNjFmZTc4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjEyYjVkY2M4LTE4YzgtMTFmMS1iYzI1LTAwMGQzYTYxZmU3OCIsImZ3VmNJRDJDb3BwYSI6IjEyYjVkY2M4LTE4YzgtMTFmMS1iYzI1LTAwMGQzYTYxZmU3OCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMTJiNWRjYzgtMThjOC0xMWYxLWJjMjUtMDAwZDNhNjFmZTc4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxNiwxMDAxNSwxMDAxMywxMDAxNCwxMDAyMCwxMDAyMSwxMDAyMywxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3MjczODMwMTIwNywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkZSOk1USmlOV1JqWXpndE1UaGpPQzB4TVdZeExXSmpNalV0TURBd1pETmhOakZtWlRjNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzI4MjQ3MDEsImlhdCI6MTc3MjczODMwMSwianRpIjoiNTliNDY5MGQtMzg1My00N2RlLTk1NmMtMWFlMjhkZTFlMmI0In0.OXmGh8APQqRyzIvZGpINd6gjYNsB5C4jnSNwDqLZH4s&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FRBD4100001DF" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Les Anges.png",Les Anges
+#EXTINF:-1 tvg-id="FR:.Les.Anges.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Les Anges.png",Les Anges
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FRBD4100001DF|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
@@ -158,7 +158,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="FR2600007CB" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Top Films.png",Rakuten Top Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/c8dfafa8-16a9-4cdd-821a-61c2b52bd61a/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/42327b26-cbf2-4b23-9e01-3bdf28ec2e93/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FR4600001FK" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Sci-Fi.png",Rakuten Sci-Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -170,7 +170,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="FR2600009UG" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Thriller.png",Rakuten Thriller
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/8ec76696-df31-46cb-9024-f4626a5d3aa0/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/a1b2394c-b371-4c23-a232-e94796ec8b35/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="60c3472a51a2050008dad272" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Thrillers.png",Ciné Thrillers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -182,7 +182,7 @@ https://jmp2.uk/stvp-FR3700001AG|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64;
 #EXTINF:-1 tvg-id="FR2600002X9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Action.png",Rakuten Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/8ac82d49-cca6-4733-b148-61a934aa1ab4/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/319d047a-1040-442b-98dc-964d3a8567cd/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Action.png",Ciné Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -206,7 +206,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="FR26000068C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Comédie.png",Rakuten Comédie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/938131d0-e689-406c-a381-318031635b7a/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/6c2c9b84-d712-4473-b774-9dc70b6a612c/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="5f8eb91bb9b9e7000817e67f" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Pluto TV Comédie.png",Pluto TV Comédie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -214,16 +214,16 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="FR300009JQ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Hits Comédie.png",Sony Hits Comédie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR300009JQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://d3nvxupr08boay.cloudfront.net/playlist_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FR2600001PI" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Famille.png",Rakuten Famille
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/3636cad5-4fdd-4097-8993-21bef421fb63/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/67ce2858-0ccf-478f-8e16-5346747f4e65/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FR2600005LH" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Drames.png",Rakuten Drames
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/37fd92a5-10a4-48d2-ae9c-f71978ef4390/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FRBB340000115" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Emotion'L.png",Emotion'L
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/5c59609f-091d-4736-a040-d3faf05f356d/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+#EXTINF:-1 tvg-id="FR:.Emotion`L.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Emotion'L.png",Emotion'L
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FRBB340000115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
@@ -242,7 +242,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="FR2600003OZ" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Rakuten Romance.png",Rakuten Romance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/10ed7b2b-1042-439e-967c-88a3ebd3a462/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/93d74d5b-501a-4457-a0d9-b889a5f874c2/4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="66e1978babec540008ce41ac" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Horreur.png",Ciné Horreur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -267,11 +267,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=12b5dcc8-18c8-11f1-bc25-000d3a61fe78&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=12b5dcc8-18c8-11f1-bc25-000d3a61fe78&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=12bc939e-18c8-11f1-ab5e-ce645d9f3568&sid=12bc939e-18c8-11f1-ab5e-ce645d9f3568&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRjZDNkMmY3LThkNWMtNDhkMC1hNGNhLTVmYmMyNjc3MDdiYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMmJjOTM5ZS0xOGM4LTExZjEtYWI1ZS1jZTY0NWQ5ZjM1NjgiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMTJiNWRjYzgtMThjOC0xMWYxLWJjMjUtMDAwZDNhNjFmZTc4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjEyYjVkY2M4LTE4YzgtMTFmMS1iYzI1LTAwMGQzYTYxZmU3OCIsImZ3VmNJRDJDb3BwYSI6IjEyYjVkY2M4LTE4YzgtMTFmMS1iYzI1LTAwMGQzYTYxZmU3OCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMTJiNWRjYzgtMThjOC0xMWYxLWJjMjUtMDAwZDNhNjFmZTc4IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxNiwxMDAxNSwxMDAxMywxMDAxNCwxMDAyMCwxMDAyMSwxMDAyMywxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3MjczODMwMTIwNywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkZSOk1USmlOV1JqWXpndE1UaGpPQzB4TVdZeExXSmpNalV0TURBd1pETmhOakZtWlRjNCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzI4MjQ3MDEsImlhdCI6MTc3MjczODMwMSwianRpIjoiNTliNDY5MGQtMzg1My00N2RlLTk1NmMtMWFlMjhkZTFlMmI0In0.OXmGh8APQqRyzIvZGpINd6gjYNsB5C4jnSNwDqLZH4s&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FRBD19000095S" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Western.png",Ciné Western
+#EXTINF:-1 tvg-id="FR:.Ciné.Western.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Western.png",Ciné Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FRBD19000095S|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FRBB39000020C" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Nanar.png",Ciné Nanar
+#EXTINF:-1 tvg-id="FR:.Ciné.Nanar.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Ciné Nanar.png",Ciné Nanar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FRBB39000020C|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
@@ -283,7 +283,7 @@ https://jmp2.uk/stvp-FR4000002JN|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64;
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FR1800003VF|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FRBB4600002K5" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ScreamIN.png",ScreamIN
+#EXTINF:-1 tvg-id="FR:.ScreamIN.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/ScreamIN.png",ScreamIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://jmp2.uk/stvp-FRBB4600002K5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
@@ -314,11 +314,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="FR3000125U" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Séries Thriller.png",Sony Séries Thriller
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR3000125U|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://d1573iiyr4aa7c.cloudfront.net/playlist_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FR3000082K" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Séries Comédie.png",Sony Séries Comédie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR3000082K|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/f0d05fdf-7f8e-4bf1-9c10-cefe7d4f2c23/0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="67b4b3c51a5ca760802cc1c7" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Star Trek TOS.png",Star Trek TOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -374,11 +374,11 @@ http://69.64.57.208/la3/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT
 #EXTINF:-1 tvg-id="180762" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LIFE TV.png",LIFE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_lifetv/str_lifetv_1080p/chunks.m3u8?nimblesessionid=40910852|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/str_lifetv_lifetv/str_lifetv_1080p/chunks.m3u8?nimblesessionid=40912094|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="180715" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/NCI.png",NCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://video1.getstreamhosting.com:1936/8338/8338/chunklist_w926054384.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://video1.getstreamhosting.com:1936/8338/8338/chunklist_w680109985.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="180085" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/REFLET TV.png",REFLET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -386,11 +386,11 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/v
 #EXTINF:-1 tvg-id="IVOIRE_CHANNEL.af" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/IVOIRE CHANNEL.png",IVOIRE CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://video1.getstreamhosting.com:1936/8282/8282/chunklist_w2138430857.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://video1.getstreamhosting.com:1936/8244/8244/chunklist_w1547014590.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="180060" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/rtb.png",RTB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-http://69.64.57.208/rtb/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/chunklist_w1095512368.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="180664" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/savane_tv.png",Savane TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -438,16 +438,16 @@ https://jmp2.uk/stvp-CA1400006BZ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64;
 #EXTINF:-1 tvg-id="FRBC35000018O" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LG 1.png",LG 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://stream.ads.ottera.tv/cl/260306d6l31ubr2r64rrftoo6g/1920x1080_4165449_4_f.m3u8?i=475_12782|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://stream.ads.ottera.tv/cl/260306d6l361da1h7j03ecaro0/1920x1080_4165449_4_f.m3u8?i=475_12782|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FRBC3500002E8" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LG 1 Film.png",LG 1: Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://stream.ads.ottera.tv/cl/260306d6l31ul5pjtrik91adhg/1920x1080_4215200_4_f.m3u8?i=475_13954|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://stream.ads.ottera.tv/cl/260306d6l361d7kb6n52n9p1jg/1920x1080_4215200_4_f.m3u8?i=475_13954|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FRBC3500004IP" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/LG 1 Spotlight.png",LG 1: Spotlight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://stream.ads.ottera.tv/cl/260306d6l31ujo4h80ik4bn8ag/1920x1080_4215200_4_f.m3u8?i=475_13956|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
-#EXTINF:-1 tvg-id="FRBA1000009KO" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Brefcinéma.png",Brefcinéma
+https://stream.ads.ottera.tv/cl/260306d6l361hgpp5t1jini0vg/1920x1080_4215200_4_f.m3u8?i=475_13956|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+#EXTINF:-1 tvg-id="FR:.Brefcinema.be" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Brefcinéma.png",Brefcinéma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/3000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
@@ -466,15 +466,15 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/1bffdaa
 #EXTINF:-1 tvg-id="FRBD4100006OC" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/BFM Business.png",BFM Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FRBD4100006OC|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92&bpkio_sessionid=10e0c42f115-8e4987ad-0df3-4b7f-a968-9d70bb80f8bd&category=all&mm_sp|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FR300011G9" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Favoris.png",Sony Favoris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR300011G9|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/68e4b344-c340-4a3c-bf75-deb6dfbc2b9e/0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FR300010HD" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/Sony Blacklist.png",Sony Blacklist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR300010HD|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://d1x87j1jmcypab.cloudfront.net/playlist_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="FranceTVsport.fr" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/france_tv_sport.png",FRANCE TV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
@@ -486,7 +486,7 @@ https://jmp2.uk/stvp-FR300005WY|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; 
 #EXTINF:-1 tvg-id="FR1800005X0" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/TV5MONDE INFO.png",TV5MONDE INFO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
-https://jmp2.uk/stvp-FR1800005X0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/06.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.bfmtv.com/&Origin=https://www.bfmtv.com/&Accept=*/*
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://raw.githubusercontent.com/edhhat/logo/main/The X-Files.png",The X-Files
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bfmtv.com/
