@@ -699,40 +699,64 @@
   <programme start="20260307055800 +0000" stop="20260307060000 +0000" channel="180761">
     <title lang="fr">Ouverture d'antenne</title>
   </programme>
-  <programme start="20260307060000 +0000" stop="20260307103000 +0000" channel="180761">
+  <programme start="20260307060000 +0000" stop="20260307070000 +0000" channel="180761">
     <title lang="fr">Playlist</title>
   </programme>
-  <programme start="20260307103000 +0000" stop="20260307143000 +0000" channel="180761">
+  <programme start="20260307070000 +0000" stop="20260307090000 +0000" channel="180761">
+    <title lang="fr">Football : Ligue 2 Ivoirienne</title>
+  </programme>
+  <programme start="20260307090000 +0000" stop="20260307093000 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260307093000 +0000" stop="20260307103000 +0000" channel="180761">
+    <title lang="fr">Dimanche de sport</title>
+  </programme>
+  <programme start="20260307103000 +0000" stop="20260307120000 +0000" channel="180761">
     <title lang="fr">Emission polémique</title>
   </programme>
-  <programme start="20260307143000 +0000" stop="20260307151500 +0000" channel="180761">
+  <programme start="20260307120000 +0000" stop="20260307141500 +0000" channel="180761">
+    <title lang="fr">Rêves en or</title>
+  </programme>
+  <programme start="20260307141500 +0000" stop="20260307144500 +0000" channel="180761">
+    <title lang="fr">Afrobasket</title>
+  </programme>
+  <programme start="20260307144500 +0000" stop="20260307153000 +0000" channel="180761">
     <title lang="fr">Playlist</title>
   </programme>
-  <programme start="20260307151500 +0000" stop="20260307171500 +0000" channel="180761">
-    <title lang="fr">Football : AFC Champions League Two</title>
-  </programme>
-  <programme start="20260307171500 +0000" stop="20260307192500 +0000" channel="180761">
+  <programme start="20260307153000 +0000" stop="20260307173000 +0000" channel="180761">
     <title lang="fr">Long métrage</title>
   </programme>
-  <programme start="20260307192500 +0000" stop="20260307210500 +0000" channel="180761">
-    <title lang="fr">Stars au scanner</title>
+  <programme start="20260307173000 +0000" stop="20260307180000 +0000" channel="180761">
+    <title lang="fr">Against the odds</title>
   </programme>
-  <programme start="20260307210500 +0000" stop="20260307213000 +0000" channel="180761">
+  <programme start="20260307180000 +0000" stop="20260307183000 +0000" channel="180761">
+    <title lang="fr">Emission spéciale musique</title>
+  </programme>
+  <programme start="20260307183000 +0000" stop="20260307201500 +0000" channel="180761">
+    <title lang="fr">La voix des étoiles</title>
+  </programme>
+  <programme start="20260307201500 +0000" stop="20260307203000 +0000" channel="180761">
+    <title lang="fr">Reportage Sports</title>
+  </programme>
+  <programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="180761">
+    <title lang="fr">Playlist</title>
+  </programme>
+  <programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="180761">
     <title lang="fr">Hommage</title>
   </programme>
-  <programme start="20260307213000 +0000" stop="20260307230000 +0000" channel="180761">
+  <programme start="20260307213000 +0000" stop="20260307223000 +0000" channel="180761">
     <title lang="fr">Concert</title>
   </programme>
-  <programme start="20260307230000 +0000" stop="20260307234500 +0000" channel="180761">
-    <title lang="fr">Eric &amp; Jessie</title>
+  <programme start="20260307223000 +0000" stop="20260307231500 +0000" channel="180761">
+    <title lang="fr">The Funny Dance Show</title>
   </programme>
-  <programme start="20260307234500 +0000" stop="20260308001500 +0000" channel="180761">
+  <programme start="20260307231500 +0000" stop="20260307234500 +0000" channel="180761">
     <title lang="fr">Interview avec</title>
   </programme>
-  <programme start="20260308001500 +0000" stop="20260308014500 +0000" channel="180761">
+  <programme start="20260307234500 +0000" stop="20260308011500 +0000" channel="180761">
     <title lang="fr">Emission polémique</title>
   </programme>
-  <programme start="20260308014500 +0000" stop="20260308020000 +0000" channel="180761">
+  <programme start="20260308011500 +0000" stop="20260308020000 +0000" channel="180761">
     <title lang="fr">Playlist</title>
   </programme>
   <programme start="20260308020000 +0000" stop="20260308041500 +0000" channel="180761">
