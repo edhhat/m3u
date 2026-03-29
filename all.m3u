@@ -59,8 +59,6 @@ https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 group-title="27. |HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC" tvg-logo="https://i.ibb.co/kVXqj9fQ/Jeka.png",JEKA ❤️💘
 https://muzzikbalkan-live.morescreens.com/mts-4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="29. |IR|🇮🇷 IRAN",IRIB 1
-https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="30. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
@@ -191,6 +189,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x8dtuir.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://duckduckgo.com/i/54b4f51ce70dd949.png" tvg-name="MEDI1TV AFRIQUE HD"  group-title="ACTUALITES",MEDI1TV AFRIQUE HD
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:-1, tvg-id="PanafricanMediaTV" tvg-logo="https://i.ytimg.com/vi/hVcCCLdrHH8/maxresdefault.jpg" tvg-name="PANAFRICAN MEDIA HD"  group-title="ACTUALITES",PANAFRICAN MEDIA HD
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 #EXTINF:-1, tvg-id="publicsenat.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/58/Public_S%C3%A9nat_Logo.svg.png/revision/latest?cb=20190726180120&path-prefix=fr" tvg-name="PUBLIC SENAT"  group-title="ACTUALITES",PUBLIC SENAT
 https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
 #EXTINF:-1, tvg-id="trtfrancais.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-250px-RT_France.svg.png" tvg-name="RT FRANCE"  group-title="ACTUALITES",RT FRANCE
@@ -251,10 +251,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31691.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31704.ts
-#EXTINF:-1 channel-id="xt_31787" tvg-id="cmt.ca" tvg-chno="" tvg-name="CA| CMT HD" tvg-logo="https://lo1.in/ca/cmt.png" group-title="AM | CANADA CINEMA",CA| CMT HD
+#EXTINF:-1 channel-id="xt_31705" tvg-id="crave1.ca" tvg-chno="" tvg-name="CA| CRAVE 1 HD" tvg-logo="https://lo1.in/ca/crv1.png" group-title="AM | CANADA CINEMA",CA| CRAVE 1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31787.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31705.ts
 #EXTINF:-1 channel-id="xt_31706" tvg-id="crave2.ca" tvg-chno="" tvg-name="CA| CRAVE 2 HD" tvg-logo="https://lo1.in/ca/crv2.png" group-title="AM | CANADA CINEMA",CA| CRAVE 2 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -263,10 +263,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31706.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31707.ts
-#EXTINF:-1 channel-id="xt_31708" tvg-id="crave4.ca" tvg-chno="" tvg-name="CA| CRAVE 4 HD" tvg-logo="https://lo1.in/ca/crv4.png" group-title="AM | CANADA CINEMA",CA| CRAVE 4 HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31708.ts
 #EXTINF:-1 channel-id="xt_31695" tvg-id="ctvdramachannel.ca" tvg-chno="" tvg-name="CA| CTV DRAMA CHANNEL HD" tvg-logo="https://lo1.in/ca/ctvcome.png" group-title="AM | CANADA CINEMA",CA| CTV DRAMA CHANNEL HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -283,10 +279,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31839.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31701.ts
-#EXTINF:-1 channel-id="xt_31713" tvg-id="hbo.ca" tvg-chno="" tvg-name="CA| HBO 1 HD" tvg-logo="https://lo1.in/ca/gbo1.png" group-title="AM | CANADA CINEMA",CA| HBO 1 HD
+#EXTINF:-1 channel-id="xt_31714" tvg-id="hbo2.ca" tvg-chno="" tvg-name="CA| HBO 2 HD" tvg-logo="https://lo1.in/ca/hbo2.png" group-title="AM | CANADA CINEMA",CA| HBO 2 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31713.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31714.ts
 #EXTINF:-1 channel-id="xt_31698" tvg-id="hollywoodsuite2000.ca" tvg-chno="" tvg-name="CA| HOLLYWOOD SUITE 2000'S " tvg-logo="https://lo1.in/ca/hollysui90s.png" group-title="AM | CANADA CINEMA",CA| HOLLYWOOD SUITE 2000'S
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -295,18 +291,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31698.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31697.ts
+#EXTINF:-1 channel-id="xt_31700" tvg-id="hollywoodsuite70s.ca" tvg-chno="" tvg-name="CA| HOLLYWOOD SUITE 70'S  " tvg-logo="https://lo1.in/ca/hlwdsuit70s.png" group-title="AM | CANADA CINEMA",CA| HOLLYWOOD SUITE 70'S
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31700.ts
 #EXTINF:-1 channel-id="xt_3378" tvg-id="None" tvg-chno="" tvg-name="CA| LIFETIME MOVIES HD" tvg-logo="https://lo1.in/ca/lifetime.png" group-title="AM | CANADA CINEMA",CA| LIFETIME MOVIES HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3378.ts
-#EXTINF:-1 channel-id="xt_31693" tvg-id="movietime.ca" tvg-chno="" tvg-name="CA| MOVIETIME HD" tvg-logo="https://lo1.in/ca/movtm.png" group-title="AM | CANADA CINEMA",CA| MOVIETIME HD
+#EXTINF:-1 channel-id="xt_31833" tvg-id="silverscreenclassics.ca" tvg-chno="" tvg-name="CA| SILVER SCREEN CLASSICS HD" tvg-logo="https://lo1.in/ca/slvrscrncla.png" group-title="AM | CANADA CINEMA",CA| SILVER SCREEN CLASSICS HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31693.ts
-#EXTINF:-1 channel-id="xt_92387" tvg-id="rewind.ca" tvg-chno="" tvg-name="CA| REWIND" tvg-logo="https://lo1.in/ca/rewind.png" group-title="AM | CANADA CINEMA",CA| REWIND
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/92387.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31833.ts
 #EXTINF:-1 channel-id="xt_31709" tvg-id="starz1.ca" tvg-chno="" tvg-name="CA| STARZ 1 HD" tvg-logo="https://lo1.in/ca/STARZ.png" group-title="AM | CANADA CINEMA",CA| STARZ 1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -319,10 +315,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31710.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31712.ts
+#EXTINF:-1 channel-id="xt_31715" tvg-id="superchannelheartandhome.ca" tvg-chno="" tvg-name="CA| SUPER CHANNEL HEART & HOME HD" tvg-logo="https://lo1.in/ca/sprchhrthm.png" group-title="AM | CANADA CINEMA",CA| SUPER CHANNEL HEART & HOME HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31715.ts
 #EXTINF:-1 channel-id="xt_31711" tvg-id="superchannelvault.ca" tvg-chno="" tvg-name="CA| SUPER CHANNEL VAULT HD" tvg-logo="https://lo1.in/ca/sprchvlt.png" group-title="AM | CANADA CINEMA",CA| SUPER CHANNEL VAULT HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31711.ts
+#EXTINF:-1 channel-id="xt_45303" tvg-id="None" tvg-chno="" tvg-name="CA| TCM HD" tvg-logo="https://lo1.in/ca/tcm.png" group-title="AM | CANADA CINEMA",CA| TCM HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/45303.ts
 #EXTINF:-1 channel-id="xt_31692" tvg-id="turnerclassicmovies.ca" tvg-chno="" tvg-name="CA| TURNER CLASSIC MOVIES HD" tvg-logo="https://lo1.in/ca/trnrclamov.png" group-title="AM | CANADA CINEMA",CA| TURNER CLASSIC MOVIES HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -343,6 +347,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31862.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31863.ts
+#EXTINF:-1 channel-id="xt_31855" tvg-id="crimeinvestigation.ca" tvg-chno="" tvg-name="CA| CRIME & INVESTIGATION HD" tvg-logo="https://lo1.in/ca/crig.png" group-title="AM | CANADA DOCUMENTARY",CA| CRIME & INVESTIGATION HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31855.ts
 #EXTINF:-1 channel-id="xt_45298" tvg-id="discoverychannel.ca" tvg-chno="" tvg-name="CA| DISCOVERY CANADA HD" tvg-logo="https://lo1.in/ca/discca.png" group-title="AM | CANADA DOCUMENTARY",CA| DISCOVERY CANADA HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -375,10 +383,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31852.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31850.ts
+#EXTINF:-1 channel-id="xt_31849" tvg-id="natgeowild.ca" tvg-chno="" tvg-name="CA| NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://lo1.in/us/ntw.png" group-title="AM | CANADA DOCUMENTARY",CA| NATIONAL GEOGRAPHIC WILD HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31849.ts
 #EXTINF:-1 channel-id="xt_92386" tvg-id="smithsonian.ca" tvg-chno="" tvg-name="CA| SMITHSONIAN HD" tvg-logo="https://lo1.in/ca/smths0.png" group-title="AM | CANADA DOCUMENTARY",CA| SMITHSONIAN HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/92386.ts
+#EXTINF:-1 channel-id="xt_31860" tvg-id="travelescape.ca" tvg-chno="" tvg-name="CA| TRAVEL ESCAPE HD" tvg-logo="https://lo1.in/ca/trvlescp.png" group-title="AM | CANADA DOCUMENTARY",CA| TRAVEL ESCAPE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31860.ts
 #EXTINF:-1 channel-id="xt_31822" tvg-id="travelxp.ca" tvg-chno="" tvg-name="CA| TRAVELXP HD" tvg-logo="https://lo1.in/ca/trvlxp.png" group-title="AM | CANADA DOCUMENTARY",CA| TRAVELXP HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1239,14 +1255,30 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31789.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31785.ts
+#EXTINF:-1 channel-id="xt_31784" tvg-id="treehouse.ca" tvg-chno="" tvg-name="CA| TREEHOUSE" tvg-logo="https://lo1.in/ca/TREEHOUSE.png" group-title="AM | CANADA KIDS",CA| TREEHOUSE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31784.ts
 #EXTINF:-1 channel-id="xt_31846" tvg-id="None" tvg-chno="" tvg-name="CA| YTV WEST HD" tvg-logo="https://lo1.in/ca/ytvw.png" group-title="AM | CANADA KIDS",CA| YTV WEST HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31846.ts
+#EXTINF:-1 channel-id="xt_1361413" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 01 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361413.ts
 #EXTINF:-1 channel-id="xt_1361412" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 02 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 02 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361412.ts
+#EXTINF:-1 channel-id="xt_1361411" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 03 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361411.ts
+#EXTINF:-1 channel-id="xt_1361410" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 04 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 04 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361410.ts
 #EXTINF:-1 channel-id="xt_1361409" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 05 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1267,10 +1299,34 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361406.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361405.ts
+#EXTINF:-1 channel-id="xt_1361404" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 10 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361404.ts
+#EXTINF:-1 channel-id="xt_1361403" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 11 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361403.ts
+#EXTINF:-1 channel-id="xt_1361402" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 12 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 12 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361402.ts
+#EXTINF:-1 channel-id="xt_1361401" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 13 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 13 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361401.ts
 #EXTINF:-1 channel-id="xt_1361400" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 14 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 14 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361400.ts
+#EXTINF:-1 channel-id="xt_1361399" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 15 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 15 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361399.ts
+#EXTINF:-1 channel-id="xt_1361398" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 16 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 16 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361398.ts
 #EXTINF:-1 channel-id="xt_1361397" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 17 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 17 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1307,6 +1363,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361390.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361389.ts
+#EXTINF:-1 channel-id="xt_1361388" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 26 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 26 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361388.ts
 #EXTINF:-1 channel-id="xt_1361387" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 27 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 27 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1315,10 +1375,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361387.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361386.ts
-#EXTINF:-1 channel-id="xt_1361385" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 29 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 29 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361385.ts
 #EXTINF:-1 channel-id="xt_1361384" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 30 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 30 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1327,6 +1383,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361384.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361383.ts
+#EXTINF:-1 channel-id="xt_1361382" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 32 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 32 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361382.ts
 #EXTINF:-1 channel-id="xt_1361381" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 33 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 33 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1339,6 +1399,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361380.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361379.ts
+#EXTINF:-1 channel-id="xt_1361378" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 36 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 36 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361378.ts
 #EXTINF:-1 channel-id="xt_1361377" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 37 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 37 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1347,6 +1411,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361377.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361376.ts
+#EXTINF:-1 channel-id="xt_1361375" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 39 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 39 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361375.ts
 #EXTINF:-1 channel-id="xt_1361374" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 40 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 40 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1379,6 +1447,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361368.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361367.ts
+#EXTINF:-1 channel-id="xt_1361366" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 48 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 48 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1361366.ts
 #EXTINF:-1 channel-id="xt_1361365" tvg-id="None" tvg-chno="" tvg-name="CA| CBC 49 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| CBC 49 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1395,6 +1467,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210847.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210846.ts
+#EXTINF:-1 channel-id="xt_1210845" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 03 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210845.ts
 #EXTINF:-1 channel-id="xt_1210843" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 05 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1403,10 +1479,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210843.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210842.ts
-#EXTINF:-1 channel-id="xt_1210838" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 10 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1210748" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 100 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 100 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210838.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210748.ts
+#EXTINF:-1 channel-id="xt_1210837" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 11 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210837.ts
+#EXTINF:-1 channel-id="xt_1210833" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 15 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 15 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210833.ts
 #EXTINF:-1 channel-id="xt_1210830" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 18 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 18 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1415,42 +1499,90 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210830.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210825.ts
-#EXTINF:-1 channel-id="xt_1210821" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 27 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 27 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1210824" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 24 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 24 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210821.ts
-#EXTINF:-1 channel-id="xt_1210819" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 29 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 29 [EVENT ONLY]
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210824.ts
+#EXTINF:-1 channel-id="xt_1210818" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 30 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 30 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210819.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210818.ts
+#EXTINF:-1 channel-id="xt_1210817" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 31 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 31 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210817.ts
 #EXTINF:-1 channel-id="xt_1210816" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 32 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 32 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210816.ts
+#EXTINF:-1 channel-id="xt_1210813" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 35 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 35 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210813.ts
 #EXTINF:-1 channel-id="xt_1210809" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 39 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 39 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210809.ts
-#EXTINF:-1 channel-id="xt_1210806" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 42 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 42 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1210804" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 44 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 44 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210806.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210804.ts
+#EXTINF:-1 channel-id="xt_1210803" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 45 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 45 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210803.ts
+#EXTINF:-1 channel-id="xt_1210801" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 47 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 47 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210801.ts
 #EXTINF:-1 channel-id="xt_1210798" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 50 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 50 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210798.ts
-#EXTINF:-1 channel-id="xt_1210790" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 58 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 58 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1210795" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 53 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 53 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210790.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210795.ts
+#EXTINF:-1 channel-id="xt_1210794" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 54 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 54 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210794.ts
+#EXTINF:-1 channel-id="xt_1210792" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 56 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 56 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210792.ts
 #EXTINF:-1 channel-id="xt_1210787" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 61 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 61 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210787.ts
+#EXTINF:-1 channel-id="xt_1210784" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 64 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 64 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210784.ts
+#EXTINF:-1 channel-id="xt_1210783" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 65 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 65 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210783.ts
+#EXTINF:-1 channel-id="xt_1210781" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 67 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 67 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210781.ts
+#EXTINF:-1 channel-id="xt_1210779" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 69 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 69 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210779.ts
+#EXTINF:-1 channel-id="xt_1210778" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 70 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 70 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210778.ts
 #EXTINF:-1 channel-id="xt_1210777" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 71 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 71 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210777.ts
+#EXTINF:-1 channel-id="xt_1210776" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 72 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 72 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210776.ts
 #EXTINF:-1 channel-id="xt_1210775" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 73 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 73 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1459,34 +1591,78 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210775.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210774.ts
+#EXTINF:-1 channel-id="xt_1210772" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 76 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 76 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210772.ts
 #EXTINF:-1 channel-id="xt_1210771" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 77 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 77 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210771.ts
+#EXTINF:-1 channel-id="xt_1210770" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 78 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 78 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210770.ts
+#EXTINF:-1 channel-id="xt_1210769" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 79 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 79 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210769.ts
 #EXTINF:-1 channel-id="xt_1210768" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 80 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 80 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210768.ts
+#EXTINF:-1 channel-id="xt_1210767" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 81 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 81 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210767.ts
+#EXTINF:-1 channel-id="xt_1210766" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 82 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 82 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210766.ts
+#EXTINF:-1 channel-id="xt_1210765" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 83 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 83 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210765.ts
+#EXTINF:-1 channel-id="xt_1210764" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 84 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 84 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210764.ts
+#EXTINF:-1 channel-id="xt_1210763" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 85 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 85 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210763.ts
 #EXTINF:-1 channel-id="xt_1210762" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 86 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 86 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210762.ts
+#EXTINF:-1 channel-id="xt_1210761" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 87 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 87 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210761.ts
 #EXTINF:-1 channel-id="xt_1210760" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 88 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 88 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210760.ts
-#EXTINF:-1 channel-id="xt_1210759" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 89 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 89 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1210758" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 90 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 90 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210759.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210758.ts
 #EXTINF:-1 channel-id="xt_1210757" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 91 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 91 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210757.ts
+#EXTINF:-1 channel-id="xt_1210756" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 92 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 92 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210756.ts
 #EXTINF:-1 channel-id="xt_1210755" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 93 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 93 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210755.ts
+#EXTINF:-1 channel-id="xt_1210754" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 94 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 94 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210754.ts
 #EXTINF:-1 channel-id="xt_1210753" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 95 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 95 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1495,6 +1671,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210753.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210752.ts
+#EXTINF:-1 channel-id="xt_1210751" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 97 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 97 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210751.ts
+#EXTINF:-1 channel-id="xt_1210750" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 98 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 98 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210750.ts
+#EXTINF:-1 channel-id="xt_1210749" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN 99 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN 99 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1210749.ts
 #EXTINF:-1 channel-id="xt_173312" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN CA 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN CA 01 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1587,6 +1775,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4466.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4467.ts
+#EXTINF:-1 channel-id="xt_4469" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN CA 27 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN CA 27 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4469.ts
 #EXTINF:-1 channel-id="xt_4470" tvg-id="None" tvg-chno="" tvg-name="CA| DAZN CA 28 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| DAZN CA 28 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1599,46 +1791,46 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4472.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/97780.ts
-#EXTINF:-1 channel-id="xt_1015137" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 009 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 009 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1015141" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 005 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 005 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015137.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015141.ts
+#EXTINF:-1 channel-id="xt_1015140" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 006 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 006 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015140.ts
+#EXTINF:-1 channel-id="xt_1015134" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 012 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 012 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015134.ts
+#EXTINF:-1 channel-id="xt_1015133" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 013 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 013 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015133.ts
 #EXTINF:-1 channel-id="xt_1015128" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 018 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 018 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015128.ts
-#EXTINF:-1 channel-id="xt_1015114" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 032 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 032 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1015120" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 026 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 026 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015114.ts
-#EXTINF:-1 channel-id="xt_1015106" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 040 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 040 [EVENT ONLY]
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015120.ts
+#EXTINF:-1 channel-id="xt_1015119" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 027 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 027 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015106.ts
-#EXTINF:-1 channel-id="xt_1015105" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 041 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 041 [EVENT ONLY]
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015119.ts
+#EXTINF:-1 channel-id="xt_1015117" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 029 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 029 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015105.ts
-#EXTINF:-1 channel-id="xt_1015103" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 043 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 043 [EVENT ONLY]
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015117.ts
+#EXTINF:-1 channel-id="xt_1015104" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 042 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 042 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015103.ts
-#EXTINF:-1 channel-id="xt_1015102" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 044 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 044 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015102.ts
-#EXTINF:-1 channel-id="xt_1015092" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 054 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 054 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015092.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015104.ts
 #EXTINF:-1 channel-id="xt_1015091" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 055 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 055 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015091.ts
-#EXTINF:-1 channel-id="xt_1015084" tvg-id="None" tvg-chno="" tvg-name="CA| SN+ 062 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SN+ 062 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015084.ts
 #EXTINF:-1 channel-id="xt_19113" tvg-id="None" tvg-chno="" tvg-name="CA| SPORTSNET EVENT 01 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| SPORTSNET EVENT 01 HD ( LIVE EVENTS ONLY )
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1703,6 +1895,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4454.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4455.ts
+#EXTINF:-1 channel-id="xt_1015243" tvg-id="None" tvg-chno="" tvg-name="CA| TSN+ 003 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| TSN+ 003 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015243.ts
+#EXTINF:-1 channel-id="xt_1015240" tvg-id="None" tvg-chno="" tvg-name="CA| TSN+ 006 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| TSN+ 006 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015240.ts
 #EXTINF:-1 channel-id="xt_1015239" tvg-id="None" tvg-chno="" tvg-name="CA| TSN+ 007 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| TSN+ 007 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -1715,6 +1915,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015238.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015237.ts
+#EXTINF:-1 channel-id="xt_1015234" tvg-id="None" tvg-chno="" tvg-name="CA| TSN+ 012 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| TSN+ 012 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1015234.ts
 #EXTINF:-1 channel-id="xt_1015147" tvg-id="None" tvg-chno="" tvg-name="CA| TSN+ 099 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA LIVE EVENT-PPV",CA| TSN+ 099 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -2123,6 +2327,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31813.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31689.ts
+#EXTINF:-1 channel-id="xt_50714" tvg-id="None" tvg-chno="" tvg-name="CA| STINGRAY CLASSIC ROCK" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY CLASSIC ROCK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/50714.ts
 #EXTINF:-1 channel-id="xt_50712" tvg-id="None" tvg-chno="" tvg-name="CA| STINGRAY HIT LIST" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY HIT LIST
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -2659,6 +2867,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/31912.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4146.ts
+#EXTINF:-1 channel-id="xt_935295" tvg-id="None" tvg-chno="" tvg-name="US| OWN [WEST]" tvg-logo="https://lo1.in/usa/own.png" group-title="AM | USA ENTERTAINMENT",US| OWN [WEST]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/935295.ts
 #EXTINF:-1 channel-id="xt_1203291" tvg-id="None" tvg-chno="" tvg-name="US| PANIC TV" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA ENTERTAINMENT",US| PANIC TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -3429,10 +3641,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/651.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/122519.ts
-#EXTINF:-1 channel-id="xt_393" tvg-id="tcm.fr" tvg-chno="" tvg-name="FR| TCM CINÉMA FHD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="EU | FRANCE CINEMA ",FR| TCM CINÉMA FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/393.ts
 #EXTINF:-1 channel-id="xt_429" tvg-id="tcm.fr" tvg-chno="" tvg-name="FR| TCM CINÉMA HD" tvg-logo="https://lo1.in/fr/tcmhdd.png" group-title="EU | FRANCE CINEMA ",FR| TCM CINÉMA HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -3509,6 +3717,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/356.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4349.ts
+#EXTINF:-1 channel-id="xt_338" tvg-id="ab3.be" tvg-chno="" tvg-name="FR| AB3 FHD" tvg-logo="https://lo1.in/fr/ab3hd.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| AB3 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/338.ts
 #EXTINF:-1 channel-id="xt_374" tvg-id="ab3.be" tvg-chno="" tvg-name="FR| AB3 HD" tvg-logo="https://lo1.in/fr/ab3hd.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| AB3 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -3581,6 +3793,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/378.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/361.ts
+#EXTINF:-1 channel-id="xt_656" tvg-id="eentertainment.fr" tvg-chno="" tvg-name="FR| E! ENTERTAINMENT SD" tvg-logo="https://lo1.in/fr/ehdd.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| E! ENTERTAINMENT SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/656.ts
 #EXTINF:-1 channel-id="xt_1187" tvg-id="None" tvg-chno="" tvg-name="FR| GENERATION TV FHD" tvg-logo="https://lo1.in/fr/genn.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| GENERATION TV FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -3653,18 +3869,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4346.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/334.ts
-#EXTINF:-1 channel-id="xt_370" tvg-id="polarplus.fr" tvg-chno="" tvg-name="FR| POLAR+ HD" tvg-logo="https://lo1.in/fr/plpp.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| POLAR+ HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/370.ts
 #EXTINF:-1 channel-id="xt_353" tvg-id="polarplus.fr" tvg-chno="" tvg-name="FR| POLAR+ HEVC" tvg-logo="https://lo1.in/fr/plpp.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| POLAR+ HEVC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/353.ts
-#EXTINF:-1 channel-id="xt_4352" tvg-id="polarplus.fr" tvg-chno="" tvg-name="FR| POLAR+ SD" tvg-logo="https://lo1.in/fr/plpp.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| POLAR+ SD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4352.ts
 #EXTINF:-1 channel-id="xt_6935" tvg-id="None" tvg-chno="" tvg-name="FR| RMC MECANIC FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE DIVERTISSEMENT ",FR| RMC MECANIC FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -3825,10 +4033,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/8108.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/8109.ts
+#EXTINF:-1 channel-id="xt_450" tvg-id="animaux.fr" tvg-chno="" tvg-name="FR| ANIMAUX FHD" tvg-logo="https://lo1.in/fr/animaux.png" group-title="EU | FRANCE DOCUMENTARY ",FR| ANIMAUX FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/450.ts
 #EXTINF:-1 channel-id="xt_496" tvg-id="animaux.fr" tvg-chno="" tvg-name="FR| ANIMAUX HD" tvg-logo="https://lo1.in/fr/animaux.png" group-title="EU | FRANCE DOCUMENTARY ",FR| ANIMAUX HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/496.ts
+#EXTINF:-1 channel-id="xt_4370" tvg-id="animaux.fr" tvg-chno="" tvg-name="FR| ANIMAUX SD" tvg-logo="https://lo1.in/fr/animaux0.png" group-title="EU | FRANCE DOCUMENTARY ",FR| ANIMAUX SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4370.ts
 #EXTINF:-1 channel-id="xt_497" tvg-id="chassepeche.fr" tvg-chno="" tvg-name="FR| CHASSE ET PECHE HD" tvg-logo="https://lo1.in/fr/chph.png" group-title="EU | FRANCE DOCUMENTARY ",FR| CHASSE ET PECHE HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4149,6 +4365,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4754.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4791.ts
+#EXTINF:-1 channel-id="xt_4784" tvg-id="None" tvg-chno="" tvg-name="FR-REU| Tfx HD" tvg-logo="https://lo1.in/fr/Tfx HD.png" group-title="EU | FRANCE DOM TOM",FR-REU| Tfx HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4784.ts
 #EXTINF:-1 channel-id="xt_29230" tvg-id="babytv.fr" tvg-chno="" tvg-name="FR| BABY TV FHD" tvg-logo="https://lo1.in/fr/BABY TV HEVC.png" group-title="EU | FRANCE ENFANTS",FR| BABY TV FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4253,6 +4473,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/556.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/536.ts
+#EXTINF:-1 channel-id="xt_2192" tvg-id="disneychannelplus1.fr" tvg-chno="" tvg-name="FR| DISNEY CHANNEL+1 SD" tvg-logo="https://lo1.in/fr/dischaa.png" group-title="EU | FRANCE ENFANTS",FR| DISNEY CHANNEL+1 SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2192.ts
 #EXTINF:-1 channel-id="xt_517" tvg-id="disneyjunior.fr" tvg-chno="" tvg-name="FR| DISNEY JUNIOR FHD" tvg-logo="https://lo1.in/fr/Disney  HD.png" group-title="EU | FRANCE ENFANTS",FR| DISNEY JUNIOR FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4769,6 +4993,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/682.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2190.ts
+#EXTINF:-1 channel-id="xt_29245" tvg-id="None" tvg-chno="" tvg-name="FR| IMEARTH FHD" tvg-logo="https://lo1.in/fr/imea.png" group-title="EU | FRANCE GENERALE ",FR| IMEARTH FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29245.ts
 #EXTINF:-1 channel-id="xt_1050926" tvg-id="canal32.fr" tvg-chno="" tvg-name="FR| LA CHAINE 32 FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE GENERALE ",FR| LA CHAINE 32 FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4973,14 +5201,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29236.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1163495.ts
+#EXTINF:-1 channel-id="xt_168" tvg-id="tvbreizh.fr" tvg-chno="" tvg-name="FR| TV BREIZH FHD" tvg-logo="https://lo1.in/fr/tvbhdd.png" group-title="EU | FRANCE GENERALE ",FR| TV BREIZH FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/168.ts
 #EXTINF:-1 channel-id="xt_206" tvg-id="tvbreizh.fr" tvg-chno="" tvg-name="FR| TV BREIZH HD" tvg-logo="https://lo1.in/fr/tvbhdd.png" group-title="EU | FRANCE GENERALE ",FR| TV BREIZH HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/206.ts
-#EXTINF:-1 channel-id="xt_187" tvg-id="tvbreizh.fr" tvg-chno="" tvg-name="FR| TV BREIZH HEVC" tvg-logo="https://lo1.in/fr/tvbhdd.png" group-title="EU | FRANCE GENERALE ",FR| TV BREIZH HEVC
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/187.ts
 #EXTINF:-1 channel-id="xt_122509" tvg-id="tvbreizh.fr" tvg-chno="" tvg-name="FR| TV BREIZH SD" tvg-logo="https://lo1.in/fr/TV BREIZH.png" group-title="EU | FRANCE GENERALE ",FR| TV BREIZH SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4989,6 +5217,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/122509.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19150.ts
+#EXTINF:-1 channel-id="xt_29232" tvg-id="tvtours.fr" tvg-chno="" tvg-name="FR| TV TOURS FHD" tvg-logo="https://lo1.in/fr/tours.png" group-title="EU | FRANCE GENERALE ",FR| TV TOURS FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29232.ts
 #EXTINF:-1 channel-id="xt_1163494" tvg-id="tv7bordeaux.fr" tvg-chno="" tvg-name="FR| TV7 BORDEAUX FHD" tvg-logo="https://lo1.in/fr/fr.png" group-title="EU | FRANCE GENERALE ",FR| TV7 BORDEAUX FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5101,10 +5333,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4355.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/327.ts
-#EXTINF:-1 channel-id="xt_291" tvg-id="cnews.fr" tvg-chno="" tvg-name="FR| CNEWS FHD" tvg-logo="https://lo1.in/fr/cnews.png" group-title="EU | FRANCE INFORMATION",FR| CNEWS FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/291.ts
 #EXTINF:-1 channel-id="xt_320" tvg-id="cnews.fr" tvg-chno="" tvg-name="FR| CNEWS HD" tvg-logo="https://lo1.in/fr/cnews.png" group-title="EU | FRANCE INFORMATION",FR| CNEWS HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5193,10 +5421,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/302.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1027.ts
-#EXTINF:-1 channel-id="xt_298" tvg-id="lachainemeteo.fr" tvg-chno="" tvg-name="FR| LA CHAINE METEO FHD" tvg-logo="https://lo1.in/fr/chmet0.png" group-title="EU | FRANCE INFORMATION",FR| LA CHAINE METEO FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/298.ts
 #EXTINF:-1 channel-id="xt_326" tvg-id="lachainemeteo.fr" tvg-chno="" tvg-name="FR| LA CHAINE METEO HD" tvg-logo="https://lo1.in/fr/chmet0.png" group-title="EU | FRANCE INFORMATION",FR| LA CHAINE METEO HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5213,10 +5437,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4353.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/292.ts
-#EXTINF:-1 channel-id="xt_321" tvg-id="lci.fr" tvg-chno="" tvg-name="FR| LCI HD" tvg-logo="https://lo1.in/fr/lcihd.png" group-title="EU | FRANCE INFORMATION",FR| LCI HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/321.ts
 #EXTINF:-1 channel-id="xt_306" tvg-id="lci.fr" tvg-chno="" tvg-name="FR| LCI HEVC" tvg-logo="https://lo1.in/fr/lcihd.png" group-title="EU | FRANCE INFORMATION",FR| LCI HEVC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5545,10 +5765,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/268.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/250.ts
-#EXTINF:-1 channel-id="xt_4340" tvg-id="beinsports3.fr" tvg-chno="" tvg-name="FR| BEIN SPORTS 3 SD" tvg-logo="https://lo1.in/fr/bns3.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS 3 SD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4340.ts
 #EXTINF:-1 channel-id="xt_233" tvg-id="beinsportsmax10.fr" tvg-chno="" tvg-name="FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="https://lo1.in/fr/bnsm10.png" group-title="EU | FRANCE SPORTS ",FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5869,22 +6085,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19078.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19077.ts
-#EXTINF:-1 channel-id="xt_19076" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE 4 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE 4 FHD - (EVENT ONLY)
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19076.ts
-#EXTINF:-1 channel-id="xt_19075" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE 4 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE 4 HD - (EVENT ONLY)
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19075.ts
 #EXTINF:-1 channel-id="xt_19074" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE 5 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE 5 FHD - (EVENT ONLY)
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19074.ts
-#EXTINF:-1 channel-id="xt_19073" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE 5 HD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE 5 HD - (EVENT ONLY)
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19073.ts
 #EXTINF:-1 channel-id="xt_19072" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE 6 FHD - (EVENT ONLY)" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE 6 FHD - (EVENT ONLY)
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5917,18 +6121,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19066.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/19065.ts
-#EXTINF:-1 channel-id="xt_1043675" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE FOOT FHD" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE FOOT FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1043675.ts
 #EXTINF:-1 channel-id="xt_1043674" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE FOOT HD" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE FOOT HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1043674.ts
-#EXTINF:-1 channel-id="xt_1043673" tvg-id="None" tvg-chno="" tvg-name="FR| L'EQUIPE LIVE FOOT SD" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE LIVE FOOT SD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1043673.ts
 #EXTINF:-1 channel-id="xt_4336" tvg-id="lequipe21.fr" tvg-chno="" tvg-name="FR| L'EQUIPE SD" tvg-logo="https://lo1.in/FR/leq.png" group-title="EU | FRANCE SPORTS ",FR| L'EQUIPE SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5965,6 +6161,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/220.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/751410.ts
+#EXTINF:-1 channel-id="xt_261" tvg-id="rmcsport1.fr" tvg-chno="" tvg-name="FR| RMC SPORTS 1 HD" tvg-logo="https://lo1.in/FR/rmcs.png" group-title="EU | FRANCE SPORTS ",FR| RMC SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/261.ts
 #EXTINF:-1 channel-id="xt_751411" tvg-id="rmcsport1.fr" tvg-chno="" tvg-name="FR| RMC SPORTS 1 HD [BK]" tvg-logo="https://lo1.in/FR/rmcs.png" group-title="EU | FRANCE SPORTS ",FR| RMC SPORTS 1 HD [BK]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6001,10 +6201,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/246.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/223.ts
-#EXTINF:-1 channel-id="xt_264" tvg-id="rmcsportlive14.fr" tvg-chno="" tvg-name="FR| RMC SPORTS 4 HD" tvg-logo="https://lo1.in/FR/rmcs4.png" group-title="EU | FRANCE SPORTS ",FR| RMC SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/264.ts
 #EXTINF:-1 channel-id="xt_247" tvg-id="rmcsportlive14.fr" tvg-chno="" tvg-name="FR| RMC SPORTS 4 HEVC" tvg-logo="https://lo1.in/FR/rmcs4.png" group-title="EU | FRANCE SPORTS ",FR| RMC SPORTS 4 HEVC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6029,10 +6225,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/671.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/672.ts
-#EXTINF:-1 channel-id="xt_673" tvg-id="tracesportstars.fr" tvg-chno="" tvg-name="FR| TRACE SPORT STARS HEVC" tvg-logo="https://lo1.in/fr/trss.png" group-title="EU | FRANCE SPORTS ",FR| TRACE SPORT STARS HEVC
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/673.ts
 #EXTINF:-1 channel-id="xt_2200" tvg-id="tracesportstars.fr" tvg-chno="" tvg-name="FR| TRACE SPORT STARS SD" tvg-logo="https://lo1.in/fr/trss.png" group-title="EU | FRANCE SPORTS ",FR| TRACE SPORT STARS SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6053,6 +6245,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6554.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34326.ts
+#EXTINF:-1 channel-id="xt_28988" tvg-id="drama.uk" tvg-chno="" tvg-name="UK| DRAMA HD" tvg-logo="https://lo1.in/uk/dr.png" group-title="EU | UK CINEMA",UK| DRAMA HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/28988.ts
+#EXTINF:-1 channel-id="xt_34136" tvg-id="drama.uk" tvg-chno="" tvg-name="UK| DRAMA SD" tvg-logo="https://lo1.in/uk/dr.png" group-title="EU | UK CINEMA",UK| DRAMA SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34136.ts
 #EXTINF:-1 channel-id="xt_33805" tvg-id="dramaplus1.uk" tvg-chno="" tvg-name="UK| DRAMA+1 HD" tvg-logo="https://lo1.in/uk/ddd.png" group-title="EU | UK CINEMA",UK| DRAMA+1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6109,6 +6309,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29062.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29063.ts
+#EXTINF:-1 channel-id="xt_34378" tvg-id="skycinemacomedy.uk" tvg-chno="" tvg-name="UK| SKY CINEMA COMEDY HD" tvg-logo="https://lo1.in/uk/skycncmy.png" group-title="EU | UK CINEMA",UK| SKY CINEMA COMEDY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34378.ts
+#EXTINF:-1 channel-id="xt_29064" tvg-id="skycinemacomedy.uk" tvg-chno="" tvg-name="UK| SKY CINEMA COMEDY SD" tvg-logo="https://lo1.in/uk/skycncmy.png" group-title="EU | UK CINEMA",UK| SKY CINEMA COMEDY SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29064.ts
 #EXTINF:-1 channel-id="xt_29065" tvg-id="skydrama.uk" tvg-chno="" tvg-name="UK| SKY CINEMA DRAMA FHD" tvg-logo="https://lo1.in/uk/skycnmdr.png" group-title="EU | UK CINEMA",UK| SKY CINEMA DRAMA FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6141,6 +6349,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29060.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29057.ts
+#EXTINF:-1 channel-id="xt_34382" tvg-id="skygreats.uk" tvg-chno="" tvg-name="UK| SKY CINEMA GREATS HD" tvg-logo="https://lo1.in/uk/skycng.png" group-title="EU | UK CINEMA",UK| SKY CINEMA GREATS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34382.ts
 #EXTINF:-1 channel-id="xt_29058" tvg-id="skygreats.uk" tvg-chno="" tvg-name="UK| SKY CINEMA GREATS SD" tvg-logo="https://lo1.in/uk/skycng.png" group-title="EU | UK CINEMA",UK| SKY CINEMA GREATS SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6173,6 +6385,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34384.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29054.ts
+#EXTINF:-1 channel-id="xt_29067" tvg-id="skyscifihorror.uk" tvg-chno="" tvg-name="UK| SKY CINEMA SCIFI FHD" tvg-logo="https://lo1.in/uk/skycnsi10.png" group-title="EU | UK CINEMA",UK| SKY CINEMA SCIFI FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29067.ts
 #EXTINF:-1 channel-id="xt_34385" tvg-id="skyscifihorror.uk" tvg-chno="" tvg-name="UK| SKY CINEMA SCIFI HD" tvg-logo="https://lo1.in/uk/skycnsi10.png" group-title="EU | UK CINEMA",UK| SKY CINEMA SCIFI HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6213,6 +6429,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1320845.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019373.ts
+#EXTINF:-1 channel-id="xt_1019372" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 02" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 02
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019372.ts
+#EXTINF:-1 channel-id="xt_1019371" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 03" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 03
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019371.ts
 #EXTINF:-1 channel-id="xt_1019370" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 04" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 04
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6225,6 +6449,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019369.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019368.ts
+#EXTINF:-1 channel-id="xt_1019367" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 07" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 07
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019367.ts
 #EXTINF:-1 channel-id="xt_1019366" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 08" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 08
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6233,10 +6461,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019366.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019365.ts
-#EXTINF:-1 channel-id="xt_1019364" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 10" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 10
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019364.ts
 #EXTINF:-1 channel-id="xt_1019363" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 11" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 11
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6253,6 +6477,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019361.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019360.ts
+#EXTINF:-1 channel-id="xt_1019359" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 15" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 15
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019359.ts
 #EXTINF:-1 channel-id="xt_1019358" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 16" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 16
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6265,6 +6493,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019357.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019356.ts
+#EXTINF:-1 channel-id="xt_1019355" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 19" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 19
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019355.ts
 #EXTINF:-1 channel-id="xt_1019354" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 20" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 20
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6277,10 +6509,22 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1019353.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1320844.ts
+#EXTINF:-1 channel-id="xt_1320843" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 23" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 23
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1320843.ts
 #EXTINF:-1 channel-id="xt_1320842" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 24" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 24
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1320842.ts
+#EXTINF:-1 channel-id="xt_1320841" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 25" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 25
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1320841.ts
+#EXTINF:-1 channel-id="xt_1320840" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 26" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 26
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1320840.ts
 #EXTINF:-1 channel-id="xt_1320839" tvg-id="None" tvg-chno="" tvg-name="UK| SKY STORE PREMIERE 27" tvg-logo="https://lo1.in/uk/skyst.png" group-title="EU | UK CINEMA",UK| SKY STORE PREMIERE 27
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6309,6 +6553,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34207.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34336.ts
+#EXTINF:-1 channel-id="xt_102189" tvg-id="sonymax.uk" tvg-chno="" tvg-name="UK| SONY MAX HEVC" tvg-logo="https://lo1.in/uk/snymx.png" group-title="EU | UK CINEMA",UK| SONY MAX HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102189.ts
 #EXTINF:-1 channel-id="xt_29073" tvg-id="None" tvg-chno="" tvg-name="UK| SONY MOVIES ACTION +1 SD" tvg-logo="https://lo1.in/uk/sintl.png" group-title="EU | UK CINEMA",UK| SONY MOVIES ACTION +1 SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6317,6 +6565,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29073.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29070.ts
+#EXTINF:-1 channel-id="xt_29071" tvg-id="" tvg-chno="" tvg-name="UK| SONY MOVIES SD" tvg-logo="https://lo1.in/uk/snymv.png" group-title="EU | UK CINEMA",UK| SONY MOVIES SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29071.ts
 #EXTINF:-1 channel-id="xt_29074" tvg-id="talkingpictures.uk" tvg-chno="" tvg-name="UK| TALKING PICTURES TV" tvg-logo="https://lo1.in/uk/talkpi.png" group-title="EU | UK CINEMA",UK| TALKING PICTURES TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6357,6 +6609,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2240.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6547.ts
+#EXTINF:-1 channel-id="xt_29079" tvg-id="blaze.uk" tvg-chno="" tvg-name="UK| BLAZE SD" tvg-logo="https://lo1.in/uk/blze.png" group-title="EU | UK DOCUMENTRIES",UK| BLAZE SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29079.ts
 #EXTINF:-1 channel-id="xt_33960" tvg-id="crimeandinvestigationnetwork.uk" tvg-chno="" tvg-name="UK| CRIME & INVESTIGATION FHD" tvg-logo="https://lo1.in/uk/criminv.png" group-title="EU | UK DOCUMENTRIES",UK| CRIME & INVESTIGATION FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6365,6 +6621,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33960.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29085.ts
+#EXTINF:-1 channel-id="xt_102200" tvg-id="crimeandinvestigationnetwork.uk" tvg-chno="" tvg-name="UK| CRIME & INVESTIGATION HEVC" tvg-logo="https://lo1.in/uk/criminv.png" group-title="EU | UK DOCUMENTRIES",UK| CRIME & INVESTIGATION HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102200.ts
 #EXTINF:-1 channel-id="xt_34247" tvg-id="crimeandinvestigationnetwork.uk" tvg-chno="" tvg-name="UK| CRIME & INVESTIGATION SD" tvg-logo="https://lo1.in/uk/criminv.png" group-title="EU | UK DOCUMENTRIES",UK| CRIME & INVESTIGATION SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6373,6 +6633,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34247.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29081.ts
+#EXTINF:-1 channel-id="xt_34138" tvg-id="discoverychannel.uk" tvg-chno="" tvg-name="UK| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/uk/disvry.png" group-title="EU | UK DOCUMENTRIES",UK| DISCOVERY CHANNEL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34138.ts
 #EXTINF:-1 channel-id="xt_29084" tvg-id="discoveryscience.uk" tvg-chno="" tvg-name="UK| DISCOVERY CHANNEL HD ( US )" tvg-logo="https://lo1.in/uk/discnc.png" group-title="EU | UK DOCUMENTRIES",UK| DISCOVERY CHANNEL HD ( US )
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6445,6 +6709,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33834.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2176.ts
+#EXTINF:-1 channel-id="xt_102186" tvg-id="natgeo.uk" tvg-chno="" tvg-name="UK| NAT GEO HEVC" tvg-logo="https://lo1.in/uk/natwildd.png" group-title="EU | UK DOCUMENTRIES",UK| NAT GEO HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102186.ts
+#EXTINF:-1 channel-id="xt_34367" tvg-id="natgeo.uk" tvg-chno="" tvg-name="UK| NAT GEO SD" tvg-logo="https://lo1.in/uk/natwildd.png" group-title="EU | UK DOCUMENTRIES",UK| NAT GEO SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34367.ts
 #EXTINF:-1 channel-id="xt_29091" tvg-id="natgeowild.uk" tvg-chno="" tvg-name="UK| NAT GEO WILD FHD" tvg-logo="https://lo1.in/uk/natgeow.png" group-title="EU | UK DOCUMENTRIES",UK| NAT GEO WILD FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6521,6 +6793,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33869.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29086.ts
+#EXTINF:-1 channel-id="xt_102207" tvg-id="skyhistory.uk" tvg-chno="" tvg-name="UK| SKY HISTORY HEVC" tvg-logo="https://lo1.in/uk/hisy.png" group-title="EU | UK DOCUMENTRIES",UK| SKY HISTORY HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102207.ts
 #EXTINF:-1 channel-id="xt_34394" tvg-id="skyhistory.uk" tvg-chno="" tvg-name="UK| SKY HISTORY SD" tvg-logo="https://lo1.in/uk/skyhsy.png" group-title="EU | UK DOCUMENTRIES",UK| SKY HISTORY SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6549,6 +6825,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29092.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/50630.ts
+#EXTINF:-1 channel-id="xt_29078" tvg-id="yesterday.uk" tvg-chno="" tvg-name="UK| YESTERDAY HD" tvg-logo="https://lo1.in/uk/yestr.png" group-title="EU | UK DOCUMENTRIES",UK| YESTERDAY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29078.ts
 #EXTINF:-1 channel-id="xt_102198" tvg-id="yesterday.uk" tvg-chno="" tvg-name="UK| YESTERDAY HEVC" tvg-logo="https://lo1.in/uk/yestr.png" group-title="EU | UK DOCUMENTRIES",UK| YESTERDAY HEVC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6605,10 +6885,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34328.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29013.ts
-#EXTINF:-1 channel-id="xt_164206" tvg-id="comedycentral.uk" tvg-chno="" tvg-name="UK| COMEDY CENTRAL FHD" tvg-logo="https://lo1.in/uk/cmdcen.png" group-title="EU | UK ENTERTAINMENT",UK| COMEDY CENTRAL FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164206.ts
 #EXTINF:-1 channel-id="xt_28993" tvg-id="comedycentral.uk" tvg-chno="" tvg-name="UK| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/uk/cmdcen.png" group-title="EU | UK ENTERTAINMENT",UK| COMEDY CENTRAL HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6685,6 +6961,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164267.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29152.ts
+#EXTINF:-1 channel-id="xt_34077" tvg-id="itvquiz.uk" tvg-chno="" tvg-name="UK| ITV QUIZ SD" tvg-logo="https://lo1.in/uk/Quiz.png" group-title="EU | UK ENTERTAINMENT",UK| ITV QUIZ SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34077.ts
 #EXTINF:-1 channel-id="xt_29000" tvg-id="londonlive.uk" tvg-chno="" tvg-name="UK| LONDON LIVE FHD" tvg-logo="https://lo1.in/uk/londlv.png" group-title="EU | UK ENTERTAINMENT",UK| LONDON LIVE FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6785,6 +7065,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33855.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102208.ts
+#EXTINF:-1 channel-id="xt_33856" tvg-id="skyanimation.uk" tvg-chno="" tvg-name="UK| SKY ANIMATION SD" tvg-logo="https://lo1.in/uk/skyani.png" group-title="EU | UK ENTERTAINMENT",UK| SKY ANIMATION SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33856.ts
 #EXTINF:-1 channel-id="xt_34214" tvg-id="skyarts.uk" tvg-chno="" tvg-name="UK| SKY ARTS FHD" tvg-logo="https://lo1.in/uk/skyart.png" group-title="EU | UK ENTERTAINMENT",UK| SKY ARTS FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6837,10 +7121,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/720.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/719.ts
+#EXTINF:-1 channel-id="xt_102204" tvg-id="skymax.uk" tvg-chno="" tvg-name="UK| Sky MAX HEVC" tvg-logo="https://lo1.in/alb/skymx.png" group-title="EU | UK ENTERTAINMENT",UK| Sky MAX HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102204.ts
 #EXTINF:-1 channel-id="xt_718" tvg-id="skymax.uk" tvg-chno="" tvg-name="UK| Sky MAX SD" tvg-logo="https://lo1.in/alb/skymx.png" group-title="EU | UK ENTERTAINMENT",UK| Sky MAX SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/718.ts
+#EXTINF:-1 channel-id="xt_34211" tvg-id="skyshowcase.uk" tvg-chno="" tvg-name="UK| SKY ONE FHD" tvg-logo="https://lo1.in/ger/skyon.png" group-title="EU | UK ENTERTAINMENT",UK| SKY ONE FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34211.ts
 #EXTINF:-1 channel-id="xt_34359" tvg-id="skyshowcase.uk" tvg-chno="" tvg-name="UK| SKY ONE HD" tvg-logo="https://lo1.in/ger/skyon.png" group-title="EU | UK ENTERTAINMENT",UK| SKY ONE HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6857,6 +7149,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34103.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34101.ts
+#EXTINF:-1 channel-id="xt_34208" tvg-id="skywitness.uk" tvg-chno="" tvg-name="UK| SKY WITNESS FHD" tvg-logo="https://lo1.in/uk/skywtn.png" group-title="EU | UK ENTERTAINMENT",UK| SKY WITNESS FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34208.ts
 #EXTINF:-1 channel-id="xt_28999" tvg-id="skywitness.uk" tvg-chno="" tvg-name="UK| SKY WITNESS HD" tvg-logo="https://lo1.in/uk/skywtn.png" group-title="EU | UK ENTERTAINMENT",UK| SKY WITNESS HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -6989,6 +7285,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/28992.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2282.ts
+#EXTINF:-1 channel-id="xt_102193" tvg-id="alibi.uk" tvg-chno="" tvg-name="UK| ALIBI HEVC" tvg-logo="https://lo1.in/uk/alibi.png" group-title="EU | UK GENERAL",UK| ALIBI HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102193.ts
 #EXTINF:-1 channel-id="xt_164237" tvg-id="alibi.uk" tvg-chno="" tvg-name="UK| ALIBI SD" tvg-logo="https://lo1.in/uk/alibi.png" group-title="EU | UK GENERAL",UK| ALIBI SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7013,6 +7313,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34330.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/883283.ts
+#EXTINF:-1 channel-id="xt_28971" tvg-id="bbc2.uk" tvg-chno="" tvg-name="UK| BBC 2 FHD" tvg-logo="https://lo1.in/uk/bbc2.png" group-title="EU | UK GENERAL",UK| BBC 2 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/28971.ts
 #EXTINF:-1 channel-id="xt_2290" tvg-id="bbc2.uk" tvg-chno="" tvg-name="UK| BBC 2 HD" tvg-logo="https://lo1.in/uk/bbc2.png" group-title="EU | UK GENERAL",UK| BBC 2 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7029,6 +7333,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2142.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6367.ts
+#EXTINF:-1 channel-id="xt_33294" tvg-id="bbc4.uk" tvg-chno="" tvg-name="UK| BBC 4 / CBEEBIES FHD" tvg-logo="https://lo1.in/uk/bbc4.png" group-title="EU | UK GENERAL",UK| BBC 4 / CBEEBIES FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33294.ts
 #EXTINF:-1 channel-id="xt_28972" tvg-id="bbc4.uk" tvg-chno="" tvg-name="UK| BBC 4 / CBEEBIES HD" tvg-logo="https://lo1.in/uk/bbc4.png" group-title="EU | UK GENERAL",UK| BBC 4 / CBEEBIES HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7185,6 +7493,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164243.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164245.ts
+#EXTINF:-1 channel-id="xt_29005" tvg-id="channel5plus1.uk" tvg-chno="" tvg-name="UK| CHANNEL 5 + 1  HD" tvg-logo="https://lo1.in/uk/chp.png" group-title="EU | UK GENERAL",UK| CHANNEL 5 + 1  HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29005.ts
 #EXTINF:-1 channel-id="xt_883277" tvg-id="channel5.uk" tvg-chno="" tvg-name="UK| CHANNEL 5 [BK]" tvg-logo="https://lo1.in/uk/chal5.png" group-title="EU | UK GENERAL",UK| CHANNEL 5 [BK]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7257,6 +7569,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34171.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29115.ts
+#EXTINF:-1 channel-id="xt_34172" tvg-id="None" tvg-chno="" tvg-name="UK| FAITH WORLD TV SD" tvg-logo="https://lo1.in/uk/faitwl.png" group-title="EU | UK GENERAL",UK| FAITH WORLD TV SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34172.ts
 #EXTINF:-1 channel-id="xt_29118" tvg-id="foxnews.us" tvg-chno="" tvg-name="UK| FOX NEWS HD" tvg-logo="https://lo1.in/uk/FOX NEWS.png" group-title="EU | UK GENERAL",UK| FOX NEWS HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7313,10 +7629,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/883282.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/28973.ts
-#EXTINF:-1 channel-id="xt_164241" tvg-id="None" tvg-chno="" tvg-name="UK| ITV 1 GRANADA +1 SD" tvg-logo="https://lo1.in/uk/itv15.png" group-title="EU | UK GENERAL",UK| ITV 1 GRANADA +1 SD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164241.ts
 #EXTINF:-1 channel-id="xt_34110" tvg-id="itv1.uk" tvg-chno="" tvg-name="UK| ITV 1 HD" tvg-logo="https://lo1.in/uk/itv0.png" group-title="EU | UK GENERAL",UK| ITV 1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7441,10 +7753,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164240.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34073.ts
-#EXTINF:-1 channel-id="xt_29002" tvg-id="itv1angliaplus1.uk" tvg-chno="" tvg-name="UK| ITV+ 1 HD" tvg-logo="https://lo1.in/uk/itv0.png" group-title="EU | UK GENERAL",UK| ITV+ 1 HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29002.ts
 #EXTINF:-1 channel-id="xt_34387" tvg-id="kicctv.uk" tvg-chno="" tvg-name="UK| KICC TV SD" tvg-logo="https://lo1.in/uk/kic.png" group-title="EU | UK GENERAL",UK| KICC TV SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7541,6 +7849,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29124.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34057.ts
+#EXTINF:-1 channel-id="xt_2253" tvg-id="utv.uk" tvg-chno="" tvg-name="UK| UTV SD" tvg-logo="https://lo1.in/uk/utv.png" group-title="EU | UK GENERAL",UK| UTV SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/2253.ts
 #EXTINF:-1 channel-id="xt_164251" tvg-id="virginmediaone.ie" tvg-chno="" tvg-name="UK| VIRGIN ONE SD" tvg-logo="https://lo1.in/uk/virgn.png" group-title="EU | UK GENERAL",UK| VIRGIN ONE SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7557,6 +7869,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34332.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164279.ts
+#EXTINF:-1 channel-id="xt_6536" tvg-id="None" tvg-chno="" tvg-name="UK| AHLEBAIT TV" tvg-logo="https://lo1.in/uk/AHLEBAIT.png" group-title="EU | UK INDIA/PAKISTAN",UK| AHLEBAIT TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6536.ts
 #EXTINF:-1 channel-id="xt_34430" tvg-id="akaalchannel.uk" tvg-chno="" tvg-name="UK| AKAAL TV SD" tvg-logo="https://lo1.in/uk/aka.png" group-title="EU | UK INDIA/PAKISTAN",UK| AKAAL TV SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7669,6 +7985,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34122.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/131530.ts
+#EXTINF:-1 channel-id="xt_6541" tvg-id="republictv.in" tvg-chno="" tvg-name="UK| REPUBLIC TV" tvg-logo="https://lo1.in/uk/REPUBLIC.png" group-title="EU | UK INDIA/PAKISTAN",UK| REPUBLIC TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6541.ts
 #EXTINF:-1 channel-id="xt_6540" tvg-id="samaa.uk" tvg-chno="" tvg-name="UK| SAMAA" tvg-logo="https://lo1.in/uk/SAMAA.png" group-title="EU | UK INDIA/PAKISTAN",UK| SAMAA
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7793,6 +8113,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29108.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33812.ts
+#EXTINF:-1 channel-id="xt_29106" tvg-id="nickjunior.uk" tvg-chno="" tvg-name="UK| NICK JR HD" tvg-logo="https://lo1.in/uk/nicjr.png" group-title="EU | UK KIDS",UK| NICK JR HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29106.ts
 #EXTINF:-1 channel-id="xt_34362" tvg-id="nickjunior.uk" tvg-chno="" tvg-name="UK| NICK JR SD" tvg-logo="https://lo1.in/uk/nicjr.png" group-title="EU | UK KIDS",UK| NICK JR SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7857,6 +8181,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34334.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34289.ts
+#EXTINF:-1 channel-id="xt_34386" tvg-id="kisstv.uk" tvg-chno="" tvg-name="UK| KISS SD" tvg-logo="https://lo1.in/uk/KISS.png" group-title="EU | UK MUSIC",UK| KISS SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34386.ts
 #EXTINF:-1 channel-id="xt_34375" tvg-id="magic.uk" tvg-chno="" tvg-name="UK| MAGIC SD" tvg-logo="https://lo1.in/uk/magic.png" group-title="EU | UK MUSIC",UK| MAGIC SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -7969,6 +8297,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34055.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29051.ts
+#EXTINF:-1 channel-id="xt_33866" tvg-id="laligatv.uk" tvg-chno="" tvg-name="UK| LALIGA TV FHD" tvg-logo="https://lo1.in/uk/laig0.png" group-title="EU | UK SPORT",UK| LALIGA TV FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33866.ts
 #EXTINF:-1 channel-id="xt_34105" tvg-id="laligatv.uk" tvg-chno="" tvg-name="UK| LALIGA TV HD" tvg-logo="https://lo1.in/uk/laig0.png" group-title="EU | UK SPORT",UK| LALIGA TV HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8173,6 +8505,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29034.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29029.ts
+#EXTINF:-1 channel-id="xt_34345" tvg-id="skysportsnews.uk" tvg-chno="" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT",UK| SKY SPORTS NEWS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34345.ts
 #EXTINF:-1 channel-id="xt_102174" tvg-id="skysportsnews.uk" tvg-chno="" tvg-name="UK| SKY SPORTS NEWS HEVC" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT",UK| SKY SPORTS NEWS HEVC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8205,6 +8541,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29016.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34344.ts
+#EXTINF:-1 channel-id="xt_102170" tvg-id="skysportspremiereleague.uk" tvg-chno="" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HEVC" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="EU | UK SPORT",UK| SKY SPORTS PREMIER LEAGUE HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/102170.ts
 #EXTINF:-1 channel-id="xt_29017" tvg-id="skysportspremiereleague.uk" tvg-chno="" tvg-name="UK| SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="EU | UK SPORT",UK| SKY SPORTS PREMIER LEAGUE SD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8349,10 +8689,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33857.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34403.ts
-#EXTINF:-1 channel-id="xt_33859" tvg-id="supersportpremierleague.za" tvg-chno="" tvg-name="ZA| SUPERSPORT PREMIER LEAGUE FHD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="EU | UK SPORT",ZA| SUPERSPORT PREMIER LEAGUE FHD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33859.ts
 #EXTINF:-1 channel-id="xt_33858" tvg-id="SH2" tvg-chno="" tvg-name="ZA| SUPERSPORT PSL FHD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="EU | UK SPORT",ZA| SUPERSPORT PSL FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8413,6 +8749,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1084884.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1256710.ts
+#EXTINF:-1 channel-id="xt_1084876" tvg-id="skysportsmix.uk" tvg-chno="" tvg-name="UK| SKY SPORTS MIX 50 FPS" tvg-logo="https://lo1.in/uk/skyspmi.png" group-title="EU | UK SPORT 50 FPS",UK| SKY SPORTS MIX 50 FPS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1084876.ts
 #EXTINF:-1 channel-id="xt_1084882" tvg-id="skysportsnews.uk" tvg-chno="" tvg-name="UK| SKY SPORTS NEWS 50 FPS" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT 50 FPS",UK| SKY SPORTS NEWS 50 FPS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8433,6 +8773,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1084874.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1084873.ts
+#EXTINF:-1 channel-id="xt_1084872" tvg-id="tntsports2.uk" tvg-chno="" tvg-name="UK| TNT SPORT 2 50 FPS" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT 50 FPS",UK| TNT SPORT 2 50 FPS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1084872.ts
 #EXTINF:-1 channel-id="xt_1084871" tvg-id="tntsports3.uk" tvg-chno="" tvg-name="UK| TNT SPORT 3 50 FPS" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT 50 FPS",UK| TNT SPORT 3 50 FPS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8449,30 +8793,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1222386.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1043.ts
-#EXTINF:-1 channel-id="xt_1042" tvg-id="2.AM" tvg-chno="" tvg-name="UK| Amazon UK 02 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 02 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1042.ts
-#EXTINF:-1 channel-id="xt_1041" tvg-id="3.AM" tvg-chno="" tvg-name="UK| Amazon UK 03 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 03 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1041.ts
-#EXTINF:-1 channel-id="xt_1040" tvg-id="4.AM" tvg-chno="" tvg-name="UK| Amazon UK 04 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 04 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1040.ts
-#EXTINF:-1 channel-id="xt_1039" tvg-id="5.AM" tvg-chno="" tvg-name="UK| Amazon UK 05 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 05 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1039.ts
 #EXTINF:-1 channel-id="xt_1038" tvg-id="6.AM" tvg-chno="" tvg-name="UK| Amazon UK 06 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 06 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1038.ts
-#EXTINF:-1 channel-id="xt_1037" tvg-id="7.AM" tvg-chno="" tvg-name="UK| Amazon UK 07 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 07 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_1035" tvg-id="9.AM" tvg-chno="" tvg-name="UK| Amazon UK 09 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 09 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1037.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1035.ts
+#EXTINF:-1 channel-id="xt_1047" tvg-id="10.AM" tvg-chno="" tvg-name="UK| Amazon UK 10 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 10 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1047.ts
 #EXTINF:-1 channel-id="xt_1045" tvg-id="12.AM" tvg-chno="" tvg-name="UK| Amazon UK 12 [EVENT ONLY]" tvg-logo="https://lo1.in/it/AMAZON.png" group-title="EU | UK SPORT LIVE EVENTS",UK| Amazon UK 12 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8481,10 +8813,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1045.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6024.ts
-#EXTINF:-1 channel-id="xt_6025" tvg-id="None" tvg-chno="" tvg-name="UK| CHAMPIONSHIP : Blackburn Rovers" tvg-logo="https://lo1.in/uk/CHAMP.png" group-title="EU | UK SPORT LIVE EVENTS",UK| CHAMPIONSHIP : Blackburn Rovers
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6025.ts
 #EXTINF:-1 channel-id="xt_6026" tvg-id="None" tvg-chno="" tvg-name="UK| CHAMPIONSHIP : Bristol City" tvg-logo="https://lo1.in/uk/CHAMP.png" group-title="EU | UK SPORT LIVE EVENTS",UK| CHAMPIONSHIP : Bristol City
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8517,10 +8845,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6032.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6034.ts
-#EXTINF:-1 channel-id="xt_6035" tvg-id="None" tvg-chno="" tvg-name="UK| CHAMPIONSHIP : Millwall" tvg-logo="https://lo1.in/uk/CHAMP.png" group-title="EU | UK SPORT LIVE EVENTS",UK| CHAMPIONSHIP : Millwall
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6035.ts
 #EXTINF:-1 channel-id="xt_6036" tvg-id="None" tvg-chno="" tvg-name="UK| CHAMPIONSHIP : Norwich City" tvg-logo="https://lo1.in/uk/CHAMP.png" group-title="EU | UK SPORT LIVE EVENTS",UK| CHAMPIONSHIP : Norwich City
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8573,22 +8897,26 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6047.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6033.ts
+#EXTINF:-1 channel-id="xt_28955" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 06 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 06 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/28955.ts
+#EXTINF:-1 channel-id="xt_28956" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 07 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/28956.ts
 #EXTINF:-1 channel-id="xt_3917" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 08 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 08 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3917.ts
-#EXTINF:-1 channel-id="xt_3918" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 09 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 09 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_3919" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 10 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3918.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3919.ts
 #EXTINF:-1 channel-id="xt_3920" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 11 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3920.ts
-#EXTINF:-1 channel-id="xt_4421" tvg-id="None" tvg-chno="" tvg-name="UK| DAZN UK 12 [EVENT ONLY]" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="EU | UK SPORT LIVE EVENTS",UK| DAZN UK 12 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4421.ts
 #EXTINF:-1 channel-id="xt_4422" tvg-id="None" tvg-chno="" tvg-name="UK| EPL 02" tvg-logo="https://lo1.in/uk/ppvlive.png" group-title="EU | UK SPORT LIVE EVENTS",UK| EPL 02
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8649,6 +8977,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/22680.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/22681.ts
+#EXTINF:-1 channel-id="xt_22682" tvg-id="None" tvg-chno="" tvg-name="UK| EPL : NEWCASTLE UTD" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="EU | UK SPORT LIVE EVENTS",UK| EPL : NEWCASTLE UTD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/22682.ts
 #EXTINF:-1 channel-id="xt_22683" tvg-id="None" tvg-chno="" tvg-name="UK| EPL : NOTTINGHAM FOREST" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="EU | UK SPORT LIVE EVENTS",UK| EPL : NOTTINGHAM FOREST
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8673,74 +9005,110 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/22687.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1099.ts
-#EXTINF:-1 channel-id="xt_1106" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Andrea Kimi Antonelli | Mercedes | ANT" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Andrea Kimi Antonelli | Mercedes | ANT
+#EXTINF:-1 channel-id="xt_1110" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Esteban Ocon | Haas F1 Team | OCO" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Esteban Ocon | Haas F1 Team | OCO
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1106.ts
-#EXTINF:-1 channel-id="xt_1113" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Charles Leclerc | Ferrari | LEC" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Charles Leclerc | Ferrari | LEC
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1110.ts
+#EXTINF:-1 channel-id="xt_1118" tvg-id="None" tvg-chno="" tvg-name="UK| F1 F1-TRACKER" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 F1-TRACKER
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1113.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1118.ts
+#EXTINF:-1 channel-id="xt_1115" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Fernando Alonso | Aston Martin | ALO" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Fernando Alonso | Aston Martin | ALO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1115.ts
+#EXTINF:-1 channel-id="xt_1116" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Franco Colapinto | Alpine | COL" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Franco Colapinto | Alpine | COL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1116.ts
 #EXTINF:-1 channel-id="xt_1107" tvg-id="None" tvg-chno="" tvg-name="UK| F1 George Russell | Mercedes | RUS" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 George Russell | Mercedes | RUS
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1107.ts
+#EXTINF:-1 channel-id="xt_1104" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Isack Hadjar | Racing Bulls | HAD" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Isack Hadjar | Racing Bulls | HAD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1104.ts
+#EXTINF:-1 channel-id="xt_1114" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Lance Stroll | Aston Martin | STR" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Lance Stroll | Aston Martin | STR
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1114.ts
+#EXTINF:-1 channel-id="xt_1108" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Lando Norris | McLaren | NOR" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Lando Norris | McLaren | NOR
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1108.ts
 #EXTINF:-1 channel-id="xt_1112" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Lewis Hamilton | Ferrari | HAM" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Lewis Hamilton | Ferrari | HAM
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1112.ts
+#EXTINF:-1 channel-id="xt_1102" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Liam Lawson | Racing Bulls | LAW" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Liam Lawson | Racing Bulls | LAW
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1102.ts
 #EXTINF:-1 channel-id="xt_1103" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Max Verstappen | Red Bull Racing | VER" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Max Verstappen | Red Bull Racing | VER
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1103.ts
+#EXTINF:-1 channel-id="xt_1101" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Nico Hulkenberg | Kick Sauber | HUL" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Nico Hulkenberg | Kick Sauber | HUL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1101.ts
+#EXTINF:-1 channel-id="xt_1111" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Oliver Bearman | Haas F1 Team | BEA" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Oliver Bearman | Haas F1 Team | BEA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1111.ts
 #EXTINF:-1 channel-id="xt_1109" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Oscar Piastri | McLaren | PIA" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Oscar Piastri | McLaren | PIA
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1109.ts
+#EXTINF:-1 channel-id="xt_1117" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Pierre Gasly | Alpine | GAS" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Pierre Gasly | Alpine | GAS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1117.ts
 #EXTINF:-1 channel-id="xt_1105" tvg-id="None" tvg-chno="" tvg-name="UK| F1 Yuki Tsunoda | Red Bull Racing | TSU" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1 Yuki Tsunoda | Red Bull Racing | TSU
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1105.ts
+#EXTINF:-1 channel-id="xt_1120" tvg-id="None" tvg-chno="" tvg-name="UK| F1-DATA" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1-DATA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1120.ts
+#EXTINF:-1 channel-id="xt_164324" tvg-id="None" tvg-chno="" tvg-name="UK| F1-TV" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1-TV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164324.ts
 #EXTINF:-1 channel-id="xt_1119" tvg-id="None" tvg-chno="" tvg-name="UK| F1-TV TEMPORERY" tvg-logo="https://lo1.in/uk/f1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| F1-TV TEMPORERY
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1119.ts
-#EXTINF:-1 channel-id="xt_6068" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : AFC Wimbledon" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : AFC Wimbledon
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6068.ts
 #EXTINF:-1 channel-id="xt_6048" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Barnsley" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Barnsley
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6048.ts
+#EXTINF:-1 channel-id="xt_1201024" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Blackpool" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Blackpool
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/1201024.ts
 #EXTINF:-1 channel-id="xt_6055" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Cheltenham Town" tvg-logo="https://lo1.in/uk/lea2.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Cheltenham Town
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6055.ts
-#EXTINF:-1 channel-id="xt_6075" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Doncaster Rovers" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Doncaster Rovers
+#EXTINF:-1 channel-id="xt_6080" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Mansfield Town" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Mansfield Town
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6075.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6080.ts
 #EXTINF:-1 channel-id="xt_6062" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Peterborough United" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Peterborough United
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6062.ts
-#EXTINF:-1 channel-id="xt_6063" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Port Vale" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Port Vale
+#EXTINF:-1 channel-id="xt_6061" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Rotherham United" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Rotherham United
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6063.ts
-#EXTINF:-1 channel-id="xt_6064" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Reading" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Reading
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6061.ts
+#EXTINF:-1 channel-id="xt_6085" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Stockport County" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Stockport County
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6064.ts
-#EXTINF:-1 channel-id="xt_6066" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Stevenage" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Stevenage
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6066.ts
-#EXTINF:-1 channel-id="xt_6067" tvg-id="None" tvg-chno="" tvg-name="UK| L1 : Wycombe Wanderers" tvg-logo="https://lo1.in/uk/lea1.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L1 : Wycombe Wanderers
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6067.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6085.ts
 #EXTINF:-1 channel-id="xt_6069" tvg-id="None" tvg-chno="" tvg-name="UK| L2 : Accrington Stanley" tvg-logo="https://lo1.in/uk/lea2.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L2 : Accrington Stanley
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8753,6 +9121,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6054.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6070.ts
+#EXTINF:-1 channel-id="xt_6071" tvg-id="None" tvg-chno="" tvg-name="UK| L2 : Bradford City" tvg-logo="https://lo1.in/uk/lea2.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L2 : Bradford City
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6071.ts
 #EXTINF:-1 channel-id="xt_6050" tvg-id="None" tvg-chno="" tvg-name="UK| L2 : Bristol Rovers" tvg-logo="https://lo1.in/uk/lea2.png" group-title="EU | UK SPORT LIVE EVENTS",UK| L2 : Bristol Rovers
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8853,6 +9225,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53485.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53486.ts
+#EXTINF:-1 channel-id="xt_53487" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 06 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 06 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53487.ts
+#EXTINF:-1 channel-id="xt_53488" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 07 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53488.ts
 #EXTINF:-1 channel-id="xt_53489" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 08 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 08 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8861,6 +9241,26 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53489.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53490.ts
+#EXTINF:-1 channel-id="xt_53492" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 11 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53492.ts
+#EXTINF:-1 channel-id="xt_53493" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 12 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 12 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53493.ts
+#EXTINF:-1 channel-id="xt_53494" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 13 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 13 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53494.ts
+#EXTINF:-1 channel-id="xt_53495" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 14 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 14 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53495.ts
+#EXTINF:-1 channel-id="xt_53496" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 15 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 15 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53496.ts
 #EXTINF:-1 channel-id="xt_53498" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 17 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 17 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8869,26 +9269,46 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53498.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53499.ts
+#EXTINF:-1 channel-id="xt_53500" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 19 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 19 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53500.ts
 #EXTINF:-1 channel-id="xt_53501" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 20 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 20 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53501.ts
-#EXTINF:-1 channel-id="xt_53502" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 21 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 21 [EVENT ONLY]
+#EXTINF:-1 channel-id="xt_53503" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 22 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 22 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53502.ts
-#EXTINF:-1 channel-id="xt_174126" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 24 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 24 [EVENT ONLY]
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/53503.ts
+#EXTINF:-1 channel-id="xt_174125" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 23 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 23 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/174126.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/174125.ts
+#EXTINF:-1 channel-id="xt_174127" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 25 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 25 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/174127.ts
 #EXTINF:-1 channel-id="xt_174128" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 26 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 26 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/174128.ts
+#EXTINF:-1 channel-id="xt_174129" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 27 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 27 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/174129.ts
+#EXTINF:-1 channel-id="xt_174130" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 28 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 28 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/174130.ts
 #EXTINF:-1 channel-id="xt_228733" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 29 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 29 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/228733.ts
+#EXTINF:-1 channel-id="xt_228735" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 31 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 31 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/228735.ts
 #EXTINF:-1 channel-id="xt_228736" tvg-id="None" tvg-chno="" tvg-name="UK| LIVE FOOTBALL 32 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/liveevents.png" group-title="EU | UK SPORT LIVE EVENTS",UK| LIVE FOOTBALL 32 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8953,10 +9373,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/6010.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3495.ts
-#EXTINF:-1 channel-id="xt_3496" tvg-id="None" tvg-chno="" tvg-name="UK| NATIONAL LEAGUE 16 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/NATIONAL0.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NATIONAL LEAGUE 16 [EVENT ONLY]
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3496.ts
 #EXTINF:-1 channel-id="xt_3497" tvg-id="None" tvg-chno="" tvg-name="UK| NATIONAL LEAGUE 17 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/NATIONAL0.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NATIONAL LEAGUE 17 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -8993,6 +9409,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3504.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3505.ts
+#EXTINF:-1 channel-id="xt_3506" tvg-id="None" tvg-chno="" tvg-name="UK| NATIONAL LEAGUE 26 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/NATIONAL0.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NATIONAL LEAGUE 26 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/3506.ts
 #EXTINF:-1 channel-id="xt_3507" tvg-id="None" tvg-chno="" tvg-name="UK| NATIONAL LEAGUE 27 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/NATIONAL0.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NATIONAL LEAGUE 27 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9025,10 +9445,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4450.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4449.ts
-#EXTINF:-1 channel-id="xt_4448" tvg-id="None" tvg-chno="" tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NOW HK NOW SPORTS 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4448.ts
 #EXTINF:-1 channel-id="xt_4452" tvg-id="None" tvg-chno="" tvg-name="UK| NOW HK NOW SPORTS 4K 616" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NOW HK NOW SPORTS 4K 616
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9037,6 +9453,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4452.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4447.ts
+#EXTINF:-1 channel-id="xt_4446" tvg-id="None" tvg-chno="" tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NOW HK NOW SPORTS 6
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4446.ts
 #EXTINF:-1 channel-id="xt_4445" tvg-id="None" tvg-chno="" tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="https://lo1.in/ppvs/nowhk.png" group-title="EU | UK SPORT LIVE EVENTS",UK| NOW HK NOW SPORTS 7
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9077,6 +9497,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164313.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/33838.ts
+#EXTINF:-1 channel-id="xt_29049" tvg-id="None" tvg-chno="" tvg-name="UK| PDC EVENT 02 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/pdcd2.png" group-title="EU | UK SPORT LIVE EVENTS",UK| PDC EVENT 02 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/29049.ts
 #EXTINF:-1 channel-id="xt_4442" tvg-id="None" tvg-chno="" tvg-name="UK| PDC EVENT 03 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/pdcd2.png" group-title="EU | UK SPORT LIVE EVENTS",UK| PDC EVENT 03 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9105,10 +9529,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4437.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81773.ts
+#EXTINF:-1 channel-id="xt_81774" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 02 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 02 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81774.ts
 #EXTINF:-1 channel-id="xt_81775" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 03 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81775.ts
+#EXTINF:-1 channel-id="xt_81776" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 04 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 04 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81776.ts
 #EXTINF:-1 channel-id="xt_81777" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 05 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9129,6 +9561,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81780.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81781.ts
+#EXTINF:-1 channel-id="xt_81782" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 10 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/81782.ts
 #EXTINF:-1 channel-id="xt_164321" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 11 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9149,6 +9585,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/167092.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/167093.ts
+#EXTINF:-1 channel-id="xt_4444" tvg-id="None" tvg-chno="" tvg-name="UK| RUGBY LIVE 16 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/rugby.png" group-title="EU | UK SPORT LIVE EVENTS",UK| RUGBY LIVE 16 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/4444.ts
 #EXTINF:-1 channel-id="xt_889674" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH CUP 01" tvg-logo="https://lo1.in/ppvs/flage.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH CUP 01
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9169,6 +9609,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/889671.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/889670.ts
+#EXTINF:-1 channel-id="xt_889669" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH CUP 06" tvg-logo="https://lo1.in/ppvs/flage.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH CUP 06
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/889669.ts
 #EXTINF:-1 channel-id="xt_889668" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH CUP 07" tvg-logo="https://lo1.in/ppvs/flage.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH CUP 07
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9197,10 +9641,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/722.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/723.ts
-#EXTINF:-1 channel-id="xt_726" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH PREMIERSHIP : Kilimarnock FC" tvg-logo="https://lo1.in/uk/sprle.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH PREMIERSHIP : Kilimarnock FC
+#EXTINF:-1 channel-id="xt_724" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH PREMIERSHIP : Hearts FC" tvg-logo="https://lo1.in/uk/sprle.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH PREMIERSHIP : Hearts FC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/726.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/724.ts
+#EXTINF:-1 channel-id="xt_725" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH PREMIERSHIP : Hibs FC" tvg-logo="https://lo1.in/uk/sprle.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH PREMIERSHIP : Hibs FC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/725.ts
 #EXTINF:-1 channel-id="xt_727" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH PREMIERSHIP : Livingston FC" tvg-logo="https://lo1.in/uk/sprle.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH PREMIERSHIP : Livingston FC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9209,10 +9657,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/727.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/729.ts
-#EXTINF:-1 channel-id="xt_732" tvg-id="None" tvg-chno="" tvg-name="UK| SCOTTISH PREMIERSHIP : St. Mirren FC" tvg-logo="https://lo1.in/uk/sprle.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SCOTTISH PREMIERSHIP : St. Mirren FC
+#EXTINF:-1 channel-id="xt_842119" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 01" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 01
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/732.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842119.ts
 #EXTINF:-1 channel-id="xt_842118" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 02" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 02
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9221,10 +9669,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842118.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842117.ts
-#EXTINF:-1 channel-id="xt_842116" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 04" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 04
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842116.ts
 #EXTINF:-1 channel-id="xt_842115" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 05" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 05
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9233,34 +9677,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842115.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842114.ts
-#EXTINF:-1 channel-id="xt_842113" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 07" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 07
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842113.ts
 #EXTINF:-1 channel-id="xt_842112" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 08" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 08
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842112.ts
-#EXTINF:-1 channel-id="xt_842111" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 09" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 09
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842111.ts
-#EXTINF:-1 channel-id="xt_842110" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 10" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 10
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842110.ts
-#EXTINF:-1 channel-id="xt_842109" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 11" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 11
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842109.ts
 #EXTINF:-1 channel-id="xt_842108" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 12" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 12
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842108.ts
-#EXTINF:-1 channel-id="xt_842107" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 13" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 13
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842107.ts
 #EXTINF:-1 channel-id="xt_842106" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 14" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 14
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9269,14 +9693,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842106.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842105.ts
-#EXTINF:-1 channel-id="xt_842101" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 16" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 16
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842101.ts
-#EXTINF:-1 channel-id="xt_842098" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 17" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 17
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842098.ts
 #EXTINF:-1 channel-id="xt_842093" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 18" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 18
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9285,70 +9701,18 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842093.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842092.ts
-#EXTINF:-1 channel-id="xt_842091" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 20" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 20
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842091.ts
-#EXTINF:-1 channel-id="xt_842089" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 22" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 22
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842089.ts
 #EXTINF:-1 channel-id="xt_842088" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 23" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 23
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842088.ts
-#EXTINF:-1 channel-id="xt_842087" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 24" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 24
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842087.ts
 #EXTINF:-1 channel-id="xt_842086" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 25" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 25
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842086.ts
-#EXTINF:-1 channel-id="xt_842084" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 27" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 27
+#EXTINF:-1 channel-id="xt_842085" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 26" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 26
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842084.ts
-#EXTINF:-1 channel-id="xt_842083" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 28" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 28
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842083.ts
-#EXTINF:-1 channel-id="xt_842081" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 30" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 30
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842081.ts
-#EXTINF:-1 channel-id="xt_842080" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 31" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 31
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842080.ts
-#EXTINF:-1 channel-id="xt_842079" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 32" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 32
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842079.ts
-#EXTINF:-1 channel-id="xt_842078" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 33" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 33
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842078.ts
-#EXTINF:-1 channel-id="xt_842077" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 34" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 34
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842077.ts
-#EXTINF:-1 channel-id="xt_842076" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 35" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 35
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842076.ts
-#EXTINF:-1 channel-id="xt_842075" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 36" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 36
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842075.ts
-#EXTINF:-1 channel-id="xt_842074" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 37" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 37
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842074.ts
-#EXTINF:-1 channel-id="xt_842072" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 39" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 39
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842072.ts
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842085.ts
 #EXTINF:-1 channel-id="xt_842071" tvg-id="None" tvg-chno="" tvg-name="UK| SKY SPORT+ 40" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SKY SPORT+ 40
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9357,6 +9721,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/842071.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34400.ts
+#EXTINF:-1 channel-id="xt_34399" tvg-id="None" tvg-chno="" tvg-name="UK| SPFL 02 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/spfl.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SPFL 02 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34399.ts
 #EXTINF:-1 channel-id="xt_34398" tvg-id="None" tvg-chno="" tvg-name="UK| SPFL 03 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/spfl.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SPFL 03 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9365,6 +9733,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34398.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34397.ts
+#EXTINF:-1 channel-id="xt_34396" tvg-id="None" tvg-chno="" tvg-name="UK| SPFL 05 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/spfl.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SPFL 05 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34396.ts
 #EXTINF:-1 channel-id="xt_34395" tvg-id="None" tvg-chno="" tvg-name="UK| SPFL 06 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/spfl.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SPFL 06 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9373,6 +9745,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/34395.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/164231.ts
+#EXTINF:-1 channel-id="xt_191014" tvg-id="None" tvg-chno="" tvg-name="UK| SPFL 08 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/spfl.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SPFL 08 [EVENT ONLY]
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/191014.ts
 #EXTINF:-1 channel-id="xt_191015" tvg-id="None" tvg-chno="" tvg-name="UK| SPFL 09 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/spfl.png" group-title="EU | UK SPORT LIVE EVENTS",UK| SPFL 09 [EVENT ONLY]
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9413,6 +9789,14 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814935.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814936.ts
+#EXTINF:-1 channel-id="xt_814937" tvg-id="None" tvg-chno="" tvg-name="UK| TNT SPORTS EVENT 03" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT LIVE EVENTS",UK| TNT SPORTS EVENT 03
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814937.ts
+#EXTINF:-1 channel-id="xt_814938" tvg-id="None" tvg-chno="" tvg-name="UK| TNT SPORTS EVENT 04" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT LIVE EVENTS",UK| TNT SPORTS EVENT 04
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814938.ts
 #EXTINF:-1 channel-id="xt_814939" tvg-id="None" tvg-chno="" tvg-name="UK| TNT SPORTS EVENT 05" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT LIVE EVENTS",UK| TNT SPORTS EVENT 05
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -9429,6 +9813,10 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814941.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814942.ts
+#EXTINF:-1 channel-id="xt_814943" tvg-id="None" tvg-chno="" tvg-name="UK| TNT SPORTS EVENT 09" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT LIVE EVENTS",UK| TNT SPORTS EVENT 09
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/814943.ts
 #EXTINF:-1 channel-id="xt_814944" tvg-id="None" tvg-chno="" tvg-name="UK| TNT SPORTS EVENT 10" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT LIVE EVENTS",UK| TNT SPORTS EVENT 10
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -10241,8 +10629,6 @@ https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/6Rdh3h1Q/drtva.png",DR TVA
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",DREAM CHANNEL (CM)
-https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018_output_0.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png",DREAM TÜRK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png",DRIVE AUTO
@@ -10503,6 +10889,8 @@ https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png",FUJAIRAH TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=OdCxl9412xm7xMQMSOrxAZ0z4dYIGHbRgpHNtOOBjilIjpcIeLDR4P0IxTokO1cznlT9EQMBSikaE7Tg8gW3zbKEzmswc4rC0IoU3Vu-6uA
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg",FUSION TV
 https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA
@@ -10565,6 +10953,8 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/0pYCdvr0/hayat.jpg",HAYAT BSN
 http://23.88.66.93/HAYAT/index.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/bJVPhHD/hidabroot.png",HIDABROOT 97
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",HIGH TV
@@ -10639,16 +11029,12 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png",IRIB 5 TEHRAN
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/GMLStpQ/amoozesh.png",IRIB AMOOZESH
-https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/xHSzVy5/eshareh.png",IRIB ESHAREH
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRIB IFILM FAR
 https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png",IRIB IRINN
 https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png",IRIB IRINN 2
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/1LmYfnH/mostanad.png",IRIB MOSTANAD
 https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/wsVP42F/namayesh.png",IRIB NAMAYESH
@@ -10799,8 +11185,6 @@ http://185.132.134.159:80/keshet12/index.m3u8
 https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",KHAVARAN
 https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",KHOOZESTAN
-https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",KHORASANRAZAVI
 https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/0j4TcGLN/kidzplut.jpg",KIDZ CLASSICS
@@ -11182,7 +11566,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg",NUMBER ONE TÜRK ASK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg",NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg",NUMBER ONE TÜRK DANCE
@@ -11217,6 +11601,8 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN TV
 https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/TPGzY4C/omega.png",OMEGA
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",OMID
 https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/6B8M20v/on422.png",ON4 TV
@@ -11799,6 +12185,8 @@ http://tjktv.ercdn.net/tjktv.m3u8
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/TLCholet.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",TMB AZ
+http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TON TV ÇANAKKALE
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/qFm4shqL/topestr.jpg",TOP ESTRADA
@@ -11841,8 +12229,6 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/hHKKnt3/andaturismo.png",TURISMO ANDALUCÍA
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TV 1 KAYSERİ
@@ -12523,8 +12909,6 @@ https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8
 #EXTINF:-1 channel-id="5e8ae9bdd978fbd560811917b847f26d" tvg-id="5e8ae9bdd978fbd560811917b847f26d" tvg-chno="734" tvg-name="Love After Lockup" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5e8ae9bdd978fbd560811917b847f26d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764174839180_ChannelLogo_EPG_260x147_InfoHUD_Vert_Bill_Watts__1_.png" group-title="Roku",Love After Lockup
 https://jmp2.uk/rok-5e8ae9bdd978fbd560811917b847f26d.m3u8
-#EXTINF:-1 channel-id="479fe0d11f3f5132a3f36b617547da3b" tvg-id="479fe0d11f3f5132a3f36b617547da3b" tvg-chno="471" tvg-name="Love Nature English" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/479fe0d11f3f5132a3f36b617547da3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738776545554_LoveNature_logos_HUB_Centered.png" group-title="Roku",Love Nature English
-https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
 #EXTINF:-1 channel-id="03a419fc4dff59b39b176d9f76b09e38" tvg-id="03a419fc4dff59b39b176d9f76b09e38" tvg-chno="966" tvg-name="Love Nature Spanish" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563412501_LoveNature_260x147_HUDenEspanol.png" group-title="Roku",Love Nature Spanish
 https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
 #EXTINF:-1 channel-id="43623368b9c3704a5ea138fbaac14735" tvg-id="43623368b9c3704a5ea138fbaac14735" tvg-chno="940" tvg-name="Lucha Plus" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/43623368b9c3704a5ea138fbaac14735/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741654115050_Roku_260x147_White_Channel_Lucha_Plus_Logo.png" group-title="Roku",Lucha Plus
