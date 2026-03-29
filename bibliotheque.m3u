@@ -1,19 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Capital",Capital 29-03-2026
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTHTTP:{"User-Agent":"VLC/3.0.0"}
 http://192.168.0.131:8090/Capital/Capital_29-03-2026.ts
 
 #EXTINF:-1 group-title="Cauchemar En Cuisine",Cauchemar En Cuisine S16E03 La Sarriette Mediere FRENCH 1080p WEB H264-En Qas
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTHTTP:{"User-Agent":"VLC/3.0.0"}
 http://192.168.0.131:8090/Cauchemar%20En%20Cuisine/Cauchemar.En.Cuisine.S16E03.La.Sarriette.Mediere.FRENCH.1080p.WEB.H264-En_Qas.mkv
 
 #EXTINF:-1 group-title="Le 19.45",Le 19 45 29-03-2026
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTHTTP:{"User-Agent":"VLC/3.0.0"}
 http://192.168.0.131:8090/Le%2019.45/Le%2019.45_29-03-2026.ts
 
 #EXTINF:-1 group-title="Pandore France",Pandore France S01E03 2026-01-06 FRENCH 1080p WEB H264-THESYNDiCATE      wawacity irish
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTHTTP:{"User-Agent":"VLC/3.0.0"}
 http://192.168.0.131:8090/Pandore%20France/Pandore.France.S01E03.2026-01-06.FRENCH.1080p.WEB.H264-THESYNDiCATE......wawacity.irish.mkv
 
 #EXTINF:-1 group-title="Pekin Express",Pekin Express S22E04 FRENCH 1080p WEB H264 AAC-NoTag
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTHTTP:{"User-Agent":"VLC/3.0.0"}
 http://192.168.0.131:8090/Pekin%20Express/Pekin.Express.S22E04.FRENCH.1080p.WEB.H264.AAC-NoTag.mkv
 
 #EXTINF:-1 group-title="Pekin Express",Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY
+#EXTVLCOPT:http-user-agent=VLC/3.0.0
+#EXTHTTP:{"User-Agent":"VLC/3.0.0"}
 http://192.168.0.131:8090/Pekin%20Express/Pekin.express.S22E05.READNFO.FRENCH.1080p.WEB.H264-SUPPLY.mkv
