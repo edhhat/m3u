@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Capital" tvg-name="Capital 29-03-2026",Capital 29-03-2026
+#EXTINF:-1 tvg-type="live" group-title="Capital" tvg-name="Capital 29-03-2026",Capital 29-03-2026
 http://192.168.0.131:8090/Capital/Capital_29-03-2026.ts
 
-#EXTINF:-1 group-title="Cauchemar En Cuisine" tvg-name="Cauchemar En Cuisine S16E03 La Sarriette Mediere FRENCH 1080p WEB H264-En Qas",Cauchemar En Cuisine S16E03 La Sarriette Mediere FRENCH 1080p WEB H264-En Qas
+#EXTINF:-1 tvg-type="live" group-title="Cauchemar En Cuisine" tvg-name="Cauchemar En Cuisine S16E03 La Sarriette Mediere FRENCH 1080p WEB H264-En Qas",Cauchemar En Cuisine S16E03 La Sarriette Mediere FRENCH 1080p WEB H264-En Qas
 http://192.168.0.131:8090/Cauchemar%20En%20Cuisine/Cauchemar.En.Cuisine.S16E03.La.Sarriette.Mediere.FRENCH.1080p.WEB.H264-En_Qas.mkv
 
-#EXTINF:-1 group-title="Le 19.45" tvg-name="Le 19 45 29-03-2026",Le 19 45 29-03-2026
+#EXTINF:-1 tvg-type="live" group-title="Le 19.45" tvg-name="Le 19 45 29-03-2026",Le 19 45 29-03-2026
 http://192.168.0.131:8090/Le%2019.45/Le%2019.45_29-03-2026.ts
 
-#EXTINF:-1 group-title="Pandore France" tvg-name="Pandore France S01E03 2026-01-06 FRENCH 1080p WEB H264-THESYNDiCATE      wawacity irish",Pandore France S01E03 2026-01-06 FRENCH 1080p WEB H264-THESYNDiCATE      wawacity irish
+#EXTINF:-1 tvg-type="live" group-title="Pandore France" tvg-name="Pandore France S01E03 2026-01-06 FRENCH 1080p WEB H264-THESYNDiCATE      wawacity irish",Pandore France S01E03 2026-01-06 FRENCH 1080p WEB H264-THESYNDiCATE      wawacity irish
 http://192.168.0.131:8090/Pandore%20France/Pandore.France.S01E03.2026-01-06.FRENCH.1080p.WEB.H264-THESYNDiCATE......wawacity.irish.mkv
 
-#EXTINF:-1 group-title="Pekin Express" tvg-name="Pekin Express S22E04 FRENCH 1080p WEB H264 AAC-NoTag",Pekin Express S22E04 FRENCH 1080p WEB H264 AAC-NoTag
+#EXTINF:-1 tvg-type="live" group-title="Pekin Express" tvg-name="Pekin Express S22E04 FRENCH 1080p WEB H264 AAC-NoTag",Pekin Express S22E04 FRENCH 1080p WEB H264 AAC-NoTag
 http://192.168.0.131:8090/Pekin%20Express/Pekin.Express.S22E04.FRENCH.1080p.WEB.H264.AAC-NoTag.mkv
 
-#EXTINF:-1 group-title="Pekin Express" tvg-name="Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY",Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY
+#EXTINF:-1 tvg-type="live" group-title="Pekin Express" tvg-name="Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY",Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY
 http://192.168.0.131:8090/Pekin%20Express/Pekin.express.S22E05.READNFO.FRENCH.1080p.WEB.H264-SUPPLY.mkv
