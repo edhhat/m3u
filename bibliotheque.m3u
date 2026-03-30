@@ -17,3 +17,6 @@ http://PC-Trav:8090/Pekin%20Express/Pekin.Express.S22E04.FRENCH.1080p.WEB.H264.A
 
 #EXTINF:-1 group-title="Pekin Express" tvg-name="Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY",Pekin express S22E05 READNFO FRENCH 1080p WEB H264-SUPPLY
 http://PC-Trav:8090/Pekin%20Express/Pekin.express.S22E05.READNFO.FRENCH.1080p.WEB.H264-SUPPLY.mkv
+
+#EXTINF:-1 group-title="Programmes de la nuit" tvg-name="Programmes de la nuit 29-03-2026",Programmes de la nuit 29-03-2026
+http://PC-Trav:8090/Programmes%20de%20la%20nuit/Programmes%20de%20la%20nuit_29-03-2026.ts
