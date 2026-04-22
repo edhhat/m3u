@@ -287,6 +287,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/507321.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2024899.ts
+#EXTINF:-1 tvg-shift="+0" channel-id="xt_2032271" tvg-id="CANAL+MAGIC.ci" tvg-chno="" tvg-name="AFR|CANAL+ CINEMA OUEST" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSCINEMAOUEST.png" group-title="1 France",.AFR|CANAL+ CINEMA OUEST
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2032271.ts
 #EXTINF:-1 tvg-shift="+0" channel-id="xt_2032272" tvg-id="CANAL+MAGIC.mq" tvg-chno="" tvg-name="AFR|CANAL+ MAGIC HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/CANALPLUSMAGIC.png" group-title="1 France",.AFR|CANAL+ MAGIC HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -527,7 +531,7 @@ https://jmp2.uk/stvp-FR220000105
 https://jmp2.uk/stvp-FR2600009UG
 #EXTINF:-1 channel-id="65a69ef53af63d000825e0ee" tvg-id="65a69ef53af63d000825e0ee" tvg-chno="345" tvg-name="Ciné Catastrophe by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="3 Cinema",Ciné Catastrophe by Pluto TV
 https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-#EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="320" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="3 Cinema",Ciné d'Asie by Pluto TV
+#EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="320" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="3 Cinema",.Ciné d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
 #EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" tvg-chno="370" tvg-name="Ciné Western by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="3 Cinema",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
@@ -1729,6 +1733,8 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116425
 #EXTINF:-1 channel-id="FR220000105" tvg-id="FR220000105" tvg-chno="4865" tvg-name="Action Totale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png" group-title="All",Action Totale
 https://jmp2.uk/stvp-FR220000105
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png" tvg-name="ACTION TOTALE ADRÉNALINE"  group-title="All",ACTION TOTALE ADRÉNALINE
+https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png",ADB TV
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/R4b5j6xQ/adenym.jpg",ADEN TV
@@ -2495,8 +2501,6 @@ https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
 #EXTINF:-1 channel-id="65a69ef53af63d000825e0ee" tvg-id="65a69ef53af63d000825e0ee" tvg-chno="345" tvg-name="Ciné Catastrophe by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="All",Ciné Catastrophe by Pluto TV
 https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-#EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="320" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="All",Ciné d'Asie by Pluto TV
-https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
 #EXTINF:-1 channel-id="66e1978babec540008ce41ac" tvg-id="66e1978babec540008ce41ac" tvg-chno="330" tvg-name="Ciné Horreur by Pluto TV" tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" group-title="All",Ciné Horreur by Pluto TV
 https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/02pwsTj/cinenanar.png" tvg-name="CINÉ NANAR"  group-title="All",CINÉ NANAR
@@ -3154,7 +3158,7 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="All",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=FLv9ylpDLcT1J1Rci-Xty9fc0gPqB8hcYjNVBlOWFKmMrVPYtn06cjF9iqa-i1PDOyuKOzdhsCBT_8EODlluQXaJWGdxXzF2-aBJZU3SvA8
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=9f9Ab9Wnz_bM8IzDHMo1djkbyE8fExGs-r8R4XLihRUd9dZsnMhsodEsGvbm0dQX_hqj320O_tjqLXhqfWwYV3x4T7iRAa6DUTeO7kreh8I
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg",FUSION TV
 https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA
@@ -3533,8 +3537,6 @@ https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KANAL 3 AFYONKARAHİSAR
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KANAL 32 ISPARTA
-https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KANAL 33 MERSİN
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KANAL 34 İSTANBUL
@@ -3997,8 +3999,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png",MOTORVISION FR
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 channel-id="FRBB490000412" tvg-id="FRBB490000412" tvg-chno="4122" tvg-name="Motus" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB490000412_20241015T042740SQUARE.png" group-title="All",Motus
 https://jmp2.uk/stvp-FRBB490000412
 #EXTINF:-1 channel-id="d32267711c6a5cf36520716c96b5b3fa" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-chno="305" tvg-name="Movie Hub" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" group-title="All",Movie Hub
@@ -4561,6 +4561,8 @@ https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",RED MUSIC
 https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 group-title="All" tvg-id="RedemptionTelevisionMinistry.za@SD",Redemption TV Ministry (720p)
+https://live.nixsat.com/play/rtm/index.m3u8
 #EXTINF:-1 channel-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-chno="511" tvg-name="Reelz Famous and Infamous" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8abbea29b86a5a5da299c7ef2e288cab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1733326414482_ReelzFI_260x147_v1.png" group-title="All",Reelz Famous and Infamous
 https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",REFLET TV (CI)
@@ -4773,6 +4775,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MEMÓRIA
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gztz71N/rtpmundo.png" group-title="All" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP MUNDO
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/SwQdjcqH/rtpnot.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP NOTÍCIAS
@@ -4881,8 +4885,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409f
 https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SENEWEB TV (SN)
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SENJEUNES(SN)
-https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 channel-id="ac7629367b3f5fae93753623469c440d" tvg-id="ac7629367b3f5fae93753623469c440d" tvg-chno="421" tvg-name="Sensical Gaming" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac7629367b3f5fae93753623469c440d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1667323738009_Sensical_Gaming_Logo_EFEFEF-CENTER.png" group-title="All",Sensical Gaming
 https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",SENTV (SN)
@@ -4972,7 +4974,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 channel-id="498b53f6f63455bbba27754ceb5fcefc" tvg-id="498b53f6f63455bbba27754ceb5fcefc" tvg-chno="431" tvg-name="Sonic The Hedgehog" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/498b53f6f63455bbba27754ceb5fcefc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673905008826_Sonic_the_Hedgehog_HUD_Logo_260x147_Monochromatic.png" group-title="All",Sonic The Hedgehog
 https://jmp2.uk/rok-498b53f6f63455bbba27754ceb5fcefc.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="SONY ONE FAVORIS"  group-title="All",SONY ONE FAVORIS
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="SONY ONE HITS ACTION"  group-title="All",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="SONY ONE HITS COMEDIE"  group-title="All",SONY ONE HITS COMEDIE
@@ -6750,8 +6752,6 @@ http://idmsxkhy.traildns.com:80/live/FDBNQRF8/Q5Y6PHHR/32518.ts
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/L61bf70/adspts.png",.ABU DHABI SPORTS 2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png" tvg-name="ACTION TOTALE ADRÉNALINE"  group-title="HS",.ACTION TOTALE ADRÉNALINE
-https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",.ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/DMRJYJM/afroturk.png",.AFRO TURK TV
@@ -14442,6 +14442,8 @@ https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 https://amg02393-awpg-amg02393c7-samsung-fr-4950.playouts.now.amagi.tv/playlist/amg02393-awpg-cachauffeencuisine-samsungfr/playlist.m3u8
 #EXTINF:-1, tvg-id="CineWestern.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/06/Logo-Cine-Western.png" tvg-name="CINE WESTERN"  group-title="HS",.CINE WESTERN
 https://d1rmn2456fdhrx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/index.m3u8#origine-861=https://tvradiozap.eu
+#EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="320" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="HS",.Ciné d'Asie by Pluto TV
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/Hpqbt3q/cineprime.png" tvg-name="CINÉ PRIME"  group-title="HS",.CINÉ PRIME
 https://d1epkvgkeqefgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-myfiyxckorqab/257aeb10-abc9-4b30-952c-2c6775eb768d/2.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",.CNBC NEWS
@@ -15568,6 +15570,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042045.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062330.ts
+#EXTINF:-1 channel-id="xt_1916420" tvg-id="" tvg-chno="" tvg-name="ENDED | HALFORD & BROUGH: APRIL 22 | Wed 22 Apr 10:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.ENDED | HALFORD & BROUGH: APRIL 22 | Wed 22 Apr 10:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916420.ts
 #EXTINF:-1 channel-id="xt_1916421" tvg-id="" tvg-chno="" tvg-name="ENDED | SPORTSNET CENTRAL: APRIL 21 | Wed 22 Apr 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.ENDED | SPORTSNET CENTRAL: APRIL 21 | Wed 22 Apr 06:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -15576,6 +15582,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916421.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916419.ts
+#EXTINF:-1 channel-id="xt_1916418" tvg-id="" tvg-chno="" tvg-name="ENDED | THE RAPTORS SHOW: APRIL 22 | Wed 22 Apr 12:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.ENDED | THE RAPTORS SHOW: APRIL 22 | Wed 22 Apr 12:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916418.ts
 #EXTINF:-1 channel-id="xt_829805" tvg-id="BabyTV.fr" tvg-chno="" tvg-name="ENF| BABY TV" tvg-logo="http://51.158.145.100/picons/logos/france/829805.png" group-title="HS",.ENF| BABY TV
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22012,6 +22022,8 @@ https://ncdn.telewebion.ir/jjtv1/live/playlist.m3u8
 https://ncdn.telewebion.ir/jjtv3/live/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",.KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
+#EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",.KANAL 32 ISPARTA
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png",.KANAL B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",.KANAL T
@@ -22102,14 +22114,18 @@ https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",.LIFE TV (CI)
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 channel-id="xt_2062316" tvg-id="" tvg-chno="" tvg-name="Live | Canada U18 vs. Slovakia U18 | all | 8K EXCLUSIVE | CA: SOCCER PPV 15" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | Canada U18 vs. Slovakia U18 | all | 8K EXCLUSIVE | CA: SOCCER PPV 15
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062316.ts
+#EXTINF:-1 channel-id="xt_2062325" tvg-id="" tvg-chno="" tvg-name="Live | Cardinals at Marlins | all | 8K EXCLUSIVE | CA: SOCCER PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | Cardinals at Marlins | all | 8K EXCLUSIVE | CA: SOCCER PPV 6
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062325.ts
 #EXTINF:-1 channel-id="xt_2062317" tvg-id="" tvg-chno="" tvg-name="Live | Czechia U18 vs. United States U18 | all | 8K EXCLUSIVE | CA: SOCCER PPV 14" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | Czechia U18 vs. United States U18 | all | 8K EXCLUSIVE | CA: SOCCER PPV 14
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062317.ts
-#EXTINF:-1 channel-id="xt_1916420" tvg-id="" tvg-chno="" tvg-name="LIVE | HALFORD & BROUGH: APRIL 22 | Wed 22 Apr 10:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.LIVE | HALFORD & BROUGH: APRIL 22 | Wed 22 Apr 10:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916420.ts
 #EXTINF:-1 channel-id="xt_2062314" tvg-id="" tvg-chno="" tvg-name="Live | Indian Premier League 2026 - 32nd Match - Lucknow Super Giants vs Rajasthan Royals | all | 8K EXCLUSIVE | CA: SOCCER PPV 17" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | Indian Premier League 2026 - 32nd Match - Lucknow Super Giants vs Rajasthan Royals | all | 8K EXCLUSIVE | CA: SOCCER PPV 17
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22126,10 +22142,34 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062319.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040612.ts
-#EXTINF:-1 channel-id="xt_1916418" tvg-id="" tvg-chno="" tvg-name="LIVE | THE RAPTORS SHOW: APRIL 22 | Wed 22 Apr 12:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.LIVE | THE RAPTORS SHOW: APRIL 22 | Wed 22 Apr 12:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 4
+#EXTINF:-1 channel-id="xt_1916417" tvg-id="" tvg-chno="" tvg-name="LIVE | THE FAN HOCKEY SHOW: APRIL 22 | Wed 22 Apr 13:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.LIVE | THE FAN HOCKEY SHOW: APRIL 22 | Wed 22 Apr 13:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916418.ts
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916417.ts
+#EXTINF:-1 channel-id="xt_2040611" tvg-id="" tvg-chno="" tvg-name="Live | Union Berlin - Bayern München | Frauen Bundesliga | 8K EXCLUSIVE | BE: DAZN PPV 19" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Live | Union Berlin - Bayern München | Frauen Bundesliga | 8K EXCLUSIVE | BE: DAZN PPV 19
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040611.ts
+#EXTINF:-1 channel-id="xt_2062310" tvg-id="" tvg-chno="" tvg-name="Live | Union Berlin vs. Bayern Munich | all | 8K EXCLUSIVE | CA: SOCCER PPV 21" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | Union Berlin vs. Bayern Munich | all | 8K EXCLUSIVE | CA: SOCCER PPV 21
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062310.ts
+#EXTINF:-1 channel-id="xt_2042041" tvg-id="" tvg-chno="" tvg-name="Live | Union Berlin vs. Bayern Munich | Frauen Bundesliga | 8K EXCLUSIVE | FR: DAZN PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Live | Union Berlin vs. Bayern Munich | Frauen Bundesliga | 8K EXCLUSIVE | FR: DAZN PPV 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042041.ts
+#EXTINF:-1 channel-id="xt_2040627" tvg-id="" tvg-chno="" tvg-name="Live | Werder Bremen - Wolfsburg | Frauen Bundesliga | 8K EXCLUSIVE | BE: DAZN PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Live | Werder Bremen - Wolfsburg | Frauen Bundesliga | 8K EXCLUSIVE | BE: DAZN PPV 3
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040627.ts
+#EXTINF:-1 channel-id="xt_2062306" tvg-id="" tvg-chno="" tvg-name="Live | Werder Bremen vs. Wolfsburg | all | 8K EXCLUSIVE | CA: SOCCER PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | Werder Bremen vs. Wolfsburg | all | 8K EXCLUSIVE | CA: SOCCER PPV 25
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062306.ts
+#EXTINF:-1 channel-id="xt_2042042" tvg-id="" tvg-chno="" tvg-name="Live | Werder Brême vs. Wolfsburg | Frauen Bundesliga | 8K EXCLUSIVE | FR: DAZN PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Live | Werder Brême vs. Wolfsburg | Frauen Bundesliga | 8K EXCLUSIVE | FR: DAZN PPV 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042042.ts
 #EXTINF:-1 channel-id="xt_2062329" tvg-id="" tvg-chno="" tvg-name="Live | WTA Early Round Coverage, Day 1 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Live | WTA Early Round Coverage Day 1 | all | 8K EXCLUSIVE | CA: SOCCER PPV 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22214,6 +22254,8 @@ https://live.euromediacenter.com/tvmor/index.m3u87
 https://indisponible
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",.MOSELLE TV
 https://indisponible
+#EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",.MOTORVISION TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 channel-id="FR42000023H" tvg-id="FR42000023H" tvg-chno="4880" tvg-name="Moviesphere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR42000023H_20260324T034945SQUARE.png" group-title="HS",.Moviesphere
 https://jmp2.uk/stvp-FR42000023H
 #EXTINF:-1 channel-id="xt_85687" tvg-id="" tvg-chno="" tvg-name="MOZ| TV MANA" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/MANA.png" group-title="HS",.MOZ| TV MANA
@@ -22542,14 +22584,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062318.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062313.ts
-#EXTINF:-1 channel-id="xt_2062316" tvg-id="" tvg-chno="" tvg-name="Next | Canada U18 vs. Slovakia U18 | all | 22-04-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 15" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Next | Canada U18 vs. Slovakia U18 | all | 22-04-2026 | 18:00 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 15
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062316.ts
-#EXTINF:-1 channel-id="xt_2062325" tvg-id="" tvg-chno="" tvg-name="Next | Cardinals at Marlins | all | 22-04-2026 | 18:10 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Next | Cardinals at Marlins | all | 22-04-2026 | 18:10 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 6
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062325.ts
 #EXTINF:-1 channel-id="xt_2062309" tvg-id="" tvg-chno="" tvg-name="Next | Charlton vs. Ipswich | all | 22-04-2026 | 20:37 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 22" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Next | Charlton vs. Ipswich | all | 22-04-2026 | 20:37 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 22
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22638,10 +22672,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062307.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062323.ts
-#EXTINF:-1 channel-id="xt_1916417" tvg-id="" tvg-chno="" tvg-name="NEXT | THE FAN HOCKEY SHOW: APRIL 22 | Wed 22 Apr 13:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.NEXT | THE FAN HOCKEY SHOW: APRIL 22 | Wed 22 Apr 13:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 5
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916417.ts
 #EXTINF:-1 channel-id="xt_1916413" tvg-id="" tvg-chno="" tvg-name="NEXT | THE FAN PREGAME: APRIL 22 | Wed 22 Apr 19:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 9" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="HS",.NEXT | THE FAN PREGAME: APRIL 22 | Wed 22 Apr 19:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 9
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22650,18 +22680,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916413.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1916415.ts
-#EXTINF:-1 channel-id="xt_2040625" tvg-id="" tvg-chno="" tvg-name="Next | Union Berlin - Bayern München | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Next | Union Berlin - Bayern München | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 5
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040625.ts
-#EXTINF:-1 channel-id="xt_2062310" tvg-id="" tvg-chno="" tvg-name="Next | Union Berlin vs. Bayern Munich | all | 22-04-2026 | 17:49 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 21" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Next | Union Berlin vs. Bayern Munich | all | 22-04-2026 | 17:49 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 21
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062310.ts
-#EXTINF:-1 channel-id="xt_2042039" tvg-id="" tvg-chno="" tvg-name="Next | Union Berlin vs. Bayern Munich | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Next | Union Berlin vs. Bayern Munich | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 7
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042039.ts
 #EXTINF:-1 channel-id="xt_2062311" tvg-id="" tvg-chno="" tvg-name="Next | Union Saint-Gilloise vs. Gent | all | 22-04-2026 | 20:19 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 20" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Next | Union Saint-Gilloise vs. Gent | all | 22-04-2026 | 20:19 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 20
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22670,18 +22688,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062311.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040618.ts
-#EXTINF:-1 channel-id="xt_2040626" tvg-id="" tvg-chno="" tvg-name="Next | Werder Bremen - Wolfsburg | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Next | Werder Bremen - Wolfsburg | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | BE: DAZN PPV 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040626.ts
-#EXTINF:-1 channel-id="xt_2062306" tvg-id="" tvg-chno="" tvg-name="Next | Werder Bremen vs. Wolfsburg | all | 22-04-2026 | 17:49 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="HS",.Next | Werder Bremen vs. Wolfsburg | all | 22-04-2026 | 17:49 (GMT) | 8K EXCLUSIVE | CA: SOCCER PPV 25
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2062306.ts
-#EXTINF:-1 channel-id="xt_2042040" tvg-id="" tvg-chno="" tvg-name="Next | Werder Brême vs. Wolfsburg | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.Next | Werder Brême vs. Wolfsburg | Frauen Bundesliga | 2026-04-22 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 6
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042040.ts
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",.NHK WORLD ESP
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 channel-id="xt_85610" tvg-id="" tvg-chno="" tvg-name="NIG| A+ HD" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/APLUS.png" group-title="HS",.NIG| A+ HD
@@ -22836,10 +22842,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/812041.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/812050.ts
-#EXTINF:-1 channel-id="xt_2040611" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 19" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 19
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040611.ts
 #EXTINF:-1 channel-id="xt_2040610" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 20" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 20
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22880,10 +22882,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040602.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040601.ts
-#EXTINF:-1 channel-id="xt_2040627" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 3
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040627.ts
 #EXTINF:-1 channel-id="xt_2040600" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 30
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22924,6 +22922,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040592.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040591.ts
+#EXTINF:-1 channel-id="xt_2040626" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040626.ts
 #EXTINF:-1 channel-id="xt_2040590" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 40" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 40
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -22964,6 +22966,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040582.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040581.ts
+#EXTINF:-1 channel-id="xt_2040625" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2040625.ts
 #EXTINF:-1 channel-id="xt_2040580" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | BE: DAZN PPV 50
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -23968,10 +23974,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042008.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042007.ts
-#EXTINF:-1 channel-id="xt_2042042" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 4
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042042.ts
 #EXTINF:-1 channel-id="xt_2042006" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 40" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 40
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -24012,10 +24014,6 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2041998.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2041997.ts
-#EXTINF:-1 channel-id="xt_2042041" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 5
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042041.ts
 #EXTINF:-1 channel-id="xt_2041996" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 50
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -24056,6 +24054,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2041988.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2041987.ts
+#EXTINF:-1 channel-id="xt_2042040" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 6
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042040.ts
 #EXTINF:-1 channel-id="xt_2041986" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 60" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 60
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -24096,6 +24098,10 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2041978.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2041977.ts
+#EXTINF:-1 channel-id="xt_2042039" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 7
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/2042039.ts
 #EXTINF:-1 channel-id="xt_2041976" tvg-id="" tvg-chno="" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 70" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="HS",.NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 70
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -24870,8 +24876,6 @@ https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/9
 https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 #EXTINF:-1 group-title="HS" tvg-id="Racingcom.au@SD",.Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="HS" tvg-id="RedemptionTelevisionMinistry.za@SD",.Redemption TV Ministry (720p)
-https://live.nixsat.com/play/rtm/index.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",.REEL TV (CI)
 https://neriyastreaming.ddns.net/memfs/a59bc008-a226-430c-a050-45fa0891d8c3.m3u8
 #EXTINF:-1 channel-id="FRBD490000195" tvg-id="FRBD490000195" tvg-chno="4573" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png" group-title="HS",.Reuters
@@ -24904,8 +24908,6 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",.RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",.RTP MEMÓRIA
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" user-agent="IE" referer="https://www.rtp.pt/play/direto",.RTP ÁFRICA
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png",.RTV S.MARINO
@@ -25556,6 +25558,8 @@ http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/716049.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://line.flixteletx.com:80/live/21419136e4/a8a39684ef/1741557.ts
+#EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",.SENJEUNES(SN)
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/s9pNND8H/senses.png",.SENSES SCENERIES
 https://sensestv.com:4433/hls/sensesonline/index.m3u8
 #EXTINF:-1 channel-id="xt_85477" tvg-id="" tvg-chno="" tvg-name="SEN| 2S TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/2STV.png" group-title="HS",.SEN| 2S TV
