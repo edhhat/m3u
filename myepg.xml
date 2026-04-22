@@ -333,6 +333,10 @@
     <title lang="fr">Enquête d'Afrique</title>
     <desc lang="fr">Les nouvelles stars de la téléré...</desc>
   </programme>
+  <programme start="20260423102600 +0000" stop="20260423103000 +0000" channel="CANAL+MAGIC.mq">
+    <title lang="fr">Cyberdebrouille - Saison 1</title>
+    <desc lang="fr">Episode 12 : CYBERDEBROUILLE - 12</desc>
+  </programme>
   <programme start="20260423103000 +0000" stop="20260423105400 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">DiepCity - Saison 1</title>
     <desc lang="fr">Episode 215 : Rongé par les remo...</desc>
@@ -341,27 +345,31 @@
     <title lang="fr">DiepCity - Saison 1</title>
     <desc lang="fr">Episode 216 : Le rêve</desc>
   </programme>
-  <programme start="20260423111800 +0000" stop="20260423115800 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423111800 +0000" stop="20260423113300 +0000" channel="CANAL+MAGIC.mq">
+    <title lang="fr">L'audition</title>
+    <desc lang="fr">Film Court métrage</desc>
+  </programme>
+  <programme start="20260423113300 +0000" stop="20260423121300 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Sistas - Saison 8</title>
     <desc lang="fr">Episode 2 : C'est l'heure de dég...</desc>
   </programme>
-  <programme start="20260423115800 +0000" stop="20260423123900 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423121300 +0000" stop="20260423125300 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Sistas - Saison 8</title>
     <desc lang="fr">Episode 3 : SISTAS - SEASON 8 - 3</desc>
   </programme>
-  <programme start="20260423123900 +0000" stop="20260423132100 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423125300 +0000" stop="20260423133600 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Sistas - Saison 8</title>
     <desc lang="fr">Episode 4 : SISTAS - SEASON 8 - 4</desc>
   </programme>
-  <programme start="20260423132100 +0000" stop="20260423140100 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423133600 +0000" stop="20260423141600 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Date My Family - Saison 7</title>
     <desc lang="fr">Episode 8 : Date My Family - Sai...</desc>
   </programme>
-  <programme start="20260423140100 +0000" stop="20260423150000 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423141600 +0000" stop="20260423145700 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Date My Family - Saison 7</title>
     <desc lang="fr">Episode 9 : Date My Family - Sai...</desc>
   </programme>
-  <programme start="20260423150000 +0000" stop="20260423152200 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423145700 +0000" stop="20260423152000 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Ithonga - Saison 1</title>
     <desc lang="fr">Episode 34</desc>
   </programme>
@@ -405,7 +413,7 @@
     <title lang="fr">DiepCity - Saison 1</title>
     <desc lang="fr">Episode 217 : La promesse</desc>
   </programme>
-  <programme start="20260423230700 +0000" stop="20260423232900 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423230800 +0000" stop="20260423233300 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">DiepCity - Saison 1</title>
     <desc lang="fr">Episode 218 : La joie des retrou...</desc>
   </programme>
@@ -413,9 +421,13 @@
     <title lang="fr">Ithonga - Saison 1</title>
     <desc lang="fr">Episode 36</desc>
   </programme>
-  <programme start="20260423235100 +0000" stop="20260424003000 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260423235500 +0000" stop="20260424002000 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Ithonga - Saison 1</title>
     <desc lang="fr">Episode 37</desc>
+  </programme>
+  <programme start="20260424002000 +0000" stop="20260424003000 +0000" channel="CANAL+MAGIC.mq">
+    <title lang="fr">Chéri coco - Saison 1</title>
+    <desc lang="fr">Episode 93 : CHERI COCO</desc>
   </programme>
   <programme start="20260424003000 +0000" stop="20260424011700 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
@@ -426,7 +438,7 @@
     <desc lang="fr">Film Drame</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/31055263/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-SiRX"/>
   </programme>
-  <programme start="20260424023600 +0000" stop="20260424032500 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260424023700 +0000" stop="20260424032600 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
     <desc lang="fr">Episode 1</desc>
   </programme>
@@ -438,11 +450,11 @@
     <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
     <desc lang="fr">Episode 106 : Beyond the Gates -...</desc>
   </programme>
-  <programme start="20260424045000 +0000" stop="20260424052700 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260424045100 +0000" stop="20260424052900 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
     <desc lang="fr">Episode 107 : Beyond the Gates -...</desc>
   </programme>
-  <programme start="20260424052700 +0000" stop="20260424054900 +0000" channel="CANAL+MAGIC.mq">
+  <programme start="20260424052900 +0000" stop="20260424055000 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Ithonga - Saison 1</title>
     <desc lang="fr">Episode 32</desc>
   </programme>
@@ -595,186 +607,186 @@
     <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
     <desc lang="fr">Episode 4 : The Real Housewives ...</desc>
   </programme>
-  <channel id="CANAL+MAGIC.ci">
+  <channel id="CANAL+CINEMA.ci">
     <display-name>CANAL+ CINEMA(S) HD</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/150014/canal-ouah/CHN43FB/Ccinemas"/>
   </channel>
-  <programme start="20260422105300 +0000" stop="20260422115300 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422105300 +0000" stop="20260422115300 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">+ de courts</title>
     <desc lang="fr">Emission du 12 avr. 2026</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107419504"/>
   </programme>
-  <programme start="20260422115300 +0000" stop="20260422133900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422115300 +0000" stop="20260422133900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Bonjour l'asile</title>
     <desc lang="fr">Film Comédie</desc>
   </programme>
-  <programme start="20260422133900 +0000" stop="20260422151800 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422133900 +0000" stop="20260422151800 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Enzo</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260422151800 +0000" stop="20260422164800 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422151800 +0000" stop="20260422164800 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Mikado</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260422164800 +0000" stop="20260422181700 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422164800 +0000" stop="20260422181700 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">La Cache</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260422181700 +0000" stop="20260422195700 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422181700 +0000" stop="20260422195700 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Des jours meilleurs</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260422195700 +0000" stop="20260422204400 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422195700 +0000" stop="20260422204400 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Le cercle</title>
     <desc lang="fr">Le Cercle décrypte Juste une ill...</desc>
   </programme>
-  <programme start="20260422204400 +0000" stop="20260422222900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422204400 +0000" stop="20260422222900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Lire Lolita à Téhéran</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260422222900 +0000" stop="20260423000100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260422222900 +0000" stop="20260423000100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Mexico 86</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423000100 +0000" stop="20260423020100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423000100 +0000" stop="20260423020100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Downton Abbey III : Le grand final</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423020100 +0000" stop="20260423033500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423020100 +0000" stop="20260423033500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Fackham Hall</title>
     <desc lang="fr">Film Comédie</desc>
   </programme>
-  <programme start="20260423033500 +0000" stop="20260423052800 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423033500 +0000" stop="20260423052800 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Materialists</title>
     <desc lang="fr">Film Comédie romantique</desc>
   </programme>
-  <programme start="20260423052800 +0000" stop="20260423054000 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423052800 +0000" stop="20260423054000 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Parthenope</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423054000 +0000" stop="20260423103400 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423054000 +0000" stop="20260423103400 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Fin des programmes</title>
     <desc lang="fr">Divers</desc>
   </programme>
-  <programme start="20260423103400 +0000" stop="20260423112100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423103400 +0000" stop="20260423112100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Le cercle</title>
     <desc lang="fr">Le Cercle décrypte Juste une ill...</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/31220228/canal-ouah/STD169/1307000_15_VR_HD_LECERCLE_10-02-18-07-09q9"/>
   </programme>
-  <programme start="20260423112100 +0000" stop="20260423130700 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423112100 +0000" stop="20260423130700 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Black Dog</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423130700 +0000" stop="20260423150000 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423130700 +0000" stop="20260423150000 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">La Mer au loin</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423150000 +0000" stop="20260423163900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423150000 +0000" stop="20260423163900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Le Dernier souffle</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423163900 +0000" stop="20260423183900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423163900 +0000" stop="20260423183900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Downton Abbey III : Le grand final</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260423183900 +0000" stop="20260423201700 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423183900 +0000" stop="20260423201700 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Les Musiciens</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260423201700 +0000" stop="20260423213200 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423201700 +0000" stop="20260423213200 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Amélie et la Métaphysique des tubes</title>
     <desc lang="fr">Film Animation</desc>
   </programme>
-  <programme start="20260423213200 +0000" stop="20260423230000 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423213200 +0000" stop="20260423230000 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Lads</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260423230000 +0000" stop="20260424000100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260423230000 +0000" stop="20260424000100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">+ de courts</title>
     <desc lang="fr">Emission du 12 avr. 2026</desc>
   </programme>
-  <programme start="20260424000100 +0000" stop="20260424013300 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424000100 +0000" stop="20260424013300 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Les arènes</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260424013300 +0000" stop="20260424025100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424013300 +0000" stop="20260424025100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Indomptables</title>
     <desc lang="fr">Film Policier</desc>
   </programme>
-  <programme start="20260424025100 +0000" stop="20260424041300 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424025100 +0000" stop="20260424041300 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Magma</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260424041300 +0000" stop="20260424054800 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424041300 +0000" stop="20260424054800 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Dangerous Animals</title>
     <desc lang="fr">Film Horreur</desc>
   </programme>
-  <programme start="20260424054800 +0000" stop="20260424072500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424054800 +0000" stop="20260424072500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">La dernière plongée</title>
     <desc lang="fr">Téléfilm Suspense</desc>
   </programme>
-  <programme start="20260424072500 +0000" stop="20260424101500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424072500 +0000" stop="20260424101500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Fin des programmes</title>
     <desc lang="fr">Divers</desc>
   </programme>
-  <programme start="20260424101500 +0000" stop="20260424120400 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424101500 +0000" stop="20260424120400 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Prima la vita</title>
     <desc lang="fr">Film Drame</desc>
     <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/27892666/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-Pb-R"/>
   </programme>
-  <programme start="20260424120400 +0000" stop="20260424132500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424120400 +0000" stop="20260424132500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Magma</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260424132500 +0000" stop="20260424150600 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424132500 +0000" stop="20260424150600 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Oxana</title>
     <desc lang="fr">Film biopic</desc>
   </programme>
-  <programme start="20260424150600 +0000" stop="20260424164200 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424150600 +0000" stop="20260424164200 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Une place pour Pierrot</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260424164200 +0000" stop="20260424181900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424164200 +0000" stop="20260424181900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Différente</title>
     <desc lang="fr">Film Comédie romantique</desc>
   </programme>
-  <programme start="20260424181900 +0000" stop="20260424202100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424181900 +0000" stop="20260424202100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">La Venue de l'avenir</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260424202100 +0000" stop="20260424204900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424202100 +0000" stop="20260424204900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Cédric Klapisch, au temps des impressionnistes</title>
     <desc lang="fr">Doc. Culture</desc>
   </programme>
-  <programme start="20260424204900 +0000" stop="20260424223200 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424204900 +0000" stop="20260424223200 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">L'épreuve du feu</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260424223200 +0000" stop="20260425000100 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260424223200 +0000" stop="20260425000100 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Mikado</title>
     <desc lang="fr">Film Comédie dramatique</desc>
   </programme>
-  <programme start="20260425000100 +0000" stop="20260425013400 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260425000100 +0000" stop="20260425013400 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Drop Game</title>
     <desc lang="fr">Film Suspense</desc>
   </programme>
-  <programme start="20260425013400 +0000" stop="20260425025500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260425013400 +0000" stop="20260425025500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Back to Business</title>
     <desc lang="fr">Film Action</desc>
   </programme>
-  <programme start="20260425025500 +0000" stop="20260425042500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260425025500 +0000" stop="20260425042500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Cold Wallet</title>
     <desc lang="fr">Film Suspense</desc>
   </programme>
-  <programme start="20260425042500 +0000" stop="20260425060900 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260425042500 +0000" stop="20260425060900 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Lire Lolita à Téhéran</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260425060900 +0000" stop="20260425074500 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260425060900 +0000" stop="20260425074500 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">L'Agneau</title>
     <desc lang="fr">Film Drame</desc>
   </programme>
-  <programme start="20260425074500 +0000" stop="20260425104300 +0000" channel="CANAL+MAGIC.ci">
+  <programme start="20260425074500 +0000" stop="20260425104300 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Fin des programmes</title>
     <desc lang="fr">Divers</desc>
   </programme>
