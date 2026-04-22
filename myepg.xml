@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
-
-<tv generator-info-name="CanalPlus Custom EPG">
+<tv generator-info-name="CanalPlus MQ EPG">
   <channel id="CANAL+BOXOFFICE.mq">
     <display-name>CANAL+ BOX OFFICE</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/150263/canal-ouah/CHN43FB/BOXOFFICE"/>
@@ -44,7 +43,7 @@
   <programme start="20260423000000 +0000" stop="20260423020500 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">Dracula</title>
     <desc lang="fr">Film Fantastique</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/29533005/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-u4LM"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/29533005/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-u4LM"/>
   </programme>
   <programme start="20260423020500 +0000" stop="20260423034100 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">Dead of Winter</title>
@@ -105,7 +104,7 @@
   <programme start="20260424000000 +0000" stop="20260424012800 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">Aimons-nous vivants</title>
     <desc lang="fr">Film Comédie romantique</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/29163135/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-a-93"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/29163135/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-a-93"/>
   </programme>
   <programme start="20260424012800 +0000" stop="20260424030100 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">100 Millions !</title>
@@ -174,7 +173,7 @@
   <programme start="20260425000000 +0000" stop="20260425020400 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">Evanouis</title>
     <desc lang="fr">Film Horreur</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/29699735/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-wg1f"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/29699735/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-wg1f"/>
   </programme>
   <programme start="20260425020400 +0000" stop="20260425035200 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">Destination finale : Bloodlines</title>
@@ -295,7 +294,7 @@
   <programme start="20260423003200 +0000" stop="20260423014300 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Garderie nocturne</title>
     <desc lang="fr">Film Drame</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/17027947/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-3-E0"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/17027947/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-3-E0"/>
   </programme>
   <programme start="20260423014300 +0000" stop="20260423022400 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Sistas - Saison 8</title>
@@ -424,7 +423,7 @@
   <programme start="20260424011700 +0000" stop="20260424023600 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Khorma, le crieur de nouvelles</title>
     <desc lang="fr">Film Drame</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/31055263/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-SiRX"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/31055263/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-SiRX"/>
   </programme>
   <programme start="20260424023600 +0000" stop="20260424032500 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
@@ -553,7 +552,7 @@
   <programme start="20260425003000 +0000" stop="20260425010700 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Sistas - Saison 8</title>
     <desc lang="fr">Episode 7 : Qui se ressemble s'a...</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/123209299"/>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/123209299"/>
   </programme>
   <programme start="20260425010700 +0000" stop="20260425014900 +0000" channel="CANAL+MAGIC.mq">
     <title lang="fr">Sistas - Saison 8</title>
