@@ -5,63 +5,6 @@
     <display-name>CANAL+ BOX OFFICE</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/150263/canal-ouah/CHN43FB/BOXOFFICE"/>
   </channel>
-  <programme start="20260426101900 +0000" stop="20260426110100 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Super plan</title>
-    <desc lang="fr">Philippe Croizon et Marie-Castil...</desc>
-  </programme>
-  <programme start="20260426110100 +0000" stop="20260426123500 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">5 septembre</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260426123500 +0000" stop="20260426141000 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Dead of Winter</title>
-    <desc lang="fr">Film Suspense</desc>
-  </programme>
-  <programme start="20260426141000 +0000" stop="20260426161400 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Kraven the Hunter</title>
-    <desc lang="fr">Film Action</desc>
-  </programme>
-  <programme start="20260426161400 +0000" stop="20260426182300 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Jurassic World : Renaissance</title>
-    <desc lang="fr">Film Fantastique</desc>
-  </programme>
-  <programme start="20260426182300 +0000" stop="20260426195800 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Cleaner</title>
-    <desc lang="fr">Film Action</desc>
-  </programme>
-  <programme start="20260426195800 +0000" stop="20260426214300 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Pris au piège - Caught Stealing</title>
-    <desc lang="fr">Film Suspense</desc>
-  </programme>
-  <programme start="20260426214300 +0000" stop="20260426234800 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Dracula</title>
-    <desc lang="fr">Film Fantastique</desc>
-  </programme>
-  <programme start="20260426234800 +0000" stop="20260427000000 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">L'hebd'Hollywood</title>
-    <desc lang="fr">Michael Jackson, Olivia Wilde et...</desc>
-  </programme>
-  <programme start="20260427000000 +0000" stop="20260427014100 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Les Bad Guys 2</title>
-    <desc lang="fr">Film Animation</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/29507065/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-_yWp"/>
-  </programme>
-  <programme start="20260427014100 +0000" stop="20260427031300 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Karate Kid : Legends</title>
-    <desc lang="fr">Film Comédie dramatique</desc>
-  </programme>
-  <programme start="20260427031300 +0000" stop="20260427045000 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Little Jaffna</title>
-    <desc lang="fr">Film Policier</desc>
-  </programme>
-  <programme start="20260427045000 +0000" stop="20260427065000 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Prima la vita</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260427065000 +0000" stop="20260427104500 +0000" channel="CANAL+BOXOFFICE.mq">
-    <title lang="fr">Fin des programmes</title>
-    <desc lang="fr">Divers</desc>
-  </programme>
   <programme start="20260427104500 +0000" stop="20260427111600 +0000" channel="CANAL+BOXOFFICE.mq">
     <title lang="fr">Zion, l'aventure du film</title>
     <desc lang="fr">Doc. Cinéma</desc>
@@ -477,115 +420,67 @@
     <title lang="fr">Fin des programmes</title>
     <desc lang="fr">Divers</desc>
   </programme>
+  <programme start="20260504104300 +0000" stop="20260504125600 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Parthenope</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260504125600 +0000" stop="20260504143900 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">L'Attachement</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260504143900 +0000" stop="20260504162700 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Dis-moi juste que tu m'aimes</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260504162700 +0000" stop="20260504183200 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Dracula</title>
+    <desc lang="fr">Film Fantastique</desc>
+  </programme>
+  <programme start="20260504183200 +0000" stop="20260504202600 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Materialists</title>
+    <desc lang="fr">Film Comédie romantique</desc>
+  </programme>
+  <programme start="20260504202600 +0000" stop="20260504203800 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">L'hebd'Hollywood</title>
+    <desc lang="fr">Michael Jackson, Olivia Wilde et...</desc>
+  </programme>
+  <programme start="20260504203800 +0000" stop="20260504221800 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Le Mélange des genres</title>
+    <desc lang="fr">Film Comédie dramatique</desc>
+  </programme>
+  <programme start="20260504221800 +0000" stop="20260505000000 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Des jours meilleurs</title>
+    <desc lang="fr">Film Comédie dramatique</desc>
+  </programme>
+  <programme start="20260505000000 +0000" stop="20260505012400 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Doux Jésus</title>
+    <desc lang="fr">Film Comédie</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/28448840/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-QpN2"/>
+  </programme>
+  <programme start="20260505012400 +0000" stop="20260505025600 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">God Save the Tuche</title>
+    <desc lang="fr">Film Comédie</desc>
+  </programme>
+  <programme start="20260505025600 +0000" stop="20260505031000 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">L'hebd'Hollywood</title>
+    <desc lang="fr">Michael, CinemaCon et l'ouvertur...</desc>
+  </programme>
+  <programme start="20260505031000 +0000" stop="20260505050400 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">La Mer au loin</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260505050400 +0000" stop="20260505063400 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Prima la vita</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260505063400 +0000" stop="20260505105900 +0000" channel="CANAL+BOXOFFICE.mq">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+  </programme>
   <channel id="CANAL+MAGIC.ci">
     <display-name>C+ MAGIC</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180302/canal-ouah/CHN43FB/CANALMAGIC_640x480AFRIQUE-IjDz"/>
   </channel>
-  <programme start="20260426061300 +0000" stop="20260426065000 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Sistas - Saison 8</title>
-    <desc lang="fr">Episode 7 : Qui se ressemble s'a...</desc>
-  </programme>
-  <programme start="20260426065000 +0000" stop="20260426073400 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Sistas - Saison 8</title>
-    <desc lang="fr">Episode 8 : Apparences</desc>
-  </programme>
-  <programme start="20260426073400 +0000" stop="20260426091900 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Injustice</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260426091900 +0000" stop="20260426094500 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Bienvenue à Kikidéni - Saison 2</title>
-    <desc lang="fr">Episode 19 : Heureux ménage</desc>
-  </programme>
-  <programme start="20260426094500 +0000" stop="20260426101200 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Bienvenue à Kikidéni - Saison 2</title>
-    <desc lang="fr">Episode 20 (1/2) : Papa ou pas</desc>
-  </programme>
-  <programme start="20260426101200 +0000" stop="20260426110100 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
-    <desc lang="fr">Episode 4 : The Real Housewives ...</desc>
-  </programme>
-  <programme start="20260426110100 +0000" stop="20260426114900 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
-    <desc lang="fr">Episode 5 : The Real Housewives ...</desc>
-  </programme>
-  <programme start="20260426114900 +0000" stop="20260426124200 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
-    <desc lang="fr">Episode 6 : The Real Housewives ...</desc>
-  </programme>
-  <programme start="20260426124200 +0000" stop="20260426132700 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
-    <desc lang="fr">Episode 1</desc>
-  </programme>
-  <programme start="20260426132700 +0000" stop="20260426141500 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
-    <desc lang="fr">Episode 2 : LE SECRET DES BAGAYO...</desc>
-  </programme>
-  <programme start="20260426141500 +0000" stop="20260426145400 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Date My Family - Saison 7</title>
-    <desc lang="fr">Episode 8 : Date My Family - Sai...</desc>
-  </programme>
-  <programme start="20260426145400 +0000" stop="20260426153600 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Date My Family - Saison 7</title>
-    <desc lang="fr">Episode 9 : Date My Family - Sai...</desc>
-  </programme>
-  <programme start="20260426153600 +0000" stop="20260426164600 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Garderie nocturne</title>
-    <desc lang="fr">Doc. Société</desc>
-  </programme>
-  <programme start="20260426164600 +0000" stop="20260426191000 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Nouvelle reine - Saison 2</title>
-    <desc lang="fr">Episode 4</desc>
-  </programme>
-  <programme start="20260426191000 +0000" stop="20260426193200 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">House of Payne - Saison 10</title>
-    <desc lang="fr">Episode 3 : Les Sexy Sauce</desc>
-  </programme>
-  <programme start="20260426193200 +0000" stop="20260426195900 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Bienvenue à Kikidéni - Saison 2</title>
-    <desc lang="fr">Episode 21 (2/2) : Papa ou pas</desc>
-  </programme>
-  <programme start="20260426195900 +0000" stop="20260426203000 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Bienvenue à Kikidéni - Saison 2</title>
-    <desc lang="fr">Episode 22 : Le mystère de la te...</desc>
-  </programme>
-  <programme start="20260426203000 +0000" stop="20260426210900 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Date My Family - Saison 7</title>
-    <desc lang="fr">Episode 10 : Date My Family - Sa...</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/123345885"/>
-  </programme>
-  <programme start="20260426210900 +0000" stop="20260426215700 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Date My Family - Saison 7</title>
-    <desc lang="fr">Episode 11 : Date My Family - Sa...</desc>
-  </programme>
-  <programme start="20260426215700 +0000" stop="20260426232700 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Ça suffit !</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260426232700 +0000" stop="20260427005200 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Enquête d'Afrique</title>
-    <desc lang="fr">Les nouvelles stars de la téléré...</desc>
-  </programme>
-  <programme start="20260427005200 +0000" stop="20260427010900 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Redevance</title>
-    <desc lang="fr">Film Court métrage</desc>
-  </programme>
-  <programme start="20260427010900 +0000" stop="20260427015300 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
-    <desc lang="fr">Episode 1</desc>
-  </programme>
-  <programme start="20260427015300 +0000" stop="20260427045100 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Fin des programmes</title>
-    <desc lang="fr">Divers</desc>
-  </programme>
-  <programme start="20260427045100 +0000" stop="20260427053600 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Shaka iLembe - Saison 2</title>
-    <desc lang="fr">Episode 11 : L'expansion du Roya...</desc>
-  </programme>
-  <programme start="20260427053600 +0000" stop="20260427063000 +0000" channel="CANAL+MAGIC.ci">
-    <title lang="fr">Shaka iLembe - Saison 2</title>
-    <desc lang="fr">Episode 12 : La domination d'un ...</desc>
-  </programme>
   <programme start="20260427063000 +0000" stop="20260427065400 +0000" channel="CANAL+MAGIC.ci">
     <title lang="fr">DiepCity - Saison 1</title>
     <desc lang="fr">Episode 219 : Accord mais désacc...</desc>
@@ -1473,103 +1368,139 @@
     <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
     <desc lang="fr">Episode 1</desc>
   </programme>
+  <programme start="20260504063000 +0000" stop="20260504065300 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">DiepCity - Saison 1</title>
+    <desc lang="fr">Episode 229 : Rancune tenace</desc>
+  </programme>
+  <programme start="20260504065300 +0000" stop="20260504071600 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">DiepCity - Saison 1</title>
+    <desc lang="fr">Episode 230 : La demande en mari...</desc>
+  </programme>
+  <programme start="20260504071600 +0000" stop="20260504080100 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Date My Family - Saison 7</title>
+    <desc lang="fr">Episode 8 : Date My Family - Sai...</desc>
+  </programme>
+  <programme start="20260504080100 +0000" stop="20260504084700 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Date My Family - Saison 7</title>
+    <desc lang="fr">Episode 9 : Date My Family - Sai...</desc>
+  </programme>
+  <programme start="20260504084700 +0000" stop="20260504110000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Nouvelle reine - Saison 2</title>
+    <desc lang="fr">Episode 5</desc>
+  </programme>
+  <programme start="20260504110000 +0000" stop="20260504112200 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Ithonga - Saison 1</title>
+    <desc lang="fr">Episode 48 : ITHONGA - SEASON 1 ...</desc>
+  </programme>
+  <programme start="20260504112200 +0000" stop="20260504114500 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Ithonga - Saison 1</title>
+    <desc lang="fr">Episode 49 : ITHONGA - SEASON 1 ...</desc>
+  </programme>
+  <programme start="20260504114500 +0000" stop="20260504122000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
+    <desc lang="fr">Episode 114 : Beyond the Gates -...</desc>
+  </programme>
+  <programme start="20260504122000 +0000" stop="20260504125700 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
+    <desc lang="fr">Episode 115 : Beyond the Gates -...</desc>
+  </programme>
+  <programme start="20260504125700 +0000" stop="20260504134200 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
+    <desc lang="fr">Episode 7 : The Real Housewives ...</desc>
+  </programme>
+  <programme start="20260504134200 +0000" stop="20260504142900 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">The Real Housewives Of Nairobi - Saison 1</title>
+    <desc lang="fr">Episode 8 : The Real Housewives ...</desc>
+  </programme>
+  <programme start="20260504142900 +0000" stop="20260504151400 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
+    <desc lang="fr">Episode 1</desc>
+  </programme>
+  <programme start="20260504151400 +0000" stop="20260504160000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Le Secret des Bagayoko - Saison 1</title>
+    <desc lang="fr">Episode 2 : LE SECRET DES BAGAYO...</desc>
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504162200 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">House of Payne - Saison 10</title>
+    <desc lang="fr">Episode 4 : L'unijambiste</desc>
+  </programme>
+  <programme start="20260504162200 +0000" stop="20260504164800 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Bienvenue à Kikidéni - Saison 2</title>
+    <desc lang="fr">Episode 23 : Comme dans un faute...</desc>
+  </programme>
+  <programme start="20260504164800 +0000" stop="20260504173000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Bienvenue à Kikidéni - Saison 2</title>
+    <desc lang="fr">Episode 24 : Cabinet Ladji</desc>
+  </programme>
+  <programme start="20260504173000 +0000" stop="20260504180500 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
+    <desc lang="fr">Episode 116 : Beyond the Gates -...</desc>
+  </programme>
+  <programme start="20260504180500 +0000" stop="20260504184500 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
+    <desc lang="fr">Episode 117 : Beyond the Gates -...</desc>
+  </programme>
+  <programme start="20260504184500 +0000" stop="20260504190800 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">DiepCity - Saison 1</title>
+    <desc lang="fr">Episode 231 : Amour et trahisons</desc>
+  </programme>
+  <programme start="20260504190800 +0000" stop="20260504193000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">DiepCity - Saison 1</title>
+    <desc lang="fr">Episode 232 : Les Révélations</desc>
+  </programme>
+  <programme start="20260504193000 +0000" stop="20260504195200 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Ithonga - Saison 1</title>
+    <desc lang="fr">Episode 50 : ITHONGA - SEASON 1 ...</desc>
+  </programme>
+  <programme start="20260504195200 +0000" stop="20260504203000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Ithonga - Saison 1</title>
+    <desc lang="fr">Episode 51 : ITHONGA - SEASON 1 ...</desc>
+  </programme>
+  <programme start="20260504203000 +0000" stop="20260504215500 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Warassa : l'héritage</title>
+    <desc lang="fr">Film Drame</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/50001/canal-ouah/GEN169/Canal-SIBo"/>
+  </programme>
+  <programme start="20260504215500 +0000" stop="20260504225900 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Les funérailles de mon père</title>
+    <desc lang="fr">Doc. Société</desc>
+  </programme>
+  <programme start="20260504225900 +0000" stop="20260504234400 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Date My Family - Saison 7</title>
+    <desc lang="fr">Episode 10 : Date My Family - Sa...</desc>
+  </programme>
+  <programme start="20260504234400 +0000" stop="20260505003000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Date My Family - Saison 7</title>
+    <desc lang="fr">Episode 11 : Date My Family - Sa...</desc>
+  </programme>
+  <programme start="20260505003000 +0000" stop="20260505010600 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Les secrets de Fairmont Crest - Saison 1</title>
+    <desc lang="fr">Episode 114 : Beyond the Gates -...</desc>
+  </programme>
+  <programme start="20260505010600 +0000" stop="20260505012800 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Ithonga - Saison 1</title>
+    <desc lang="fr">Episode 46 : ITHONGA - SEASON 1 ...</desc>
+  </programme>
+  <programme start="20260505012800 +0000" stop="20260505015000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Ithonga - Saison 1</title>
+    <desc lang="fr">Episode 47 : ITHONGA - SEASON 1 ...</desc>
+  </programme>
+  <programme start="20260505015000 +0000" stop="20260505050100 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+  </programme>
+  <programme start="20260505050100 +0000" stop="20260505053800 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Sistas - Saison 8</title>
+    <desc lang="fr">Episode 7 : Qui se ressemble s'a...</desc>
+  </programme>
+  <programme start="20260505053800 +0000" stop="20260505063000 +0000" channel="CANAL+MAGIC.ci">
+    <title lang="fr">Sistas - Saison 8</title>
+    <desc lang="fr">Episode 8 : Apparences</desc>
+  </programme>
   <channel id="CANAL+ACTION.ci">
     <display-name>CANAL+ ACTION OUEST</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180645/canal-ouah/CHN43FB/CANALACTION_640x480-Copie-465H"/>
   </channel>
-  <programme start="20260426061800 +0000" stop="20260426084800 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Gladiator</title>
-    <desc lang="fr">Film Histoire</desc>
-  </programme>
-  <programme start="20260426084800 +0000" stop="20260426091600 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Hollywood's Best Film Directors - Saison 5</title>
-    <desc lang="fr">Episode 13 : Hollywood's Best Fi...</desc>
-  </programme>
-  <programme start="20260426091600 +0000" stop="20260426095600 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Chicago Fire - Saison 4</title>
-    <desc lang="fr">Episode 22 : Une minute de trop</desc>
-  </programme>
-  <programme start="20260426095600 +0000" stop="20260426103900 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Chicago Fire - Saison 4</title>
-    <desc lang="fr">Episode 23 : Le plus grand sacri...</desc>
-  </programme>
-  <programme start="20260426103900 +0000" stop="20260426122000 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">13 Minutes</title>
-    <desc lang="fr">Téléfilm Action</desc>
-  </programme>
-  <programme start="20260426122000 +0000" stop="20260426130400 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Alone : les survivants - Saison 4</title>
-    <desc lang="fr">Episode 1 : Seuls au monde</desc>
-  </programme>
-  <programme start="20260426130400 +0000" stop="20260426134700 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Alone : les survivants - Saison 4</title>
-    <desc lang="fr">Episode 2 : Sélection naturelle</desc>
-  </programme>
-  <programme start="20260426134700 +0000" stop="20260426164300 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Apocalypse Now Final Cut</title>
-    <desc lang="fr">Film Guerre</desc>
-  </programme>
-  <programme start="20260426164300 +0000" stop="20260426171000 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Hollywood's Best Film Directors - Saison 1</title>
-    <desc lang="fr">Episode 9 : Hollywood's Best Fil...</desc>
-  </programme>
-  <programme start="20260426171000 +0000" stop="20260426172600 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Le recrutement</title>
-    <desc lang="fr">Carte Blanche Clermont 2026</desc>
-  </programme>
-  <programme start="20260426172600 +0000" stop="20260426190100 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Cagefighter</title>
-    <desc lang="fr">Film Action</desc>
-  </programme>
-  <programme start="20260426190100 +0000" stop="20260426194600 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Alone : les survivants - Saison 4</title>
-    <desc lang="fr">Episode 3 : Le dilemme</desc>
-  </programme>
-  <programme start="20260426194600 +0000" stop="20260426203000 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Alone : les survivants - Saison 4</title>
-    <desc lang="fr">Episode 4 : Le prédateur</desc>
-  </programme>
-  <programme start="20260426203000 +0000" stop="20260426211900 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Dexter - Saison 3</title>
-    <desc lang="fr">Episode 9 : Tous en scène</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107015432"/>
-  </programme>
-  <programme start="20260426211900 +0000" stop="20260426221100 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Dexter - Saison 3</title>
-    <desc lang="fr">Episode 10 : Options</desc>
-  </programme>
-  <programme start="20260426221100 +0000" stop="20260426234200 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Rituel meurtrier</title>
-    <desc lang="fr">Film Suspense</desc>
-  </programme>
-  <programme start="20260426234200 +0000" stop="20260427002000 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Tulsa King - Saison 3</title>
-    <desc lang="fr">Episode 9 : Poids mort</desc>
-  </programme>
-  <programme start="20260427002000 +0000" stop="20260427005600 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Tulsa King - Saison 3</title>
-    <desc lang="fr">Episode 10 : Lézard Jésus</desc>
-  </programme>
-  <programme start="20260427005600 +0000" stop="20260427013500 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Chicago Fire - Saison 4</title>
-    <desc lang="fr">Episode 16 : Mouch enterre sa vi...</desc>
-  </programme>
-  <programme start="20260427013500 +0000" stop="20260427021300 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Chicago Fire - Saison 4</title>
-    <desc lang="fr">Episode 17 : La vérité sur Court...</desc>
-  </programme>
-  <programme start="20260427021300 +0000" stop="20260427050000 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Fin des programmes</title>
-    <desc lang="fr">Divers</desc>
-  </programme>
-  <programme start="20260427050000 +0000" stop="20260427054200 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Tulsa King - Saison 3</title>
-    <desc lang="fr">Episode 5 : L'inauguration</desc>
-  </programme>
-  <programme start="20260427054200 +0000" stop="20260427062200 +0000" channel="CANAL+ACTION.ci">
-    <title lang="fr">Tulsa King - Saison 3</title>
-    <desc lang="fr">Episode 6 : Plein de bulles</desc>
-  </programme>
   <programme start="20260427062200 +0000" stop="20260427075700 +0000" channel="CANAL+ACTION.ci">
     <title lang="fr">Cagefighter</title>
     <desc lang="fr">Film Action</desc>
@@ -2161,255 +2092,107 @@
     <title lang="fr">Fin des programmes</title>
     <desc lang="fr">Divers</desc>
   </programme>
+  <programme start="20260504050000 +0000" stop="20260504053800 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Tulsa King - Saison 3</title>
+    <desc lang="fr">Episode 7 : L'art de la guerre</desc>
+  </programme>
+  <programme start="20260504053800 +0000" stop="20260504061700 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Tulsa King - Saison 3</title>
+    <desc lang="fr">Episode 8 : Rien n'est encore te...</desc>
+  </programme>
+  <programme start="20260504061700 +0000" stop="20260504075600 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Black Death</title>
+    <desc lang="fr">Film Aventure</desc>
+  </programme>
+  <programme start="20260504075600 +0000" stop="20260504095500 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">L'épreuve du combattant</title>
+    <desc lang="fr">Film Action</desc>
+  </programme>
+  <programme start="20260504095500 +0000" stop="20260504112900 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Rituel meurtrier</title>
+    <desc lang="fr">Film Suspense</desc>
+  </programme>
+  <programme start="20260504112900 +0000" stop="20260504122900 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Le sommet - Saison 1</title>
+    <desc lang="fr">Episode 7 : The Snowline</desc>
+  </programme>
+  <programme start="20260504122900 +0000" stop="20260504131000 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Chicago Fire - Saison 4</title>
+    <desc lang="fr">Episode 20 : Une journee dans la...</desc>
+  </programme>
+  <programme start="20260504131000 +0000" stop="20260504135000 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Chicago Fire - Saison 4</title>
+    <desc lang="fr">Episode 21 : Louie</desc>
+  </programme>
+  <programme start="20260504135000 +0000" stop="20260504142700 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Tulsa King - Saison 3</title>
+    <desc lang="fr">Episode 9 : Poids mort</desc>
+  </programme>
+  <programme start="20260504142700 +0000" stop="20260504150300 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Tulsa King - Saison 3</title>
+    <desc lang="fr">Episode 10 : Lézard Jésus</desc>
+  </programme>
+  <programme start="20260504150300 +0000" stop="20260504171500 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Equalizer</title>
+    <desc lang="fr">Film Action</desc>
+  </programme>
+  <programme start="20260504171500 +0000" stop="20260504181000 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Le sommet - Saison 1</title>
+    <desc lang="fr">Episode 8 : Necessary Evils</desc>
+  </programme>
+  <programme start="20260504181000 +0000" stop="20260504185000 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Le sommet - Saison 1</title>
+    <desc lang="fr">Episode 9 : The Final Checkpoint</desc>
+  </programme>
+  <programme start="20260504185000 +0000" stop="20260504185500 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Director's Cut</title>
+    <desc lang="fr">Episode 86 : John Woo : First St...</desc>
+  </programme>
+  <programme start="20260504185500 +0000" stop="20260504203000 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Hounds of War</title>
+    <desc lang="fr">Téléfilm Action</desc>
+  </programme>
+  <programme start="20260504203000 +0000" stop="20260504212200 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Spartacus - Saison 2</title>
+    <desc lang="fr">Episode 7 : Vengeance : Le serment</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52853147"/>
+  </programme>
+  <programme start="20260504212200 +0000" stop="20260504221600 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Spartacus - Saison 2</title>
+    <desc lang="fr">Episode 8 : Vengeance : Equilibre</desc>
+  </programme>
+  <programme start="20260504221600 +0000" stop="20260505000700 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Gunman</title>
+    <desc lang="fr">Film Action</desc>
+  </programme>
+  <programme start="20260505000700 +0000" stop="20260505004700 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Chicago Fire - Saison 4</title>
+    <desc lang="fr">Episode 22 : Une minute de trop</desc>
+  </programme>
+  <programme start="20260505004700 +0000" stop="20260505012800 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Chicago Fire - Saison 4</title>
+    <desc lang="fr">Episode 23 : Le plus grand sacri...</desc>
+  </programme>
+  <programme start="20260505012800 +0000" stop="20260505022800 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Le sommet - Saison 1</title>
+    <desc lang="fr">Episode 3 : Snakes and Ladders</desc>
+  </programme>
+  <programme start="20260505022800 +0000" stop="20260505031500 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Le sommet - Saison 1</title>
+    <desc lang="fr">Episode 4 : An Unexpected Storm</desc>
+  </programme>
+  <programme start="20260505031500 +0000" stop="20260505050000 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+  </programme>
+  <programme start="20260505050000 +0000" stop="20260505063100 +0000" channel="CANAL+ACTION.ci">
+    <title lang="fr">Hounds of War</title>
+    <desc lang="fr">Téléfilm Action</desc>
+  </programme>
   <channel id="CANAL+FAMILY.ci">
     <display-name>CANAL+ FAMILY OUEST</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180403/canal-ouah/CHN43FB/CANALFAMILY_640x480-Copie-bGbx"/>
   </channel>
-  <programme start="20260426063600 +0000" stop="20260426064300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 16 : Les visiteurs</desc>
-  </programme>
-  <programme start="20260426064300 +0000" stop="20260426065600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 9 : Une star nommée Grompf</desc>
-  </programme>
-  <programme start="20260426065600 +0000" stop="20260426071100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 19 : La quête du pouvoir</desc>
-  </programme>
-  <programme start="20260426071100 +0000" stop="20260426085700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Nanny McPhee et le Big Bang</title>
-    <desc lang="fr">Film Fantastique</desc>
-  </programme>
-  <programme start="20260426085700 +0000" stop="20260426101500 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Extra : Allan, Britney et le vaisseau spatial</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426101500 +0000" stop="20260426102700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 38 : La journée de l'ami...</desc>
-  </programme>
-  <programme start="20260426102700 +0000" stop="20260426103800 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 39 : L'anniversaire surp...</desc>
-  </programme>
-  <programme start="20260426103800 +0000" stop="20260426104900 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 40 : La course d'aérocyc...</desc>
-  </programme>
-  <programme start="20260426104900 +0000" stop="20260426105600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 17 : Le maître de l'obsc...</desc>
-  </programme>
-  <programme start="20260426105600 +0000" stop="20260426110300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 18 : Echec et mat</desc>
-  </programme>
-  <programme start="20260426110300 +0000" stop="20260426111600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 10 : A fond le Grompf</desc>
-  </programme>
-  <programme start="20260426111600 +0000" stop="20260426112800 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 20 : Vendredi saint</desc>
-  </programme>
-  <programme start="20260426112800 +0000" stop="20260426115000 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 9 : La grande pestilence</desc>
-  </programme>
-  <programme start="20260426115000 +0000" stop="20260426121300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 10 : Danse avec un dingo</desc>
-  </programme>
-  <programme start="20260426121300 +0000" stop="20260426122400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 21 : La gouvernante</desc>
-  </programme>
-  <programme start="20260426122400 +0000" stop="20260426123500 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 22 : Le choix de Kourouma</desc>
-  </programme>
-  <programme start="20260426123500 +0000" stop="20260426124000 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 9 : Les travaux domestiq...</desc>
-  </programme>
-  <programme start="20260426124000 +0000" stop="20260426124600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 10 : Le Covid 19</desc>
-  </programme>
-  <programme start="20260426124600 +0000" stop="20260426125700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 35 : La fin de l'été</desc>
-  </programme>
-  <programme start="20260426125700 +0000" stop="20260426130900 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 36 : Chimère en surchauffe</desc>
-  </programme>
-  <programme start="20260426130900 +0000" stop="20260426131600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 5 : Une petite fille tro...</desc>
-  </programme>
-  <programme start="20260426131600 +0000" stop="20260426142000 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Samory</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426142000 +0000" stop="20260426144300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les nouvelles aventures de Lucky Luke - Saison 1</title>
-    <desc lang="fr">Episode 25 : Don Quichotte Del T...</desc>
-  </programme>
-  <programme start="20260426144300 +0000" stop="20260426145700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Contes d'Afrique - Saison 1</title>
-    <desc lang="fr">Episode 1 : Pourquoi la hyène a ...</desc>
-  </programme>
-  <programme start="20260426145700 +0000" stop="20260426150000 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les Souayés - Saison 1</title>
-    <desc lang="fr">Episode 5 : Forêt classée. Intru...</desc>
-  </programme>
-  <programme start="20260426150000 +0000" stop="20260426151200 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 1</title>
-    <desc lang="fr">Episode 52 : Les mines d'or de G...</desc>
-  </programme>
-  <programme start="20260426151200 +0000" stop="20260426152300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 41 : Le totem de la vérité</desc>
-  </programme>
-  <programme start="20260426152300 +0000" stop="20260426153400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 42 : Le crapaud qui sait...</desc>
-  </programme>
-  <programme start="20260426153400 +0000" stop="20260426154600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 43 : Coup de froid sur c...</desc>
-  </programme>
-  <programme start="20260426154600 +0000" stop="20260426154900 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Sankofa</title>
-    <desc lang="fr">Episode 1 : Princesse Yenega</desc>
-  </programme>
-  <programme start="20260426154900 +0000" stop="20260426155100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Sankofa</title>
-    <desc lang="fr">Episode 2 : Mansa Musa (Mali emp...</desc>
-  </programme>
-  <programme start="20260426155100 +0000" stop="20260426155800 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 19 : Une infiltration pr...</desc>
-  </programme>
-  <programme start="20260426155800 +0000" stop="20260426160500 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 20 : La possession</desc>
-  </programme>
-  <programme start="20260426160500 +0000" stop="20260426161200 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 21 : Bismuth 218</desc>
-  </programme>
-  <programme start="20260426161200 +0000" stop="20260426162400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 11 : Qui a peur du Gromp...</desc>
-  </programme>
-  <programme start="20260426162400 +0000" stop="20260426163700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 12 : Grompf perd la bous...</desc>
-  </programme>
-  <programme start="20260426163700 +0000" stop="20260426165100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 21 : Le départ de la gra...</desc>
-  </programme>
-  <programme start="20260426165100 +0000" stop="20260426170200 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 22 : Le sixième sens</desc>
-  </programme>
-  <programme start="20260426170200 +0000" stop="20260426172400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 11 : Oublie-moi</desc>
-  </programme>
-  <programme start="20260426172400 +0000" stop="20260426174600 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 12 : Dans la grotte infi...</desc>
-  </programme>
-  <programme start="20260426174600 +0000" stop="20260426175700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 23 : L'enlèvement de Sog...</desc>
-  </programme>
-  <programme start="20260426175700 +0000" stop="20260426180800 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 24 : Mokta, général du T...</desc>
-  </programme>
-  <programme start="20260426180800 +0000" stop="20260426181400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 11 : La vaisselle aux fi...</desc>
-  </programme>
-  <programme start="20260426181400 +0000" stop="20260426182200 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 12 : Tonton Mabea</desc>
-  </programme>
-  <programme start="20260426182200 +0000" stop="20260426183300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 37 : Lula bulle</desc>
-  </programme>
-  <programme start="20260426183300 +0000" stop="20260426184400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 38 : Le secret de carabe...</desc>
-  </programme>
-  <programme start="20260426184400 +0000" stop="20260426184900 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 2 : Le Prince et le pois...</desc>
-  </programme>
-  <programme start="20260426184900 +0000" stop="20260426185300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 6 : L'histoire du lionce...</desc>
-  </programme>
-  <programme start="20260426185300 +0000" stop="20260426185700 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 7 : Le bon gros arbre et...</desc>
-  </programme>
-  <programme start="20260426185700 +0000" stop="20260426190300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 8 : Le lion et le Roi</desc>
-  </programme>
-  <programme start="20260426190300 +0000" stop="20260426203100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Mystère à Saint-Tropez : une enquête de l'inspecteur Boulin</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
-  <programme start="20260426203100 +0000" stop="20260426212400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Royaumes d'Asie - Saison 1</title>
-    <desc lang="fr">Episode 7 : Préparer l'avenir</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/121861248"/>
-  </programme>
-  <programme start="20260426212400 +0000" stop="20260426221100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Conte-moi la Zambie - Saison 1</title>
-    <desc lang="fr">Episode 1 : La vallée des élépha...</desc>
-  </programme>
-  <programme start="20260426221100 +0000" stop="20260426233000 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Iqbal, l'enfant qui n'avait pas peur</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426233000 +0000" stop="20260427013000 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Ni repris ni échangé</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
-  <programme start="20260427013000 +0000" stop="20260427050100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Fin des programmes</title>
-    <desc lang="fr">Divers</desc>
-  </programme>
-  <programme start="20260427050100 +0000" stop="20260427050300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les amis de Boubi - Saison 1</title>
-    <desc lang="fr">Episode 1 : La chanson des poux</desc>
-  </programme>
-  <programme start="20260427050300 +0000" stop="20260427051500 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Sally Bollywood - Saison 1</title>
-    <desc lang="fr">Episode 36 : L'étrange mademoise...</desc>
-  </programme>
-  <programme start="20260427051500 +0000" stop="20260427052800 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Kassa le messager - Saison 1</title>
-    <desc lang="fr">Episode 17 (2/2) : Kassa en Ango...</desc>
-  </programme>
-  <programme start="20260427052800 +0000" stop="20260427054100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Kassa le messager - Saison 1</title>
-    <desc lang="fr">Episode 18 (1/2) : Kassa au Maro...</desc>
-  </programme>
-  <programme start="20260427054100 +0000" stop="20260427060400 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Madagascar : la savane en délire - Saison 2</title>
-    <desc lang="fr">Episode 2 : Melman sapeur-pompier</desc>
-  </programme>
   <programme start="20260427060400 +0000" stop="20260427062600 +0000" channel="CANAL+FAMILY.ci">
     <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
     <desc lang="fr">Episode 15 : La chance</desc>
@@ -3170,7 +2953,7 @@
     <desc lang="fr">Episode 14 : Alex et le mastodonte</desc>
   </programme>
   <programme start="20260430173100 +0000" stop="20260430175300 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 2</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
     <desc lang="fr">Episode 5 : Toujours prêts</desc>
   </programme>
   <programme start="20260430175300 +0000" stop="20260430180600 +0000" channel="CANAL+FAMILY.ci">
@@ -3319,7 +3102,7 @@
     <desc lang="fr">Episode 2 : Secret de famille</desc>
   </programme>
   <programme start="20260501133900 +0000" stop="20260501140200 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 2</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
     <desc lang="fr">Episode 5 : Toujours prêts</desc>
   </programme>
   <programme start="20260501140200 +0000" stop="20260501141500 +0000" channel="CANAL+FAMILY.ci">
@@ -3371,7 +3154,7 @@
     <desc lang="fr">Episode 15 : Lucia on t'aime !</desc>
   </programme>
   <programme start="20260501172900 +0000" stop="20260501175100 +0000" channel="CANAL+FAMILY.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
     <desc lang="fr">Episode 21 : Sortilèges</desc>
   </programme>
   <programme start="20260501175100 +0000" stop="20260501180400 +0000" channel="CANAL+FAMILY.ci">
@@ -3865,115 +3648,215 @@
     <title lang="fr">Kassa le messager - Saison 2</title>
     <desc lang="fr">Episode 2 : Secret de famille</desc>
   </programme>
+  <programme start="20260504060800 +0000" stop="20260504063000 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 14 : Alex et le mastodonte</desc>
+  </programme>
+  <programme start="20260504063000 +0000" stop="20260504065200 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
+    <desc lang="fr">Episode 5 : Toujours prêts</desc>
+  </programme>
+  <programme start="20260504065200 +0000" stop="20260504070500 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 14 : C'est bon de changer</desc>
+  </programme>
+  <programme start="20260504070500 +0000" stop="20260504071700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les rebelles de la forêt, la série - Saison 1</title>
+    <desc lang="fr">Episode 3 : La sagesse des rats-...</desc>
+  </programme>
+  <programme start="20260504071700 +0000" stop="20260504072200 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 17 : L'abominable crime ...</desc>
+  </programme>
+  <programme start="20260504072200 +0000" stop="20260504072900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 18 : La queue de l'âne</desc>
+  </programme>
+  <programme start="20260504072900 +0000" stop="20260504085000 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Mission Yéti</title>
+    <desc lang="fr">Film Animation</desc>
+  </programme>
+  <programme start="20260504085000 +0000" stop="20260504090100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 3 : Le jus de licorne</desc>
+  </programme>
+  <programme start="20260504090100 +0000" stop="20260504091100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 4 : Roule ma poule !</desc>
+  </programme>
+  <programme start="20260504091100 +0000" stop="20260504092200 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 5 : Le nid à microbes</desc>
+  </programme>
+  <programme start="20260504092200 +0000" stop="20260504105300 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Mon ami le petit manchot</title>
+    <desc lang="fr">Film Aventure</desc>
+  </programme>
+  <programme start="20260504105300 +0000" stop="20260504123000 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Crise de mères</title>
+    <desc lang="fr">Film Comédie</desc>
+  </programme>
+  <programme start="20260504123000 +0000" stop="20260504124100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Sally Bollywood - Saison 1</title>
+    <desc lang="fr">Episode 42 : La boum de Cassie</desc>
+  </programme>
+  <programme start="20260504124100 +0000" stop="20260504125500 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 3 : Les écorces</desc>
+  </programme>
+  <programme start="20260504125500 +0000" stop="20260504130600 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 4 : La sève</desc>
+  </programme>
+  <programme start="20260504130600 +0000" stop="20260504131900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 3 : Gare aux abeilles</desc>
+  </programme>
+  <programme start="20260504131900 +0000" stop="20260504133100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 4 : Kassa au Mali</desc>
+  </programme>
+  <programme start="20260504133100 +0000" stop="20260504135300 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 15 : Lucia on t'aime !</desc>
+  </programme>
+  <programme start="20260504135300 +0000" stop="20260504141700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
+    <desc lang="fr">Episode 21 : Sortilèges</desc>
+  </programme>
+  <programme start="20260504141700 +0000" stop="20260504150900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Merveilles de la nature - Saison 1</title>
+    <desc lang="fr">Episode 13 : Grand Canyon, un hé...</desc>
+  </programme>
+  <programme start="20260504150900 +0000" stop="20260504155600 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-moi la Zambie - Saison 1</title>
+    <desc lang="fr">Episode 2 : Les poids lourds de ...</desc>
+  </programme>
+  <programme start="20260504155600 +0000" stop="20260504160000 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 12 : Sur le pont d'Avignon</desc>
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504160100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 13 : Politesse et bonnes...</desc>
+  </programme>
+  <programme start="20260504160100 +0000" stop="20260504160400 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 14 : Le bon roi Dagobert</desc>
+  </programme>
+  <programme start="20260504160400 +0000" stop="20260504160600 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 15 : Brossons-nous les c...</desc>
+  </programme>
+  <programme start="20260504160600 +0000" stop="20260504161800 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Sally Bollywood - Saison 1</title>
+    <desc lang="fr">Episode 44 : Appelez mon avocat</desc>
+  </programme>
+  <programme start="20260504161800 +0000" stop="20260504162900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 5 : Le monde des ténèbres</desc>
+  </programme>
+  <programme start="20260504162900 +0000" stop="20260504164300 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 6 : L'eau</desc>
+  </programme>
+  <programme start="20260504164300 +0000" stop="20260504165700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 5 : Kassa au Cameroun</desc>
+  </programme>
+  <programme start="20260504165700 +0000" stop="20260504170600 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 6 : Kassa en Guinée</desc>
+  </programme>
+  <programme start="20260504170600 +0000" stop="20260504172900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 16 : Mission : Réveil po...</desc>
+  </programme>
+  <programme start="20260504172900 +0000" stop="20260504175100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
+    <desc lang="fr">Episode 22 : Le cimeterre</desc>
+  </programme>
+  <programme start="20260504175100 +0000" stop="20260504180400 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 17 : La vie sauvage</desc>
+  </programme>
+  <programme start="20260504180400 +0000" stop="20260504181700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 18 : Le garçon des bois</desc>
+  </programme>
+  <programme start="20260504181700 +0000" stop="20260504182900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les rebelles de la forêt, la série - Saison 1</title>
+    <desc lang="fr">Episode 5 : Garde à vous !</desc>
+  </programme>
+  <programme start="20260504182900 +0000" stop="20260504183400 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 22 : À la recherche du b...</desc>
+  </programme>
+  <programme start="20260504183400 +0000" stop="20260504183700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 23 : Les animaux qui vou...</desc>
+  </programme>
+  <programme start="20260504183700 +0000" stop="20260504184500 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 24 : L'incendie</desc>
+  </programme>
+  <programme start="20260504184500 +0000" stop="20260504195700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Les chiens à l'Opéra</title>
+    <desc lang="fr">Film Animation</desc>
+  </programme>
+  <programme start="20260504195700 +0000" stop="20260504200700 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 6 : Merlin Frit</desc>
+  </programme>
+  <programme start="20260504200700 +0000" stop="20260504201800 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 7 : Le 7ème</desc>
+  </programme>
+  <programme start="20260504201800 +0000" stop="20260504203000 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 8 : Le 8ème</desc>
+  </programme>
+  <programme start="20260504203000 +0000" stop="20260504220400 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Le mystère du livre sacré</title>
+    <desc lang="fr">Téléfilm Aventure</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/23186162/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x108016-tSZc"/>
+  </programme>
+  <programme start="20260504220400 +0000" stop="20260504225600 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Royaumes d'Asie - Saison 1</title>
+    <desc lang="fr">Episode 7 : Préparer l'avenir</desc>
+  </programme>
+  <programme start="20260504225600 +0000" stop="20260504234300 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Conte-moi la Zambie - Saison 1</title>
+    <desc lang="fr">Episode 1 : La vallée des élépha...</desc>
+  </programme>
+  <programme start="20260504234300 +0000" stop="20260505050100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Wicked</title>
+    <desc lang="fr">Film Comédie musicale</desc>
+  </programme>
+  <programme start="20260505050100 +0000" stop="20260505051400 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 3 : Les écorces</desc>
+  </programme>
+  <programme start="20260505051400 +0000" stop="20260505052600 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 4 : La sève</desc>
+  </programme>
+  <programme start="20260505052600 +0000" stop="20260505053900 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 3 : Gare aux abeilles</desc>
+  </programme>
+  <programme start="20260505053900 +0000" stop="20260505055100 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 4 : Kassa au Mali</desc>
+  </programme>
+  <programme start="20260505055100 +0000" stop="20260505061300 +0000" channel="CANAL+FAMILY.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 15 : Lucia on t'aime !</desc>
+  </programme>
   <channel id="CANAL+PREMIERE.ci">
     <display-name>CANAL+ PREMIERE OUEST</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180018/canal-ouah/CHN43FB/CANALPREMIERE_640x480-Copie-YBjd"/>
   </channel>
-  <programme start="20260426062500 +0000" stop="20260426070700 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Elsbeth - Saison 2</title>
-    <desc lang="fr">Episode 13 : Larme du crime</desc>
-  </programme>
-  <programme start="20260426070700 +0000" stop="20260426075000 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Elsbeth - Saison 2</title>
-    <desc lang="fr">Episode 14 : C'est pas du cinéma !</desc>
-  </programme>
-  <programme start="20260426075000 +0000" stop="20260426092500 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">On ira</title>
-    <desc lang="fr">Film Comédie dramatique</desc>
-  </programme>
-  <programme start="20260426092500 +0000" stop="20260426113800 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Je suis toujours là</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260426113800 +0000" stop="20260426122100 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Dr Amy - Saison 2</title>
-    <desc lang="fr">Episode 1 : TOUT POUR ELLE</desc>
-  </programme>
-  <programme start="20260426122100 +0000" stop="20260426130600 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Dr Amy - Saison 2</title>
-    <desc lang="fr">Episode 2 : UNE NOUVELLE PIECE A...</desc>
-  </programme>
-  <programme start="20260426130600 +0000" stop="20260426131700 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">L'hebd'Hollywood</title>
-    <desc lang="fr">Michael Jackson, Olivia Wilde et...</desc>
-  </programme>
-  <programme start="20260426131700 +0000" stop="20260426135100 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">En aparté</title>
-    <desc lang="fr">Best of</desc>
-  </programme>
-  <programme start="20260426135100 +0000" stop="20260426145100 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Le combat de la black music - Saison 1</title>
-    <desc lang="fr">Episode 1 : A qui profite la bla...</desc>
-  </programme>
-  <programme start="20260426145100 +0000" stop="20260426152400 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Hot Ones</title>
-    <desc lang="fr">Miki, ça pik pik fort quand même</desc>
-  </programme>
-  <programme start="20260426152400 +0000" stop="20260426162200 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">L'affaire Moloch - Saison 1</title>
-    <desc lang="fr">Episode 1 : Acton Bell</desc>
-  </programme>
-  <programme start="20260426162200 +0000" stop="20260426173400 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">L'affaire Moloch - Saison 1</title>
-    <desc lang="fr">Episode 2 : Conscience coupable</desc>
-  </programme>
-  <programme start="20260426173400 +0000" stop="20260426185000 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">L'affaire Moloch - Saison 1</title>
-    <desc lang="fr">Episode 3 : Cercle vicieux</desc>
-  </programme>
-  <programme start="20260426185000 +0000" stop="20260426203200 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Avignon</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
-  <programme start="20260426203200 +0000" stop="20260426213200 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Le village des champions</title>
-    <desc lang="fr">Doc. Sport</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/31055433/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-dT4F"/>
-  </programme>
-  <programme start="20260426213200 +0000" stop="20260426222500 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Toutoune, pour l'amour du sport et de la Guadeloupe</title>
-    <desc lang="fr">Documentaire - Sport</desc>
-  </programme>
-  <programme start="20260426222500 +0000" stop="20260426230700 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Dr Amy - Saison 2</title>
-    <desc lang="fr">Episode 3 : Mon corps, mes choix</desc>
-  </programme>
-  <programme start="20260426230700 +0000" stop="20260426234800 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Dr Amy - Saison 2</title>
-    <desc lang="fr">Episode 4 : La personne de confi...</desc>
-  </programme>
-  <programme start="20260426234800 +0000" stop="20260427004800 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Un prophète - Saison 1</title>
-    <desc lang="fr">Episode 7</desc>
-  </programme>
-  <programme start="20260427004800 +0000" stop="20260427022100 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Le Mohican</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260427022100 +0000" stop="20260427024800 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Farenghia</title>
-    <desc lang="fr">Film Court métrage</desc>
-  </programme>
-  <programme start="20260427024800 +0000" stop="20260427050000 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Leurs enfants après eux</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260427050000 +0000" stop="20260427050500 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">La boîte à questions</title>
-    <desc lang="fr">Anja Verderosa &amp; Félix Lefebvre ...</desc>
-  </programme>
-  <programme start="20260427050500 +0000" stop="20260427052600 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Un petit Clique en +</title>
-    <desc lang="fr">Wedding Nightmare 2 avec Sarah M...</desc>
-  </programme>
-  <programme start="20260427052600 +0000" stop="20260427054700 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Un petit Clique en +</title>
-    <desc lang="fr">Red Hot Chili Peppers, The Studi...</desc>
-  </programme>
-  <programme start="20260427054700 +0000" stop="20260427060200 +0000" channel="CANAL+PREMIERE.ci">
-    <title lang="fr">Eden</title>
-    <desc lang="fr">La Collection ON S'ADAPTE</desc>
-  </programme>
   <programme start="20260427060200 +0000" stop="20260427073600 +0000" channel="CANAL+PREMIERE.ci">
     <title lang="fr">One of Them Days</title>
     <desc lang="fr">Film Comédie</desc>
@@ -4683,7 +4566,7 @@
   </programme>
   <programme start="20260503212600 +0000" stop="20260503221900 +0000" channel="CANAL+PREMIERE.ci">
     <title lang="fr">Ouganda, les chiens de l'espoir</title>
-    <desc lang="fr">Episode 1</desc>
+    <desc lang="fr">Doc. Animalier</desc>
   </programme>
   <programme start="20260503221900 +0000" stop="20260503230000 +0000" channel="CANAL+PREMIERE.ci">
     <title lang="fr">Dr Amy - Saison 2</title>
@@ -4725,75 +4608,115 @@
     <title lang="fr">De mauvaise foi</title>
     <desc lang="fr">Film Comédie</desc>
   </programme>
+  <programme start="20260504073100 +0000" stop="20260504081300 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Dr Amy - Saison 2</title>
+    <desc lang="fr">Episode 3 : Mon corps, mes choix</desc>
+  </programme>
+  <programme start="20260504081300 +0000" stop="20260504085300 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Dr Amy - Saison 2</title>
+    <desc lang="fr">Episode 4 : La personne de confi...</desc>
+  </programme>
+  <programme start="20260504085300 +0000" stop="20260504095100 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">L'affaire Moloch - Saison 1</title>
+    <desc lang="fr">Episode 1 : Acton Bell</desc>
+  </programme>
+  <programme start="20260504095100 +0000" stop="20260504110200 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">L'affaire Moloch - Saison 1</title>
+    <desc lang="fr">Episode 2 : Conscience coupable</desc>
+  </programme>
+  <programme start="20260504110200 +0000" stop="20260504122100 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">L'affaire Moloch - Saison 1</title>
+    <desc lang="fr">Episode 3 : Cercle vicieux</desc>
+  </programme>
+  <programme start="20260504122100 +0000" stop="20260504122500 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">La boîte à questions</title>
+    <desc lang="fr">Best of</desc>
+  </programme>
+  <programme start="20260504122500 +0000" stop="20260504123900 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Têtàtête(s)</title>
+    <desc lang="fr">Guillaume Marbeck incarne Jean-L...</desc>
+  </programme>
+  <programme start="20260504123900 +0000" stop="20260504131100 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">En aparté</title>
+    <desc lang="fr">Best of</desc>
+  </programme>
+  <programme start="20260504131100 +0000" stop="20260504135500 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Super plan</title>
+    <desc lang="fr">Samir Guesmi (“Dao”) ; Josiane B...</desc>
+  </programme>
+  <programme start="20260504135500 +0000" stop="20260504143600 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Elsbeth - Saison 2</title>
+    <desc lang="fr">Episode 15 : Je vois... Je vois...</desc>
+  </programme>
+  <programme start="20260504143600 +0000" stop="20260504151400 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Elsbeth - Saison 2</title>
+    <desc lang="fr">Episode 16 : Piège en eaux troup...</desc>
+  </programme>
+  <programme start="20260504151400 +0000" stop="20260504173700 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Furiosa : Une saga Mad Max</title>
+    <desc lang="fr">Film Action</desc>
+  </programme>
+  <programme start="20260504173700 +0000" stop="20260504190000 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Magma</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260504190000 +0000" stop="20260504190400 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">La boîte à questions</title>
+    <desc lang="fr">LA BOITE À QUESTIONS</desc>
+  </programme>
+  <programme start="20260504190400 +0000" stop="20260504195800 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Clique</title>
+    <desc lang="fr">Jérémy Medjana, Bouna Ndiaye, Mo...</desc>
+  </programme>
+  <programme start="20260504195800 +0000" stop="20260504203000 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">En aparté</title>
+    <desc lang="fr">Sylvie Vartan</desc>
+  </programme>
+  <programme start="20260504203000 +0000" stop="20260504212600 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Paris Police 1910 - Saison 1</title>
+    <desc lang="fr">Episode 3</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/123527627"/>
+  </programme>
+  <programme start="20260504212600 +0000" stop="20260504222400 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Le village des champions</title>
+    <desc lang="fr">Doc. Sport</desc>
+  </programme>
+  <programme start="20260504222400 +0000" stop="20260505010100 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Une bataille après l'autre</title>
+    <desc lang="fr">Film Suspense</desc>
+  </programme>
+  <programme start="20260505010100 +0000" stop="20260505024300 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Drop Game</title>
+    <desc lang="fr">Film Suspense</desc>
+  </programme>
+  <programme start="20260505024300 +0000" stop="20260505033600 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Moochie : qui a tué Jill Halliburton ? - Saison 1</title>
+    <desc lang="fr">Episode 1</desc>
+  </programme>
+  <programme start="20260505033600 +0000" stop="20260505041700 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Elsbeth - Saison 2</title>
+    <desc lang="fr">Episode 13 : Larme du crime</desc>
+  </programme>
+  <programme start="20260505041700 +0000" stop="20260505050100 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Elsbeth - Saison 2</title>
+    <desc lang="fr">Episode 14 : C'est pas du cinéma !</desc>
+  </programme>
+  <programme start="20260505050100 +0000" stop="20260505054300 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Super plan</title>
+    <desc lang="fr">Samir Guesmi (“Dao”) ; Josiane B...</desc>
+  </programme>
+  <programme start="20260505054300 +0000" stop="20260505055900 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Têtàtête(s)</title>
+    <desc lang="fr">Guillaume Marbeck incarne Jean-L...</desc>
+  </programme>
+  <programme start="20260505055900 +0000" stop="20260505084200 +0000" channel="CANAL+PREMIERE.ci">
+    <title lang="fr">Mission : Impossible - The Final Reckoning</title>
+    <desc lang="fr">Film Action</desc>
+  </programme>
   <channel id="CANAL+CINEMA.ci">
     <display-name>CANAL+ CINEMA OUEST</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180016/canal-ouah/CHN43FB/CANALCINEMA_640x480-Copie-VihO"/>
   </channel>
-  <programme start="20260426060800 +0000" stop="20260426074200 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Burn After Reading</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
-  <programme start="20260426074200 +0000" stop="20260426091800 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Police</title>
-    <desc lang="fr">Film Policier</desc>
-  </programme>
-  <programme start="20260426091800 +0000" stop="20260426105600 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Le Dernier souffle</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260426105600 +0000" stop="20260426113900 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Super plan</title>
-    <desc lang="fr">Philippe Croizon et Marie-Castil...</desc>
-  </programme>
-  <programme start="20260426113900 +0000" stop="20260426133000 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Les Enfants de Gaza</title>
-    <desc lang="fr">Film Drame</desc>
-  </programme>
-  <programme start="20260426133000 +0000" stop="20260426134400 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">L'hebd'Hollywood</title>
-    <desc lang="fr">Super Mario Galaxy triomphe, Gor...</desc>
-  </programme>
-  <programme start="20260426134400 +0000" stop="20260426155100 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Godzilla II : roi des monstres</title>
-    <desc lang="fr">Film Science-fiction</desc>
-  </programme>
-  <programme start="20260426155100 +0000" stop="20260426173300 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Transformers : Le commencement</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426173300 +0000" stop="20260426190900 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Cleaner</title>
-    <desc lang="fr">Film Action</desc>
-  </programme>
-  <programme start="20260426190900 +0000" stop="20260426203000 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Jusqu'au bout de ses rêves</title>
-    <desc lang="fr">Film Drame</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/23461379/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-eSCo"/>
-  </programme>
-  <programme start="20260426203000 +0000" stop="20260426224700 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Sinners</title>
-    <desc lang="fr">Film Horreur</desc>
-  </programme>
-  <programme start="20260426224700 +0000" stop="20260427002300 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Dangerous Animals</title>
-    <desc lang="fr">Film Horreur</desc>
-  </programme>
-  <programme start="20260427002300 +0000" stop="20260427010500 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Super plan</title>
-    <desc lang="fr">Gérard Jugnot (« Mauvaise Pioche...</desc>
-  </programme>
-  <programme start="20260427010500 +0000" stop="20260427031000 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">L'écume des jours</title>
-    <desc lang="fr">Film Comédie dramatique</desc>
-  </programme>
-  <programme start="20260427031000 +0000" stop="20260427050100 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">Fin des programmes</title>
-    <desc lang="fr">Divers</desc>
-  </programme>
-  <programme start="20260427050100 +0000" stop="20260427064500 +0000" channel="CANAL+CINEMA.ci">
-    <title lang="fr">O'Brother</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
   <programme start="20260427064500 +0000" stop="20260427072700 +0000" channel="CANAL+CINEMA.ci">
     <title lang="fr">Super plan</title>
     <desc lang="fr">Philippe Croizon et Marie-Castil...</desc>
@@ -5233,259 +5156,79 @@
     <title lang="fr">Burn After Reading</title>
     <desc lang="fr">Film Comédie</desc>
   </programme>
+  <programme start="20260504063400 +0000" stop="20260504071400 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Super plan</title>
+    <desc lang="fr">Samir Guesmi (“Dao”) ; Josiane B...</desc>
+  </programme>
+  <programme start="20260504071400 +0000" stop="20260504085000 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Police</title>
+    <desc lang="fr">Film Policier</desc>
+  </programme>
+  <programme start="20260504085000 +0000" stop="20260504103400 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Pris au piège - Caught Stealing</title>
+    <desc lang="fr">Film Suspense</desc>
+  </programme>
+  <programme start="20260504103400 +0000" stop="20260504104500 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">L'hebd'Hollywood</title>
+    <desc lang="fr">Michael Jackson, Olivia Wilde et...</desc>
+  </programme>
+  <programme start="20260504104500 +0000" stop="20260504113100 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Le cercle</title>
+    <desc lang="fr">Le Cercle décrypte Juste une ill...</desc>
+  </programme>
+  <programme start="20260504113100 +0000" stop="20260504130600 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Braquage pour une vie</title>
+    <desc lang="fr">Film Comédie</desc>
+  </programme>
+  <programme start="20260504130600 +0000" stop="20260504144300 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Le Dernier souffle</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260504144300 +0000" stop="20260504161600 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Ashkal, l'enquête de Tunis</title>
+    <desc lang="fr">Film Policier</desc>
+  </programme>
+  <programme start="20260504161600 +0000" stop="20260504173700 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Jusqu'au bout de ses rêves</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260504173700 +0000" stop="20260504183700 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">+ de courts</title>
+    <desc lang="fr">Emission du 12 avr. 2026</desc>
+  </programme>
+  <programme start="20260504183700 +0000" stop="20260504203000 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Dis-moi juste que tu m'aimes</title>
+    <desc lang="fr">Film Drame</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/27961817/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x1080-QtFX"/>
+  </programme>
+  <programme start="20260504203000 +0000" stop="20260504223400 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Evanouis</title>
+    <desc lang="fr">Film Horreur</desc>
+  </programme>
+  <programme start="20260504223400 +0000" stop="20260504235900 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Breaking in</title>
+    <desc lang="fr">Film Suspense</desc>
+  </programme>
+  <programme start="20260504235900 +0000" stop="20260505001200 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">L'hebd'Hollywood</title>
+    <desc lang="fr">Super Mario Galaxy triomphe, Gor...</desc>
+  </programme>
+  <programme start="20260505001200 +0000" stop="20260505020500 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Prima la vita</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
+  <programme start="20260505020500 +0000" stop="20260505050100 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Divers</desc>
+  </programme>
+  <programme start="20260505050100 +0000" stop="20260505063800 +0000" channel="CANAL+CINEMA.ci">
+    <title lang="fr">Le Dernier souffle</title>
+    <desc lang="fr">Film Drame</desc>
+  </programme>
   <channel id="CANAL+FAMILYCENTRE.ci">
     <display-name>CANAL+ FAMILY CENTRE</display-name>
     <icon src="https://thumb.canalplus.pro/http/unsafe/320x240/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180144/canal-ouah/CHN43FB/CANALFAMILY_640x480-Copie-h7xN"/>
   </channel>
-  <programme start="20260426061100 +0000" stop="20260426075700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Nanny McPhee et le Big Bang</title>
-    <desc lang="fr">Film Fantastique</desc>
-  </programme>
-  <programme start="20260426075700 +0000" stop="20260426091500 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Extra : Allan, Britney et le vaisseau spatial</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426091500 +0000" stop="20260426092700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 38 : La journée de l'ami...</desc>
-  </programme>
-  <programme start="20260426092700 +0000" stop="20260426093800 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 39 : L'anniversaire surp...</desc>
-  </programme>
-  <programme start="20260426093800 +0000" stop="20260426094900 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 40 : La course d'aérocyc...</desc>
-  </programme>
-  <programme start="20260426094900 +0000" stop="20260426095600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 17 : Le maître de l'obsc...</desc>
-  </programme>
-  <programme start="20260426095600 +0000" stop="20260426100300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 18 : Echec et mat</desc>
-  </programme>
-  <programme start="20260426100300 +0000" stop="20260426101600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 10 : A fond le Grompf</desc>
-  </programme>
-  <programme start="20260426101600 +0000" stop="20260426102800 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 20 : Vendredi saint</desc>
-  </programme>
-  <programme start="20260426102800 +0000" stop="20260426105000 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 9 : La grande pestilence</desc>
-  </programme>
-  <programme start="20260426105000 +0000" stop="20260426111300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 10 : Danse avec un dingo</desc>
-  </programme>
-  <programme start="20260426111300 +0000" stop="20260426112400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 21 : La gouvernante</desc>
-  </programme>
-  <programme start="20260426112400 +0000" stop="20260426113500 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 22 : Le choix de Kourouma</desc>
-  </programme>
-  <programme start="20260426113500 +0000" stop="20260426114000 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 9 : Les travaux domestiq...</desc>
-  </programme>
-  <programme start="20260426114000 +0000" stop="20260426114600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 10 : Le Covid 19</desc>
-  </programme>
-  <programme start="20260426114600 +0000" stop="20260426115700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 35 : La fin de l'été</desc>
-  </programme>
-  <programme start="20260426115700 +0000" stop="20260426120900 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 36 : Chimère en surchauffe</desc>
-  </programme>
-  <programme start="20260426120900 +0000" stop="20260426121600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 5 : Une petite fille tro...</desc>
-  </programme>
-  <programme start="20260426121600 +0000" stop="20260426132000 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Samory</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426132000 +0000" stop="20260426134300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les nouvelles aventures de Lucky Luke - Saison 1</title>
-    <desc lang="fr">Episode 25 : Don Quichotte Del T...</desc>
-  </programme>
-  <programme start="20260426134300 +0000" stop="20260426135700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Contes d'Afrique - Saison 1</title>
-    <desc lang="fr">Episode 1 : Pourquoi la hyène a ...</desc>
-  </programme>
-  <programme start="20260426135700 +0000" stop="20260426140000 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les Souayés - Saison 1</title>
-    <desc lang="fr">Episode 5 : Forêt classée. Intru...</desc>
-  </programme>
-  <programme start="20260426140000 +0000" stop="20260426141200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 1</title>
-    <desc lang="fr">Episode 52 : Les mines d'or de G...</desc>
-  </programme>
-  <programme start="20260426141200 +0000" stop="20260426142300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 41 : Le totem de la vérité</desc>
-  </programme>
-  <programme start="20260426142300 +0000" stop="20260426143400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 42 : Le crapaud qui sait...</desc>
-  </programme>
-  <programme start="20260426143400 +0000" stop="20260426144600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Babar : les aventures de Badou - Saison 2</title>
-    <desc lang="fr">Episode 43 : Coup de froid sur c...</desc>
-  </programme>
-  <programme start="20260426144600 +0000" stop="20260426144900 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Sankofa</title>
-    <desc lang="fr">Episode 1 : Princesse Yenega</desc>
-  </programme>
-  <programme start="20260426144900 +0000" stop="20260426145100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Sankofa</title>
-    <desc lang="fr">Episode 2 : Mansa Musa (Mali emp...</desc>
-  </programme>
-  <programme start="20260426145100 +0000" stop="20260426145800 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 19 : Une infiltration pr...</desc>
-  </programme>
-  <programme start="20260426145800 +0000" stop="20260426150500 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 20 : La possession</desc>
-  </programme>
-  <programme start="20260426150500 +0000" stop="20260426151200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">L'Agent Jean ! - Saison 1</title>
-    <desc lang="fr">Episode 21 : Bismuth 218</desc>
-  </programme>
-  <programme start="20260426151200 +0000" stop="20260426152400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 11 : Qui a peur du Gromp...</desc>
-  </programme>
-  <programme start="20260426152400 +0000" stop="20260426153700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Mon ami Grompf - Saison 1</title>
-    <desc lang="fr">Episode 12 : Grompf perd la bous...</desc>
-  </programme>
-  <programme start="20260426153700 +0000" stop="20260426155100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 21 : Le départ de la gra...</desc>
-  </programme>
-  <programme start="20260426155100 +0000" stop="20260426160200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">La petite Pokou - Saison 1</title>
-    <desc lang="fr">Episode 22 : Le sixième sens</desc>
-  </programme>
-  <programme start="20260426160200 +0000" stop="20260426162400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 11 : Oublie-moi</desc>
-  </programme>
-  <programme start="20260426162400 +0000" stop="20260426164600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 5</title>
-    <desc lang="fr">Episode 12 : Dans la grotte infi...</desc>
-  </programme>
-  <programme start="20260426164600 +0000" stop="20260426165700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 23 : L'enlèvement de Sog...</desc>
-  </programme>
-  <programme start="20260426165700 +0000" stop="20260426170800 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Roi Keïta - Saison 1</title>
-    <desc lang="fr">Episode 24 : Mokta, général du T...</desc>
-  </programme>
-  <programme start="20260426170800 +0000" stop="20260426171400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 11 : La vaisselle aux fi...</desc>
-  </programme>
-  <programme start="20260426171400 +0000" stop="20260426172200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Petit Kouadjo - Saison 1</title>
-    <desc lang="fr">Episode 12 : Tonton Mabea</desc>
-  </programme>
-  <programme start="20260426172200 +0000" stop="20260426173300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 37 : Lula bulle</desc>
-  </programme>
-  <programme start="20260426173300 +0000" stop="20260426174400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les gardes chimères - Saison 1</title>
-    <desc lang="fr">Episode 38 : Le secret de carabe...</desc>
-  </programme>
-  <programme start="20260426174400 +0000" stop="20260426174900 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 2 : Le Prince et le pois...</desc>
-  </programme>
-  <programme start="20260426174900 +0000" stop="20260426175300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 6 : L'histoire du lionce...</desc>
-  </programme>
-  <programme start="20260426175300 +0000" stop="20260426175700 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 7 : Le bon gros arbre et...</desc>
-  </programme>
-  <programme start="20260426175700 +0000" stop="20260426180300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Conte-nous ! - Saison 3</title>
-    <desc lang="fr">Episode 8 : Le lion et le Roi</desc>
-  </programme>
-  <programme start="20260426180300 +0000" stop="20260426193100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Mystère à Saint-Tropez : une enquête de l'inspecteur Boulin</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
-  <programme start="20260426193100 +0000" stop="20260426202400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Royaumes d'Asie - Saison 1</title>
-    <desc lang="fr">Episode 7 : Préparer l'avenir</desc>
-    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/121861248"/>
-  </programme>
-  <programme start="20260426202400 +0000" stop="20260426211100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Conte-moi la Zambie - Saison 1</title>
-    <desc lang="fr">Episode 1 : La vallée des élépha...</desc>
-  </programme>
-  <programme start="20260426211100 +0000" stop="20260426223000 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Iqbal, l'enfant qui n'avait pas peur</title>
-    <desc lang="fr">Film Animation</desc>
-  </programme>
-  <programme start="20260426223000 +0000" stop="20260427003000 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Ni repris ni échangé</title>
-    <desc lang="fr">Film Comédie</desc>
-  </programme>
-  <programme start="20260427003000 +0000" stop="20260427040100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Fin des programmes</title>
-    <desc lang="fr">Divers</desc>
-  </programme>
-  <programme start="20260427040100 +0000" stop="20260427040300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les amis de Boubi - Saison 1</title>
-    <desc lang="fr">Episode 1 : La chanson des poux</desc>
-  </programme>
-  <programme start="20260427040300 +0000" stop="20260427041500 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Sally Bollywood - Saison 1</title>
-    <desc lang="fr">Episode 36 : L'étrange mademoise...</desc>
-  </programme>
-  <programme start="20260427041500 +0000" stop="20260427042800 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Kassa le messager - Saison 1</title>
-    <desc lang="fr">Episode 17 (2/2) : Kassa en Ango...</desc>
-  </programme>
-  <programme start="20260427042800 +0000" stop="20260427044100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Kassa le messager - Saison 1</title>
-    <desc lang="fr">Episode 18 (1/2) : Kassa au Maro...</desc>
-  </programme>
-  <programme start="20260427044100 +0000" stop="20260427050400 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Madagascar : la savane en délire - Saison 2</title>
-    <desc lang="fr">Episode 2 : Melman sapeur-pompier</desc>
-  </programme>
-  <programme start="20260427050400 +0000" stop="20260427052600 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
-    <desc lang="fr">Episode 15 : La chance</desc>
-  </programme>
-  <programme start="20260427052600 +0000" stop="20260427053900 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
-    <desc lang="fr">Episode 3 : L'aventure commence</desc>
-  </programme>
-  <programme start="20260427053900 +0000" stop="20260427055200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
-    <desc lang="fr">Episode 4 : Hors piste</desc>
-  </programme>
-  <programme start="20260427055200 +0000" stop="20260427060500 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les histoires de monsieur K - Saison 1</title>
-    <desc lang="fr">Episode 1 : La rencontre</desc>
-  </programme>
   <programme start="20260427060500 +0000" stop="20260427061900 +0000" channel="CANAL+FAMILYCENTRE.ci">
     <title lang="fr">Les histoires de monsieur K - Saison 1</title>
     <desc lang="fr">Episode 2 : Pavarototo entre en ...</desc>
@@ -6230,7 +5973,7 @@
     <desc lang="fr">Episode 14 : Alex et le mastodonte</desc>
   </programme>
   <programme start="20260430163100 +0000" stop="20260430165300 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 2</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
     <desc lang="fr">Episode 5 : Toujours prêts</desc>
   </programme>
   <programme start="20260430165300 +0000" stop="20260430170600 +0000" channel="CANAL+FAMILYCENTRE.ci">
@@ -6379,7 +6122,7 @@
     <desc lang="fr">Episode 2 : Secret de famille</desc>
   </programme>
   <programme start="20260501123900 +0000" stop="20260501130200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 2</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
     <desc lang="fr">Episode 5 : Toujours prêts</desc>
   </programme>
   <programme start="20260501130200 +0000" stop="20260501131500 +0000" channel="CANAL+FAMILYCENTRE.ci">
@@ -6431,7 +6174,7 @@
     <desc lang="fr">Episode 15 : Lucia on t'aime !</desc>
   </programme>
   <programme start="20260501162900 +0000" stop="20260501165100 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
     <desc lang="fr">Episode 21 : Sortilèges</desc>
   </programme>
   <programme start="20260501165100 +0000" stop="20260501170400 +0000" channel="CANAL+FAMILYCENTRE.ci">
@@ -6930,11 +6673,216 @@
     <desc lang="fr">Episode 14 : Alex et le mastodonte</desc>
   </programme>
   <programme start="20260504053000 +0000" stop="20260504055200 +0000" channel="CANAL+FAMILYCENTRE.ci">
-    <title lang="fr">Les aventures du Chat Potté - Saison 2</title>
+    <title lang="fr">Les aventures du Chat Potté - Saison 3</title>
     <desc lang="fr">Episode 5 : Toujours prêts</desc>
   </programme>
   <programme start="20260504055200 +0000" stop="20260504060500 +0000" channel="CANAL+FAMILYCENTRE.ci">
     <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
     <desc lang="fr">Episode 14 : C'est bon de changer</desc>
+  </programme>
+  <programme start="20260504060500 +0000" stop="20260504061700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les rebelles de la forêt, la série - Saison 1</title>
+    <desc lang="fr">Episode 3 : La sagesse des rats-...</desc>
+  </programme>
+  <programme start="20260504061700 +0000" stop="20260504062200 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 17 : L'abominable crime ...</desc>
+  </programme>
+  <programme start="20260504062200 +0000" stop="20260504062900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 18 : La queue de l'âne</desc>
+  </programme>
+  <programme start="20260504062900 +0000" stop="20260504075000 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Mission Yéti</title>
+    <desc lang="fr">Film Animation</desc>
+  </programme>
+  <programme start="20260504075000 +0000" stop="20260504080100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 3 : Le jus de licorne</desc>
+  </programme>
+  <programme start="20260504080100 +0000" stop="20260504081100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 4 : Roule ma poule !</desc>
+  </programme>
+  <programme start="20260504081100 +0000" stop="20260504082200 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 5 : Le nid à microbes</desc>
+  </programme>
+  <programme start="20260504082200 +0000" stop="20260504095300 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Mon ami le petit manchot</title>
+    <desc lang="fr">Film Aventure</desc>
+  </programme>
+  <programme start="20260504095300 +0000" stop="20260504113000 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Crise de mères</title>
+    <desc lang="fr">Film Comédie</desc>
+  </programme>
+  <programme start="20260504113000 +0000" stop="20260504114100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Sally Bollywood - Saison 1</title>
+    <desc lang="fr">Episode 42 : La boum de Cassie</desc>
+  </programme>
+  <programme start="20260504114100 +0000" stop="20260504115500 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 3 : Les écorces</desc>
+  </programme>
+  <programme start="20260504115500 +0000" stop="20260504120600 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 4 : La sève</desc>
+  </programme>
+  <programme start="20260504120600 +0000" stop="20260504121900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 3 : Gare aux abeilles</desc>
+  </programme>
+  <programme start="20260504121900 +0000" stop="20260504123100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 4 : Kassa au Mali</desc>
+  </programme>
+  <programme start="20260504123100 +0000" stop="20260504125300 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 15 : Lucia on t'aime !</desc>
+  </programme>
+  <programme start="20260504125300 +0000" stop="20260504131700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
+    <desc lang="fr">Episode 21 : Sortilèges</desc>
+  </programme>
+  <programme start="20260504131700 +0000" stop="20260504140900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Merveilles de la nature - Saison 1</title>
+    <desc lang="fr">Episode 13 : Grand Canyon, un hé...</desc>
+  </programme>
+  <programme start="20260504140900 +0000" stop="20260504145600 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-moi la Zambie - Saison 1</title>
+    <desc lang="fr">Episode 2 : Les poids lourds de ...</desc>
+  </programme>
+  <programme start="20260504145600 +0000" stop="20260504150000 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 12 : Sur le pont d'Avignon</desc>
+  </programme>
+  <programme start="20260504150000 +0000" stop="20260504150100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 13 : Politesse et bonnes...</desc>
+  </programme>
+  <programme start="20260504150100 +0000" stop="20260504150400 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 14 : Le bon roi Dagobert</desc>
+  </programme>
+  <programme start="20260504150400 +0000" stop="20260504150600 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les amis de Boubi - Saison 1</title>
+    <desc lang="fr">Episode 15 : Brossons-nous les c...</desc>
+  </programme>
+  <programme start="20260504150600 +0000" stop="20260504151800 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Sally Bollywood - Saison 1</title>
+    <desc lang="fr">Episode 44 : Appelez mon avocat</desc>
+  </programme>
+  <programme start="20260504151800 +0000" stop="20260504152900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 5 : Le monde des ténèbres</desc>
+  </programme>
+  <programme start="20260504152900 +0000" stop="20260504154300 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 6 : L'eau</desc>
+  </programme>
+  <programme start="20260504154300 +0000" stop="20260504155700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 5 : Kassa au Cameroun</desc>
+  </programme>
+  <programme start="20260504155700 +0000" stop="20260504160600 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 6 : Kassa en Guinée</desc>
+  </programme>
+  <programme start="20260504160600 +0000" stop="20260504162900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 16 : Mission : Réveil po...</desc>
+  </programme>
+  <programme start="20260504162900 +0000" stop="20260504165100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
+    <desc lang="fr">Episode 22 : Le cimeterre</desc>
+  </programme>
+  <programme start="20260504165100 +0000" stop="20260504170400 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 17 : La vie sauvage</desc>
+  </programme>
+  <programme start="20260504170400 +0000" stop="20260504171700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 18 : Le garçon des bois</desc>
+  </programme>
+  <programme start="20260504171700 +0000" stop="20260504172900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les rebelles de la forêt, la série - Saison 1</title>
+    <desc lang="fr">Episode 5 : Garde à vous !</desc>
+  </programme>
+  <programme start="20260504172900 +0000" stop="20260504173400 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 22 : À la recherche du b...</desc>
+  </programme>
+  <programme start="20260504173400 +0000" stop="20260504173700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 23 : Les animaux qui vou...</desc>
+  </programme>
+  <programme start="20260504173700 +0000" stop="20260504174500 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-nous ! - Saison 2</title>
+    <desc lang="fr">Episode 24 : L'incendie</desc>
+  </programme>
+  <programme start="20260504174500 +0000" stop="20260504185700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les chiens à l'Opéra</title>
+    <desc lang="fr">Film Animation</desc>
+  </programme>
+  <programme start="20260504185700 +0000" stop="20260504190700 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 6 : Merlin Frit</desc>
+  </programme>
+  <programme start="20260504190700 +0000" stop="20260504191800 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 7 : Le 7ème</desc>
+  </programme>
+  <programme start="20260504191800 +0000" stop="20260504193000 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Défis extrêmes : retour à la maternelle - Saison 7</title>
+    <desc lang="fr">Episode 8 : Le 8ème</desc>
+  </programme>
+  <programme start="20260504193000 +0000" stop="20260504210400 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Le mystère du livre sacré</title>
+    <desc lang="fr">Téléfilm Aventure</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/unit/23186162/canal-ouah_50001/STD169/myCANAL_16x9_MEA_1920x108016-tSZc"/>
+  </programme>
+  <programme start="20260504210400 +0000" stop="20260504215600 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Royaumes d'Asie - Saison 1</title>
+    <desc lang="fr">Episode 7 : Préparer l'avenir</desc>
+  </programme>
+  <programme start="20260504215600 +0000" stop="20260504224300 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Conte-moi la Zambie - Saison 1</title>
+    <desc lang="fr">Episode 1 : La vallée des élépha...</desc>
+  </programme>
+  <programme start="20260504224300 +0000" stop="20260505040100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Wicked</title>
+    <desc lang="fr">Film Comédie musicale</desc>
+  </programme>
+  <programme start="20260505040100 +0000" stop="20260505041400 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 3 : Les écorces</desc>
+  </programme>
+  <programme start="20260505041400 +0000" stop="20260505042600 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">La petite Pokou - Saison 1</title>
+    <desc lang="fr">Episode 4 : La sève</desc>
+  </programme>
+  <programme start="20260505042600 +0000" stop="20260505043900 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 3 : Gare aux abeilles</desc>
+  </programme>
+  <programme start="20260505043900 +0000" stop="20260505045100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Kassa le messager - Saison 2</title>
+    <desc lang="fr">Episode 4 : Kassa au Mali</desc>
+  </programme>
+  <programme start="20260505045100 +0000" stop="20260505051300 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Madagascar : la savane en délire - Saison 1</title>
+    <desc lang="fr">Episode 15 : Lucia on t'aime !</desc>
+  </programme>
+  <programme start="20260505051300 +0000" stop="20260505053500 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les aventures du Chat Potté - Saison 1</title>
+    <desc lang="fr">Episode 21 : Sortilèges</desc>
+  </programme>
+  <programme start="20260505053500 +0000" stop="20260505054800 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 15 : Les frères ours de ...</desc>
+  </programme>
+  <programme start="20260505054800 +0000" stop="20260505060100 +0000" channel="CANAL+FAMILYCENTRE.ci">
+    <title lang="fr">Les Ours Boonie - Les Aventuriers - Saison 1</title>
+    <desc lang="fr">Episode 16 : La forêt des danger...</desc>
   </programme>
 </tv>
