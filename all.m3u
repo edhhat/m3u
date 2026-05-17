@@ -17,8 +17,6 @@ http://151.80.18.177:86/France_2_HD/index.m3u8
 http://151.80.18.177:86/France_3_HD/index.m3u8
 #EXTINF:-1,FR| FRANCE 5 HD
 http://151.80.18.177:86/France_5_HD/index.m3u8
-#EXTINF:-1,FR| HISTOIRE HD
-http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1,FR| LCI HD
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1,FR| M6 HD
@@ -735,6 +733,12 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
 http://200.229.147.142:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:-1 group-title="Other" tvg-id="ATV.be@SD",ATV (1080p)
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
+https://trn03.tulix.tv/gt-atv-live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Wrrj3N6/atvpl.png",ATV MARTINIQUE
 https://live.atvplus.fr/hls/stream1.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/BoLZ5wG.png",AURORA ARTE
