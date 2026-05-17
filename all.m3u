@@ -1,42 +1,6 @@
 #EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv.zip,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/fr.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/fr.xml.gz"
-#EXTINF:-1,AB1 HD
+#EXTINF:-1,AB1
 http://151.80.18.177:86/AB1/index.m3u8
-#EXTINF:-1,ARTE HD
-http://151.80.18.177:86/ARTE_HD/index.m3u8
-#EXTINF:-1,Canal+ HD
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1,CANAL+ Sport HD
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1,D17 CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
-#EXTINF:-1,Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-1,Disney HD
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1,Euro Sport 2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1,Euro Sport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1,France 2 HD
-http://151.80.18.177:86/France_2_HD/index.m3u8
-#EXTINF:-1,France 3 HD
-http://151.80.18.177:86/France_3_HD/index.m3u8
-#EXTINF:-1,France 5 HD
-http://151.80.18.177:86/France_5_HD/index.m3u8
-#EXTINF:-1,Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:-1,LCI HD
-http://151.80.18.177:86/LCI_HD/index.m3u8
-#EXTINF:-1,Paris Premiere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-#EXTINF:-1,RMC Decouverte HD
-http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
-#EXTINF:-1,RTL 9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:-1,Teva HD
-http://151.80.18.177:86/Teva_HD/index.m3u8
-#EXTINF:-1,TF1 HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION ℹ️📰",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 channel-id="60afb203ec391c00070ea1bf" tvg-id="60afb203ec391c00070ea1bf" tvg-chno="260" tvg-name="Génération Sitcoms" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" group-title="100% Français",Génération Sitcoms
@@ -81,8 +45,6 @@ https://jmp2.uk/stvp-FR23000013B
 https://jmp2.uk/stvp-FR1400004VF
 #EXTINF:-1 channel-id="FR700007HY" tvg-id="FR700007HY" tvg-chno="4581" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700007HY_20260505T035834SQUARE.png" group-title="Actualités",Brut.
 https://jmp2.uk/stvp-FR700007HY
-#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4004" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20250415T020856SQUARE.png" group-title="Actualités",Euronews EN DIRECT
-https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1 channel-id="FRBD4100010ZZ" tvg-id="FRBD4100010ZZ" tvg-chno="4565" tvg-name="Tech & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100010ZZ_20241015T042850SQUARE.png" group-title="Actualités",Tech & Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
 #EXTINF:-1 tvg-name="ABC News Albania Ⓣ" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" tvg-country="AL" group-title="Albania",ABC News Albania Ⓣ
@@ -551,12 +513,8 @@ https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Video Star Tv Sicilia" tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" tvg-country="IT" group-title="Italy",Video Star Tv Sicilia
 https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" tvg-country="IT" group-title="Italy",Vintage Radio Tv
-https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" tvg-chno="68" tvg-country="IT" group-title="Italy",Virgin Radio TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" tvg-country="IT" group-title="Italy",Zerouno Tv News
-https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:-1 channel-id="FRAJ3800010QO" tvg-id="FRAJ3800010QO" tvg-chno="4811" tvg-name="Bob L'eponge" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20241106T142544SQUARE.png" group-title="Jeunesse",Bob L'eponge
 https://jmp2.uk/stvp-FRAJ3800010QO
 #EXTINF:-1 channel-id="FRAJ38000061J" tvg-id="FRAJ38000061J" tvg-chno="4825" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png" group-title="Jeunesse",iCarly
@@ -721,8 +679,6 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 https://africa24sport.vedge.infomaniak.com/livecast/africa24sport/manifest.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="AfricanewsFrench.fr@SD",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 group-title="Other" tvg-id="AfrobeatTVEntertainment.uk@SD",Afrobeats (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Xdqd4cT/afterfootrmc.jpg",AFTERFOOT RMC-BFM
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="AkaalChannel.uk@SD",Akaal Channel (396p) [Geo-blocked]
@@ -1686,9 +1642,9 @@ https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
 https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE FAVORIS
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
