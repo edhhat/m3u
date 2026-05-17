@@ -989,8 +989,6 @@ https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/6Rdh3h1Q/drtva.png",DR TVA
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",DREAM CHANNEL (CM)
-https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018_output_0.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png",DRIVE AUTO
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
