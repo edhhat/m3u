@@ -5,6 +5,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" group-title="1 France" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1,FR| TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1,TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr" group-title="1 France" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",France 2 France
@@ -17,6 +19,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1,Arte France
 http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1,FR| M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1,W9 France
 http://151.80.18.177:86/W9_HD/index.m3u8
 #EXTINF:-1 channel-id="66f55cf2483d460008f68746" tvg-id="ZoneInterdite2424.fr" tvg-chno="800" tvg-name="Zone Interdite" tvg-logo="https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png" group-title="1 France",Zone Interdite
@@ -49,6 +53,8 @@ https://jmp2.uk/stvp-FR600002ZR
 https://jmp2.uk/stvp-FR600001I2
 #EXTINF:-1,DISCOVERY Channel FR
 http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1,FR| CANAL+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-id="TVAHD.ca" tvg-chno="13" tvg-country="UA" group-title="2 Canada",TVA
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 #EXTINF:-1 tvg-id="Casa.ca" tvg-name="CASA" tvg-logo="https://i.imgur.com/O4GQVCk.png" tvg-country="IT" group-title="2 Canada",CASA
@@ -251,6 +257,8 @@ https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_service
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnewsprime-clair-hd.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" tvg-chno="29" tvg-country="FR" group-title="7 Documentaire",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1,FR| CANAL+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 channel-id="6092544e7639460007d4835e" tvg-id="6092544e7639460007d4835e" tvg-chno="710" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG_1752768298567.png" group-title="9 Realite",Pluto TV Reality
 https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
 #EXTINF:-1 channel-id="682318568e6c0f2f6c6e0038" tvg-id="682318568e6c0f2f6c6e0038" tvg-chno="735" tvg-name="Pluto TV Dating" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1750772750435.png" group-title="9 Realite",Pluto TV Dating
@@ -1085,8 +1093,6 @@ https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
 https://jmp2.uk/rok-f82edff34af287f3d8fe9d9098d45404.m3u8
 #EXTINF:-1 channel-id="5976983fa00953dab911a0ebea932943" tvg-id="5976983fa00953dab911a0ebea932943" tvg-chno="264" tvg-name="DraftKings" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png" group-title="All",DraftKings
 https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",DREAM CHANNEL (CM)
-https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018_output_0.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png",DRIVE AUTO
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 channel-id="FRBD3600001BQ" tvg-id="FRBD3600001BQ" tvg-chno="4662" tvg-name="Drive TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="All",Drive TV
@@ -3369,8 +3375,12 @@ https://sktv.plainrock127.xyz/get.php?x=CTsport
 
 #--- HORS SERVICE ---
 
+#EXTINF:-1,.FR| FRANCE 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" group-title="1 France" tvg-logo="https://i.ibb.co/tpRb3k63/rmclife.png",.RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1,.FR| CANAL+CINEMA(S) HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="RDI.ca" tvg-chno="1" tvg-country="CA" group-title="2 Canada",.ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="NOOVO-Montreal-CFJP.ca" tvg-name="NOOVO" tvg-logo="https://i.imgur.com/BL9ziSJ.png" tvg-chno="4" tvg-country="CA" group-title="2 Canada",.NOOVO
@@ -3697,6 +3707,8 @@ https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
 https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" tvg-chno="4998" group-title="HS",.Drammatico – Rakuten TV
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",.DREAM CHANNEL (CM)
+https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018_output_0.m3u8
 #EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" tvg-id="DryBarComedy.us" tvg-chno="2" tvg-country="US" group-title="HS",.Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" tvg-id="DubaiSports1.ae" tvg-chno="3" tvg-country="AE" group-title="HS",.Dubai Sports 1
