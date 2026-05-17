@@ -25,6 +25,8 @@ http://151.80.18.177:86/RTL9/index.m3u8
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 channel-id="66f55cf2483d460008f68746" tvg-id="ZoneInterdite2424.fr" tvg-chno="800" tvg-name="Zone Interdite" tvg-logo="https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png" group-title="",Zone Interdite
 https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
+#EXTINF:-1,FR| TEVA FHD
+http://151.80.18.177:86/Teva_HD/index.m3u8
 #EXTINF:-1 channel-id="63b578b524f0cf00072f2a52" tvg-id="63b578b524f0cf00072f2a52" tvg-chno="915" tvg-name="Echappées belles & co" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="",Echappées belles & co
 https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
 #EXTINF:-1 channel-id="FR3900003Y7" tvg-id="FR3900003Y7" tvg-chno="4364" tvg-name="La Vie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900003Y7_20260310T031736SQUARE.png" group-title="",La Vie
@@ -3119,8 +3121,8 @@ https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8
 #EXTINF:-1 channel-id="0d5283959d3a59bf87411e7077fd9e58" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-chno="1103" tvg-name="Vevo Latino" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" group-title="All",Vevo Latino
 https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
-#EXTINF:-1 channel-id="FRBC2100001YY" tvg-id="FRBC2100001YY" tvg-chno="4683" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png" group-title="All",Vevo Pop
-https://jmp2.uk/stvp-FRBC2100001YY
+#EXTINF:-1 channel-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-chno="1126" tvg-name="Vevo Pop" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e50a8f06d3245c95a4e250dc5c33c2be/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113520589_Info_HUD_Logo_260X147_center_%252814%2529.png" group-title="All",Vevo Pop
+https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png",VEVO POP FAST
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8?ads_amagi_channel=920
 #EXTINF:-1 channel-id="6be3083b8ec2508495684e5087f8f86a" tvg-id="6be3083b8ec2508495684e5087f8f86a" tvg-chno="1134" tvg-name="Vevo R&B" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6be3083b8ec2508495684e5087f8f86a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113546717_Info_HUD_Logo_260X147_center_%252813%2529.png" group-title="All",Vevo R&B
