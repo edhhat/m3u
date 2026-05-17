@@ -1656,7 +1656,7 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
 https://poland.assistancefrancaise.com/hls/transcoder02/1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 TNT
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4Mi42Ny4xOTUuNzEiLCJjbWNkIjoiIiwiZXhwIjoxNzc5MDUyNjk3LCJnaWQiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiIsImlhdCI6MTc3OTAzODI5NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS83ODA1NDJmNTE2ZjE0M2ZjOGFkOWJmMTQ2MjIzMTZlNy90ZjEtY21hZiIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2In0.ewA3s-wNvjdXt0hiC_tN1z20bIl7u7uIJ72PQV5CHj4/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OC4xODkuMjU1Ljc0IiwiY21jZCI6IiIsImV4cCI6MTc3OTA1NjI5NywiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3NzkwNDE4OTcsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.JBL6av3B3wrp5l0hOHxwZWSUoifh7zBBaryWbQwCAJE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotfx.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="TG4.ie@SD",TG4 (1080p)
@@ -1709,8 +1709,6 @@ https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/nqWcMQ55/tvanews.png",TVA NEWS
 https://live.tvanews.com/live/tvanews/play.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/qLyV7hjY/tvdch.png",TVD TV DÉCOUVERTE
-https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/99kVf9W/somoscine.png",TVE SOMOS CINE [geo-limited]
 https://ztnr.rtve.es/ztnr/6909845.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI
