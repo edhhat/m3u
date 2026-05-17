@@ -39,6 +39,12 @@ https://d225rs9gbjxb5j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 #EXTINF:-1,FR| CSTAR
 http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/Wrrj3N6/atvpl.png",ATV MARTINIQUE
+https://live.atvplus.fr/hls/stream1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/RkkfbvLG/rts1ch.png",RTS 1
+https://netplus.zappr.stream/rts1hd.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS 2
+http://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1,PARIS PREMIERE
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 channel-id="66f55d0b5e4a6e0008c2b920" tvg-id="EnquetesCriminelles2424.fr" tvg-chno="405" tvg-name="Enquêtes Criminelles" tvg-logo="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/colorLogoPNG.png" group-title="",Enquêtes Criminelles
@@ -235,8 +241,6 @@ https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 #EXTINF:-1 channel-id="66f55c3955567d0008ef9b68" tvg-id="66f55c3955567d0008ef9b68" tvg-chno="605" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-#EXTINF:-1,HISTOIRE
-http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 channel-id="FRBD4100010ZZ" tvg-id="01TV.fr" tvg-chno="4565" tvg-name="Tech & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100010ZZ_20241015T042850SQUARE.png" group-title="",Tech & Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
 #EXTINF:-1 channel-id="FR300004J5" tvg-id="FR300004J5" tvg-chno="4411" tvg-name="BFM Grands Reportages" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" group-title="",BFM Grands Reportages
@@ -539,6 +543,12 @@ https://jmp2.uk/rok-58673c6e05455569978456bdc210f9d7.m3u8
 https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
 http://200.229.147.142:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:-1 group-title="All" tvg-id="ATV.be@SD",ATV (1080p)
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
+https://trn03.tulix.tv/gt-atv-live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/Wrrj3N6/atvpl.png",ATV MARTINIQUE
 https://live.atvplus.fr/hls/stream1.m3u8
 #EXTINF:-1 channel-id="FR3900002FW" tvg-id="FR3900002FW" tvg-chno="4372" tvg-name="Au coeur du danger" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20260310T031715SQUARE.png" group-title="All",Au coeur du danger
@@ -1413,8 +1423,6 @@ http://151.80.18.177:86/France_2_HD/index.m3u8
 http://151.80.18.177:86/France_3_HD/index.m3u8
 #EXTINF:-1,FR| FRANCE 5 HD
 http://151.80.18.177:86/France_5_HD/index.m3u8
-#EXTINF:-1,FR| HISTOIRE HD
-http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1,FR| LCI HD
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1,FR| M6 HD
@@ -3287,6 +3295,8 @@ https://x.canlitvapp.com/u-channel-5/index.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 channel-id="FR34000032F" tvg-id="FR34000032F" tvg-chno="4519" tvg-name="Ça Chauffe en Cuisine" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR34000032F_20260127T040246SQUARE.png" group-title="",.Ça Chauffe en Cuisine
 https://jmp2.uk/stvp-FR34000032F
+#EXTINF:-1,.HISTOIRE
+http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 channel-id="FRBD3900005MB" tvg-id="FRBD3900005MB" tvg-chno="4068" tvg-name="Le Meilleur de la TV Réalité" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900005MB_20250805T005519SQUARE.png" group-title="",.Le Meilleur de la TV Réalité
 https://jmp2.uk/stvp-FRBD3900005MB
 #EXTINF:-1 tvg-id="LIFE TV.ci" group-title="" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",.LIFE TV (CI)
@@ -3381,6 +3391,10 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 #EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" tvg-chno="7" tvg-country="FR" group-title="HS",.Arte Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",.ATV AZ
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-name="ATV+ Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png" tvg-id="ATVPlus.pe" tvg-chno="15" tvg-country="PE" group-title="HS",.ATV+ Noticias
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-name="BBC Alba Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png" tvg-id="BBCAlba.uk" tvg-chno="10" tvg-country="GB" group-title="HS",.BBC Alba Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-chno="10" tvg-country="GB" group-title="HS",.BBC Asian Network
@@ -3629,6 +3643,8 @@ https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1,.FR| FRANCE 4 HD
 http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1,.FR| HISTOIRE HD
+http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" tvg-chno="9" tvg-country="TW" group-title="HS",.FTV One (民視第一台)
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 group-title="HS" tvg-id="FunRadio.fr@SD",.Fun Radio
