@@ -81,8 +81,6 @@ https://jmp2.uk/stvp-FR23000013B
 https://jmp2.uk/stvp-FRBD4100006OC
 #EXTINF:-1 channel-id="FR700007HY" tvg-id="FR700007HY" tvg-chno="4553" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700007HY_20260804T051433SQUARE.png" group-title="Actualités",Brut.
 https://jmp2.uk/stvp-FR700007HY
-#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="Actualités",Euronews EN DIRECT
-https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1 channel-id="FRBD490000195" tvg-id="FRBD490000195" tvg-chno="4573" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png" group-title="Actualités",Reuters
 https://jmp2.uk/stvp-FRBD490000195
 #EXTINF:-1 channel-id="FR300005WY" tvg-id="FR300005WY" tvg-chno="4557" tvg-name="RMC TALK INFO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" group-title="Actualités",RMC TALK INFO
@@ -203,6 +201,8 @@ https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 https://jmp2.uk/stvp-FR26000068C
 #EXTINF:-1 channel-id="FR130000539" tvg-id="FR130000539" tvg-chno="4955" tvg-name="Dragon TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR130000539_20260707T051643SQUARE.png" group-title="Cinéma",Dragon TV
 https://jmp2.uk/stvp-FR130000539
+#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="Drames - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="Cinéma",Drames - Rakuten TV
+https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="FR2600001PI" tvg-id="FR2600001PI" tvg-chno="4852" tvg-name="Famille - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251230T031018SQUARE.png" group-title="Cinéma",Famille - Rakuten TV
 https://jmp2.uk/stvp-FR2600001PI
 #EXTINF:-1 channel-id="FR2600002X9" tvg-id="FR2600002X9" tvg-chno="4987" tvg-name="Films d'action - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600002X9_20260707T051704SQUARE.png" group-title="Cinéma",Films d'action - Rakuten TV
@@ -469,6 +469,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://jmp2.uk/stvp-FR1600002TT
 #EXTINF:-1 channel-id="FR2200004HP" tvg-id="FR2200004HP" tvg-chno="4806" tvg-name="Masha et Michka" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200004HP_20260721T035836SQUARE.png" group-title="Jeunesse",Masha et Michka
 https://jmp2.uk/stvp-FR2200004HP
+#EXTINF:-1 channel-id="FR2100002YW" tvg-id="FR2100002YW" tvg-chno="4820" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100002YW_20260901T054517SQUARE.png" group-title="Jeunesse",Pingu
+https://jmp2.uk/stvp-FR2100002YW
 #EXTINF:-1 channel-id="FR700001VJ" tvg-id="FR700001VJ" tvg-chno="4779" tvg-name="Pocoyo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251111T012101SQUARE.png" group-title="Jeunesse",Pocoyo
 https://jmp2.uk/stvp-FR700001VJ
 #EXTINF:-1, tvg-id="SouthPark.us@France" tvg-logo="https://i.imgur.com/qA3KsTh.png" tvg-name="SOUTH PARK"  group-title="JEUNESSE",SOUTH PARK
@@ -519,8 +521,6 @@ http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="TVM3.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-name="TVM3"  group-title="MUSIQUE",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8#origine-313=https://tvradiozap.eu
-#EXTINF:-1 channel-id="FR3900001AC" tvg-id="FR3900001AC" tvg-chno="4750" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20260915T040118SQUARE.png" group-title="Musique et ambiance",CJ ENM K-POP
-https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1 channel-id="FR2500001BS" tvg-id="FR2500001BS" tvg-chno="4744" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png" group-title="Musique et ambiance",Cool Summer Channel
 https://jmp2.uk/stvp-FR2500001BS
 #EXTINF:-1 channel-id="FR19000010J" tvg-id="FR19000010J" tvg-chno="4763" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR19000010J_20260528T055318SQUARE.png" group-title="Musique et ambiance",Cozy Vibes
@@ -541,8 +541,6 @@ https://jmp2.uk/stvp-FR7000053L
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 channel-id="FR4000005KE" tvg-id="FR4000005KE" tvg-chno="4004" tvg-name="Skyrock" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20260707T051753SQUARE.png" group-title="Musique et ambiance",Skyrock
 https://jmp2.uk/stvp-FR4000005KE
-#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260916T012220SQUARE.png" group-title="Musique et ambiance",SMTOWN
-https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 channel-id="FR1800010TC" tvg-id="FR1800010TC" tvg-chno="4766" tvg-name="Spring Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800010TC_20260528T055500SQUARE.png" group-title="Musique et ambiance",Spring Vibes
 https://jmp2.uk/stvp-FR1800010TC
 #EXTINF:-1 channel-id="FR1900002I8" tvg-id="FR1900002I8" tvg-chno="4764" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1900002I8_20260528T055512SQUARE.png" group-title="Musique et ambiance",Storm Vibes
