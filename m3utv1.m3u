@@ -367,8 +367,6 @@ https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
 https://jmp2.uk/stvp-FRBD5100001ZA
 #EXTINF:-1, tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-name="AFRICA 24"  group-title="All",AFRICA 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1, tvg-id="Africanews.fr" tvg-logo="https://epg.pw/media/images/epg/2025/04/06/20250406040610254622_96.png" tvg-name="AFRICANEWS"  group-title="All",AFRICANEWS
-https://africanews-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/bitok/eyJzdGlkIjoiNWVkNGRjNTQtMjM0OC00NmJkLWEwMDUtY2U0M2I5Y2ZjYTcxIiwibWt0IjoiZnIiLCJjaCI6NjU3MywicHRmIjo1fQ%3D%3D/26037/africanews-fr.m3u8#origine-938=https://tvradiozap.eu
 #EXTINF:-1 channel-id="FR1100002RF" tvg-id="FR1100002RF" tvg-chno="4632" tvg-name="AFTER FOOT TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20260622T063925SQUARE.png" group-title="All",AFTER FOOT TV
 https://jmp2.uk/stvp-FR1100002RF
 #EXTINF:-1 channel-id="FR23000013B" tvg-id="FR23000013B" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.png" group-title="All",Al Jazeera
@@ -449,8 +447,6 @@ https://jmp2.uk/stvp-FR700007HY
 https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
 #EXTINF:-1 channel-id="FR4800002NE" tvg-id="FR4800002NE" tvg-chno="4775" tvg-name="Caillou" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png" group-title="All",Caillou
 https://jmp2.uk/stvp-FR4800002NE
-#EXTINF:-1, tvg-id="BFMBusiness.fr" tvg-logo="https://mediatudecmr.com/wp-content/uploads/2019/08/Logo-Canal-2-400x323.jpg" tvg-name="Canal 2 International"  group-title="All",Canal 2 International
-https://tvradiozap.eu/tools/dm-m3u8.php/x8t0282.m3u8
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+  HD"  group-title="All",CANAL+  HD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1, tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" tvg-name="CANAL+ CINEMA HD"  group-title="All",CANAL+ CINEMA HD
@@ -595,8 +591,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 #EXTINF:-1 channel-id="60d35bcaf1ff4a00078af0a6" tvg-id="60d35bcaf1ff4a00078af0a6" tvg-chno="1415" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" group-title="All",Euronews
 https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
-#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="All",Euronews EN DIRECT
-https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1, tvg-id="Eurosport1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Eurosport_1_2022.png/500px-Eurosport_1_2022.png" tvg-name="EUROSPORT 1 HD"  group-title="All",EUROSPORT 1 HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1, tvg-id="Eurosport2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/500px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT 2 HD"  group-title="All",EUROSPORT 2 HD
@@ -723,8 +717,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1, tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png" tvg-name="LE FIGARO TV TV"  group-title="All",LE FIGARO TV TV
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1, tvg-id="LeMedia.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo-lemedia-gradient.a0513464.svg/langfr-150px-Logo-lemedia-gradient.a0513464.svg.png" tvg-name="LE MEDIA"  group-title="All",LE MEDIA
-https://tvradiozap.eu/tools/dm-m3u8.php/x8dtuir.m3u8
 #EXTINF:-1 channel-id="FRBD1900006NA" tvg-id="FRBD1900006NA" tvg-chno="4142" tvg-name="Le meilleur d'Arthur" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900006NA_20241015T040338SQUARE.png" group-title="All",Le meilleur d'Arthur
 https://jmp2.uk/stvp-FRBD1900006NA
 #EXTINF:-1 channel-id="FRBD3900005MB" tvg-id="FRBD3900005MB" tvg-chno="4068" tvg-name="Le Meilleur de la TV Réalité" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900005MB_20250805T005519SQUARE.png" group-title="All",Le Meilleur de la TV Réalité
@@ -1174,6 +1166,8 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116129
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116425
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png" tvg-name="ACTION TOTALE ADRÉNALINE"  group-title="HS",.ACTION TOTALE ADRÉNALINE
 https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
+#EXTINF:-1, tvg-id="Africanews.fr" tvg-logo="https://epg.pw/media/images/epg/2025/04/06/20250406040610254622_96.png" tvg-name="AFRICANEWS"  group-title="HS",.AFRICANEWS
+https://africanews-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/bitok/eyJzdGlkIjoiNWVkNGRjNTQtMjM0OC00NmJkLWEwMDUtY2U0M2I5Y2ZjYTcxIiwibWt0IjoiZnIiLCJjaCI6NjU3MywicHRmIjo1fQ%3D%3D/26037/africanews-fr.m3u8#origine-938=https://tvradiozap.eu
 #EXTINF:-1, tvg-id="Animaiux.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" tvg-name="ANIMAUX FHD"  group-title="HS",.ANIMAUX FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116134
 #EXTINF:-1, tvg-id="Animaiux.fr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" tvg-name="ANIMAUX HD"  group-title="HS",.ANIMAUX HD
@@ -1222,6 +1216,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&sta
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116646
 #EXTINF:-1 channel-id="FR370000288" tvg-id="FR370000288" tvg-chno="4999" tvg-name="Box Office Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20260707T051627SQUARE.png" group-title="HS",.Box Office Action
 https://jmp2.uk/stvp-FR370000288
+#EXTINF:-1, tvg-id="BFMBusiness.fr" tvg-logo="https://mediatudecmr.com/wp-content/uploads/2019/08/Logo-Canal-2-400x323.jpg" tvg-name="Canal 2 International"  group-title="HS",.Canal 2 International
+https://tvradiozap.eu/tools/dm-m3u8.php/x8t0282.m3u8
 #EXTINF:-1, tvg-id="CanalAlgerie.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_de_Canal_Alg%C3%A9rie_%282020%29.svg/langfr-200px-Logo_de_Canal_Alg%C3%A9rie_%282020%29.svg.png" tvg-name="CANAL ALGERIE"  group-title="HS",.CANAL ALGERIE
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119187
 #EXTINF:-1, tvg-id="CanalAlgerie.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_de_Canal_Alg%C3%A9rie_%282020%29.svg/langfr-200px-Logo_de_Canal_Alg%C3%A9rie_%282020%29.svg.png" tvg-name="CANAL ALGERIE   HD"  group-title="HS",.CANAL ALGERIE   HD
@@ -1312,6 +1308,8 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116645
 http://69.64.57.208/equinoxtv/playlist.m3u8
 #EXTINF:-1, tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/langfr-500px-ESPN_wordmark.svg.png" tvg-name="ESPN 1 HD"  group-title="HS",.ESPN 1 HD
 http://89.105.221.127/ESPN1/index.m3u8?token=test
+#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="HS",.Euronews EN DIRECT
+https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/500px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT 2 FHD"  group-title="HS",.EUROSPORT 2 FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116568
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png" tvg-name="FAMILY CLUB"  group-title="HS",.FAMILY CLUB
@@ -1370,6 +1368,8 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116535
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1, tvg-id="LCP100.fr" tvg-logo="https://duckduckgo.com/i/d8eb5396cb811364.png" tvg-name="LCP PUBLIC SENAT"  group-title="HS",.LCP PUBLIC SENAT
 https://tvradiozap.eu/tools/ft-m3u8.php/lcp.m3u8
+#EXTINF:-1, tvg-id="LeMedia.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo-lemedia-gradient.a0513464.svg/langfr-150px-Logo-lemedia-gradient.a0513464.svg.png" tvg-name="LE MEDIA"  group-title="HS",.LE MEDIA
+https://tvradiozap.eu/tools/dm-m3u8.php/x8dtuir.m3u8
 #EXTINF:-1, tvg-id="M6.fr" tvg-logo="https://static.teleboy.ch/shared/stations/312/icon320_light.png?v2023_48_0" tvg-name="M6"  group-title="HS",.M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1, tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-118.png" tvg-name="M6 FHD (M6+)"  group-title="HS",.M6 FHD (M6+)
