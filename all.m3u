@@ -27,12 +27,12 @@ https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1, tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-name="AFRICA 24"  group-title="ACTUALITES",AFRICA 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1, tvg-id="Africanews.fr" tvg-logo="https://epg.pw/media/images/epg/2025/04/06/20250406040610254622_96.png" tvg-name="AFRICANEWS"  group-title="ACTUALITES",AFRICANEWS
-https://africanews-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/bitok/eyJzdGlkIjoiNWVkNGRjNTQtMjM0OC00NmJkLWEwMDUtY2U0M2I5Y2ZjYTcxIiwibWt0IjoiZnIiLCJjaCI6NjU3MywicHRmIjo1fQ%3D%3D/26037/africanews-fr.m3u8#origine-938=https://tvradiozap.eu
 #EXTINF:-1, tvg-id="bfm2.fr" tvg-logo="https://fr.themedialeader.com/wp-content/uploads/2024/08/BFM2.jpg" tvg-name="BFM 2"  group-title="ACTUALITES",BFM 2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" tvg-name="BFM TV"  group-title="ACTUALITES",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1, tvg-id="BFMBusiness.fr" tvg-logo="https://mediatudecmr.com/wp-content/uploads/2019/08/Logo-Canal-2-400x323.jpg" tvg-name="Canal 2 International"  group-title="ACTUALITES",Canal 2 International
+https://tvradiozap.eu/tools/dm-m3u8.php/x8t0282.m3u8
 #EXTINF:-1, tvg-id="CGTN.fr" tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" tvg-name="CGTN FRANCE"  group-title="ACTUALITES",CGTN FRANCE
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1, tvg-id="cnews.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/54/Canal_News_logo.svg.png/revision/latest?cb=20190726111247&path-prefix=fr" tvg-name="CNEWS"  group-title="ACTUALITES",CNEWS
@@ -41,14 +41,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1, tvg-id="CRTV.cm" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/CRTV_logo.jpg" tvg-name="CRTV"  group-title="ACTUALITES",CRTV
 https://live1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8#origine-1131=https://tvradiozap.eu
-#EXTINF:-1, tvg-id="France24.fr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60562_dark_360w_270h.png" tvg-name="FRANCE 24"  group-title="ACTUALITES",FRANCE 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1, tvg-id="France24.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" tvg-name="FRANCE 24"  group-title="ACTUALITES",FRANCE 24
+https://tvradiozap.eu/tv/m3u8/france24.m3u8
 #EXTINF:-1, tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/7d/LCP.svg.png/revision/latest?cb=20190726175327&path-prefix=fr" tvg-name="LCP ASSEMBLEE NATIONALE"  group-title="ACTUALITES",LCP ASSEMBLEE NATIONALE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1, tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.f1g.fr/media/cms/1200x630_crop/2020/02/25/208a45754b1eaca8cde5e229bc2c6c5b6df96ca2e40e0ca353a4ee3072891646.jpeg" tvg-name="LE FIGARO HD"  group-title="ACTUALITES",LE FIGARO HD
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1, tvg-id="ViaGrandParis.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png" tvg-name="LE FIGARO TV TV"  group-title="ACTUALITES",LE FIGARO TV TV
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1, tvg-id="LeMedia.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo-lemedia-gradient.a0513464.svg/langfr-150px-Logo-lemedia-gradient.a0513464.svg.png" tvg-name="LE MEDIA"  group-title="ACTUALITES",LE MEDIA
+https://tvradiozap.eu/tools/dm-m3u8.php/x8dtuir.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://duckduckgo.com/i/54b4f51ce70dd949.png" tvg-name="MEDI1TV AFRIQUE HD"  group-title="ACTUALITES",MEDI1TV AFRIQUE HD
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1, tvg-id="PanafricanMediaTV" tvg-logo="https://i.ytimg.com/vi/hVcCCLdrHH8/maxresdefault.jpg" tvg-name="PANAFRICAN MEDIA HD"  group-title="ACTUALITES",PANAFRICAN MEDIA HD
@@ -77,8 +79,6 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://jmp2.uk/stvp-FR23000013B
 #EXTINF:-1 channel-id="FRBD4100006OC" tvg-id="FRBD4100006OC" tvg-chno="4563" tvg-name="BFM Business" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100006OC_20241015T040218SQUARE.png" group-title="Actualités",BFM Business
 https://jmp2.uk/stvp-FRBD4100006OC
-#EXTINF:-1 channel-id="FR1400004VF" tvg-id="FR1400004VF" tvg-chno="4574" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400004VF_20260421T123944SQUARE.png" group-title="Actualités",Bloomberg TV+
-https://jmp2.uk/stvp-FR1400004VF
 #EXTINF:-1 channel-id="FR700007HY" tvg-id="FR700007HY" tvg-chno="4553" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700007HY_20260804T051433SQUARE.png" group-title="Actualités",Brut.
 https://jmp2.uk/stvp-FR700007HY
 #EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="Actualités",Euronews EN DIRECT
@@ -203,8 +203,6 @@ https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 https://jmp2.uk/stvp-FR26000068C
 #EXTINF:-1 channel-id="FR130000539" tvg-id="FR130000539" tvg-chno="4955" tvg-name="Dragon TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR130000539_20260707T051643SQUARE.png" group-title="Cinéma",Dragon TV
 https://jmp2.uk/stvp-FR130000539
-#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="Drames - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="Cinéma",Drames - Rakuten TV
-https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="FR2600001PI" tvg-id="FR2600001PI" tvg-chno="4852" tvg-name="Famille - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20251230T031018SQUARE.png" group-title="Cinéma",Famille - Rakuten TV
 https://jmp2.uk/stvp-FR2600001PI
 #EXTINF:-1 channel-id="FR2600002X9" tvg-id="FR2600002X9" tvg-chno="4987" tvg-name="Films d'action - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600002X9_20260707T051704SQUARE.png" group-title="Cinéma",Films d'action - Rakuten TV
@@ -471,8 +469,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://jmp2.uk/stvp-FR1600002TT
 #EXTINF:-1 channel-id="FR2200004HP" tvg-id="FR2200004HP" tvg-chno="4806" tvg-name="Masha et Michka" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200004HP_20260721T035836SQUARE.png" group-title="Jeunesse",Masha et Michka
 https://jmp2.uk/stvp-FR2200004HP
-#EXTINF:-1 channel-id="FR2100002YW" tvg-id="FR2100002YW" tvg-chno="4820" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100002YW_20260901T054517SQUARE.png" group-title="Jeunesse",Pingu
-https://jmp2.uk/stvp-FR2100002YW
 #EXTINF:-1 channel-id="FR700001VJ" tvg-id="FR700001VJ" tvg-chno="4779" tvg-name="Pocoyo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20251111T012101SQUARE.png" group-title="Jeunesse",Pocoyo
 https://jmp2.uk/stvp-FR700001VJ
 #EXTINF:-1, tvg-id="SouthPark.us@France" tvg-logo="https://i.imgur.com/qA3KsTh.png" tvg-name="SOUTH PARK"  group-title="JEUNESSE",SOUTH PARK
@@ -545,6 +541,8 @@ https://jmp2.uk/stvp-FR7000053L
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 channel-id="FR4000005KE" tvg-id="FR4000005KE" tvg-chno="4004" tvg-name="Skyrock" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20260707T051753SQUARE.png" group-title="Musique et ambiance",Skyrock
 https://jmp2.uk/stvp-FR4000005KE
+#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260916T012220SQUARE.png" group-title="Musique et ambiance",SMTOWN
+https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 channel-id="FR1800010TC" tvg-id="FR1800010TC" tvg-chno="4766" tvg-name="Spring Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800010TC_20260528T055500SQUARE.png" group-title="Musique et ambiance",Spring Vibes
 https://jmp2.uk/stvp-FR1800010TC
 #EXTINF:-1 channel-id="FR1900002I8" tvg-id="FR1900002I8" tvg-chno="4764" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1900002I8_20260528T055512SQUARE.png" group-title="Musique et ambiance",Storm Vibes
