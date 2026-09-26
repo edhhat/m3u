@@ -57,7 +57,7 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1, tvg-id="FR2600002X9" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e87ece78-2a31-4a08-a673-6d08bb8f8a06-films-d-action-rakuten-tv-1621956489.png" tvg-name="RAKUTEN ACTION"  group-title="3 Cinema",RAKUTEN ACTION
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="RAKUTEN DRAMES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="3 Cinema",.RAKUTEN DRAMES
+#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="RAKUTEN DRAMES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="3 Cinema",RAKUTEN DRAMES
 https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="FR2600009UG" tvg-id="FR2600009UG" tvg-chno="4305" tvg-name="RAKUTEN CRIME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" group-title="3 Cinema",RAKUTEN CRIME
 https://jmp2.uk/stvp-FR2600009UG
@@ -499,8 +499,6 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" tvg-chno="370" tvg-name="Ciné Western by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="All",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 channel-id="FR3900001AC" tvg-id="FR3900001AC" tvg-chno="4750" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20260915T040118SQUARE.png" group-title="All",CJ ENM K-POP
-https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1, tvg-id="cnews.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/54/Canal_News_logo.svg.png/revision/latest?cb=20190726111247&path-prefix=fr" tvg-name="CNEWS"  group-title="All",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1, tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-226.png" tvg-name="CNEWS FHD"  group-title="All",CNEWS FHD
@@ -571,6 +569,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://jmp2.uk/stvp-FR130000539
 #EXTINF:-1, tvg-id="Drames.fr" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3048e7b4-f088-4f7f-a693-3bf229c1a920-drames-rakuten-tv-1621956482-width200-quality100.jpeg" tvg-name="DRAMES"  group-title="All",DRAMES
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8#origine-718=https://tvradiozap.eu
+#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="Drames - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="All",Drames - Rakuten TV
+https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="FRBD3600001BQ" tvg-id="FRBD3600001BQ" tvg-chno="4662" tvg-name="Drive TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" group-title="All",Drive TV
 https://jmp2.uk/stvp-FRBD3600001BQ
 #EXTINF:-1 channel-id="63b578b524f0cf00072f2a52" tvg-id="63b578b524f0cf00072f2a52" tvg-chno="915" tvg-name="Echappées Belles & Co" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="All",Echappées Belles & Co
@@ -589,8 +589,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 #EXTINF:-1 channel-id="60d35bcaf1ff4a00078af0a6" tvg-id="60d35bcaf1ff4a00078af0a6" tvg-chno="1415" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" group-title="All",Euronews
 https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
-#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="All",Euronews EN DIRECT
-https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1, tvg-id="Eurosport1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Eurosport_1_2022.png/500px-Eurosport_1_2022.png" tvg-name="EUROSPORT 1 HD"  group-title="All",EUROSPORT 1 HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1, tvg-id="Eurosport2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/500px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT 2 HD"  group-title="All",EUROSPORT 2 HD
@@ -839,6 +837,8 @@ http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 https://jmp2.uk/stvp-FR1100001V1
 #EXTINF:-1 channel-id="FRBD15000024B" tvg-id="FRBD15000024B" tvg-chno="4263" tvg-name="Passion Novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png" group-title="All",Passion Novelas
 https://jmp2.uk/stvp-FRBD15000024B
+#EXTINF:-1 channel-id="FR2100002YW" tvg-id="FR2100002YW" tvg-chno="4820" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100002YW_20260901T054517SQUARE.png" group-title="All",Pingu
+https://jmp2.uk/stvp-FR2100002YW
 #EXTINF:-1 channel-id="692ec71425eaa17b6daf2a11" tvg-id="692ec71425eaa17b6daf2a11" tvg-chno="22" tvg-name="PJ" tvg-logo="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/colorLogoPNG_1778222500950.png" group-title="All",PJ
 https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8
 #EXTINF:-1 channel-id="FRBD37000020Y" tvg-id="FRBD37000020Y" tvg-chno="4007" tvg-name="Plus belle la vie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20260113T032405SQUARE.png" group-title="All",Plus belle la vie
@@ -993,8 +993,6 @@ https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
 https://jmp2.uk/stvp-FR3400002VW
 #EXTINF:-1 channel-id="FR4000005KE" tvg-id="FR4000005KE" tvg-chno="4004" tvg-name="Skyrock" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000005KE_20260707T051753SQUARE.png" group-title="All",Skyrock
 https://jmp2.uk/stvp-FR4000005KE
-#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260916T012220SQUARE.png" group-title="All",SMTOWN
-https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 channel-id="FR12000040D" tvg-id="FR12000040D" tvg-chno="4635" tvg-name="So Foot+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR12000040D_20260528T055451SQUARE.png" group-title="All",So Foot+
 https://jmp2.uk/stvp-FR12000040D
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="SONY ONE FAVORIS"  group-title="All",SONY ONE FAVORIS
@@ -1264,6 +1262,8 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116422
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116421
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/Hpqbt3q/cineprime.png" tvg-name="CINÉ PRIME"  group-title="HS",.CINÉ PRIME
 https://d1epkvgkeqefgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-myfiyxckorqab/257aeb10-abc9-4b30-952c-2c6775eb768d/2.m3u8
+#EXTINF:-1 channel-id="FR3900001AC" tvg-id="FR3900001AC" tvg-chno="4750" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20260915T040118SQUARE.png" group-title="HS",.CJ ENM K-POP
+https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1, tvg-id="clubbingtv.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/CLUBBING_TV_2010.gif/revision/latest?cb=20191025112305" tvg-name="CLUBBING TV"  group-title="HS",.CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 #EXTINF:-1, tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/langfr-330px-CNN_Logo_%282014%29.svg.png" tvg-name="CNN"  group-title="HS",.CNN
@@ -1302,12 +1302,12 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116643
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116644
 #EXTINF:-1, tvg-id="DisneyXD.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/langfr-330px-2015_Disney_XD_logo.svg.png" tvg-name="DISNEY XD HD"  group-title="HS",.DISNEY XD HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116645
-#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="Drames - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="HS",.Drames - Rakuten TV
-https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1, tvg-id="EquinoxeTV.cm" tvg-logo="https://i.imgur.com/GKbnBlo.png" tvg-name="EQUINOX TV"  group-title="HS",.EQUINOX TV
 http://69.64.57.208/equinoxtv/playlist.m3u8
 #EXTINF:-1, tvg-id="ESPN1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/langfr-500px-ESPN_wordmark.svg.png" tvg-name="ESPN 1 HD"  group-title="HS",.ESPN 1 HD
 http://89.105.221.127/ESPN1/index.m3u8?token=test
+#EXTINF:-1 channel-id="FR2600004SS" tvg-id="FR2600004SS" tvg-chno="4560" tvg-name="Euronews EN DIRECT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20260707T051656SQUARE.png" group-title="HS",.Euronews EN DIRECT
+https://jmp2.uk/stvp-FR2600004SS
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/500px-Eurosport_2_Logo_2015.svg.png" tvg-name="EUROSPORT 2 FHD"  group-title="HS",.EUROSPORT 2 FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116568
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png" tvg-name="FAMILY CLUB"  group-title="HS",.FAMILY CLUB
@@ -1426,8 +1426,6 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116416
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116074
 #EXTINF:-1, tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/100x100/0000/00/01/clear-145.png" tvg-name="PARIS PREMIERE"  group-title="HS",.PARIS PREMIERE
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
-#EXTINF:-1 channel-id="FR2100002YW" tvg-id="FR2100002YW" tvg-chno="4820" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100002YW_20260901T054517SQUARE.png" group-title="HS",.Pingu
-https://jmp2.uk/stvp-FR2100002YW
 #EXTINF:-1, tvg-id="PLANÈTEJustice.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete-plus-crime-fr.png" tvg-name="PLANETE+ CIRIME FHD"  group-title="HS",.PLANETE+ CIRIME FHD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116104
 #EXTINF:-1, tvg-id="PLANÈTEJustice.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete-plus-crime-fr.png" tvg-name="PLANETE+ CRIME HD"  group-title="HS",.PLANETE+ CRIME HD
@@ -1474,6 +1472,8 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116614
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116120
 #EXTINF:-1, tvg-id="ScienceEtVieTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/science-and-vie-tv-fr.png" tvg-name="SCIENCE ET VIE HD"  group-title="HS",.SCIENCE ET VIE HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116119
+#EXTINF:-1 channel-id="FR1000001XP" tvg-id="FR1000001XP" tvg-chno="4751" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260916T012220SQUARE.png" group-title="HS",.SMTOWN
+https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 channel-id="FR3000139Z" tvg-id="FR3000139Z" tvg-chno="4996" tvg-name="Sony One Action HITS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20260811T045321SQUARE.png" group-title="HS",.Sony One Action HITS
 https://jmp2.uk/stvp-FR3000139Z
 #EXTINF:-1 channel-id="FR300010HD" tvg-id="FR300010HD" tvg-chno="4237" tvg-name="Sony One Blacklist" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300010HD_20260528T055159SQUARE.png" group-title="HS",.Sony One Blacklist
