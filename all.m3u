@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 https://live1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8#origine-1131=https://tvradiozap.eu
 #EXTINF:-1, tvg-id="France24.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" tvg-name="FRANCE 24"  group-title="ACTUALITES",FRANCE 24
 https://tvradiozap.eu/tv/m3u8/france24.m3u8
+#EXTINF:-1, tvg-id="FranceInfo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/France_Info.png" tvg-name="FRANCEINFO"  group-title="ACTUALITES",FRANCEINFO
+https://tvradiozap.eu/tools/dm-m3u8.php/x4rdeu6.m3u8
 #EXTINF:-1, tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/7/7d/LCP.svg.png/revision/latest?cb=20190726175327&path-prefix=fr" tvg-name="LCP ASSEMBLEE NATIONALE"  group-title="ACTUALITES",LCP ASSEMBLEE NATIONALE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1, tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.f1g.fr/media/cms/1200x630_crop/2020/02/25/208a45754b1eaca8cde5e229bc2c6c5b6df96ca2e40e0ca353a4ee3072891646.jpeg" tvg-name="LE FIGARO HD"  group-title="ACTUALITES",LE FIGARO HD
@@ -55,8 +57,6 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://tvradiozap.eu/tools/dm-m3u8.php/x8dtuir.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://duckduckgo.com/i/54b4f51ce70dd949.png" tvg-name="MEDI1TV AFRIQUE HD"  group-title="ACTUALITES",MEDI1TV AFRIQUE HD
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:-1, tvg-id="PanafricanMediaTV" tvg-logo="https://i.ytimg.com/vi/hVcCCLdrHH8/maxresdefault.jpg" tvg-name="PANAFRICAN MEDIA HD"  group-title="ACTUALITES",PANAFRICAN MEDIA HD
-https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 #EXTINF:-1, tvg-id="publicsenat.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/58/Public_S%C3%A9nat_Logo.svg.png/revision/latest?cb=20190726180120&path-prefix=fr" tvg-name="PUBLIC SENAT"  group-title="ACTUALITES",PUBLIC SENAT
 https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
 #EXTINF:-1, tvg-id="trtfrancais.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/langfr-250px-RT_France.svg.png" tvg-name="RT FRANCE"  group-title="ACTUALITES",RT FRANCE
