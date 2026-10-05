@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-05 10:40:45
+Date : 2026-10-05 22:28:15
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (831 groupes) ===
+=== Xtream compte 1 (829 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -226,7 +226,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| VICTORY+ PPV
     US| VIX+ DEPORTES
     US| WNBA PACKAGE
-  [AUTRES] (618)
+  [AUTRES] (616)
     24/7 ACTION & ADVENTURE VIP
     24/7 CARTOON VIP
     24/7 CLASSIC SHOWS VIP
@@ -707,8 +707,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     NL| MUZIEK
     NL| NEDERLAND UHD 8K
     NL| NEDERLAND ULTRA 4K
-    NL| ODIDO VERMAAK ᴴᴰ ᴳᴼᴸᴰ
-    NL| ODIDO SPORT ᴴᴰ ᴳᴼᴸᴰ
     NL| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ
     NL| RADIO LIVE
     NL| REGIONAAL
