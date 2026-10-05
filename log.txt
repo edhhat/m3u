@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-05 22:28:15
+Date : 2026-10-05 23:09:00
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -892,239 +892,239 @@ XTREAM_GROUPS_EXCLUS = [
 
 === GROUPES RETENUS (228) ===
   [FR] (29)
-    FR| 24/7 BEIN CINEMA ᴿᴬᵂ
-    FR| CANAL PLAY
-    FR| CANAL+ LIVE
-    FR| CARIBBEAN
-    FR| CINE+ PREMIUM
-    FR| DAZN LA LIGA PPV
-    FR| DAZN PPV
-    FR| DISNEY+ PPV
-    FR| DISNEY+ PPV VIP
-    FR| DISNEY+ PPV ⱽᴵᴾ
-    FR| DOCUMENTAIRE HD
-    FR| ENFANTS HD
-    FR| EUROSPORTS 360
-    FR| FRANCE 4K
-    FR| FRANCE FHD
-    FR| FRANCE HD
-    FR| FRANCE LQ
-    FR| FRANCE SPORT VIP ᴿᴬᵂ
-    FR| FRANCE VIP ᴿᴬᵂ
-    FR| L'EQUIPE LIVE
-    FR| LIGUE 1+
-    FR| LIGUE 1+ VIP
-    FR| LUXPLAY VIP
-    FR| MAX PPV
-    FR| MYSPORT PPV
-    FR| PREMIUM PLAY
-    FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    FR| SOCCER PPV
-    FR| SPORTS HD
+    FR| 24/7 BEIN CINEMA ᴿᴬᵂ  (20 chaines)
+    FR| CANAL PLAY  (11 chaines)
+    FR| CANAL+ LIVE  (19 chaines)
+    FR| CARIBBEAN  (163 chaines)
+    FR| CINE+ PREMIUM  (27 chaines)
+    FR| DAZN LA LIGA PPV  (12 chaines)
+    FR| DAZN PPV  (106 chaines)
+    FR| DISNEY+ PPV  (9 chaines)
+    FR| DISNEY+ PPV VIP  (80 chaines)
+    FR| DISNEY+ PPV ⱽᴵᴾ  (51 chaines)
+    FR| DOCUMENTAIRE HD  (42 chaines)
+    FR| ENFANTS HD  (74 chaines)
+    FR| EUROSPORTS 360  (19 chaines)
+    FR| FRANCE 4K  (28 chaines)
+    FR| FRANCE FHD  (171 chaines)
+    FR| FRANCE HD  (199 chaines)
+    FR| FRANCE LQ  (122 chaines)
+    FR| FRANCE SPORT VIP ᴿᴬᵂ  (13 chaines)
+    FR| FRANCE VIP ᴿᴬᵂ  (214 chaines)
+    FR| L'EQUIPE LIVE  (11 chaines)
+    FR| LIGUE 1+  (11 chaines)
+    FR| LIGUE 1+ VIP  (16 chaines)
+    FR| LUXPLAY VIP  (209 chaines)
+    FR| MAX PPV  (101 chaines)
+    FR| MYSPORT PPV  (12 chaines)
+    FR| PREMIUM PLAY  (180 chaines)
+    FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (45 chaines)
+    FR| SOCCER PPV  (201 chaines)
+    FR| SPORTS HD  (76 chaines)
   [BE] (13)
-    BE| ALGEMEEN
-    BE| BELGIUM VIP ᴿᴬᵂ
-    BE| DAZN PPV
-    BE| DAZN PPV VIP
-    BE| DAZN PPV VIP BK
-    BE| DOCUMENTAIRE
-    BE| ENTERTAINMENT
-    BE| KINDEREN
-    BE| PLAY TV ᴿᴬᵂ
-    BE| SPORTS
-    BE| TELENET
-    BE| TELESAT ᴿᴬᵂ
-    BE| WALLONIË
+    BE| ALGEMEEN  (56 chaines)
+    BE| BELGIUM VIP ᴿᴬᵂ  (61 chaines)
+    BE| DAZN PPV  (15 chaines)
+    BE| DAZN PPV VIP  (100 chaines)
+    BE| DAZN PPV VIP BK  (27 chaines)
+    BE| DOCUMENTAIRE  (19 chaines)
+    BE| ENTERTAINMENT  (31 chaines)
+    BE| KINDEREN  (19 chaines)
+    BE| PLAY TV ᴿᴬᵂ  (7 chaines)
+    BE| SPORTS  (30 chaines)
+    BE| TELENET  (27 chaines)
+    BE| TELESAT ᴿᴬᵂ  (38 chaines)
+    BE| WALLONIË  (147 chaines)
   [CA] (21)
-    CANADA ENGLISH
-    CANADA FRENCH
-    CA| AHL PPV
-    CA| AHL TEAM
-    CA| ENGLISH
-    CA| FOREIGN
-    CA| FRENCH
-    CA| KIDS
-    CA| LOCALS
-    CA| OHL PPV
-    CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    CA| QMJHL PPV
-    CA| ROGERS ROGERS SUPER SPORTS
-    CA| SN+ PPV
-    CA| SOCCER PPV
-    CA| SPORT
-    CA| SPORTSNET
-    CA| SPORTSNET PPV
-    CA| STINGRAY
-    CA| TSN+ PPV
-    CA| WHL PPV
+    CANADA ENGLISH  (194 chaines)
+    CANADA FRENCH  (55 chaines)
+    CA| AHL PPV  (47 chaines)
+    CA| AHL TEAM  (32 chaines)
+    CA| ENGLISH  (153 chaines)
+    CA| FOREIGN  (66 chaines)
+    CA| FRENCH  (73 chaines)
+    CA| KIDS  (13 chaines)
+    CA| LOCALS  (58 chaines)
+    CA| OHL PPV  (13 chaines)
+    CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (89 chaines)
+    CA| QMJHL PPV  (13 chaines)
+    CA| ROGERS ROGERS SUPER SPORTS  (39 chaines)
+    CA| SN+ PPV  (100 chaines)
+    CA| SOCCER PPV  (201 chaines)
+    CA| SPORT  (71 chaines)
+    CA| SPORTSNET  (19 chaines)
+    CA| SPORTSNET PPV  (51 chaines)
+    CA| STINGRAY  (32 chaines)
+    CA| TSN+ PPV  (100 chaines)
+    CA| WHL PPV  (13 chaines)
   [UK] (80)
-    UK| 24/7 MOVIES & SERIES
-    UK| AMAZON PRIME +
-    UK| APPLE TV F1 PPV
-    UK| APPLE TV+ SERIES
-    UK| BBC STREAM PPV
-    UK| BBCI
-    UK| BBCIPLAYER SERIES
-    UK| CHAMPIONSHIP
-    UK| CUP GAMES & INTERNATIONAL
-    UK| CYMRU FOOTBALL PPV
-    UK| DAZN PPV
-    UK| DISCOVERY +
-    UK| DOCUMENTARY
-    UK| DOCUMENTARY HEVC
-    UK| ENTERTAINMENT
-    UK| ENTERTAINMENT HEVC
-    UK| EPL PREMIER LEAGUE
-    UK| EPL PREMIER LEAGUE+ PPV
-    UK| ESPN+ PPV
-    UK| EUROSPORT XTRA
-    UK| FA PLAYER
-    UK| FORMULA 1 + MOTOGP
-    UK| GAA GO PPV
-    UK| GENERAL
-    UK| GENERAL HEVC
-    UK| HUB PREMIER PPV
-    UK| ITV X VIP
-    UK| KIDS
-    UK| KIDS HEVC
-    UK| LA LIGA TEAM PPV
-    UK| LEAGUE ONE
-    UK| LEAGUE TWO
-    UK| LIGUE 1 PPV
-    UK| MATCHROOM PPV
-    UK| MAX PPV
-    UK| MAX PPV VIP
-    UK| MC VIDEO ᴴᴰ
-    UK| MOLA PPV
-    UK| MONOMAX PPV
-    UK| MOVIES
-    UK| MOVIES HEVC
-    UK| MUSIC
-    UK| MXGP PPV
-    UK| NATIONAL LEAGUE
-    UK| NETFLIX ORIGINAL
-    UK| NETFLIX PPV
-    UK| NEWS
-    UK| NOW TV
-    UK| PAY PER VIEW PPV
-    UK| PDC BOARD PPV
-    UK| PPV EVENTS
-    UK| PRIME VIDEO SERIES
-    UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    UK| PSF PPV
-    UK| RALLY TV PPV
-    UK| REALITY SHOW TV
-    UK| RUGBY PPV
-    UK| SCOTTISH FOOTBALL
-    UK| SERIE A TEAM PPV
-    UK| SKY SPORT+ VIP
-    UK| SKY SPORTS RED BUTTON
-    UK| SKY STORE
-    UK| SKYMIX DOCS
-    UK| SKYMIX SERIES
-    UK| SOCCER REPLAY
-    UK| SPORTS
-    UK| SPORTS HEVC
-    UK| SUPER LEAGUE+ PPV
-    UK| SUPERCROSS PPV
-    UK| TNT SPORTS EVENT
-    UK| TT RACE PPV
-    UK| UEFA REPLAY
-    UK| UFC/BOXING PPV
-    UK| ULSTER GAA PPV
-    UK| ULTIMATE POOL PPV
-    UK| VIAPLAY PPV
-    UK| VIDIO EPL PPV
-    UK| VOLLEY BALL WORLD PPV
-    UK| WORLD CUP 2026 REPLAY
-    UK| WORLD SPORTS
+    UK| 24/7 MOVIES & SERIES  (320 chaines)
+    UK| AMAZON PRIME +  (52 chaines)
+    UK| APPLE TV F1 PPV  (21 chaines)
+    UK| APPLE TV+ SERIES  (12 chaines)
+    UK| BBC STREAM PPV  (18 chaines)
+    UK| BBCI  (116 chaines)
+    UK| BBCIPLAYER SERIES  (10 chaines)
+    UK| CHAMPIONSHIP  (25 chaines)
+    UK| CUP GAMES & INTERNATIONAL  (62 chaines)
+    UK| CYMRU FOOTBALL PPV  (16 chaines)
+    UK| DAZN PPV  (100 chaines)
+    UK| DISCOVERY +  (12 chaines)
+    UK| DOCUMENTARY  (35 chaines)
+    UK| DOCUMENTARY HEVC  (19 chaines)
+    UK| ENTERTAINMENT  (81 chaines)
+    UK| ENTERTAINMENT HEVC  (19 chaines)
+    UK| EPL PREMIER LEAGUE  (34 chaines)
+    UK| EPL PREMIER LEAGUE+ PPV  (10 chaines)
+    UK| ESPN+ PPV  (111 chaines)
+    UK| EUROSPORT XTRA  (16 chaines)
+    UK| FA PLAYER  (10 chaines)
+    UK| FORMULA 1 + MOTOGP  (39 chaines)
+    UK| GAA GO PPV  (12 chaines)
+    UK| GENERAL  (161 chaines)
+    UK| GENERAL HEVC  (24 chaines)
+    UK| HUB PREMIER PPV  (13 chaines)
+    UK| ITV X VIP  (14 chaines)
+    UK| KIDS  (31 chaines)
+    UK| KIDS HEVC  (11 chaines)
+    UK| LA LIGA TEAM PPV  (20 chaines)
+    UK| LEAGUE ONE  (25 chaines)
+    UK| LEAGUE TWO  (25 chaines)
+    UK| LIGUE 1 PPV  (10 chaines)
+    UK| MATCHROOM PPV  (42 chaines)
+    UK| MAX PPV  (101 chaines)
+    UK| MAX PPV VIP  (30 chaines)
+    UK| MC VIDEO ᴴᴰ  (25 chaines)
+    UK| MOLA PPV  (13 chaines)
+    UK| MONOMAX PPV  (32 chaines)
+    UK| MOVIES  (68 chaines)
+    UK| MOVIES HEVC  (25 chaines)
+    UK| MUSIC  (43 chaines)
+    UK| MXGP PPV  (31 chaines)
+    UK| NATIONAL LEAGUE  (38 chaines)
+    UK| NETFLIX ORIGINAL  (27 chaines)
+    UK| NETFLIX PPV  (11 chaines)
+    UK| NEWS  (39 chaines)
+    UK| NOW TV  (149 chaines)
+    UK| PAY PER VIEW PPV  (21 chaines)
+    UK| PDC BOARD PPV  (8 chaines)
+    UK| PPV EVENTS  (63 chaines)
+    UK| PRIME VIDEO SERIES  (12 chaines)
+    UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (111 chaines)
+    UK| PSF PPV  (15 chaines)
+    UK| RALLY TV PPV  (21 chaines)
+    UK| REALITY SHOW TV  (19 chaines)
+    UK| RUGBY PPV  (24 chaines)
+    UK| SCOTTISH FOOTBALL  (18 chaines)
+    UK| SERIE A TEAM PPV  (20 chaines)
+    UK| SKY SPORT+ VIP  (40 chaines)
+    UK| SKY SPORTS RED BUTTON  (19 chaines)
+    UK| SKY STORE  (32 chaines)
+    UK| SKYMIX DOCS  (16 chaines)
+    UK| SKYMIX SERIES  (17 chaines)
+    UK| SOCCER REPLAY  (108 chaines)
+    UK| SPORTS  (85 chaines)
+    UK| SPORTS HEVC  (54 chaines)
+    UK| SUPER LEAGUE+ PPV  (6 chaines)
+    UK| SUPERCROSS PPV  (3 chaines)
+    UK| TNT SPORTS EVENT  (18 chaines)
+    UK| TT RACE PPV  (5 chaines)
+    UK| UEFA REPLAY  (33 chaines)
+    UK| UFC/BOXING PPV  (18 chaines)
+    UK| ULSTER GAA PPV  (10 chaines)
+    UK| ULTIMATE POOL PPV  (11 chaines)
+    UK| VIAPLAY PPV  (56 chaines)
+    UK| VIDIO EPL PPV  (35 chaines)
+    UK| VOLLEY BALL WORLD PPV  (31 chaines)
+    UK| WORLD CUP 2026 REPLAY  (16 chaines)
+    UK| WORLD SPORTS  (71 chaines)
   [US] (64)
-    UNITED STATES
-    US| ABC NETWORK
-    US| APPLE TV F1 PPV
-    US| B/R MAX SPORTS PPV
-    US| B1G+ PPV
-    US| BIBLICAL/RELIGIOUS
-    US| BTN+ PPV
-    US| CBS NETWORK
-    US| CINEMANIA HOLLYWOOD
-    US| CINEMANIA TV SHOWS
-    US| CW/MY NETWORK
-    US| DAZN PPV
-    US| DIRTVISION PPV
-    US| DISNEY+ NETWORK
-    US| ENTERTAINMENT
-    US| ESPN PLAY
-    US| ESPN PLUS
-    US| ESPN+ PPV VIP
-    US| HBO MAX NETWORK
-    US| HULU NETWORK
-    US| KIDS NETWORK
-    US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    US| MAX PPV
-    US| MILB TV PPV
-    US| MLB PACKAGE
-    US| MLS NETWORK
-    US| MLS PPV
-    US| MLS PPV VIP
-    US| MOVIES NETWORK
-    US| NBA NETWORK VIP
-    US| NBA PACKAGE
-    US| NBC NETWORK
-    US| NCAAB PACKAGE
-    US| NCAAF PACKAGE
-    US| NETFLIX ON AIR ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    US| NETFLIX PPV
-    US| NEWS NETWORK
-    US| NFHS PPV
-    US| NFL NETWORK HULU
-    US| NFL PACKAGE
-    US| NHL PACKAGE
-    US| PARAMOUNT+
-    US| PARAMOUNT+ PPV
-    US| PARAMOUNT+ PPV VIP
-    US| PARAMOUNT+ PPV ᴿᴬᵂ
-    US| PBS NETWORK
-    US| PEACOCK NETWORK
-    US| PEACOCK PPV
-    US| PLUTO TV
-    US| PRIME
-    US| SOCCER PPV
-    US| SPECTRUM NETWORK
-    US| SPORTS NETWORK
-    US| STAN PPV
-    US| TELEMUNDO NETWORK
-    US| TENNIS CHANNEL PLUS
-    US| TENNIS PPV
-    US| TUBI ᴿᴬᵂ
-    US| TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    US| TV ᶜᶦᵗʸ ᴿᴬᵂ ⁶⁰ᶠᵖˢ
-    US| VIAPLAY NHL PPV
-    US| VICTORY+ PPV
-    US| VIX+ DEPORTES
-    US| WNBA PACKAGE
+    UNITED STATES  (261 chaines)
+    US| ABC NETWORK  (218 chaines)
+    US| APPLE TV F1 PPV  (21 chaines)
+    US| B/R MAX SPORTS PPV  (12 chaines)
+    US| B1G+ PPV  (51 chaines)
+    US| BIBLICAL/RELIGIOUS  (10 chaines)
+    US| BTN+ PPV  (100 chaines)
+    US| CBS NETWORK  (224 chaines)
+    US| CINEMANIA HOLLYWOOD  (61 chaines)
+    US| CINEMANIA TV SHOWS  (321 chaines)
+    US| CW/MY NETWORK  (92 chaines)
+    US| DAZN PPV  (100 chaines)
+    US| DIRTVISION PPV  (9 chaines)
+    US| DISNEY+ NETWORK  (14 chaines)
+    US| ENTERTAINMENT  (215 chaines)
+    US| ESPN PLAY  (98 chaines)
+    US| ESPN PLUS  (500 chaines)
+    US| ESPN+ PPV VIP  (1001 chaines)
+    US| HBO MAX NETWORK  (19 chaines)
+    US| HULU NETWORK  (21 chaines)
+    US| KIDS NETWORK  (32 chaines)
+    US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (10 chaines)
+    US| MAX PPV  (41 chaines)
+    US| MILB TV PPV  (100 chaines)
+    US| MLB PACKAGE  (50 chaines)
+    US| MLS NETWORK  (46 chaines)
+    US| MLS PPV  (50 chaines)
+    US| MLS PPV VIP  (51 chaines)
+    US| MOVIES NETWORK  (74 chaines)
+    US| NBA NETWORK VIP  (21 chaines)
+    US| NBA PACKAGE  (68 chaines)
+    US| NBC NETWORK  (249 chaines)
+    US| NCAAB PACKAGE  (101 chaines)
+    US| NCAAF PACKAGE  (71 chaines)
+    US| NETFLIX ON AIR ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (135 chaines)
+    US| NETFLIX PPV  (13 chaines)
+    US| NEWS NETWORK  (69 chaines)
+    US| NFHS PPV  (101 chaines)
+    US| NFL NETWORK HULU  (93 chaines)
+    US| NFL PACKAGE  (78 chaines)
+    US| NHL PACKAGE  (72 chaines)
+    US| PARAMOUNT+  (12 chaines)
+    US| PARAMOUNT+ PPV  (301 chaines)
+    US| PARAMOUNT+ PPV VIP  (100 chaines)
+    US| PARAMOUNT+ PPV ᴿᴬᵂ  (100 chaines)
+    US| PBS NETWORK  (33 chaines)
+    US| PEACOCK NETWORK  (13 chaines)
+    US| PEACOCK PPV  (100 chaines)
+    US| PLUTO TV  (18 chaines)
+    US| PRIME  (675 chaines)
+    US| SOCCER PPV  (201 chaines)
+    US| SPECTRUM NETWORK  (59 chaines)
+    US| SPORTS NETWORK  (103 chaines)
+    US| STAN PPV  (100 chaines)
+    US| TELEMUNDO NETWORK  (78 chaines)
+    US| TENNIS CHANNEL PLUS  (100 chaines)
+    US| TENNIS PPV  (30 chaines)
+    US| TUBI ᴿᴬᵂ  (144 chaines)
+    US| TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (404 chaines)
+    US| TV ᶜᶦᵗʸ ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (146 chaines)
+    US| VIAPLAY NHL PPV  (30 chaines)
+    US| VICTORY+ PPV  (100 chaines)
+    US| VIX+ DEPORTES  (20 chaines)
+    US| WNBA PACKAGE  (10 chaines)
   [AUTRES] (21)
-    AFR| AZAM NETWORK VIP
-    AFR| CANAL+
-    AFR| DSTV NETWORK
-    AFR| ETHOPIA
-    AFR| GENERAL
-    AFR| MAURITIUS
-    AFR| SOMALI
-    CH| SWITZERLAND
-    CRB| AMP
-    CRB| ESPN PLAY PPV
-    CRB| HAITI
-    EU| LUXEMBOURG
-    IR| CLUBBER PPV
-    IR| IRAN
-    IR| IRAN MOVIES 24/7
-    IR| IRELAND
-    IR| LOI PPV
-    IR| NIFL PPV
-    IR| SETANTA PPV
-    RO| FOCUS SAT VIP
-    TR| COCUK & DINI
+    AFR| AZAM NETWORK VIP  (88 chaines)
+    AFR| CANAL+  (118 chaines)
+    AFR| DSTV NETWORK  (157 chaines)
+    AFR| ETHOPIA  (8 chaines)
+    AFR| GENERAL  (388 chaines)
+    AFR| MAURITIUS  (6 chaines)
+    AFR| SOMALI  (21 chaines)
+    CH| SWITZERLAND  (100 chaines)
+    CRB| AMP  (131 chaines)
+    CRB| ESPN PLAY PPV  (101 chaines)
+    CRB| HAITI  (62 chaines)
+    EU| LUXEMBOURG  (6 chaines)
+    IR| CLUBBER PPV  (20 chaines)
+    IR| IRAN  (241 chaines)
+    IR| IRAN MOVIES 24/7  (21 chaines)
+    IR| IRELAND  (16 chaines)
+    IR| LOI PPV  (15 chaines)
+    IR| NIFL PPV  (8 chaines)
+    IR| SETANTA PPV  (30 chaines)
+    RO| FOCUS SAT VIP  (87 chaines)
+    TR| COCUK & DINI  (23 chaines)
 
 === GROUPES EXCLUS presents sur le compte (6) ===
     US| FIFA+ PPV
