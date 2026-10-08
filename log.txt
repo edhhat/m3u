@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-07 07:01:38
+Date : 2026-10-08 03:05:08
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -913,34 +913,34 @@ XTREAM_GROUPS_EXCLUS = [
     FR| EUROSPORTS 360  (19 chaines)
     FR| FRANCE 4K  (28 chaines)
     FR| FRANCE FHD  (171 chaines)
-    FR| FRANCE HD  (199 chaines)
+    FR| FRANCE HD  (200 chaines)
     FR| FRANCE LQ  (122 chaines)
     FR| FRANCE SPORT VIP ᴿᴬᵂ  (13 chaines)
     FR| FRANCE VIP ᴿᴬᵂ  (214 chaines)
     FR| L'EQUIPE LIVE  (11 chaines)
-    FR| LIGUE 1+  (0 chaines)  !! ERREUR HTTP 403
+    FR| LIGUE 1+  (11 chaines)
     FR| LIGUE 1+ VIP  (16 chaines)
     FR| LUXPLAY VIP  (209 chaines)
     FR| MAX PPV  (101 chaines)
-    FR| MYSPORT PPV  (0 chaines)  !! ERREUR HTTP 403
+    FR| MYSPORT PPV  (12 chaines)
     FR| PREMIUM PLAY  (180 chaines)
-    FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (0 chaines)  !! ERREUR HTTP 403
+    FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (45 chaines)
     FR| SOCCER PPV  (201 chaines)
-    FR| SPORTS HD  (0 chaines)  !! ERREUR HTTP 403
+    FR| SPORTS HD  (76 chaines)
   [BE] (13)
     BE| ALGEMEEN  (56 chaines)
     BE| BELGIUM VIP ᴿᴬᵂ  (61 chaines)
     BE| DAZN PPV  (15 chaines)
-    BE| DAZN PPV VIP  (0 chaines)  !! ERREUR HTTP 403
+    BE| DAZN PPV VIP  (100 chaines)
     BE| DAZN PPV VIP BK  (27 chaines)
     BE| DOCUMENTAIRE  (19 chaines)
     BE| ENTERTAINMENT  (31 chaines)
     BE| KINDEREN  (19 chaines)
     BE| PLAY TV ᴿᴬᵂ  (7 chaines)
-    BE| SPORTS  (0 chaines)  !! ERREUR HTTP 403
+    BE| SPORTS  (30 chaines)
     BE| TELENET  (27 chaines)
     BE| TELESAT ᴿᴬᵂ  (38 chaines)
-    BE| WALLONIË  (0 chaines)  !! ERREUR HTTP 403
+    BE| WALLONIË  (147 chaines)
   [CA] (21)
     CANADA ENGLISH  (194 chaines)
     CANADA FRENCH  (55 chaines)
@@ -948,16 +948,16 @@ XTREAM_GROUPS_EXCLUS = [
     CA| AHL TEAM  (32 chaines)
     CA| ENGLISH  (153 chaines)
     CA| FOREIGN  (66 chaines)
-    CA| FRENCH  (0 chaines)  !! ERREUR HTTP 403
+    CA| FRENCH  (73 chaines)
     CA| KIDS  (13 chaines)
     CA| LOCALS  (58 chaines)
-    CA| OHL PPV  (0 chaines)  !! ERREUR HTTP 403
-    CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (0 chaines)  !! ERREUR HTTP 403
+    CA| OHL PPV  (13 chaines)
+    CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (89 chaines)
     CA| QMJHL PPV  (13 chaines)
     CA| ROGERS ROGERS SUPER SPORTS  (39 chaines)
     CA| SN+ PPV  (100 chaines)
     CA| SOCCER PPV  (201 chaines)
-    CA| SPORT  (71 chaines)
+    CA| SPORT  (73 chaines)
     CA| SPORTSNET  (19 chaines)
     CA| SPORTSNET PPV  (51 chaines)
     CA| STINGRAY  (32 chaines)
@@ -968,16 +968,16 @@ XTREAM_GROUPS_EXCLUS = [
     UK| AMAZON PRIME +  (52 chaines)
     UK| APPLE TV F1 PPV  (21 chaines)
     UK| APPLE TV+ SERIES  (12 chaines)
-    UK| BBC STREAM PPV  (0 chaines)  !! ERREUR HTTP 403
+    UK| BBC STREAM PPV  (18 chaines)
     UK| BBCI  (116 chaines)
     UK| BBCIPLAYER SERIES  (10 chaines)
     UK| CHAMPIONSHIP  (25 chaines)
-    UK| CUP GAMES & INTERNATIONAL  (0 chaines)  !! ERREUR HTTP 403
+    UK| CUP GAMES & INTERNATIONAL  (62 chaines)
     UK| CYMRU FOOTBALL PPV  (16 chaines)
     UK| DAZN PPV  (100 chaines)
     UK| DISCOVERY +  (12 chaines)
     UK| DOCUMENTARY  (35 chaines)
-    UK| DOCUMENTARY HEVC  (0 chaines)  !! ERREUR HTTP 403
+    UK| DOCUMENTARY HEVC  (19 chaines)
     UK| ENTERTAINMENT  (81 chaines)
     UK| ENTERTAINMENT HEVC  (19 chaines)
     UK| EPL PREMIER LEAGUE  (34 chaines)
@@ -990,7 +990,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| GENERAL  (161 chaines)
     UK| GENERAL HEVC  (24 chaines)
     UK| HUB PREMIER PPV  (13 chaines)
-    UK| ITV X VIP  (0 chaines)  !! ERREUR HTTP 403
+    UK| ITV X VIP  (14 chaines)
     UK| KIDS  (31 chaines)
     UK| KIDS HEVC  (11 chaines)
     UK| LA LIGA TEAM PPV  (20 chaines)
@@ -999,31 +999,31 @@ XTREAM_GROUPS_EXCLUS = [
     UK| LIGUE 1 PPV  (10 chaines)
     UK| MATCHROOM PPV  (42 chaines)
     UK| MAX PPV  (101 chaines)
-    UK| MAX PPV VIP  (0 chaines)  !! ERREUR HTTP 403
+    UK| MAX PPV VIP  (30 chaines)
     UK| MC VIDEO ᴴᴰ  (25 chaines)
     UK| MOLA PPV  (13 chaines)
     UK| MONOMAX PPV  (32 chaines)
     UK| MOVIES  (68 chaines)
     UK| MOVIES HEVC  (25 chaines)
     UK| MUSIC  (43 chaines)
-    UK| MXGP PPV  (0 chaines)  !! ERREUR HTTP 403
+    UK| MXGP PPV  (31 chaines)
     UK| NATIONAL LEAGUE  (38 chaines)
     UK| NETFLIX ORIGINAL  (27 chaines)
     UK| NETFLIX PPV  (11 chaines)
     UK| NEWS  (39 chaines)
     UK| NOW TV  (149 chaines)
     UK| PAY PER VIEW PPV  (21 chaines)
-    UK| PDC BOARD PPV  (0 chaines)  !! ERREUR HTTP 403
+    UK| PDC BOARD PPV  (8 chaines)
     UK| PPV EVENTS  (63 chaines)
     UK| PRIME VIDEO SERIES  (12 chaines)
     UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (111 chaines)
     UK| PSF PPV  (15 chaines)
     UK| RALLY TV PPV  (21 chaines)
     UK| REALITY SHOW TV  (19 chaines)
-    UK| RUGBY PPV  (0 chaines)  !! ERREUR HTTP 403
+    UK| RUGBY PPV  (24 chaines)
     UK| SCOTTISH FOOTBALL  (18 chaines)
     UK| SERIE A TEAM PPV  (20 chaines)
-    UK| SKY SPORT+ VIP  (0 chaines)  !! ERREUR HTTP 403
+    UK| SKY SPORT+ VIP  (40 chaines)
     UK| SKY SPORTS RED BUTTON  (19 chaines)
     UK| SKY STORE  (32 chaines)
     UK| SKYMIX DOCS  (16 chaines)
@@ -1037,12 +1037,12 @@ XTREAM_GROUPS_EXCLUS = [
     UK| TT RACE PPV  (5 chaines)
     UK| UEFA REPLAY  (33 chaines)
     UK| UFC/BOXING PPV  (18 chaines)
-    UK| ULSTER GAA PPV  (0 chaines)  !! ERREUR HTTP 403
+    UK| ULSTER GAA PPV  (10 chaines)
     UK| ULTIMATE POOL PPV  (11 chaines)
-    UK| VIAPLAY PPV  (0 chaines)  !! ERREUR HTTP 403
+    UK| VIAPLAY PPV  (56 chaines)
     UK| VIDIO EPL PPV  (35 chaines)
     UK| VOLLEY BALL WORLD PPV  (31 chaines)
-    UK| WORLD CUP 2026 REPLAY  (0 chaines)  !! ERREUR HTTP 403
+    UK| WORLD CUP 2026 REPLAY  (16 chaines)
     UK| WORLD SPORTS  (71 chaines)
   [US] (64)
     UNITED STATES  (261 chaines)
@@ -1050,21 +1050,21 @@ XTREAM_GROUPS_EXCLUS = [
     US| APPLE TV F1 PPV  (21 chaines)
     US| B/R MAX SPORTS PPV  (12 chaines)
     US| B1G+ PPV  (51 chaines)
-    US| BIBLICAL/RELIGIOUS  (0 chaines)  !! ERREUR HTTP 403
+    US| BIBLICAL/RELIGIOUS  (10 chaines)
     US| BTN+ PPV  (100 chaines)
     US| CBS NETWORK  (224 chaines)
     US| CINEMANIA HOLLYWOOD  (61 chaines)
     US| CINEMANIA TV SHOWS  (321 chaines)
     US| CW/MY NETWORK  (92 chaines)
     US| DAZN PPV  (100 chaines)
-    US| DIRTVISION PPV  (0 chaines)  !! ERREUR HTTP 403
+    US| DIRTVISION PPV  (9 chaines)
     US| DISNEY+ NETWORK  (14 chaines)
     US| ENTERTAINMENT  (215 chaines)
     US| ESPN PLAY  (98 chaines)
     US| ESPN PLUS  (500 chaines)
     US| ESPN+ PPV VIP  (1001 chaines)
     US| HBO MAX NETWORK  (19 chaines)
-    US| HULU NETWORK  (0 chaines)  !! ERREUR HTTP 403
+    US| HULU NETWORK  (21 chaines)
     US| KIDS NETWORK  (32 chaines)
     US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (10 chaines)
     US| MAX PPV  (41 chaines)
@@ -1075,7 +1075,7 @@ XTREAM_GROUPS_EXCLUS = [
     US| MLS PPV VIP  (51 chaines)
     US| MOVIES NETWORK  (74 chaines)
     US| NBA NETWORK VIP  (21 chaines)
-    US| NBA PACKAGE  (0 chaines)  !! ERREUR HTTP 403
+    US| NBA PACKAGE  (68 chaines)
     US| NBC NETWORK  (249 chaines)
     US| NCAAB PACKAGE  (101 chaines)
     US| NCAAF PACKAGE  (71 chaines)
@@ -1083,24 +1083,24 @@ XTREAM_GROUPS_EXCLUS = [
     US| NETFLIX PPV  (13 chaines)
     US| NEWS NETWORK  (69 chaines)
     US| NFHS PPV  (101 chaines)
-    US| NFL NETWORK HULU  (0 chaines)  !! ERREUR HTTP 403
+    US| NFL NETWORK HULU  (93 chaines)
     US| NFL PACKAGE  (78 chaines)
     US| NHL PACKAGE  (72 chaines)
     US| PARAMOUNT+  (12 chaines)
     US| PARAMOUNT+ PPV  (301 chaines)
     US| PARAMOUNT+ PPV VIP  (100 chaines)
-    US| PARAMOUNT+ PPV ᴿᴬᵂ  (0 chaines)  !! ERREUR HTTP 403
+    US| PARAMOUNT+ PPV ᴿᴬᵂ  (100 chaines)
     US| PBS NETWORK  (33 chaines)
     US| PEACOCK NETWORK  (13 chaines)
     US| PEACOCK PPV  (100 chaines)
     US| PLUTO TV  (18 chaines)
     US| PRIME  (675 chaines)
     US| SOCCER PPV  (201 chaines)
-    US| SPECTRUM NETWORK  (0 chaines)  !! ERREUR HTTP 403
+    US| SPECTRUM NETWORK  (59 chaines)
     US| SPORTS NETWORK  (103 chaines)
     US| STAN PPV  (100 chaines)
-    US| TELEMUNDO NETWORK  (0 chaines)  !! ERREUR HTTP 403
-    US| TENNIS CHANNEL PLUS  (0 chaines)  !! ERREUR HTTP 403
+    US| TELEMUNDO NETWORK  (78 chaines)
+    US| TENNIS CHANNEL PLUS  (100 chaines)
     US| TENNIS PPV  (30 chaines)
     US| TUBI ᴿᴬᵂ  (144 chaines)
     US| TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (404 chaines)
@@ -1114,13 +1114,13 @@ XTREAM_GROUPS_EXCLUS = [
     AFR| CANAL+  (118 chaines)
     AFR| DSTV NETWORK  (157 chaines)
     AFR| ETHOPIA  (8 chaines)
-    AFR| GENERAL  (0 chaines)  !! ERREUR HTTP 403
+    AFR| GENERAL  (388 chaines)
     AFR| MAURITIUS  (6 chaines)
     AFR| SOMALI  (21 chaines)
-    CH| SWITZERLAND  (0 chaines)  !! ERREUR HTTP 403
-    CRB| AMP  (0 chaines)  !! ERREUR HTTP 403
+    CH| SWITZERLAND  (100 chaines)
+    CRB| AMP  (131 chaines)
     CRB| ESPN PLAY PPV  (101 chaines)
-    CRB| HAITI  (0 chaines)  !! ERREUR HTTP 403
+    CRB| HAITI  (62 chaines)
     EU| LUXEMBOURG  (6 chaines)
     IR| CLUBBER PPV  (20 chaines)
     IR| IRAN  (241 chaines)
