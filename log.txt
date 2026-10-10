@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-09 11:09:50
+Date : 2026-10-10 00:05:30
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -901,7 +901,7 @@ XTREAM_GROUPS_EXCLUS = [
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ  (20 chaines)
     FR| CANAL PLAY  (11 chaines)
     FR| CANAL+ LIVE  (19 chaines)
-    FR| CARIBBEAN  (163 chaines)
+    FR| CARIBBEAN  (162 chaines)
     FR| CINE+ PREMIUM  (27 chaines)
     FR| DAZN LA LIGA PPV  (12 chaines)
     FR| DAZN PPV  (106 chaines)
