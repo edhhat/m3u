@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-10 06:53:17
+Date : 2026-10-11 06:48:27
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (835 groupes) ===
+=== Xtream compte 1 (834 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -38,10 +38,9 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ
     FR| SOCCER PPV
     FR| SPORTS HD
-  [BE] (13)
+  [BE] (12)
     BE| ALGEMEEN
     BE| BELGIUM VIP ᴿᴬᵂ
-    BE| DAZN PPV
     BE| DAZN PPV VIP
     BE| DAZN PPV VIP BK
     BE| DOCUMENTAIRE
@@ -896,7 +895,7 @@ XTREAM_GROUPS_EXCLUS = [
 # Xtream compte 1 - AVEC FILTRE
 ################################################################################
 
-=== GROUPES RETENUS (228) ===
+=== GROUPES RETENUS (227) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ  (20 chaines)
     FR| CANAL PLAY  (11 chaines)
@@ -927,10 +926,9 @@ XTREAM_GROUPS_EXCLUS = [
     FR| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (45 chaines)
     FR| SOCCER PPV  (201 chaines)
     FR| SPORTS HD  (76 chaines)
-  [BE] (13)
+  [BE] (12)
     BE| ALGEMEEN  (56 chaines)
     BE| BELGIUM VIP ᴿᴬᵂ  (61 chaines)
-    BE| DAZN PPV  (15 chaines)
     BE| DAZN PPV VIP  (100 chaines)
     BE| DAZN PPV VIP BK  (27 chaines)
     BE| DOCUMENTAIRE  (19 chaines)
