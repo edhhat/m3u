@@ -57,7 +57,6 @@
 "Ciné Thrillers by Pluto TV",{group:"0 Gratuit"}
 "Ciné Action by Pluto TV",{group:"0 Gratuit"}
 "Pluto TV Comédies Cultes",{group:"0 Gratuit"}
-"Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
 "Le Meilleur de la TV Réalité",{group:"0 Gratuit"}
 "Ciné Rétro by Pluto TV",{group:"0 Gratuit"}
@@ -66,13 +65,10 @@
 "Ciné Romance by Pluto TV",{group:"0 Gratuit"}
 "Ciné Catastrophe by Pluto TV",{group:"0 Gratuit"}
 "Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
-"Horrorland by Pluto TV",{group:"0 Gratuit"}
-"Ciné 666 by Pluto TV",{group:"0 Gratuit"}
-  
-"Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Ciné d'Asie by Pluto TV",{group:"0 Gratuit"}
 "Ciné Western by Pluto TV",{group:"0 Gratuit"}
 "Scream'IN",{group:"0 Gratuit"}
+  
 "Shark TV",{group:"0 Gratuit"}
 "The Asylum",{group:"0 Gratuit"}
 "MyTime Movie Network",{group:"0 Gratuit"}
@@ -80,27 +76,26 @@
 "TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"0 Gratuit"}
 "FR| ABXPLORE HD ᴿᴬᵂ" ,{exact}, {tvg-id:"ABXploreFR.fr"}            ,{group:"0 Gratuit"}
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
-
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 "BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 "Wasabi la chaîne anime (1080p)",{tvg-id:"Wasabi.fr"},{group:"0 Gratuit"}
-"TV BREIZH","FR| TV BREIZH FHD",{tvg-id:"TvBreizh.fr"},{group:"0 Gratuit"}
-"FR| TNH HAITI",{tvg-id:"TNHHAITI.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
-
-"FR| TV METROPOLE",{tvg-id:"METROPOLE.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
-"HT| TELE GINEN",{tvg-id:"TELE GINEN.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
-"FR| CANAL+BOX OFFICE HD",{tvg-id:"CANAL+BOXOFFICE.mq"},{canal-epg:"CANAL+ BOX OFFICE"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+0"},{group:"0 Gratuit"}
 "FR| CANAL+ HD",{tvg-id:"CanalPlus.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+5"},{group:"0 Gratuit"}
+
 "Pluto TV Retro Toons",{group:"0 Gratuit"}
 "Pluto TV Toons",{group:"0 Gratuit"}
 "MacGyver",{group:"0 Gratuit"}
+
 "CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"0 Gratuit"}
 "CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
 "NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
-"Box Office Thriller",{group:"0 Gratuit"}
 "Films d'action - Rakuten TV",{group:"0 Gratuit"}
+"Drames - Rakuten TV",{group:"0 Gratuit"}
+"Comédies - Rakuten TV",{group:"0 Gratuit"}
+"Famille - Rakuten TV",{group:"0 Gratuit"}
+"Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
+"Action Totale",{group:"0 Gratuit"}
 
 
 
@@ -715,14 +710,9 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"Drames - Rakuten TV",{group:"0 Gratuit"}
+"Crime - Rakuten TV",{group:"0 Gratuit"}
 
 # fin de liste
-"Comédies - Rakuten TV",{group:"0 Gratuit"}
-"Famille - Rakuten TV",{group:"0 Gratuit"}
-"Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
-"Action Totale",{group:"0 Gratuit"}
-"Crime - Rakuten TV",{group:"0 Gratuit"}
 "Wild Side TV",{group:"0 Gratuit"}
 "Runtime",{group:"0 Gratuit"}
 "Shadowz",{group:"0 Gratuit"}
@@ -746,7 +736,6 @@
 "A12 (CI)",{exact},{group:"0 Gratuit"}
 "IVOIRE CHANNEL (CI)",{exact},{group:"0 Gratuit"}
 "M6 INTERNATIONAL","FR| M6 INTERNATIONAL HD","FR| M6 INTERNATIONAL FHD",{tvg-id:"M6International.fr"},{group:"0 Gratuit"}
-"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
 "FilmRise Binge Watch" {group:"0 Gratuit"}
 "ACTION TOTALE ADRÉNALINE" {group:"0 Gratuit"}
@@ -756,8 +745,6 @@
 "Just Tattoo of Us",{group:"0 Gratuit"}
 "Toute une histoire",{group:"0 Gratuit"}
 "Le meilleur d'Arthur",{group:"0 Gratuit"}
-"Ardivision",{group:"0 Gratuit"}
-"Nickelodeon +1","FR| NICKELODEON+1 HD","FR| NICKELODEON+1 HEVC","FR| NICKELODEON+1 SD","FR| NICKELODÉON+1 FHD",{tvg-id:"NickelodeonPlus1.fr"},{group:"0 Gratuit"}
 "CARTOONITO","FR| CARTOONITO FHD","FR| CARTOONITO HD","FR| CARTOONITO HEVC","FR| CARTOONITO SD","FR| CARTOONITO",{tvg-id:"Cartoonito.fr"},{group:"0 Gratuit"}
 "Nickelodeon","FR| NICKELODEON HEVC","FR| NICKELODÉON FHD","FR| NICKELODÉON HD","FR| NICKELODÉON SD",{tvg-id:"NickelodeonFrance.fr"},{group:"0 Gratuit"}
 "Boomerang","FR| BOOMERANG FHD","FR| BOOMERANG HD","FR| BOOMERANG HEVC","FR| BOOMERANG SD","FR| BOOMERANG",{tvg-id:"Boomerang.fr"},{group:"0 Gratuit"}
@@ -767,11 +754,9 @@
 "Les Nouveaux Detectives",{group:"0 Gratuit"}
 "IntoCrime",{group:"0 Gratuit"}
 "Au coeur du danger",{group:"0 Gratuit"}
-"100% Docs Crime",{group:"0 Gratuit"}
 "CRIME DISTRICT","FR| CRIME DISTRICT SD","FR| CRIME DISTRICT HEVC","FR| CRIME DISTRICT FHD","FR| CRIME DISTRICT HD",{tvg-id:"CrimeDistrict.fr"},{group:"0 Gratuit"}
 "Love Crime & History",{group:"0 Gratuit"}
 "Dossiers FBI",{group:"0 Gratuit"}
-"Planète+ Crime ","FR| PLANETE+ CI HD","FR| PLANETE+ CI FHD","FR| PLANETE+ CI HEVC","FR| PLANETE+ CI SD",{tvg-id:"PLANETEJustice.fr"},{group:"0 Gratuit"}
 "Adjugé vendu !",{group:"0 Gratuit"}
 "Investigation by Pluto TV",{group:"0 Gratuit"}
 "True Crime by Pluto TV",{group:"0 Gratuit"}
@@ -779,11 +764,7 @@
 "Pluto TV Cuisine",{group:"0 Gratuit"}
 "Most Haunted",{group:"0 Gratuit"}
 "Faites entrer l'accusé",{group:"0 Gratuit"}
-"MAISON & TRAVAUX",{tvg-id:"MaisonEtTravaux.fr"},{group:"0 Gratuit"}
 "Mission Intervention",{group:"0 Gratuit"}
-"DOC STORY",{group:"0 Gratuit"}
-"PLANETE+","FR| PLANETE+ HEVC","FR| PLANETE+ HD","FR| PLANETE+ FHD","FR| PLANETE+ SD",{tvg-id:"Planete.fr"},{group:"0 Gratuit"}
-"PLANETE+ Aventure","FR| PLANETE+ A&E HD","FR| PLANETE+ A&E FHD","FR| PLANETE+ A&E HEVC","FR| PLANETE+ A&E SD",{tvg-id:"PlaneteAction.fr"},{group:"0 Gratuit"}
 "Pêche à haut risque",{group:"0 Gratuit"}
 "Pluto TV Paranormal",{group:"0 Gratuit"}
 "Cap Terre",{group:"0 Gratuit"}
@@ -791,11 +772,6 @@
 "Nature Time",{group:"0 Gratuit"}
 "Echappées belles & co",{group:"0 Gratuit"}
 "DRIVE TV",{group:"0 Gratuit"}
-"Epicurieux avec Jamy",{group:"0 Gratuit"}
-"BFM 2",{tvg-id:"BFM2.fr"},{group:"0 Gratuit"}
-"TV5 Monde Info",{tvg-id:"TV5MondeInfo.fr"},{group:"0 Gratuit"}
-"Ça Chauffe en Cuisine",{group:"0 Gratuit"}
-"RMC MECANIC",{tvg-id:"RMCMecanic.fr"},{group:"0 Gratuit"}
 "Turbo",{group:"0 Gratuit"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"0 Gratuit"}
 "RTS UN","FR| RTS UN FHD","FR| RTS UN HD","FR| RTS UN HEVC",{tvg-id:"RTSUn.ch"},{group:"0 Gratuit"}
@@ -822,7 +798,12 @@
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
+"Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
+"Box Office Thriller",{group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
+"Ciné 666 by Pluto TV",{group:"0 Gratuit"}
+"Horrorland by Pluto TV",{group:"0 Gratuit"}
+"Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
