@@ -1,0 +1,1062 @@
+### --- 0 Gratuit ---
+
+"BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
+"LCI", "AFR| LCI",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
+"CNEWS",{tvg-id:"CNews.fr"},{exact},{group:"0 Gratuit"}
+"FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
+"TF1","FR| TF1 HD","FR| TF1 FHD ᴿᴬᵂ","FR| TF1 FHD","FR| TF1 HEVC",{tvg-id:"TF1.fr"},{group:"0 Gratuit"}
+"France 2 France","France 2","France 2 (1080p)","FR| FRANCE 2 HD","FR| FRANCE 2 FHD","FR| FRANCE 2 HEVC",{tvg-id:"France2.fr"},{exact},{group:"0 Gratuit"}
+"FR| FRANCE 3",{tvg-id:"France3.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{group:"1 France"}
+"France 4 France","FR| FRANCE 4 HD","FR| FRANCE 4 FHD","FR| FRANCE 4 HEVC",{tvg-id:"France4.fr"},{exact},{group:"0 Gratuit"}
+"France 5 France","France 5 (1080p)","FR| FRANCE 5 HD","FR| FRANCE 5 FHD","FR| FRANCE 5 HEVC",{tvg-id:"France5.fr"},{exact},{group:"0 Gratuit"}
+"M6","FR| M6 HD","FR| M6 FHD","FR| M6 HEVC",{tvg-id:"M6.fr"},{group:"0 Gratuit"}
+"W9","FR| W9 HD","FR| W9 FHD","FR| W9 HEVC",{tvg-id:"W9.fr"},{group:"0 Gratuit"}
+"6TER","FR| 6TER HD","FR| 6TER FHD","FR| 6TER HEVC",{tvg-id:"6ter.fr"},{group:"0 Gratuit"}
+"M6 INTERNATIONAL","AFR| M6 INTERNATIONAL",{tvg-id:"M6International.fr"},{exact},{group:"0 Gratuit"}
+"TMC","FR| TMC HD","FR| TMC FHD","FR| TMC HEVC",{tvg-id:"TMC.fr"},{group:"0 Gratuit"}
+"TFX","FR| TFX HD","FR| TFX FHD","FR| TFX HEVC",{tvg-id:"NT1.fr"},{group:"0 Gratuit"}
+"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
+"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
+"Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"0 Gratuit"}
+"CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"0 Gratuit"}
+"T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"0 Gratuit"}
+"NOVO 19","NOVO19","FR| NOVO 19 FHD",{tvg-id:"NOVO19.fr"},{group:"0 Gratuit"}
+"PARIS PREMIERE","FR| PARIS PREMIERE FHD",{tvg-id:"ParisPremiere.fr"},{group:"0 Gratuit"}
+"AB1","FR| AB1 FHD",{tvg-id:"AB1.fr"},{group:"0 Gratuit"}
+"RTL 9","FR| RTL9 FHD","RTL 9 HD",{tvg-id:"RTL9.fr"},{group:"0 Gratuit"}
+"TEVA","FR| TEVA FHD",{tvg-id:"Teva.fr"},{group:"0 Gratuit"}
+"RMC Story",{tvg-id:"RMCSTORY.fr"},{group:"0 Gratuit"}
+"RMC Life",{tvg-id:"Cherie25.fr"},{group:"0 Gratuit"}
+"RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"0 Gratuit"}
+"Pluto TV Histoire",{group:"0 Gratuit"}
+"RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"0 Gratuit"}
+"RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"0 Gratuit"}
+"Enquêtes de Choc",{group:"0 Gratuit"}
+"Brut",{group:"0 Gratuit"}
+"BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"0 Gratuit"}  
+"RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"0 Gratuit"}
+"Voyages & Saveurs",{group:"0 Gratuit"}
+"Pluto TV Aventure",{group:"0 Gratuit"}
+"Pluto TV Inside",{group:"0 Gratuit"}
+"ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
+"Incroyables Fortunes",{group:"0 Gratuit"}
+"Crimes Enquêtes Faits Divers",{group:"0 Gratuit"}
+"La Vie",{group:"0 Gratuit"}
+
+
+
+"Le Meilleur de la TV Réalité",{group:"0 Gratuit"}
+"Pluto TV Téléréalité France",{group:"0 Gratuit"}
+"Pluto TV Reality",{group:"0 Gratuit"}
+"Les Anges",{group:"0 Gratuit"}
+"Les Marseillais",{group:"0 Gratuit"}
+"Teen Mom",{group:"0 Gratuit"}
+"CATFISH TV",{group:"0 Gratuit"}
+"MTV CLASSICS",{group:"0 Gratuit"}
+"Pluto TV ciné",{group:"0 Gratuit"}
+"Box Office Drama",{group:"0 Gratuit"}
+"Box Office Action",{group:"0 Gratuit"}
+"Ciné Thrillers by Pluto TV",{group:"0 Gratuit"}
+"Ciné Action by Pluto TV",{group:"0 Gratuit"}
+"Pluto TV Comédies Cultes",{group:"0 Gratuit"}
+"Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
+"Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
+"Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
+"Ciné Rétro by Pluto TV",{group:"0 Gratuit"}
+"Emotion'L",{exact},{group:"0 Gratuit"}
+"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"0 Gratuit"}
+"Ciné Romance by Pluto TV",{group:"0 Gratuit"}
+"Ciné Catastrophe by Pluto TV",{group:"0 Gratuit"}
+"Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
+"Horrorland by Pluto TV",{group:"0 Gratuit"}
+  
+"Ciné 666 by Pluto TV",{group:"0 Gratuit"}
+"Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
+"Ciné d'Asie by Pluto TV",{group:"0 Gratuit"}
+"Ciné Western by Pluto TV",{group:"0 Gratuit"}
+"Scream'IN",{group:"0 Gratuit"}
+"Shark TV",{group:"0 Gratuit"}
+"The Asylum",{group:"0 Gratuit"}
+"MyTime Movie Network",{group:"0 Gratuit"}
+"CANAL+ CINEMA","FR| CANAL+ CINEMA FHD",{tvg-id:"CanalPlusCinema.fr"},{group:"0 Gratuit"}
+"TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"0 Gratuit"}
+"FR| WARNER TV",{tvg-id:"WarnerTV.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+6"},{group:"0 Gratuit"}
+"WARNER TV","FR| WARNER TV FHD","FR| WARNER TV HD",{tvg-id:"WarnerTV.fr"},{exact},{group:"0 Gratuit"}
+"FR| ABXPLORE HD ᴿᴬᵂ" ,{exact}, {tvg-id:"ABXploreFR.fr"}            ,{group:"0 Gratuit"}
+"AB3","FR| AB3 FHD",{tvg-id:"AB3.fr"},{group:"0 Gratuit"}
+
+"BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
+"BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
+"BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
+"FR| 13EME RUE",{tvg-id:"13eRue.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+6"},{group:"0 Gratuit"}
+"13EME RUE France","FR| 13EME RUE FHD",{tvg-id:"13eRue.fr"},{group:"0 Gratuit"}
+"FR| WARNER TV NEXT",{tvg-id:"Toonami.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+6"},{group:"0 Gratuit"}
+"FR| WARNER TV NEXT HD","FR| WARNER TV NEXT FHD",{exact},{tvg-id:"Toonami.fr"},{group:"0 Gratuit"}
+"Wasabi la chaîne anime (1080p)",{tvg-id:"Wasabi.fr"},{group:"0 Gratuit"}
+"TV BREIZH","FR| TV BREIZH FHD",{tvg-id:"TvBreizh.fr"},{group:"0 Gratuit"}
+
+"FR| TNH HAITI",{tvg-id:"TNHHAITI.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
+"FR| TV METROPOLE",{tvg-id:"METROPOLE.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
+"HT| TELE GINEN",{tvg-id:"TELE GINEN.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
+"FR| CANAL+BOX OFFICE HD",{tvg-id:"CANAL+BOXOFFICE.mq"},{canal-epg:"CANAL+ BOX OFFICE"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+0"},{group:"0 Gratuit"}
+"FR| CANAL+ HD",{tvg-id:"CanalPlus.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+5"},{group:"0 Gratuit"}
+"Pluto TV Retro Toons",{group:"0 Gratuit"}
+"Pluto TV Toons",{group:"0 Gratuit"}
+"Sony One Action HITS",{group:"0 Gratuit"}
+"Sony One HITS Comédie",{group:"0 Gratuit"}
+"MacGyver",{group:"0 Gratuit"}
+"CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"0 Gratuit"}
+"CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
+"NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
+"TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
+"Bravo","US| BRAVO HD","US| BRAVO EAST HD",{tvg-id:"Bravo.us"},{group:"0 Gratuit"}
+"STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
+
+
+
+
+
+"Box Office Thriller",{group:"3 Cinema"}
+"Films d'action - Rakuten TV",{group:"3 Cinema"}
+"Drames - Rakuten TV",{group:"3 Cinema"}
+"Comédies - Rakuten TV",{group:"3 Cinema"}
+"Famille - Rakuten TV",{group:"3 Cinema"}
+"Films Romantiques - Rakuten TV",{group:"3 Cinema"}
+"Action Totale",{group:"3 Cinema"}
+"Crime - Rakuten TV",{group:"3 Cinema"}
+"Wild Side TV",{group:"3 Cinema"}
+"Runtime",{group:"3 Cinema"}
+"Shadowz",{group:"3 Cinema"}
+
+
+"Ciné Nanar",{group:"3 Cinema"}
+"COMEDY CENTRAL","FR| COMEDY CENTRAL FHD","FR| COMEDY CENTRAL HD","FR| COMEDY CENTRAL HEVC","FR| COMEDY CENTRAL SD",{tvg-id:"ComedyCentral.fr"},{group:"3 Cinema"}
+
+
+"Star Trek: The Original Series",{group:"4 Serie"}
+"Mission Impossible",{group:"4 Serie"}
+"FR| VIKINGS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| PEAKY BLINDERS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| LOST FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| THE SANDMAN",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| THE WITCHER",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| THE UMBRELLA ACADEMY",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| LA CASA DE PAPEL FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| BREAKING BAD FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| BETTER CALL SAUL",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| LOCKE & KEY",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| CARNIVAL ROW",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| FRANCOIS L'EMBROUILLE",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+"FR| ENCHÈRES À TOUT PRIX",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
+
+"MCM","FR|MCM FHD",{tvg-id:"MCM.fr"},{group:"4 Serie"}
+"Olive & Tom",{group:"4 Serie"}
+"One Piece",{group:"4 Serie"}
+"Detective Conan",{group:"4 Serie"}
+"Les Schtroumpfs",{group:"4 Serie"}
+"BBC Series",{group:"4 Serie"}
+
+"Pluto TV 90's Classics",{group:"4 Serie"}
+"Pluto TV 2010's Classics",{group:"4 Serie"}
+"Pluto TV Comédie",{group:"4 Serie"}
+"MGG FAST",{group:"4 Serie"}
+"FRANCE TV SERIES","FR| FRANCE TV SERIES FHD","FR| FRANCE TV SERIES HD",{tvg-id:"FranceTVSeries.fr"},{group:"4 Serie"}
+
+### --- 5 SPORT ---
+"CANAL+ _SP","FR| CANAL+ HEVC","FR| CANAL+ FHD","FR| CANAL+ HD","FR| CANAL+ SD",{tvg-id:"CanalPlus.fr"},{exact},{group:"4 Sport"}
+"TIPIK _SP","BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"4 Sport"}
+
+"RTS UN","FR| RTS UN FHD","FR| RTS UN HD","FR| RTS UN HEVC",{tvg-id:"RTSUn.ch"},{group:"4 Sport"}
+"RTS DEUX","FR| RTS DEUX FHD","FR| RTS DEUX HD","FR| RTS DEUX HEVC",{tvg-id:"RTSDeux.ch"},{group:"4 Sport"}
+
+
+"TVA SPORTS HD","CA| TVA SPORTS HD",{tvg-id:"TVASports.ca"},{exact},{group:"4 Sport"}
+"TVA SPORTS 2 HD","CA| TVA SPORTS 2 HD",{tvg-id:"TVASports2.ca"},{exact},{group:"4 Sport"}
+"RDS1 HD","CA| RDS HD","CA| RDS INFO HD","CA| RDS INFO",{tvg-id:"RDS.ca"},{exact},{group:"4 Sport"}
+"RDS2 HD","CA| RDS 2 HD",{tvg-id:"RDS2.ca"},{group:"4 Sport"}
+
+"CANAL+ SPORT 1","FR| CANAL+ SPORT 1 HEVC","FR| CANAL+ SPORT 1 FHD","FR| CANAL+ SPORT 1 HD","FR| CANAL+ SPORT 1",{tvg-id:"CanalPlusSport1.fr"},{exact},{group:"4 Sport"}
+"CANAL+ SPORT 2","FR| CANAL+ SPORT 2 HEVC","FR| CANAL+ SPORT 2 FHD","FR| CANAL+ SPORT 2 HD","FR| CANAL+ SPORT 2",{tvg-id:"CanalPlusSport2.fr"},{exact},{group:"4 Sport"}
+"CANAL+ SPORT 3","FR| CANAL+ SPORT 3 HEVC","FR| CANAL+ SPORT 3 FHD","FR| CANAL+ SPORT 3 HD","FR| CANAL+ SPORT 3",{tvg-id:"CanalPlusSport3.fr"},{exact},{group:"4 Sport"}
+"CANAL+ SPORT 4","FR| CANAL+ SPORT 4 HEVC","FR| CANAL+ SPORT 4 FHD","FR| CANAL+ SPORT 4 HD","FR| CANAL+ SPORT 4",{tvg-id:"CanalPlusSport4.fr"},{exact},{group:"4 Sport"}
+"CANAL+ SPORT 5","FR| CANAL+ SPORT 5 HEVC","FR| CANAL+ SPORT 5 FHD","FR| CANAL+ SPORT 5 HD","FR| CANAL+ SPORT 5",{tvg-id:"CanalPlusSport5.fr"},{exact},{group:"4 Sport"}
+
+
+
+"FR| EUROSPORT 1 HD" ,{tvg-id:"eurosport1.fr"},{exact},{group:"4 Sport"}
+"FR| EUROSPORT 2 HD" ,{tvg-id:"eurosport2.fr"},{exact},{group:"4 Sport"}
+
+
+"BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"4 Sport"}
+"BEIN SPORTS 2","FR| BEIN SPORTS 2 FHD","FR| BEIN SPORTS 2 HD","FR| BEIN SPORTS 2 HEVC","FR| BEIN SPORTS 2 SD","BEIN SPORT 2 FHD","BEIN SPORT 2 HD",{tvg-id:"beINSPORTS2.fr"},{group:"4 Sport"}
+"BEIN SPORTS 3","FR| BEIN SPORTS 3 FHD","FR| BEIN SPORTS 3 HD","FR| BEIN SPORTS 3 HEVC","FR| BEIN SPORTS 3 SD","BEIN SPORT 3 FHD","BEIN SPORT 3 HD",{tvg-id:"beINSPORTS3.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 4","FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX4 HD (EVENT ONLY)",{tvg-id:"beINSPORTSMAX4.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 5","FR| BEIN SPORTS MAX5 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX5 HD (EVENT ONLY)","BEIN SPORTS MAX 5 HD",{tvg-id:"beINSPORTSMAX5.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 6","FR| BEIN SPORTS MAX6 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX6 HD (EVENT ONLY)",{tvg-id:"beINSPORTSMAX6.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 7","FR| BEIN SPORTS MAX7 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX7 HD (EVENT ONLY)","BEIN SPORT MAX 7 HD",{tvg-id:"beINSPORTSMAX7.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 8","FR| BEIN SPORTS MAX8 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX8 HD (EVENT ONLY)","BEIN SPORT MAX 8 HD",{tvg-id:"beINSPORTSMAX8.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 9","FR| BEIN SPORTS MAX9 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX9 HD (EVENT ONLY)","BEIN SPORT MAX 9 HD",{tvg-id:"beINSPORTSMAX9.fr"},{group:"4 Sport"}
+"BEIN SPORTS MAX 10","FR| BEIN SPORTS MAX10 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX10 HD (EVENT ONLY)","BEIN SPORTS MAX 10 HD",{tvg-id:"beINSPORTSMAX10.fr"},{group:"4 Sport"}
+"TSN1","CA| TSN 1 HD","CA| TSN1 FHD", {tvg-id:"TSN1.ca"}, {group:"4 Sport"}
+"TSN2","CA| TSN 2 HD","CA| TSN2 FHD", {tvg-id:"TSN2.ca"}, {group:"4 Sport"}
+"TSN3","CA| TSN 3 HD","CA| TSN3 FHD", {tvg-id:"TSN3.ca"}, {group:"4 Sport"}
+"TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"4 Sport"}
+"TSN5","CA| TSN 5 HD","CA| TSN5 FHD", {tvg-id:"TSN5.ca"}, {group:"4 Sport"}
+"SPORTSNET EAST","CA| SPORTSNET EAST HD","CA| SPORTSNET EAST FHD",{tvg-id:"SportsnetEast.ca"},{group:"4 Sport"}
+"SPORTSNET ONTARIO","CA| SPORTSNET ONTARIO HD","CA| SPORTSNET ONTARIO FHD",{tvg-id:"SportsnetOntario.ca"},{group:"4 Sport"}
+"SPORTSNET WEST","CA| SPORTSNET WEST HD","CA| SPORTSNET WEST FHD",{tvg-id:"SportsnetWest.ca"},{group:"4 Sport"}
+"SPORTSNET PACIFIC","CA| SPORTSNET PACIFIC HD","CA| SPORTSNET PACIFIC FHD",{tvg-id:"SportsnetPacific.ca"},{group:"4 Sport"}
+"SPORTSNET ONE","CA| SPORTSNET ONE HD","CA| SPORTSNET ONE FHD",{tvg-id:"SportsnetOne.ca"},{group:"4 Sport"}
+"SPORTSNET 360","CA| SPORTSNET 360 HD","CA| SPORTSNET 360 FHD",{tvg-id:"Sportsnet360.ca"},{group:"4 Sport"}
+"SPORTSNET WORLD","CA| SPORTSNET WORLD HD","CA| SPORTSNET WORLD FHD",{tvg-id:"SportsnetWorld.ca"},{group:"4 Sport"}
+"FRANCE TV SPORT","FRANCE TV SPORT",{tvg-id:"SportEnFrance.fr"},{group:"4 Sport"}
+
+
+"BE| VOO SPORT WORLD 1 HD" ,{tvg-id:"VOOSportWorld1.be"},{group:"4 Sport"}
+"BE| VOO SPORT WORLD 2 HD" ,{tvg-id:"VOOSportWorld2.be"},{group:"4 Sport"}
+"BE| VOO SPORT WORLD 3 HD" ,{tvg-id:"VOOSportWorld3.be"},{group:"4 Sport"}
+
+ 
+ 
+  
+  
+### --- 6 USA ---
+### FOX
+"FOX NY","US| FOX 05 (WNYW) NEW YORK","WNYW",{tvg-id:"FOXWNYW.us"},{group:"5 USA"}
+"FOX CHI","US| FOX 32 (WFLD) CHICAGO","WFLD",{tvg-id:"FOXWFLD.us"},{group:"5 USA"}
+"FOX PHX","US| FOX 10 (KSAZ) PHOENIX","KSAZ",{tvg-id:"FOXKSAZ.us"},{group:"5 USA"}
+"FOX LA","US| FOX 11 (KTTV) LOS ANGELES","FOX 11 LOS ANGELES","KTTV",{tvg-id:"FOXKTTV.us"},{group:"5 USA"}
+### ABC
+"ABC NY","US| ABC 07 (WABC) NEW YORK","WABC",{tvg-id:"ABCWABC.us"},{group:"5 USA"}
+"ABC CHI","US| ABC 07 (WLS) CHICAGO","WLS",{tvg-id:"ABCWLS.us"},{group:"5 USA"}
+"ABC PHX","US| ABC 15 (KNXV) PHOENIX","KNXV",{tvg-id:"ABCKNXV.us"},{group:"5 USA"}
+"ABC LA","US| ABC 07 (KABC) LOS ANGELES","ABC 07 LOS ANGELES","KABC",{tvg-id:"ABCKABC.us"},{group:"5 USA"}
+### NBC
+
+"NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"5 USA"}
+"NBC PHX","US| NBC 12 (KPNX) MESA","KPNX",{tvg-id:"NBCKPNX.us"},{group:"5 USA"}
+"NBC LA","US| NBC 04 (KNBC) LOS ANGELES","NBC 04 LOS ANGELES","KNBC",{tvg-id:"NBCKNBC.us"},{group:"5 USA"}
+### CBS
+"CBS NY","US| CBS 02 (WCBS) NEW YORK","WCBS",{tvg-id:"CBSWCBS.us"},{group:"5 USA"}
+"CBS CHI","US| CBS 02 (WBBM) CHICAGO","WBBM",{tvg-id:"CBSWBBM.us"},{group:"5 USA"}
+"CBS PHX","US| CBS 05 (KPHO) PHOENIX HD","KPHO",{tvg-id:"CBSKPHO.us"},{group:"5 USA"}
+"CBS LA","US| CBS 02 (KCBS) LOS ANGELES","CBS 02 LOS ANGELES","KCBS",{tvg-id:"CBSKCBS.us"},{group:"5 USA"}
+###CW
+"CW NY","US| CW 11 PIX (WPIX) NEW YORK","WPIX",{tvg-id:"CWWPIX.us"},{group:"5 USA"}
+"CW CHI","US| MYTV 50 (WPWR) CHICAGO","WPWR",{tvg-id:"Fox+WPWR.us"},{group:"5 USA"}
+"CW PHX","US| CW (KASW) PHOENIX","KASW",{tvg-id:"CWKASW.us"},{group:"5 USA"}
+"CW LA","US| CW 05 (KTLA) LOS ANGELES","CW 05 LOS ANGELES","KTLA",{tvg-id:"CWKTLA.us"},{group:"5 USA"}
+### Cable National
+"USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"5 USA"}
+"TNT","US| TNT EAST FHD","US| TNT HD","US| TNT EAST HD",{tvg-id:"TNT.us"},{group:"5 USA"}
+
+
+"E!","US| E! ENTERTAINMENT EAST HD","US| E! HD",{tvg-id:"EEntertainmentTelevision.us"},{group:"5 USA"}
+"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"5 USA"}
+"Lifetime","US| LIFETIME HD","US| LIFETIME EAST HD",{tvg-id:"Lifetime.us"},{group:"5 USA"}
+"MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"5 USA"}
+"VH1","US| VH1 HD","US| VH1 EAST HD",{tvg-id:"VH1.us"},{group:"5 USA"}
+"Hallmark Channel","US| HALLMARK CHANNEL HD","US| HALLMARK HD",{tvg-id:"HallmarkChannel.us"},{group:"5 USA"}
+"A&E","US| A&E HD","US| A&E EAST HD",{tvg-id:"AandENetwork.us"},{group:"5 USA"}
+"Syfy","US| SYFY HD","US| SYFY EAST HD",{tvg-id:"Syfy.us"},{group:"5 USA"}
+"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"5 USA"}
+"Comedy Central","US| COMEDY CENTRAL HD","US| COMEDY CENTRAL EAST HD",{tvg-id:"ComedyCentral.us"},{group:"5 USA"}
+"BET","US| BET HD","US| BET EAST HD",{tvg-id:"BET.us"},{group:"5 USA"}
+"OWN","US| OWN HD","US| OWN EAST HD",{tvg-id:"OWN.us"},{group:"5 USA"}
+"WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"5 USA"}
+"Oxygen","US| OXYGEN HD","US| OXYGEN EAST HD",{tvg-id:"Oxygen.us"},{group:"5 USA"}
+"TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"5 USA"}
+"Nick at Nite","US| NICK AT NITE HD",{tvg-id:"NickAtNite.us"},{group:"5 USA"}
+--- 7 CANADA Eng ---
+"FOOD NETWORK HD","CA| FOOD NETWORK HD",{tvg-id:"FoodNetwork.ca"},{exact},{group:"5 Canada Eng"}
+"FOOD NETWORK US WEST","US| FOOD NETWORK (WEST)",{tvg-id:"FoodNetwork.us"},{group:"5 Canada Eng"}
+"Magnolia US","CA| DIY  HD",{tvg-id:"MagnoliaNetwork.us"},{group:"5 Canada Eng"}
+"Magnolia CA","CA| MAGNOLIA NETWORK HD",{tvg-id:"MagnoliaNetwork.ca"},{group:"5 Canada Eng"}
+"MAKEFUL HD","CA| MAKEFUL HD",{tvg-id:"MakefulTV.ca"},{group:"5 Canada Eng"}
+"E! ENTERTAINMENT CA","CA| E! ENTERTAINMENT HD","US| E! ENTERTAINMENT EAST HD",{tvg-id:"EEntertainmentTelevision.ca"},{group:"5 Canada Eng"}
+"BRAVO Vault","CA| SUPER CHANNEL VAULT HD",{tvg-id:"BravoVault.pluto"},{group:"5 Canada Eng"}
+"BRAVO USA","CA| BRAVO HD",{tvg-id:"Bravo.us"},{group:"5 Canada Eng"}
+"THE COOKING CHANNEL","CA| THE COOKING CHANNEL HD",{tvg-id:"CookingChannel.us"},{group:"5 Canada Eng"}
+"Flavour","CA| OLN HD",{tvg-id:"Flavour.ca"},{group:"5 Canada Eng"}
+"COTTAGE LIFE HD","CA| COTTAGE LIFE HD",{tvg-id:"CottageLife.ca"},{group:"5 Canada Eng"}
+"HGTV HD","CA| HOME GARDEN TELEVISION HD",{tvg-id:"HGTV.ca"},{group:"5 Canada Eng"}
+"LIFETIME USA ","US| LIFETIME HD",{tvg-id:"Lifetime.us"},{exact},{group:"5 Canada Eng"}
+"LIFETIME HD ","CA| LIFETIME HD",{tvg-id:"Lifetime.ca"},{exact},{group:"5 Canada Eng"}
+"SLICE HD","CA| SLICE HD",{tvg-id:"Slice.ca"},{group:"5 Canada Eng"}
+"TLN HD","CA| TLN HD",{tvg-id:"TLN.ca"},{group:"5 Canada Eng"}
+"W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"5 Canada Eng"}
+"DTOUR ","CA| DTOUR HD",{tvg-id:"DTOUR.ca"},{group:"5 Canada Eng"}
+"E! ENTERTAINMENT WEST","US| E! ENTERTAINMENT WEST HD",{tvg-id:"EEntertainmentTelevisionPacific.us"},{group:"5 Canada Eng"}
+"LIFETIME MOVIES","CA| LIFETIME MOVIES HD",{tvg-id:"LifetimeMoviesNetwork.us"},{exact},{group:"5 Canada Eng"}
+"FREEFORM","US| FREEFORM HD[EAST]",{tvg-id:"Freeform.us"},{group:"5 Canada Eng"}
+"OWN HD","CA| OWN HD",{tvg-id:"OWN.us"},{group:"5 Canada Eng"}
+"TNT EAST FHD","US| TNT EAST FHD",{tvg-id:"TNT.us"},{group:"5 Canada Eng"}
+"SHOWCASE HD","CA| SHOWCASE HD","CA| SHOWCASE HD",{tvg-id:"Showcase.ca"},{group:"5 Canada Eng"}
+"CTV LIFE","CA| CTV LIFE CHANNEL HD",{tvg-id:"CTVLifeChannel.ca"},{group:"5 Canada Eng"}
+"CTV SCI-FI","CA| CTV SCI-FI CHANNEL HD",{tvg-id:"CTVSciFiChannel.ca"},{group:"5 Canada Eng"}
+"CTV DRAMA","CA| CTV DRAMA CHANNEL HD",{tvg-id:"CTVDramaChannel.ca"},{group:"5 Canada Eng"}
+"CTV COMEDY","CA| CTV COMEDY",{tvg-id:"CTVComedyChannel.ca"},{group:"5 Canada Eng"}
+
+"STARZ 2","CA| STARZ 2 HD","CA| STARZ 2 HD",{tvg-id:"STARZ2.ca"},{group:"5 Canada Eng"}
+"HBO 1","CA| HBO 1 HD","CA| HBO 1 HD",{tvg-id:"HBO1.ca"},{group:"5 Canada Eng"}
+"HBO 2","CA| HBO 2 HD","CA| HBO 2 HD",{tvg-id:"HBO2.ca"},{group:"5 Canada Eng"}
+"Crave 1","CA| CRAVE 1 HD","CA| CRAVE 1 HD",{tvg-id:"Crave1.ca"},{group:"5 Canada Eng"}
+"Crave 2","CA| CRAVE 2 HD","CA| CRAVE 2 HD",{tvg-id:"Crave2.ca"},{group:"5 Canada Eng"}
+"Crave 3","CA| CRAVE 3 HD","CA| CRAVE 3 HD",{tvg-id:"Crave3.ca"},{group:"5 Canada Eng"}
+"Crave 4","CA| CRAVE 4 HD","CA| CRAVE 4 HD",{tvg-id:"Crave4.ca"},{group:"5 Canada Eng"}
+"AMC Canada","CA| AMC HD","CA| AMC HD",{tvg-id:"AMC.ca"},{group:"5 Canada Eng"}
+"MovieTime","CA| MOVIETIME HD","CA| MOVIETIME HD",{tvg-id:"MovieTime.ca"},{group:"5 Canada Eng"}
+"Rewind","CA| REWIND","CA| REWIND","CA| REWIND HD",{tvg-id:"rewind.ca"},{group:"5 Canada Eng"}
+"PARAMOUNT NETWORK","CA| PARAMOUNT NETWORK HD",{tvg-id:"ParamountNetwork.us"},{group:"5 Canada Eng"}
+"Hollywood Suite 2010s","CA| HOLLYWOOD SUITE 2010'S","CA| HOLLYWOOD SUITE 2010'S",{tvg-id:"HollywoodSuite2010s+Movies.ca"},{group:"5 Canada Eng"}
+"Hollywood Suite 80s 90s","CA| HOLLYWOOD SUITE 80'S & 90'S","CA| HOLLYWOOD SUITE 80'S & 90'S",{tvg-id:"HollywoodSuite80sAnd90sMovies.ca"},{group:"5 Canada Eng"}
+"Super Channel Fuse","CA| SUPER CHANNEL FUSE","CA| SUPER CHANNEL FUSE",{tvg-id:"SuperChannelFuse.ca"},{group:"5 Canada Eng"}
+"ADULT SWIM HD","CA| ADULT SWIM HD","CA| ADULT SWIM HD",{tvg-id:"AdultSwim.ca"},{group:"5 Canada Eng"}
+"FXX Canada","CA| FXX HD","CA| FXX HD",{tvg-id:"FXX.ca"},{exact},{group:"5 Canada Eng"}
+"FX Canada","CA| FX HD","CA| FX HD",{tvg-id:"FX.ca"},{exact},{group:"5 Canada Eng"}
+"CBC Toronto","CA| CBC Toronto ON HD","CA| CBC Toronto ON HD",{tvg-id:"CBCToronto-CBLT.ca"},{group:"5 Canada Eng"}
+"CITY Toronto","CA| CITY TORONTO HD","CA| CITY TORONTO HD",{tvg-id:"CityTv.ca"},{group:"5 Canada Eng"}
+"Global Toronto","CA| GLOBAL TORONTO","CA| GLOBAL TORONTO","CA| GLOBAL TORONTO HD",{tvg-id:"GlobalToronto-CIII.ca"},{group:"5 Canada Eng"}
+"CTV2 Toronto","CA| CTV2 TORONTO HD","CA| CTV2 TORONTO HD",{tvg-id:"CTV2Barrie-CKVR.ca"},{group:"5 Canada Eng"}
+"CTV Toronto","CA| CTV TORONTO HD","CA| CTV TORONTO HD",{tvg-id:"CTVToronto-CFTO.ca"},{group:"5 Canada Eng"}
+"The X-Files",{exact},{tvg-id:"691b023a7613e09a8b209539"},{group:"5 Canada Eng"}
+### --- 8 UK ---
+"TG4","TG4 (Ireland)",{tvg-id:"TG4.ie"},{group:"6 UK"}
+"4seven","UK| 4SEVEN FHD","UK| 4SEVEN HD","UK| 4SEVEN SD",{tvg-id:"4seven.uk"},{exact},{group:"6 UK"}
+"E4 HD","UEFA-UK|E4 HD","UK|E4 HEVC","UK| E4 HD","UK|E4 FHD","UK| E4 FHD","UK| E4 HEVC",{tvg-id:"E4.uk"},{exact},{group:"6 UK"}
+"E4+1","UK| E4+1 SD","UK| E4+1 HD",{tvg-id:"E4+1.uk"},{exact},{group:"6 UK"}
+"E4 EXTRA","UK| E4 EXTRA","UK| E4 EXTRA HD","UK| E4 EXTRA SD",{tvg-id:"E4Extra.uk"},{exact},{group:"6 UK"}
+"Channel 4","UK| Channel 4 FHD",{tvg-id:"Channel4.uk"},{exact},{group:"6 UK"}
+"Channel 4+1","UK| Channel 4+1 SD",{tvg-id:"Channel4+1.uk"},{exact},{group:"6 UK"}
+"Channel 5","UK| Channel 5 FHD",{tvg-id:"Channel5.uk"},{exact},{group:"6 UK"}
+"Channel 5+1" ,"UK| Channel 5 + 1 HD",{tvg-id:"Channel5+1.uk"},{group:"6 UK"}
+"ITV1 HD","UEFA-UK|ITV 1 HD","UK| ITV1 HD","UK| ITV 1 HD","UK| ITV 1 FHD","UK| ITV 1 SD","UK| ITV1 FHD","UK| ITV1 SD",{tvg-id:"ITV1London.uk"},{exact},{group:"6 UK"}
+"ITV1+1","UK| ITV1+1 HD","UK| ITV 1+1 HD","UK| ITV+ 1 HD","UK| ITV1+1 SD",{tvg-id:"ITV1London+1.uk"},{exact},{group:"6 UK"}
+"ITV2 HD","UK| (ITVX) ITV2","UK| ITV2 HD","UK| ITV 2 HD","UK| ITV 2 FHD","UK| ITV2 FHD","UK| ITV 2 SD","UK| ITV2 SD",{tvg-id:"ITV2.uk"},{exact},{group:"6 UK"}
+"ITV2+1","UK| ITV2+1 SD","UK| ITV 2+1 SD",{tvg-id:"ITV2+1.uk"},{exact},{group:"6 UK"}
+"ITV3 HD","UK| (ITVX) ITV3","UK| ITV3 HD","UK| ITV 3 HD","UK| ITV 3 FHD","UK| ITV3 FHD","UK| ITV 3 SD","UK| ITV3 SD",{tvg-id:"ITV3.uk"},{exact},{group:"6 UK"}
+"ITV3+1","UK| ITV3+1 SD","UK| ITV 3+1 SD",{tvg-id:"ITV3+1.uk"},{exact},{group:"6 UK"}
+"ITV4 HD","UK| (ITVX) ITV4","UK| ITV4 HD","UK| ITV 4 HD","UK| ITV 4 FHD","UK| ITV4 FHD","UK| ITV 4 SD","UK| ITV4 SD","UK| ITV 4 +1 HD",{tvg-id:"ITV4.uk"},{exact},{group:"6 UK"}
+"ITV4+1","UK| ITV4+1 HD","UK| ITV 4+1 HD","UK| ITV 4 +1 HD",{tvg-id:"ITV4+1.uk"},{exact},{group:"6 UK"}
+"MORE4",     "UK| MORE4 FHD",{tvg-id:"More4.uk"},{exact},{group:"6 UK"}
+"MORE4+1 SD","UK| MORE4+1 SD",{tvg-id:"More4+1.uk"},{exact},{group:"6 UK"}
+"FILM4 FHD","UK| FILM4 FHD",{tvg-id:"Film4.uk"},{exact},{group:"6 UK"}
+"FILM4+1 SD","UK| FILM4+1 SD",{tvg-id:"Film4+1.uk"},{exact},{group:"6 UK"}
+"5 USA HD","UK| 5 USA HD",{tvg-id:"5USA.uk"},{exact},{group:"6 UK"}
+"5 USA+1 HD","UK| 5 USA+1 HD",{tvg-id:"5USA+1.uk"},{exact},{group:"6 UK"}
+"5STAR HD","UK| 5STAR HD",{tvg-id:"5STAR.uk"},{exact},{group:"6 UK"}
+"5STAR+1 HD","UK| 5STAR+1 HD","UK| 5STAR + 1 HD","UK| 5STAR+1 SD","UK| 5STAR + 1 SD",{tvg-id:"5STAR+1.uk"},{exact},{group:"6 UK"}
+"5Action SD","UK| 5Action SD","UK| 5 Action SD","UK| 5ACTION SD","UK| 5 ACTION SD",{tvg-id:"5Action.uk"},{exact},{group:"6 UK"}
+"5SELECT SD","UK| 5SELECT SD","UK| 5 SELECT SD","UK| 5SELECT HD","UK| 5 SELECT HD",{tvg-id:"5SELECT.uk"},{exact},{group:"6 UK"}
+"ALIBI FHD","UK| ALIBI FHD",{tvg-id:"UAndAlibi.uk"},{exact},{group:"6 UK"}
+"ALIBI+1 HD","UK| ALIBI+1 HD","UK| ALIBI +1 HD","UK| ALIBI+1 SD","UK| ALIBI +1 SD",{tvg-id:"UAndAlibi+1.uk"},{exact},{group:"6 UK"}
+"DAVE FHD","UK| DAVE FHD",{tvg-id:"UandDave.uk"},{exact},{group:"6 UK"}
+"DAVE JA-VU SD","UK| DAVE JA-VU SD",{tvg-id:"UandDavejavu.uk"},{exact},{group:"6 UK"}
+"DRAMA HD","UK| DRAMA HD",{tvg-id:"UandDrama.uk"},{exact},{group:"6 UK"}
+"DRAMA+1 HD","UK| DRAMA+1 HD",{tvg-id:"UandDrama+1.uk"},{exact},{group:"6 UK"}
+"FOOD NETWORK HD","UK| FOOD NETWORK HD",{tvg-id:"FoodNetwork.uk"},{exact},{group:"6 UK"}
+"FOOD NETWORK+1 HD","UK| FOOD NETWORK+1 HD","UK| FOOD NETWORK + 1 HD","UK| FOOD NETWORK+1 SD","UK| FOOD NETWORK + 1 SD",{tvg-id:"FoodNetwork+1.uk"},{exact},{group:"6 UK"}
+"Sky ONE","UK| Sky MAX FHD",{tvg-id:"SkyOne.uk"},{exact},{group:"6 UK"}
+"VIRGIN ONE ","UK| VIRGIN ONE SD",{tvg-id:"VirginOne.ie"},{exact},{group:"6 UK"}
+"RTE1 FHD","UK| RTE 1 FHD",{tvg-id:"RTEOne.ie"},{exact},{group:"6 UK"}
+"RTE2 FHD","UK| RTE 2 FHD",{tvg-id:"RTE2.ie"},{exact},{group:"6 UK"}
+"UTV FHD","UK| UTV FHD",{tvg-id:"UTV.ie"},{exact},{group:"6 UK"}
+"S4C FHD","UK| S4C FHD",{tvg-id:"S4C.uk"},{exact},{group:"6 UK"}
+"BBC1 FHD","UK| BBC1 FHD","UK| BBC1 HD","UK| BBC 1 FHD",{tvg-id:"BBCOne.uk"},{exact},{group:"6 UK"}
+"BBC2 FHD","UK| BBC2 FHD","UK| BBC TWO ENGLAND SD",{tvg-id:"BBCTwo.uk"},{exact},{group:"6 UK"}
+"BBC3 CBBC HD","UK| BBC3 CBBC HD","UK| BBC 3 CBBC HD","UK| BBC 3 SD","UK| BBC3 SD",{tvg-id:"BBCThree_CBBC.uk"},{exact},{group:"6 UK"}
+"BBC4/CBEEBIES HD","UK| BBC4/CBEEBIES HD","UK| BBC 4 / CBEEBIES FHD","UK| BBC 4 / CBEEBIES HD","UK| BBC 4 / CBEEBIES SD","UK| BBC4/CBEEBIES FHD","UK| BBC4/CBEEBIES SD",{tvg-id:"BBCFour_CBeebies.uk"},{exact},{group:"6 UK"}
+"LEGEND EXTRA SD","UK| LEGEND EXTRA SD","UK| LEGEND XTRA SD","UK| LEGEND XTRA HD","UK| LEGEND EXTRA HD",{tvg-id:"LegendXtra.uk"},{exact},{group:"6 UK"}
+"Sky ATLANTIC FHD","UK| Sky ATLANTIC FHD",{tvg-id:"SkyAtlantic.uk"},{exact},{group:"6 UK"}
+"SKY ARTS FHD","UK| SKY ARTS FHD",{tvg-id:"SkyArts.uk"},{exact},{group:"6 UK"}
+"SYFY FHD","UK| SYFY FHD",{tvg-id:"SkySci-Fi.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA COMEDY FHD","UK| Sky CINEMA COMEDY FHD",{tvg-id:"SkyCinemaComedy.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA GREATS FHD","UK| Sky CINEMA GREATS FHD",{tvg-id:"SkyCinemaGreats.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA FAMILY FHD","UK| Sky CINEMA FAMILY FHD",{tvg-id:"SkyCinemaFamily.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA DRAMA FHD","UK| Sky CINEMA DRAMA FHD",{tvg-id:"SkyCinemaDrama.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA PREMIERE FHD","UK| Sky CINEMA PREMIERE FHD",{tvg-id:"SkyCinemaPremiere.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA THRILLER FHD","UK| Sky CINEMA THRILLER FHD",{tvg-id:"SkyCinemaThriller.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA HITS FHD","UK| Sky CINEMA HITS FHD",{tvg-id:"SkyCinemaHits.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA ACTION FHD","UK| Sky CINEMA ACTION FHD",{tvg-id:"SkyCinemaAction.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA SCIFI FHD","UK| Sky CINEMA SCIFI FHD",{tvg-id:"SkyCinemaSci-fiAndHorror.uk"},{exact},{group:"6 UK"}
+"Sky CINEMA ANIMATION FHD","UK| Sky CINEMA ANIMATION FHD","UK| Sky CINEMA ANIMATION HD","UK| Sky CINEMA ANIMATION HEVC","UK| SKY ANIMATION FHD","UK| SKY ANIMATION HD",{tvg-id:"SkyCinemaAnimation.uk"},{exact},{group:"6 UK"}
+### --- 9 DOCUMENTAIRE ---
+"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"7 Documentaire"}
+"100% Docs Crime",{group:"7 Documentaire"}
+"CRIME DISTRICT","FR| CRIME DISTRICT SD","FR| CRIME DISTRICT HEVC","FR| CRIME DISTRICT FHD","FR| CRIME DISTRICT HD",{tvg-id:"CrimeDistrict.fr"},{group:"7 Documentaire"}
+"Love Crime & History",{group:"7 Documentaire"}
+"Dossiers FBI",{group:"7 Documentaire"}
+"Planète+ Crime ","FR| PLANETE+ CI HD","FR| PLANETE+ CI FHD","FR| PLANETE+ CI HEVC","FR| PLANETE+ CI SD",{tvg-id:"PLANETEJustice.fr"},{group:"7 Documentaire"}
+"DISCOVERY ID","FR|DISCOVERY ID HD","FR|DISCOVERY ID FHD","FR|DISCOVERY ID HEVC","FR|DISCOVERY ID SD",{tvg-id:"DiscoveryInvestigation.fr"},{group:"7 Documentaire"}
+"PLANETE+","FR| PLANETE+ HEVC","FR| PLANETE+ HD","FR| PLANETE+ FHD","FR| PLANETE+ SD",{tvg-id:"Planete.fr"},{group:"7 Documentaire"}
+"PLANETE+ Aventure","FR| PLANETE+ A&E HD","FR| PLANETE+ A&E FHD","FR| PLANETE+ A&E HEVC","FR| PLANETE+ A&E SD",{tvg-id:"PlaneteAction.fr"},{group:"7 Documentaire"}
+"DOC STORY",{group:"7 Documentaire"}
+
+
+"Au coeur du danger",{group:"7 Documentaire"}
+"Pêche à haut risque",{group:"7 Documentaire"}
+"Mayday: Catastrophe Aérienne",{group:"7 Documentaire"}
+"Cap Terre",{group:"7 Documentaire"}
+"Destination Nature",{group:"7 Documentaire"}
+"Nature Time",{group:"7 Documentaire"}
+"Echappées belles & co",{group:"7 Documentaire"}
+"Invitation au voyage",{group:"7 Documentaire"}
+
+"Homicide",{group:"7 Documentaire"}
+"Les Nouveaux Detectives",{group:"7 Documentaire"}
+"IntoCrime",{group:"7 Documentaire"}
+"Investigation by Pluto TV",{group:"7 Documentaire"}
+"True Crime by Pluto TV",{group:"7 Documentaire"}
+"Faites entrer l'accusé",{group:"7 Documentaire"}
+
+"MAISON & TRAVAUX",{tvg-id:"MaisonEtTravaux.fr"},{group:"7 Documentaire"}
+"Adjugé vendu !",{group:"7 Documentaire"}
+
+"Mission Intervention",{group:"7 Documentaire"}
+
+"Pluto TV Paranormal",{group:"7 Documentaire"}
+"Most Haunted",{group:"7 Documentaire"}
+"DRIVE TV",{group:"7 Documentaire"}
+"Epicurieux avec Jamy",{group:"7 Documentaire"}
+"Ça Chauffe en Cuisine",{group:"7 Documentaire"}
+"Pluto TV Cuisine",{group:"7 Documentaire"}
+"RMC MECANIC",{tvg-id:"RMCMecanic.fr"},{group:"7 Documentaire"}
+"Turbo",{group:"7 Documentaire"}
+"HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"7 Documentaire"}
+"Tech & Co",{tvg-id:"01TV.fr"},{group:"7 Documentaire"}
+
+
+"BFM 2",{tvg-id:"BFM2.fr"},{group:"7 Documentaire"}
+"CNEWS PRIME","CNEWS PRIME",{tvg-id:"CNewsPrime.fr"},{group:"7 Documentaire"}
+"TV5 Monde Info",{tvg-id:"TV5MondeInfo.fr"},{group:"7 Documentaire"}
+"FR| MARTINIQUE 1ERE",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
+"FR| GUADELOUPE 1ERE",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
+"FR| GUYANE 1ERE",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
+"FR| CANAL+ CARAIBES HD",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
+"FR| CANAL+ HD",{tvg-id:"CanalPlus.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
+"FR| CANAL+BOX OFFICE HD",{tvg-id:" CANAL+BOX OFFICE.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
+
+### --- 10 REALITE ---
+
+
+
+
+
+
+
+
+"Pluto TV Dating",{group:"9 Realite"}
+
+
+"MTV Catfish",{group:"9 Realite"}
+"Space Live",{group:"9 Realite"}
+
+"Just Tattoo of Us",{group:"9 Realite"}
+"Toute une histoire",{group:"9 Realite"}
+"Le meilleur d'Arthur",{group:"9 Realite"}
+"Ardivision",{group:"9 Realite"}
+### --- 11 Francophone ---
+"NCI (CI)",{exact},{tvg-id:"NCI .ci"},{group:"10 Francophone"}
+
+
+"RTI 2 (CI)",{exact},{tvg-id:"RTI2.ci"},{group:"10 Francophone"}
+"RTI3 (CI)",{exact},{tvg-id:"LA3.ci"},{group:"10 Francophone"}
+"REFLET TV (CI)",{exact},{tvg-id:"REFLET TV.ci"},{group:"10 Francophone"}
+"NTV (CI)",{exact},{group:"10 Francophone"}   
+"A12 (CI)",{exact},{group:"10 Francophone"}
+"IVOIRE CHANNEL (CI)",{exact},{group:"10 Francophone"}
+"REEL TV (CI)",{exact},{group:"10 Francophone"}  
+"TV MONACO",{exact},{group:"10 Francophone"} 
+"MONACO INFO",{exact},{group:"10 Francophone"} 
+
+### --- 12 M6 ---
+"M6 INTERNATIONAL","FR| M6 INTERNATIONAL HD","FR| M6 INTERNATIONAL FHD",{tvg-id:"M6International.fr"},{group:"11 M6"}
+
+"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"11 M6"}
+"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"11 M6"}
+### --- 13 International ---
+"Sky News Australia",{tvg-id:"SkyNewsAustralia.au"},{group:"12 International"}
+"ABC News","ABC NEWS AUSTRALIA","ABC News (720p)",{tvg-id:"ABCNewsSydney.au"},{exact},{group:"12 International"}
+"SABC News",{tvg-id:"SABCNews.za"},{group:"12 International"}
+"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"12 International"}
+"ABC TV Plus",{tvg-id:"ABCKids_ABCTVPlusAdelaide.au"},{group:"12 International"}
+"C31 Melbourne",{tvg-id:"C31.au@Melbourne"},{group:"12 International"}
+"Channel 44",{tvg-id:"Channel44.au"},{group:"12 International"}
+"CTB Perth Movies (720p)",{tvg-id:"CTBPerthMovies.au"},{group:"12 International"}
+"ABC TV WA",{tvg-id:"ABCPerth.au"},{group:"12 International"}   
+"ABC TV ACT",{tvg-id:"ABCTVCanberra.au"},{group:"12 International"}
+"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"12 International"}
+"ABC TV TAS",{tvg-id:"ABCHobart.au"},{group:"12 International"} 
+"ABC TV VIC",{tvg-id:"ABCMelbourne.au"},{group:"12 International"}  
+"ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"12 International"}
+"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"12 International"}   
+"ABC TV SA",{tvg-id:"ABCAdelaide.au"},{group:"12 International"}   
+"ABC Kids",{tvg-id:"ABCKids_ABC VPlusCanberra.au"},{group:"12 International"}
+"10 Bold Adelaide",{tvg-id:"10BOLDAdelaide.au"},{group:"12 International"} 
+"Bravo +1",{tvg-id:"Bravo+1.nz"},{group:"12 International"}
+"WildEarth",{tvg-id:"WildEarth.za"},{group:"12 International"}
+"ausbiz TV",{tvg-id:"AusbizTV.au"},{group:"12 International"}
+"TVSN",{tvg-id:"TVSN.au"},{group:"12 International"}
+"Te Reo",{tvg-id:"TeReo.nz"},{group:"12 International"}
+"Whakaata Maori",{tvg-id:"WhakaataMaori.nz"},{group:"12 International"}
+### --- 14 Enfants ---
+ "MANGAS","FR|MANGAS FHD",{tvg-id:"Mangas.fr"},{group:"14 Enfants"}
+"CANAL J","FR| CANAL J FHD","FR| CANAL J HD",{tvg-id:"CanalJ.fr"},{exact},{group:"14 Enfants"}
+"CARTOONITO","FR| CARTOONITO FHD","FR| CARTOONITO HD","FR| CARTOONITO HEVC","FR| CARTOONITO SD","FR| CARTOONITO",{tvg-id:"Cartoonito.fr"},{group:"14 Enfants"}
+"Nickelodeon","FR| NICKELODEON HEVC","FR| NICKELODÉON FHD","FR| NICKELODÉON HD","FR| NICKELODÉON SD",{tvg-id:"NickelodeonFrance.fr"},{group:"14 Enfants"}
+"Nickelodeon +1","FR| NICKELODEON+1 HD","FR| NICKELODEON+1 HEVC","FR| NICKELODEON+1 SD","FR| NICKELODÉON+1 FHD",{tvg-id:"NickelodeonPlus1.fr"},{group:"14 Enfants"}
+"Nickelodeon Junior","FR| NICKELODEON JUNIOR HEVC","FR| NICKELODÉON JUNIOR FHD","FR| NICKELODÉON JUNIOR HD","FR| NICKELODÉON JUNIOR SD",{tvg-id:"NickelodeonJuniorFrance.fr"},{group:"14 Enfants"}
+"Nickelodeon Teen","FR| NICKELODEON TEEN HEVC","FR| NICKELODÉON TEEN FHD","FR| NICKELODÉON TEEN HD","FR| NICKELODÉON TEEN SD",{tvg-id:"NickelodeonTeenFrance.fr"},{group:"14 Enfants"}
+"Boomerang","FR| BOOMERANG FHD","FR| BOOMERANG HD","FR| BOOMERANG HEVC","FR| BOOMERANG SD","FR| BOOMERANG",{tvg-id:"Boomerang.fr"},{group:"14 Enfants"}
+"Boomerang +1","FR| BOOMERANG+1 SD","FR| BOOMERANG +1",{tvg-id:"BoomerangPlus1.fr"},{exact},{group:"14 Enfants"}
+# Voici les chaînes disponibles. Copiez le nom exact dans votre tag {canal-epg:"..."}
+
+
+### --- CHAINES CANAL+ MQ DISPONIBLES ---
+# "13EME RUE"
+# "6TER"
+# "A+"
+# "ACTION"
+# "AFRICA 24"
+# "ARTE France"
+# "ATV Martinique"
+# "AUTOMOTO"
+# "BBC Earth"
+# "BBC NEWS"
+# "BBLACK CARIBBEAN"
+# "BEIN SPORTS 1 HD"
+# "BEIN SPORTS 2 HD"
+# "BEIN SPORTS 3 HD"
+# "BEIN SPORTS MAX 10"
+# "BEIN SPORTS MAX 4"
+# "BEIN SPORTS MAX 5"
+# "BEIN SPORTS MAX 6"
+# "BEIN SPORTS MAX 7"
+# "BEIN SPORTS MAX 8"
+# "BEIN SPORTS MAX 9"
+# "BFM BUSINESS"
+# "BFM TV"
+# "BOOMERANG"
+# "BRAVO"
+# "C+SPORT AYITI 1 HD"
+# "C+SPORT AYITI 2"
+# "CANAL 10"
+# "CANAL EVENEMENT CARA"
+# "CANAL J"
+# "CANAL SONY"
+# "CANAL+ 3 CINEMA(S) HD"
+# "CANAL+ HD"
+# "CANAL+AYITI HD"
+# "CANAL+DOCS"
+# "CANAL+FOOT HD"
+# "CANAL+KIDS HD"
+# "CANAL+LIVE 1"
+# "CANAL+LIVE 10"
+# "CANAL+LIVE 11"
+# "CANAL+LIVE 12"
+# "CANAL+LIVE 13"
+# "CANAL+LIVE 14"
+# "CANAL+LIVE 15"
+# "CANAL+LIVE 16"
+# "CANAL+LIVE 17"
+# "CANAL+LIVE 18"
+# "CANAL+LIVE 2"
+# "CANAL+LIVE 3"
+# "CANAL+LIVE 4"
+# "CANAL+LIVE 5"
+# "CANAL+LIVE 6"
+# "CANAL+LIVE 7"
+# "CANAL+LIVE 8"
+# "CANAL+LIVE 9"
+# "CANAL+MAGIC"
+# "CANAL+PREMIER LEAGUE"
+# "CANAL+SPORT HD"
+# "CANAL+SPORT360 HD"
+# "CARTOON NETWORK"
+# "CARTOONITO"
+# "CHEVAL TV"
+# "CINE+CLASSIC"
+# "CINE+EMOTION"
+# "CINE+FAMILY"
+# "CINE+FESTIVAL"
+# "CINE+FRISSON HD"
+# "CNEWS"
+# "CNEWS PRIME"
+# "CNN"
+# "COMEDIE+"
+# "COMEDY CENTRAL"
+# "CSTAR"
+# "DISCOVERY CHANNEL"
+# "DISCOVERY INVESTIGATION"
+# "DOG & CAT TV"
+# "DORCEL TV"
+# "EMCI"
+# "ENGLISH CLUB TV"
+# "EQUIDIA HD"
+# "ESPN"
+# "ESPN2 LATIN NETWORK"
+# "ETV"
+# "EUROPE 1 TV"
+# "EUROPE 2 POP TV"
+# "EUROSPORT 1 HD"
+# "EUROSPORT 2 HD"
+# "EVANGILE TV"
+# "FRANCE 2"
+# "FRANCE 24"
+# "FRANCE 3"
+# "FRANCE 4"
+# "FRANCE 5"
+# "FRANCE INFO:"
+# "FUSION TV"
+# "GOLF+"
+# "GRAPHE TV"
+# "GUADELOUPE 1ERE"
+# "GULLI"
+# "GUYANE 1ERE"
+# "HBO"
+# "HBO Family"
+# "HBO XTREME"
+# "HUSTLER"
+# "INFOSPORT+"
+# "IOTV"
+# "KMT"
+# "KOUROU TV"
+# "KTO"
+# "L'EQUIPE"
+# "LCI"
+# "LCP"
+# "LOVE NATURE"
+# "LUDIKIDS OI"
+# "M6 HD"
+# "MANGAS"
+# "MARTINIQUE 1ERE"
+# "MEZZO"
+# "MEZZO LIVE "
+# "MIEUX"
+# "MTV France"
+# "MUSEUM TV"
+# "MY TV CARAIBES"
+# "NICKELODEON"
+# "NICKELODEON JR"
+# "NOLLYWOOD TV EPIC"
+# "NOLLYWOOD TV france"
+# "NOVELAS TV"
+# "NOVO19"
+# "OCS HD"
+# "OLYMPIA TV"
+# "PARIS PREMIERE"
+# "PENTHOUSE BLACK"
+# "PINK TV"
+# "PIWI+"
+# "PLANETE+"
+# "PLANETE+ AVENTURE"
+# "PLANETE+ CRIME"
+# "PRIVATE"
+# "PUNCH TV"
+# "RADIO TELE ECLAIR"
+# "RMC DECOUVERTE"
+# "RMC LIFE"
+# "RMC STORY"
+# "RTL9"
+# "SCIFI"
+# "SEASONS"
+# "SPORT EN FRANCE"
+# "STUDIOCANAL TV"
+# "STVS"
+# "T18"
+# "TCM 3 CINEMA"
+# "TELE 20"
+# "TELE MICRO"
+# "TELE PEYI GUYANE"
+# "TELEMUNDO"
+# "TELETOON+"
+# "TEST DROM"
+# "TEVA"
+# "TF1 HD"
+# "TF1 SERIES FILMS"
+# "TFX"
+# "TLC"
+# "TMC"
+# "TNH HAITI"
+# "TOUTE L HISTOIRE"
+# "TRACE AYITI"
+# "TRACE CARIBBEAN"
+# "TRACE URBAN"
+# "TROTTERS TV"
+# "TV BREIZH"
+# "TV GLOBO"
+# "TV Métropole"
+# "TV5 MONDE (Amérique Latine)"
+# "USHUAIA TVHD"
+# "VIXEN"
+# "VOIR+"
+# "W9"
+# "WARNER TV"
+# "WARNER TV NEXT"
+# "XXL"
+# "ZITATA TV"
+# "ZOUK TV"
+
+
+### --- CHAINES CANAL+ CI DISPONIBLES ---
+# "13EME RUE"
+# "2M"
+# "2STV"
+# "3TV"
+# "7INFO"
+# "7TV"
+# "A+"
+# "A+ BENIN"
+# "A+ IVOIRE Antenne"
+# "AB1"
+# "ACTION HD"
+# "AES TV HD"
+# "AFRICA 24"
+# "AFRICA 24 ENGLISH"
+# "AFRICA 24 INFINITY"
+# "AFRICA 24 SPORT"
+# "AFRICA MAGIC EPIC"
+# "AFRICA MAGIC HAUSA"
+# "AFRICA MAGIC SHOWCASE"
+# "AFRICA MAGIC YORUBA"
+# "AFRICABLE"
+# "AFRIKINFO TV"
+# "AL JAZEERA"
+# "AL JAZEERA ENG"
+# "AL MOURIDIYYAH TV"
+# "AL NASSR"
+# "ALAFIA TV"
+# "ALBAYANE"
+# "ANIMAUX"
+# "ANTENNE A"
+# "AREWA 24"
+# "ARTE France"
+# "ASFIYAHI"
+# "ASONGA TV"
+# "AUTOMOTO"
+# "B-ONE"
+# "BALAFON TV"
+# "BBC EARTH"
+# "BBC NEWS"
+# "BBLACK AFRICA"
+# "BCN TV"
+# "BENIE TV"
+# "BENIN TV ALAFIA"
+# "BENIN TV HD"
+# "BF1 TV"
+# "BLOOMBERG ORIGINALS"
+# "BLOOMBERG TV"
+# "BNEWS"
+# "BONFEREY"
+# "BOOMERANG"
+# "BOSOLO TV"
+# "BRAVO"
+# "BRAVO ENG"
+# "BRIK TV"
+# "BTN TV"
+# "BUJA TV"
+# "BURKINA INFO"
+# "Bukedde TV"
+# "C+ KIDS"
+# "CAM10"
+# "CANAL 2 INTER"
+# "CANAL 2 MOVIES"
+# "CANAL 3 BENIN"
+# "CANAL 3 BURKINA"
+# "CANAL EVENEMENT AFRIQUE"
+# "CANAL+ ACTION CENTRE"
+# "CANAL+ 3 CINEMA CENTRE"
+# "CANAL+ DOCS"
+# "CANAL+ POP "
+# "CANAL+ PREMIERE CENTRE"
+# "CANAL+ SPORT 1"
+# "CANAL+ SPORT 2"
+# "CANAL+ SPORT 3"
+# "CANAL+ SPORT 4"
+# "CANAL+ SPORT 5"
+# "CARTOON NETWORK"
+# "CARTOON NETWORK Africa SA"
+# "CARTOONITO"
+# "CAVI MEDIAS"
+# "CDIRECT"
+# "CHERIFLA TV"
+# "CHIF TV"
+# "CHINGUIT TV"
+# "CIS TV"
+# "CITIZEN TELEVISION"
+# "CNBC AFRICA"
+# "CNEWS"
+# "CNEWS PRIME"
+# "CNN"
+# "CONGO 26"
+# "CRIME DISTRICT"
+# "CRTV"
+# "CRTV NEWS"
+# "CRTV SPORT"
+# "CSTAR"
+# "CUISINES"
+# "DASH TV"
+# "DBS"
+# "DIGITAL CONGO"
+# "DISCOVERY CHANNEL"
+# "DISCOVERY INVESTIGATION"
+# "DNTV"
+# "DORCEL TV"
+# "DORCEL TV AFRICA"
+# "DOUNIA"
+# "DRTV"
+# "E-TELEVISION"
+# "ECCLESIA TV"
+# "EDEN TV"
+# "EDUC TV"
+# "EDUCA TV"
+# "ELECTRON TV"
+# "ELWATANIYA TV"
+# "EMCI"
+# "EQUINOXE TV"
+# "ESPACE TV"
+# "ESPERANCE TV"
+# "EURONEWS"
+# "EUROPE 1 TV"
+# "EUROPE 2 POP TV"
+# "EVANGILE TV"
+# "EVASION TV"
+# "FLASH TV"
+# "FRANCE 24"
+# "FRANCE 24 EN"
+# "FRANCE 3"
+# "FRANCE 5"
+# "FULBE"
+# "France 2 INT"
+# "GABON 1ERE"
+# "GABON 24"
+# "GABON CULTURE"
+# "GALAXIE TELE"
+# "GLOBAL AFRICA"
+# "GO TV"
+# "GOLF+ HD"
+# "GTV"
+# "GULLI AFRICA"
+# "GULLI BIL ARABI"
+# "HERITAGE TV"
+# "HISTOIRE TV"
+# "HOREB TV"
+# "HTV BURUNDI"
+# "HUSTLER HD"
+# "IMPACT TV"
+# "INFO TV"
+# "INFOSPORT+"
+# "IQRAA"
+# "ISANGO STAR TV"
+# "ISHUSHO TV"
+# "ISIBO TV"
+# "ITV"
+# "IVOIRE TV Music"
+# "JESUS 24 TV"
+# "JOLIBA"
+# "KABACK TV"
+# "KALAC TV"
+# "KAYES TV"
+# "KC2"
+# "KTN"
+# "KTO"
+# "LA GUINEE FE HD"
+# "LA3"
+# "LABARI"
+# "LAMP FALL TV"
+# "LCI"
+# "LERAL TV"
+# "LIFE TV"
+# "LIPTAKO TV"
+# "LMTV"
+# "LOVE NATURE"
+# "LTM"
+# "LUDIKIDS OI"
+# "LUMEN CHRISTI"
+# "LUTTE TV"
+# "LUX TV"
+# "M6 INTERNATIONAL"
+# "M7"
+# "MAAJABU TV"
+# "MABOKE TV"
+# "MADI TV"
+# "MAISHA MAGIC BONGO"
+# "MAISHA MAGIC EAST"
+# "MAISHA MAGIC PLUS"
+# "MALAIKA TV"
+# "MALIKIA TV"
+# "MANDE TV"
+# "MANDEKA HD"
+# "MANGAS"
+# "MCR TV"
+# "MELODY D'AFRIQUE"
+# "MEZZO"
+# "MIEUX"
+# "MIKUBA TV"
+# "MNET MOVIES 3"
+# "MNET MOVIES 4"
+# "MOLIERE TV"
+# "MOURCHID TV"
+# "MRTV"
+# "MSI TV"
+# "MTV France"
+# "MTV LEBANON"
+# "MUSEUM TV"
+# "MY MEDIA PRIME"
+# "NATHAN+"
+# "NATIONAL GEOGRAPHIC ENG"
+# "NBA TV"
+# "NCA"
+# "NCI "
+# "NHK WORLD JAPAN (fermé)"
+# "NICKELODEON ENG"
+# "NICKELODEON GLOBAL"
+# "NICKELODEON JR"
+# "NICKELODEON JR ENG"
+# "NIETA TV"
+# "NOLLYWOOD EPIC"
+# "NOLLYWOOD TV"
+# "NOVELAS (Cameroun)"
+# "NOVELAS TV"
+# "NOVELAS TV HD (RDC)"
+# "NYOTA"
+# "ONE TV"
+# "ORTM1"
+# "ORTM2"
+# "PACIS TV"
+# "PARLEMENT TV"
+# "PAROLE ETERNELLE TV"
+# "PASSION BOLLYWOOD"
+# "PENTHOUSE BLACK"
+# "PITCHOUN AFRICA"
+# "PIWI+"
+# "PLANETE+"
+# "PLANETE+ AVENTURE"
+# "PLANETE+ CRIME"
+# "PRC"
+# "PRIVATE TV"
+# "PULAAGU HD"
+# "PYRAMIDE TV"
+# "RATELKI"
+# "REFLET TV"
+# "RENOUVEAU TV"
+# "RTB"
+# "RTB 3"
+# "RTB ZENITH"
+# "RTCE"
+# "RTD"
+# "RTDS"
+# "RTG1"
+# "RTG2"
+# "RTGA"
+# "RTI 1"
+# "RTI2"
+# "RTL9 HD"
+# "RTNB"
+# "RTNC"
+# "RTS"
+# "RTS 2"
+# "RTVC"
+# "RTVS 1"
+# "RWANDA TV"
+# "SAHARA TV"
+# "SARAOUNIA TV"
+# "SAVANE TV"
+# "SCIENCE ET VIE TV"
+# "SCIFI"
+# "SEN TV"
+# "SENSATION TV"
+# "SERIE CLUB"
+# "SINEMA ZETU"
+# "SOS DOCTEUR TV"
+# "SPORT EN FRANCE"
+# "SS AFRICA 2 HD"
+# "SS EPL"
+# "SS FOOTBALL HD"
+# "SS FOOTBALL PLUS HD"
+# "SS LA LIGA"
+# "SS WWE"
+# "SSM TV"
+# "STUDIO UNIVERSAL"
+# "STV"
+# "SUD 1ERE"
+# "SUN+ TV"
+# "SUNNA TV SAVANA"
+# "SUNNA TV ZARMA"
+# "SUNU YEUF"
+# "SUPERSPORT ACTION"
+# "TAURARUWA"
+# "TCHAD 24"
+# "TCHAD INFOS"
+# "TELE 24"
+# "TELE 50"
+# "TELE CONGO"
+# "TELE SAHEL"
+# "TELEMUNDO"
+# "TELEMUSIK SENEGAL"
+# "TELETOON+"
+# "TENERE"
+# "TEST 19"
+# "TEST AFRIQUE"
+# "TF1"
+# "TF1 SERIES FILMS"
+# "TFM"
+# "TFX"
+# "TGB"
+# "TIJI"
+# "TIVI5 MONDE"
+# "TM1"
+# "TMC"
+# "TNT Africa"
+# "TOUBA TV"
+# "TOUMAI TV"
+# "TOUTE L HISTOIRE"
+# "TPT+"
+# "TRACE AFRICA AFRIQUE"
+# "TRACE GOSPEL"
+# "TRACE IVOIRE"
+# "TRACE KITOKO"
+# "TRACE MBOA "
+# "TRACE TERANGA"
+# "TRACE Urban Afrique"
+# "TREK"
+# "TV AL HOUDA"
+# "TV MAURITANIE"
+# "TV O"
+# "TV TCHAD"
+# "TV TOGO"
+# "TV+ AFRIQUE"
+# "TV1"
+# "TV10"
+# "TV2"
+# "TV5 MONDE (Afrique)"
+# "TV7"
+# "TVC"
+# "TVCA"
+# "TVGE"
+# "UNIVERS TV"
+# "UNIVERSAL "
+# "USHUAÏA TV"
+# "VISION 4 RCA"
+# "VIXEN"
+# "VOIR+"
+# "VOIR+ COTE D IVOIRE"
+# "VOIR+ RDC"
+# "VOX AFRICA"
+# "VOX TV"
+# "WALF TV"
+# "WEST AFRICA TV"
+# "XXL"
+# "ZACU TV"
+# "ZEE ALWAN"
+# "ZEE MAGIC"
+# "ZEE WORLD"
+"FilmRise Binge Watch"
+
+# fin de liste
+"ACTION TOTALE ADRÉNALINE"
+"CUISINE"
+"SCIENCE FICTION"
+"101 LG 1: Film"
+"100 LG 1"
+"102 LG 1: Spotlight"
