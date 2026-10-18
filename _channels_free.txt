@@ -335,7 +335,6 @@
 "Sky CINEMA SCIFI FHD","UK| Sky CINEMA SCIFI FHD",{tvg-id:"SkyCinemaSci-fiAndHorror.uk"},{exact},{group:"6 UK"}
 "Sky CINEMA ANIMATION FHD","UK| Sky CINEMA ANIMATION FHD","UK| Sky CINEMA ANIMATION HD","UK| Sky CINEMA ANIMATION HEVC","UK| SKY ANIMATION FHD","UK| SKY ANIMATION HD",{tvg-id:"SkyCinemaAnimation.uk"},{exact},{group:"6 UK"}
 ### --- 9 DOCUMENTAIRE ---
-"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"7 Documentaire"}
 "100% Docs Crime",{group:"7 Documentaire"}
 "CRIME DISTRICT","FR| CRIME DISTRICT SD","FR| CRIME DISTRICT HEVC","FR| CRIME DISTRICT FHD","FR| CRIME DISTRICT HD",{tvg-id:"CrimeDistrict.fr"},{group:"7 Documentaire"}
 "Love Crime & History",{group:"7 Documentaire"}
@@ -347,18 +346,13 @@
 "DOC STORY",{group:"7 Documentaire"}
 
 
-"Au coeur du danger",{group:"7 Documentaire"}
 "Pêche à haut risque",{group:"7 Documentaire"}
 "Mayday: Catastrophe Aérienne",{group:"7 Documentaire"}
 "Cap Terre",{group:"7 Documentaire"}
 "Destination Nature",{group:"7 Documentaire"}
 "Nature Time",{group:"7 Documentaire"}
 "Echappées belles & co",{group:"7 Documentaire"}
-"Invitation au voyage",{group:"7 Documentaire"}
 
-"Homicide",{group:"7 Documentaire"}
-"Les Nouveaux Detectives",{group:"7 Documentaire"}
-"IntoCrime",{group:"7 Documentaire"}
 "Investigation by Pluto TV",{group:"7 Documentaire"}
 "True Crime by Pluto TV",{group:"7 Documentaire"}
 "Faites entrer l'accusé",{group:"7 Documentaire"}
@@ -1029,3 +1023,9 @@
 "CARTOONITO","FR| CARTOONITO FHD","FR| CARTOONITO HD","FR| CARTOONITO HEVC","FR| CARTOONITO SD","FR| CARTOONITO",{tvg-id:"Cartoonito.fr"},{group:"0 Gratuit"}
 "Nickelodeon","FR| NICKELODEON HEVC","FR| NICKELODÉON FHD","FR| NICKELODÉON HD","FR| NICKELODÉON SD",{tvg-id:"NickelodeonFrance.fr"},{group:"0 Gratuit"}
 "Boomerang","FR| BOOMERANG FHD","FR| BOOMERANG HD","FR| BOOMERANG HEVC","FR| BOOMERANG SD","FR| BOOMERANG",{tvg-id:"Boomerang.fr"},{group:"0 Gratuit"}
+"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
+"Invitation au voyage",{group:"0 Gratuit"}
+"Homicide",{group:"0 Gratuit"}
+"Les Nouveaux Detectives",{group:"0 Gratuit"}
+"IntoCrime",{group:"0 Gratuit"}
+"Au coeur du danger",{group:"0 Gratuit"}
