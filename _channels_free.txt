@@ -829,6 +829,7 @@
 "TVA [Geo-blocked]"
 "LCN [Geo-blocked]"
 "ICI RDI - CANADA"
+"LCI HD"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
