@@ -114,34 +114,8 @@
 
 
 
-"Star Trek: The Original Series",{group:"4 Serie"}
-"Mission Impossible",{group:"4 Serie"}
-"FR| VIKINGS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| PEAKY BLINDERS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| LOST FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| THE SANDMAN",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| THE WITCHER",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| THE UMBRELLA ACADEMY",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| LA CASA DE PAPEL FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| BREAKING BAD FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| BETTER CALL SAUL",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| LOCKE & KEY",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| CARNIVAL ROW",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| FRANCOIS L'EMBROUILLE",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
-"FR| ENCHÈRES À TOUT PRIX",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"4 Serie"}
 
-"MCM","FR|MCM FHD",{tvg-id:"MCM.fr"},{group:"4 Serie"}
-"Olive & Tom",{group:"4 Serie"}
-"One Piece",{group:"4 Serie"}
-"Detective Conan",{group:"4 Serie"}
-"Les Schtroumpfs",{group:"4 Serie"}
-"BBC Series",{group:"4 Serie"}
 
-"Pluto TV 90's Classics",{group:"4 Serie"}
-"Pluto TV 2010's Classics",{group:"4 Serie"}
-"Pluto TV Comédie",{group:"4 Serie"}
-"MGG FAST",{group:"4 Serie"}
-"FRANCE TV SERIES","FR| FRANCE TV SERIES FHD","FR| FRANCE TV SERIES HD",{tvg-id:"FranceTVSeries.fr"},{group:"4 Serie"}
 
 ### --- 5 SPORT ---
 "CANAL+ _SP","FR| CANAL+ HEVC","FR| CANAL+ FHD","FR| CANAL+ HD","FR| CANAL+ SD",{tvg-id:"CanalPlus.fr"},{exact},{group:"4 Sport"}
@@ -1052,3 +1026,16 @@
 "Shadowz",{group:"0 Gratuit"}
 "Ciné Nanar",{group:"0 Gratuit"}
 "COMEDY CENTRAL","FR| COMEDY CENTRAL FHD","FR| COMEDY CENTRAL HD","FR| COMEDY CENTRAL HEVC","FR| COMEDY CENTRAL SD",{tvg-id:"ComedyCentral.fr"},{group:"0 Gratuit"}
+"Star Trek: The Original Series",{group:"0 Gratuit"}
+"Mission Impossible",{group:"0 Gratuit"}
+"FR| VIKINGS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
+"FR| PEAKY BLINDERS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
+"FR| LOST FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
+"FR| ENCHÈRES À TOUT PRIX",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
+"Olive & Tom",{group:"0 Gratuit"}
+"One Piece",{group:"0 Gratuit"}
+"Detective Conan",{group:"0 Gratuit"}
+"Les Schtroumpfs",{group:"0 Gratuit"}
+"BBC Series",{group:"0 Gratuit"}
+"Pluto TV 90's Classics",{group:"0 Gratuit"}
+"Pluto TV Comédie",{group:"0 Gratuit"}
