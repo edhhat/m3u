@@ -110,21 +110,8 @@
 
 
 
-"Box Office Thriller",{group:"3 Cinema"}
-"Films d'action - Rakuten TV",{group:"3 Cinema"}
-"Drames - Rakuten TV",{group:"3 Cinema"}
-"Comédies - Rakuten TV",{group:"3 Cinema"}
-"Famille - Rakuten TV",{group:"3 Cinema"}
-"Films Romantiques - Rakuten TV",{group:"3 Cinema"}
-"Action Totale",{group:"3 Cinema"}
-"Crime - Rakuten TV",{group:"3 Cinema"}
-"Wild Side TV",{group:"3 Cinema"}
-"Runtime",{group:"3 Cinema"}
-"Shadowz",{group:"3 Cinema"}
 
 
-"Ciné Nanar",{group:"3 Cinema"}
-"COMEDY CENTRAL","FR| COMEDY CENTRAL FHD","FR| COMEDY CENTRAL HD","FR| COMEDY CENTRAL HEVC","FR| COMEDY CENTRAL SD",{tvg-id:"ComedyCentral.fr"},{group:"3 Cinema"}
 
 
 "Star Trek: The Original Series",{group:"4 Serie"}
@@ -1052,3 +1039,16 @@
 "102 LG 1: Spotlight"
 "101 LG 1: Film"
 "Sony One Action HITS",{group:"0 Gratuit"}
+"Box Office Thriller",{group:"0 Gratuit"}
+"Films d'action - Rakuten TV",{group:"0 Gratuit"}
+"Drames - Rakuten TV",{group:"0 Gratuit"}
+"Comédies - Rakuten TV",{group:"0 Gratuit"}
+"Famille - Rakuten TV",{group:"0 Gratuit"}
+"Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
+"Action Totale",{group:"0 Gratuit"}
+"Crime - Rakuten TV",{group:"0 Gratuit"}
+"Wild Side TV",{group:"0 Gratuit"}
+"Runtime",{group:"0 Gratuit"}
+"Shadowz",{group:"0 Gratuit"}
+"Ciné Nanar",{group:"0 Gratuit"}
+"COMEDY CENTRAL","FR| COMEDY CENTRAL FHD","FR| COMEDY CENTRAL HD","FR| COMEDY CENTRAL HEVC","FR| COMEDY CENTRAL SD",{tvg-id:"ComedyCentral.fr"},{group:"0 Gratuit"}
