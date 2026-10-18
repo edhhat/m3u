@@ -411,18 +411,8 @@
 "Le meilleur d'Arthur",{group:"9 Realite"}
 "Ardivision",{group:"9 Realite"}
 ### --- 11 Francophone ---
-"NCI (CI)",{exact},{tvg-id:"NCI .ci"},{group:"10 Francophone"}
 
 
-"RTI 2 (CI)",{exact},{tvg-id:"RTI2.ci"},{group:"10 Francophone"}
-"RTI3 (CI)",{exact},{tvg-id:"LA3.ci"},{group:"10 Francophone"}
-"REFLET TV (CI)",{exact},{tvg-id:"REFLET TV.ci"},{group:"10 Francophone"}
-"NTV (CI)",{exact},{group:"10 Francophone"}   
-"A12 (CI)",{exact},{group:"10 Francophone"}
-"IVOIRE CHANNEL (CI)",{exact},{group:"10 Francophone"}
-"REEL TV (CI)",{exact},{group:"10 Francophone"}  
-"TV MONACO",{exact},{group:"10 Francophone"} 
-"MONACO INFO",{exact},{group:"10 Francophone"} 
 
 ### --- 12 M6 ---
 "M6 INTERNATIONAL","FR| M6 INTERNATIONAL HD","FR| M6 INTERNATIONAL FHD",{tvg-id:"M6International.fr"},{group:"11 M6"}
@@ -1039,3 +1029,11 @@
 "BBC Series",{group:"0 Gratuit"}
 "Pluto TV 90's Classics",{group:"0 Gratuit"}
 "Pluto TV Comédie",{group:"0 Gratuit"}
+"NCI (CI)",{exact},{tvg-id:"NCI .ci"},{group:"0 Gratuit"}
+"RTI 2 (CI)",{exact},{tvg-id:"RTI2.ci"},{group:"0 Gratuit"}
+"RTI3 (CI)",{exact},{tvg-id:"LA3.ci"},{group:"0 Gratuit"}
+"REEL TV (CI)",{exact},{group:"0 Gratuit"}  
+"REFLET TV (CI)",{exact},{tvg-id:"REFLET TV.ci"},{group:"0 Gratuit"}
+"NTV (CI)",{exact},{group:"0 Gratuit"}   
+"A12 (CI)",{exact},{group:"0 Gratuit"}
+"IVOIRE CHANNEL (CI)",{exact},{group:"0 Gratuit"}
