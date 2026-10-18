@@ -434,15 +434,6 @@
 "Te Reo",{tvg-id:"TeReo.nz"},{group:"12 International"}
 "Whakaata Maori",{tvg-id:"WhakaataMaori.nz"},{group:"12 International"}
 ### --- 14 Enfants ---
- "MANGAS","FR|MANGAS FHD",{tvg-id:"Mangas.fr"},{group:"14 Enfants"}
-"CANAL J","FR| CANAL J FHD","FR| CANAL J HD",{tvg-id:"CanalJ.fr"},{exact},{group:"14 Enfants"}
-"CARTOONITO","FR| CARTOONITO FHD","FR| CARTOONITO HD","FR| CARTOONITO HEVC","FR| CARTOONITO SD","FR| CARTOONITO",{tvg-id:"Cartoonito.fr"},{group:"14 Enfants"}
-"Nickelodeon","FR| NICKELODEON HEVC","FR| NICKELODÉON FHD","FR| NICKELODÉON HD","FR| NICKELODÉON SD",{tvg-id:"NickelodeonFrance.fr"},{group:"14 Enfants"}
-"Nickelodeon +1","FR| NICKELODEON+1 HD","FR| NICKELODEON+1 HEVC","FR| NICKELODEON+1 SD","FR| NICKELODÉON+1 FHD",{tvg-id:"NickelodeonPlus1.fr"},{group:"14 Enfants"}
-"Nickelodeon Junior","FR| NICKELODEON JUNIOR HEVC","FR| NICKELODÉON JUNIOR FHD","FR| NICKELODÉON JUNIOR HD","FR| NICKELODÉON JUNIOR SD",{tvg-id:"NickelodeonJuniorFrance.fr"},{group:"14 Enfants"}
-"Nickelodeon Teen","FR| NICKELODEON TEEN HEVC","FR| NICKELODÉON TEEN FHD","FR| NICKELODÉON TEEN HD","FR| NICKELODÉON TEEN SD",{tvg-id:"NickelodeonTeenFrance.fr"},{group:"14 Enfants"}
-"Boomerang","FR| BOOMERANG FHD","FR| BOOMERANG HD","FR| BOOMERANG HEVC","FR| BOOMERANG SD","FR| BOOMERANG",{tvg-id:"Boomerang.fr"},{group:"14 Enfants"}
-"Boomerang +1","FR| BOOMERANG+1 SD","FR| BOOMERANG +1",{tvg-id:"BoomerangPlus1.fr"},{exact},{group:"14 Enfants"}
 # Voici les chaînes disponibles. Copiez le nom exact dans votre tag {canal-epg:"..."}
 
 
@@ -1034,3 +1025,7 @@
 "Toute une histoire",{group:"0 Gratuit"}
 "Le meilleur d'Arthur",{group:"0 Gratuit"}
 "Ardivision",{group:"0 Gratuit"}
+"Nickelodeon +1","FR| NICKELODEON+1 HD","FR| NICKELODEON+1 HEVC","FR| NICKELODEON+1 SD","FR| NICKELODÉON+1 FHD",{tvg-id:"NickelodeonPlus1.fr"},{group:"0 Gratuit"}
+"CARTOONITO","FR| CARTOONITO FHD","FR| CARTOONITO HD","FR| CARTOONITO HEVC","FR| CARTOONITO SD","FR| CARTOONITO",{tvg-id:"Cartoonito.fr"},{group:"0 Gratuit"}
+"Nickelodeon","FR| NICKELODEON HEVC","FR| NICKELODÉON FHD","FR| NICKELODÉON HD","FR| NICKELODÉON SD",{tvg-id:"NickelodeonFrance.fr"},{group:"0 Gratuit"}
+"Boomerang","FR| BOOMERANG FHD","FR| BOOMERANG HD","FR| BOOMERANG HEVC","FR| BOOMERANG SD","FR| BOOMERANG",{tvg-id:"Boomerang.fr"},{group:"0 Gratuit"}
