@@ -415,10 +415,7 @@
 
 
 ### --- 12 M6 ---
-"M6 INTERNATIONAL","FR| M6 INTERNATIONAL HD","FR| M6 INTERNATIONAL FHD",{tvg-id:"M6International.fr"},{group:"11 M6"}
 
-"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"11 M6"}
-"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"11 M6"}
 ### --- 13 International ---
 "Sky News Australia",{tvg-id:"SkyNewsAustralia.au"},{group:"12 International"}
 "ABC News","ABC NEWS AUSTRALIA","ABC News (720p)",{tvg-id:"ABCNewsSydney.au"},{exact},{group:"12 International"}
@@ -1037,3 +1034,6 @@
 "NTV (CI)",{exact},{group:"0 Gratuit"}   
 "A12 (CI)",{exact},{group:"0 Gratuit"}
 "IVOIRE CHANNEL (CI)",{exact},{group:"0 Gratuit"}
+"M6 INTERNATIONAL","FR| M6 INTERNATIONAL HD","FR| M6 INTERNATIONAL FHD",{tvg-id:"M6International.fr"},{group:"0 Gratuit"}
+"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
+"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
