@@ -1055,8 +1055,6 @@
 
 # fin de liste
 "ACTION TOTALE ADRÉNALINE"
-"CUISINE"
-"SCIENCE FICTION"
 "101 LG 1: Film"
 "100 LG 1"
 "102 LG 1: Spotlight"
