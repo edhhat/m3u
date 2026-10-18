@@ -6,7 +6,6 @@
 "CNEWS",{tvg-id:"CNews.fr"},{exact},{group:"0 Gratuit"}
 "TF1","FR| TF1 HD","FR| TF1 FHD ᴿᴬᵂ","FR| TF1 FHD","FR| TF1 HEVC",{tvg-id:"TF1.fr"},{group:"0 Gratuit"}
 "France 2 France","France 2","France 2 (1080p)","FR| FRANCE 2 HD","FR| FRANCE 2 FHD","FR| FRANCE 2 HEVC",{tvg-id:"France2.fr"},{exact},{group:"0 Gratuit"}
-"FR| FRANCE 3",{tvg-id:"France3.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{group:"1 France"}
 "France 4 France","FR| FRANCE 4 HD","FR| FRANCE 4 FHD","FR| FRANCE 4 HEVC",{tvg-id:"France4.fr"},{exact},{group:"0 Gratuit"}
 "France 5 France","France 5 (1080p)","FR| FRANCE 5 HD","FR| FRANCE 5 FHD","FR| FRANCE 5 HEVC",{tvg-id:"France5.fr"},{exact},{group:"0 Gratuit"}
 "M6","FR| M6 HD","FR| M6 FHD","FR| M6 HEVC",{tvg-id:"M6.fr"},{group:"0 Gratuit"}
