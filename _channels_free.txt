@@ -104,7 +104,6 @@
 "NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
-"FilmRise Binge Watch"
 
 
 
@@ -993,12 +992,8 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"ACTION TOTALE ADRÉNALINE"
 
 # fin de liste
-"100 LG 1"
-"102 LG 1: Spotlight"
-"101 LG 1: Film"
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Box Office Thriller",{group:"0 Gratuit"}
 "Films d'action - Rakuten TV",{group:"0 Gratuit"}
@@ -1037,3 +1032,5 @@
 "M6 INTERNATIONAL","FR| M6 INTERNATIONAL HD","FR| M6 INTERNATIONAL FHD",{tvg-id:"M6International.fr"},{group:"0 Gratuit"}
 "Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
+"FilmRise Binge Watch" {group:"0 Gratuit"}
+"ACTION TOTALE ADRÉNALINE" {group:"0 Gratuit"}
