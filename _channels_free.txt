@@ -132,23 +132,10 @@
   
 ### --- 6 USA ---
 ### FOX
-"FOX NY","US| FOX 05 (WNYW) NEW YORK","WNYW",{tvg-id:"FOXWNYW.us"},{group:"5 USA"}
-"FOX CHI","US| FOX 32 (WFLD) CHICAGO","WFLD",{tvg-id:"FOXWFLD.us"},{group:"5 USA"}
-"FOX PHX","US| FOX 10 (KSAZ) PHOENIX","KSAZ",{tvg-id:"FOXKSAZ.us"},{group:"5 USA"}
-"FOX LA","US| FOX 11 (KTTV) LOS ANGELES","FOX 11 LOS ANGELES","KTTV",{tvg-id:"FOXKTTV.us"},{group:"5 USA"}
 ### ABC
-"ABC NY","US| ABC 07 (WABC) NEW YORK","WABC",{tvg-id:"ABCWABC.us"},{group:"5 USA"}
-"ABC CHI","US| ABC 07 (WLS) CHICAGO","WLS",{tvg-id:"ABCWLS.us"},{group:"5 USA"}
-"ABC PHX","US| ABC 15 (KNXV) PHOENIX","KNXV",{tvg-id:"ABCKNXV.us"},{group:"5 USA"}
-"ABC LA","US| ABC 07 (KABC) LOS ANGELES","ABC 07 LOS ANGELES","KABC",{tvg-id:"ABCKABC.us"},{group:"5 USA"}
 ### NBC
 
-"NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"5 USA"}
-"NBC PHX","US| NBC 12 (KPNX) MESA","KPNX",{tvg-id:"NBCKPNX.us"},{group:"5 USA"}
-"NBC LA","US| NBC 04 (KNBC) LOS ANGELES","NBC 04 LOS ANGELES","KNBC",{tvg-id:"NBCKNBC.us"},{group:"5 USA"}
 ### CBS
-"CBS NY","US| CBS 02 (WCBS) NEW YORK","WCBS",{tvg-id:"CBSWCBS.us"},{group:"5 USA"}
-"CBS CHI","US| CBS 02 (WBBM) CHICAGO","WBBM",{tvg-id:"CBSWBBM.us"},{group:"5 USA"}
 "CBS PHX","US| CBS 05 (KPHO) PHOENIX HD","KPHO",{tvg-id:"CBSKPHO.us"},{group:"5 USA"}
 "CBS LA","US| CBS 02 (KCBS) LOS ANGELES","CBS 02 LOS ANGELES","KCBS",{tvg-id:"CBSKCBS.us"},{group:"5 USA"}
 ###CW
@@ -157,31 +144,21 @@
 "CW PHX","US| CW (KASW) PHOENIX","KASW",{tvg-id:"CWKASW.us"},{group:"5 USA"}
 "CW LA","US| CW 05 (KTLA) LOS ANGELES","CW 05 LOS ANGELES","KTLA",{tvg-id:"CWKTLA.us"},{group:"5 USA"}
 ### Cable National
-"USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"5 USA"}
 "TNT","US| TNT EAST FHD","US| TNT HD","US| TNT EAST HD",{tvg-id:"TNT.us"},{group:"5 USA"}
 
 
-"E!","US| E! ENTERTAINMENT EAST HD","US| E! HD",{tvg-id:"EEntertainmentTelevision.us"},{group:"5 USA"}
-"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"5 USA"}
 "Lifetime","US| LIFETIME HD","US| LIFETIME EAST HD",{tvg-id:"Lifetime.us"},{group:"5 USA"}
-"MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"5 USA"}
 "VH1","US| VH1 HD","US| VH1 EAST HD",{tvg-id:"VH1.us"},{group:"5 USA"}
 "Hallmark Channel","US| HALLMARK CHANNEL HD","US| HALLMARK HD",{tvg-id:"HallmarkChannel.us"},{group:"5 USA"}
 "A&E","US| A&E HD","US| A&E EAST HD",{tvg-id:"AandENetwork.us"},{group:"5 USA"}
 "Syfy","US| SYFY HD","US| SYFY EAST HD",{tvg-id:"Syfy.us"},{group:"5 USA"}
-"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"5 USA"}
 "Comedy Central","US| COMEDY CENTRAL HD","US| COMEDY CENTRAL EAST HD",{tvg-id:"ComedyCentral.us"},{group:"5 USA"}
 "BET","US| BET HD","US| BET EAST HD",{tvg-id:"BET.us"},{group:"5 USA"}
 "OWN","US| OWN HD","US| OWN EAST HD",{tvg-id:"OWN.us"},{group:"5 USA"}
-"WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"5 USA"}
-"Oxygen","US| OXYGEN HD","US| OXYGEN EAST HD",{tvg-id:"Oxygen.us"},{group:"5 USA"}
-"TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"5 USA"}
 "Nick at Nite","US| NICK AT NITE HD",{tvg-id:"NickAtNite.us"},{group:"5 USA"}
 "TG4","TG4 (Ireland)",{tvg-id:"TG4.ie"},{group:"5 USA"}
-"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"5 USA"}
 "ABC TV Plus",{tvg-id:"ABCKids_ABCTVPlusAdelaide.au"},{group:"5 USA"}
 "C31 Melbourne",{tvg-id:"C31.au@Melbourne"},{group:"5 USA"}
-"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"5 USA"}
 "ABC TV TAS",{tvg-id:"ABCHobart.au"},{group:"5 USA"} 
 "ABC TV VIC",{tvg-id:"ABCMelbourne.au"},{group:"5 USA"}  
 "ABC TV ACT",{tvg-id:"ABCTVCanberra.au"},{group:"5 USA"}
@@ -190,66 +167,13 @@
 "SABC News",{tvg-id:"SABCNews.za"},{group:"5 USA"}
 "ABC TV SA",{tvg-id:"ABCAdelaide.au"},{group:"5 USA"}   
 "CTB Perth Movies (720p)",{tvg-id:"CTBPerthMovies.au"},{group:"5 USA"}
-"ABC Kids",{tvg-id:"ABCKids_ABC VPlusCanberra.au"},{group:"5 USA"}
 "ABC News","ABC NEWS AUSTRALIA","ABC News (720p)",{tvg-id:"ABCNewsSydney.au"},{exact},{group:"5 USA"}
 "ABC TV WA",{tvg-id:"ABCPerth.au"},{group:"5 USA"}   
 "10 Bold Adelaide",{tvg-id:"10BOLDAdelaide.au"},{group:"5 USA"} 
-"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"5 USA"}   
 "WildEarth",{tvg-id:"WildEarth.za"},{group:"5 USA"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"5 USA"}
 --- 7 CANADA Eng ---
-"FOOD NETWORK HD","CA| FOOD NETWORK HD",{tvg-id:"FoodNetwork.ca"},{exact},{group:"5 Canada Eng"}
-"FOOD NETWORK US WEST","US| FOOD NETWORK (WEST)",{tvg-id:"FoodNetwork.us"},{group:"5 Canada Eng"}
-"Magnolia US","CA| DIY  HD",{tvg-id:"MagnoliaNetwork.us"},{group:"5 Canada Eng"}
-"Magnolia CA","CA| MAGNOLIA NETWORK HD",{tvg-id:"MagnoliaNetwork.ca"},{group:"5 Canada Eng"}
-"MAKEFUL HD","CA| MAKEFUL HD",{tvg-id:"MakefulTV.ca"},{group:"5 Canada Eng"}
-"E! ENTERTAINMENT CA","CA| E! ENTERTAINMENT HD","US| E! ENTERTAINMENT EAST HD",{tvg-id:"EEntertainmentTelevision.ca"},{group:"5 Canada Eng"}
-"BRAVO Vault","CA| SUPER CHANNEL VAULT HD",{tvg-id:"BravoVault.pluto"},{group:"5 Canada Eng"}
-"BRAVO USA","CA| BRAVO HD",{tvg-id:"Bravo.us"},{group:"5 Canada Eng"}
-"THE COOKING CHANNEL","CA| THE COOKING CHANNEL HD",{tvg-id:"CookingChannel.us"},{group:"5 Canada Eng"}
-"Flavour","CA| OLN HD",{tvg-id:"Flavour.ca"},{group:"5 Canada Eng"}
-"COTTAGE LIFE HD","CA| COTTAGE LIFE HD",{tvg-id:"CottageLife.ca"},{group:"5 Canada Eng"}
-"HGTV HD","CA| HOME GARDEN TELEVISION HD",{tvg-id:"HGTV.ca"},{group:"5 Canada Eng"}
-"LIFETIME USA ","US| LIFETIME HD",{tvg-id:"Lifetime.us"},{exact},{group:"5 Canada Eng"}
-"LIFETIME HD ","CA| LIFETIME HD",{tvg-id:"Lifetime.ca"},{exact},{group:"5 Canada Eng"}
-"SLICE HD","CA| SLICE HD",{tvg-id:"Slice.ca"},{group:"5 Canada Eng"}
-"TLN HD","CA| TLN HD",{tvg-id:"TLN.ca"},{group:"5 Canada Eng"}
-"W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"5 Canada Eng"}
-"DTOUR ","CA| DTOUR HD",{tvg-id:"DTOUR.ca"},{group:"5 Canada Eng"}
-"E! ENTERTAINMENT WEST","US| E! ENTERTAINMENT WEST HD",{tvg-id:"EEntertainmentTelevisionPacific.us"},{group:"5 Canada Eng"}
-"LIFETIME MOVIES","CA| LIFETIME MOVIES HD",{tvg-id:"LifetimeMoviesNetwork.us"},{exact},{group:"5 Canada Eng"}
-"FREEFORM","US| FREEFORM HD[EAST]",{tvg-id:"Freeform.us"},{group:"5 Canada Eng"}
-"OWN HD","CA| OWN HD",{tvg-id:"OWN.us"},{group:"5 Canada Eng"}
-"TNT EAST FHD","US| TNT EAST FHD",{tvg-id:"TNT.us"},{group:"5 Canada Eng"}
-"SHOWCASE HD","CA| SHOWCASE HD","CA| SHOWCASE HD",{tvg-id:"Showcase.ca"},{group:"5 Canada Eng"}
-"CTV LIFE","CA| CTV LIFE CHANNEL HD",{tvg-id:"CTVLifeChannel.ca"},{group:"5 Canada Eng"}
-"CTV SCI-FI","CA| CTV SCI-FI CHANNEL HD",{tvg-id:"CTVSciFiChannel.ca"},{group:"5 Canada Eng"}
-"CTV DRAMA","CA| CTV DRAMA CHANNEL HD",{tvg-id:"CTVDramaChannel.ca"},{group:"5 Canada Eng"}
-"CTV COMEDY","CA| CTV COMEDY",{tvg-id:"CTVComedyChannel.ca"},{group:"5 Canada Eng"}
 
-"STARZ 2","CA| STARZ 2 HD","CA| STARZ 2 HD",{tvg-id:"STARZ2.ca"},{group:"5 Canada Eng"}
-"HBO 1","CA| HBO 1 HD","CA| HBO 1 HD",{tvg-id:"HBO1.ca"},{group:"5 Canada Eng"}
-"HBO 2","CA| HBO 2 HD","CA| HBO 2 HD",{tvg-id:"HBO2.ca"},{group:"5 Canada Eng"}
-"Crave 1","CA| CRAVE 1 HD","CA| CRAVE 1 HD",{tvg-id:"Crave1.ca"},{group:"5 Canada Eng"}
-"Crave 2","CA| CRAVE 2 HD","CA| CRAVE 2 HD",{tvg-id:"Crave2.ca"},{group:"5 Canada Eng"}
-"Crave 3","CA| CRAVE 3 HD","CA| CRAVE 3 HD",{tvg-id:"Crave3.ca"},{group:"5 Canada Eng"}
-"Crave 4","CA| CRAVE 4 HD","CA| CRAVE 4 HD",{tvg-id:"Crave4.ca"},{group:"5 Canada Eng"}
-"AMC Canada","CA| AMC HD","CA| AMC HD",{tvg-id:"AMC.ca"},{group:"5 Canada Eng"}
-"MovieTime","CA| MOVIETIME HD","CA| MOVIETIME HD",{tvg-id:"MovieTime.ca"},{group:"5 Canada Eng"}
-"Rewind","CA| REWIND","CA| REWIND","CA| REWIND HD",{tvg-id:"rewind.ca"},{group:"5 Canada Eng"}
-"PARAMOUNT NETWORK","CA| PARAMOUNT NETWORK HD",{tvg-id:"ParamountNetwork.us"},{group:"5 Canada Eng"}
-"Hollywood Suite 2010s","CA| HOLLYWOOD SUITE 2010'S","CA| HOLLYWOOD SUITE 2010'S",{tvg-id:"HollywoodSuite2010s+Movies.ca"},{group:"5 Canada Eng"}
-"Hollywood Suite 80s 90s","CA| HOLLYWOOD SUITE 80'S & 90'S","CA| HOLLYWOOD SUITE 80'S & 90'S",{tvg-id:"HollywoodSuite80sAnd90sMovies.ca"},{group:"5 Canada Eng"}
-"Super Channel Fuse","CA| SUPER CHANNEL FUSE","CA| SUPER CHANNEL FUSE",{tvg-id:"SuperChannelFuse.ca"},{group:"5 Canada Eng"}
-"ADULT SWIM HD","CA| ADULT SWIM HD","CA| ADULT SWIM HD",{tvg-id:"AdultSwim.ca"},{group:"5 Canada Eng"}
-"FXX Canada","CA| FXX HD","CA| FXX HD",{tvg-id:"FXX.ca"},{exact},{group:"5 Canada Eng"}
-"FX Canada","CA| FX HD","CA| FX HD",{tvg-id:"FX.ca"},{exact},{group:"5 Canada Eng"}
-"CBC Toronto","CA| CBC Toronto ON HD","CA| CBC Toronto ON HD",{tvg-id:"CBCToronto-CBLT.ca"},{group:"5 Canada Eng"}
-"CITY Toronto","CA| CITY TORONTO HD","CA| CITY TORONTO HD",{tvg-id:"CityTv.ca"},{group:"5 Canada Eng"}
-"Global Toronto","CA| GLOBAL TORONTO","CA| GLOBAL TORONTO","CA| GLOBAL TORONTO HD",{tvg-id:"GlobalToronto-CIII.ca"},{group:"5 Canada Eng"}
-"CTV2 Toronto","CA| CTV2 TORONTO HD","CA| CTV2 TORONTO HD",{tvg-id:"CTV2Barrie-CKVR.ca"},{group:"5 Canada Eng"}
-"CTV Toronto","CA| CTV TORONTO HD","CA| CTV TORONTO HD",{tvg-id:"CTVToronto-CFTO.ca"},{group:"5 Canada Eng"}
-"The X-Files",{exact},{tvg-id:"691b023a7613e09a8b209539"},{group:"5 Canada Eng"}
 ### --- 8 UK ---
 ### --- 9 DOCUMENTAIRE ---
 
@@ -918,3 +842,20 @@
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
+"W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"0 Gratuit"}
+"HBO 1","CA| HBO 1 HD","CA| HBO 1 HD",{tvg-id:"HBO1.ca"},{group:"0 Gratuit"}
+"HBO 2","CA| HBO 2 HD","CA| HBO 2 HD",{tvg-id:"HBO2.ca"},{group:"0 Gratuit"}
+"Rewind","CA| REWIND","CA| REWIND","CA| REWIND HD",{tvg-id:"rewind.ca"},{group:"0 Gratuit"}
+"NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"0 Gratuit"}
+"E!","US| E! ENTERTAINMENT EAST HD","US| E! HD",{tvg-id:"EEntertainmentTelevision.us"},{group:"0 Gratuit"}
+"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
+"TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"0 Gratuit"}
+"MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"0 Gratuit"}
+"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
+"Oxygen","US| OXYGEN HD","US| OXYGEN EAST HD",{tvg-id:"Oxygen.us"},{group:"0 Gratuit"}
+"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"0 Gratuit"}
+"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"0 Gratuit"}   
+"ABC Kids",{tvg-id:"ABCKids_ABC VPlusCanberra.au"},{group:"0 Gratuit"}
+"USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"0 Gratuit"}
+"WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"0 Gratuit"}
+"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
