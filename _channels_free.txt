@@ -805,8 +805,6 @@
 "M6 INT. MONDE" {group:"0 Gratuit"}
 "M6 MÉTROPOLE (backup)" {group:"0 Gratuit"}
 "M6 CH/SWISS" {group:"0 Gratuit"}
-"Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
-"Sony One HITS Comédie",{group:"0 Gratuit"}
 "W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"0 Gratuit"}
 "HBO 1","CA| HBO 1 HD","CA| HBO 1 HD",{tvg-id:"HBO1.ca"},{group:"0 Gratuit"}
 "HBO 2","CA| HBO 2 HD","CA| HBO 2 HD",{tvg-id:"HBO2.ca"},{group:"0 Gratuit"}
@@ -824,6 +822,8 @@
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
+"Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
+"Sony One HITS Comédie",{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
