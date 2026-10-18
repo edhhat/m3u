@@ -117,15 +117,10 @@
 
 
 ### --- 5 SPORT ---
-"CANAL+ _SP","FR| CANAL+ HEVC","FR| CANAL+ FHD","FR| CANAL+ HD","FR| CANAL+ SD",{tvg-id:"CanalPlus.fr"},{exact},{group:"4 Sport"}
-"TIPIK _SP","BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"4 Sport"}
 
 "RTS UN","FR| RTS UN FHD","FR| RTS UN HD","FR| RTS UN HEVC",{tvg-id:"RTSUn.ch"},{group:"4 Sport"}
-"RTS DEUX","FR| RTS DEUX FHD","FR| RTS DEUX HD","FR| RTS DEUX HEVC",{tvg-id:"RTSDeux.ch"},{group:"4 Sport"}
 
 
-"TVA SPORTS HD","CA| TVA SPORTS HD",{tvg-id:"TVASports.ca"},{exact},{group:"4 Sport"}
-"TVA SPORTS 2 HD","CA| TVA SPORTS 2 HD",{tvg-id:"TVASports2.ca"},{exact},{group:"4 Sport"}
 "RDS1 HD","CA| RDS HD","CA| RDS INFO HD","CA| RDS INFO",{tvg-id:"RDS.ca"},{exact},{group:"4 Sport"}
 "RDS2 HD","CA| RDS 2 HD",{tvg-id:"RDS2.ca"},{group:"4 Sport"}
 
@@ -222,6 +217,25 @@
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"5 USA"}
 "Nick at Nite","US| NICK AT NITE HD",{tvg-id:"NickAtNite.us"},{group:"5 USA"}
 "TG4","TG4 (Ireland)",{tvg-id:"TG4.ie"},{group:"5 USA"}
+"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"5 USA"}
+"ABC TV Plus",{tvg-id:"ABCKids_ABCTVPlusAdelaide.au"},{group:"5 USA"}
+"C31 Melbourne",{tvg-id:"C31.au@Melbourne"},{group:"5 USA"}
+"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"5 USA"}
+"ABC TV TAS",{tvg-id:"ABCHobart.au"},{group:"5 USA"} 
+"ABC TV VIC",{tvg-id:"ABCMelbourne.au"},{group:"5 USA"}  
+"ABC TV ACT",{tvg-id:"ABCTVCanberra.au"},{group:"5 USA"}
+"TVSN",{tvg-id:"TVSN.au"},{group:"5 USA"}
+"Channel 44",{tvg-id:"Channel44.au"},{group:"5 USA"}
+"SABC News",{tvg-id:"SABCNews.za"},{group:"5 USA"}
+"ABC TV SA",{tvg-id:"ABCAdelaide.au"},{group:"5 USA"}   
+"CTB Perth Movies (720p)",{tvg-id:"CTBPerthMovies.au"},{group:"5 USA"}
+"ABC Kids",{tvg-id:"ABCKids_ABC VPlusCanberra.au"},{group:"5 USA"}
+"ABC News","ABC NEWS AUSTRALIA","ABC News (720p)",{tvg-id:"ABCNewsSydney.au"},{exact},{group:"5 USA"}
+"ABC TV WA",{tvg-id:"ABCPerth.au"},{group:"5 USA"}   
+"10 Bold Adelaide",{tvg-id:"10BOLDAdelaide.au"},{group:"5 USA"} 
+"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"5 USA"}   
+"WildEarth",{tvg-id:"WildEarth.za"},{group:"5 USA"}
+"ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"5 USA"}
 --- 7 CANADA Eng ---
 "FOOD NETWORK HD","CA| FOOD NETWORK HD",{tvg-id:"FoodNetwork.ca"},{exact},{group:"5 Canada Eng"}
 "FOOD NETWORK US WEST","US| FOOD NETWORK (WEST)",{tvg-id:"FoodNetwork.us"},{group:"5 Canada Eng"}
@@ -305,30 +319,6 @@
 ### --- 12 M6 ---
 
 ### --- 13 International ---
-"Sky News Australia",{tvg-id:"SkyNewsAustralia.au"},{group:"12 International"}
-"ABC News","ABC NEWS AUSTRALIA","ABC News (720p)",{tvg-id:"ABCNewsSydney.au"},{exact},{group:"12 International"}
-"SABC News",{tvg-id:"SABCNews.za"},{group:"12 International"}
-"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"12 International"}
-"ABC TV Plus",{tvg-id:"ABCKids_ABCTVPlusAdelaide.au"},{group:"12 International"}
-"C31 Melbourne",{tvg-id:"C31.au@Melbourne"},{group:"12 International"}
-"Channel 44",{tvg-id:"Channel44.au"},{group:"12 International"}
-"CTB Perth Movies (720p)",{tvg-id:"CTBPerthMovies.au"},{group:"12 International"}
-"ABC TV WA",{tvg-id:"ABCPerth.au"},{group:"12 International"}   
-"ABC TV ACT",{tvg-id:"ABCTVCanberra.au"},{group:"12 International"}
-"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"12 International"}
-"ABC TV TAS",{tvg-id:"ABCHobart.au"},{group:"12 International"} 
-"ABC TV VIC",{tvg-id:"ABCMelbourne.au"},{group:"12 International"}  
-"ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"12 International"}
-"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"12 International"}   
-"ABC TV SA",{tvg-id:"ABCAdelaide.au"},{group:"12 International"}   
-"ABC Kids",{tvg-id:"ABCKids_ABC VPlusCanberra.au"},{group:"12 International"}
-"10 Bold Adelaide",{tvg-id:"10BOLDAdelaide.au"},{group:"12 International"} 
-"Bravo +1",{tvg-id:"Bravo+1.nz"},{group:"12 International"}
-"WildEarth",{tvg-id:"WildEarth.za"},{group:"12 International"}
-"ausbiz TV",{tvg-id:"AusbizTV.au"},{group:"12 International"}
-"TVSN",{tvg-id:"TVSN.au"},{group:"12 International"}
-"Te Reo",{tvg-id:"TeReo.nz"},{group:"12 International"}
-"Whakaata Maori",{tvg-id:"WhakaataMaori.nz"},{group:"12 International"}
 ### --- 14 Enfants ---
 # Voici les chaînes disponibles. Copiez le nom exact dans votre tag {canal-epg:"..."}
 
