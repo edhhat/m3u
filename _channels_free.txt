@@ -830,6 +830,7 @@
 "LCN [Geo-blocked]"
 "ICI RDI - CANADA"
 "LCI HD"
+"CINE RETRO"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
