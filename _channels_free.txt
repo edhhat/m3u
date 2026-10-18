@@ -820,7 +820,6 @@
 "Rewind","CA| REWIND","CA| REWIND","CA| REWIND HD",{tvg-id:"rewind.ca"},{group:"0 Gratuit"}
 "NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"0 Gratuit"}
 "E!","US| E! ENTERTAINMENT EAST HD","US| E! HD",{tvg-id:"EEntertainmentTelevision.us"},{group:"0 Gratuit"}
-"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"0 Gratuit"}
 "MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"0 Gratuit"}
 "Oxygen","US| OXYGEN HD","US| OXYGEN EAST HD",{tvg-id:"Oxygen.us"},{group:"0 Gratuit"}
@@ -831,6 +830,7 @@
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
+"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
