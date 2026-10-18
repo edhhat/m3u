@@ -833,6 +833,7 @@
 "CINE RETRO"
 "THRILLERS"
 "M6 (1080p)"
+"M6 MÉTROPOLE (backup)"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
