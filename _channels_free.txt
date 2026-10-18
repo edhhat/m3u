@@ -277,32 +277,14 @@
 "The X-Files",{exact},{tvg-id:"691b023a7613e09a8b209539"},{group:"5 Canada Eng"}
 ### --- 8 UK ---
 ### --- 9 DOCUMENTAIRE ---
-"PLANETE+","FR| PLANETE+ HEVC","FR| PLANETE+ HD","FR| PLANETE+ FHD","FR| PLANETE+ SD",{tvg-id:"Planete.fr"},{group:"7 Documentaire"}
-"PLANETE+ Aventure","FR| PLANETE+ A&E HD","FR| PLANETE+ A&E FHD","FR| PLANETE+ A&E HEVC","FR| PLANETE+ A&E SD",{tvg-id:"PlaneteAction.fr"},{group:"7 Documentaire"}
-"DOC STORY",{group:"7 Documentaire"}
-
-
-"Pêche à haut risque",{group:"7 Documentaire"}
-"Cap Terre",{group:"7 Documentaire"}
-"Destination Nature",{group:"7 Documentaire"}
-"Nature Time",{group:"7 Documentaire"}
-"Echappées belles & co",{group:"7 Documentaire"}
 
 
 
 
-"Pluto TV Paranormal",{group:"7 Documentaire"}
-"DRIVE TV",{group:"7 Documentaire"}
-"Epicurieux avec Jamy",{group:"7 Documentaire"}
-"Ça Chauffe en Cuisine",{group:"7 Documentaire"}
-"RMC MECANIC",{tvg-id:"RMCMecanic.fr"},{group:"7 Documentaire"}
-"Turbo",{group:"7 Documentaire"}
-"HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"7 Documentaire"}
 
 
-"BFM 2",{tvg-id:"BFM2.fr"},{group:"7 Documentaire"}
-"CNEWS PRIME","CNEWS PRIME",{tvg-id:"CNewsPrime.fr"},{group:"7 Documentaire"}
-"TV5 Monde Info",{tvg-id:"TV5MondeInfo.fr"},{group:"7 Documentaire"}
+
+
 
 ### --- 10 REALITE ---
 
@@ -965,3 +947,20 @@
 "Faites entrer l'accusé",{group:"0 Gratuit"}
 "MAISON & TRAVAUX",{tvg-id:"MaisonEtTravaux.fr"},{group:"0 Gratuit"}
 "Mission Intervention",{group:"0 Gratuit"}
+"DOC STORY",{group:"0 Gratuit"}
+"PLANETE+","FR| PLANETE+ HEVC","FR| PLANETE+ HD","FR| PLANETE+ FHD","FR| PLANETE+ SD",{tvg-id:"Planete.fr"},{group:"0 Gratuit"}
+"PLANETE+ Aventure","FR| PLANETE+ A&E HD","FR| PLANETE+ A&E FHD","FR| PLANETE+ A&E HEVC","FR| PLANETE+ A&E SD",{tvg-id:"PlaneteAction.fr"},{group:"0 Gratuit"}
+"Pêche à haut risque",{group:"0 Gratuit"}
+"Pluto TV Paranormal",{group:"0 Gratuit"}
+"Cap Terre",{group:"0 Gratuit"}
+"Destination Nature",{group:"0 Gratuit"}
+"Nature Time",{group:"0 Gratuit"}
+"Echappées belles & co",{group:"0 Gratuit"}
+"DRIVE TV",{group:"0 Gratuit"}
+"Epicurieux avec Jamy",{group:"0 Gratuit"}
+"BFM 2",{tvg-id:"BFM2.fr"},{group:"0 Gratuit"}
+"TV5 Monde Info",{tvg-id:"TV5MondeInfo.fr"},{group:"0 Gratuit"}
+"Ça Chauffe en Cuisine",{group:"0 Gratuit"}
+"RMC MECANIC",{tvg-id:"RMCMecanic.fr"},{group:"0 Gratuit"}
+"Turbo",{group:"0 Gratuit"}
+"HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"0 Gratuit"}
