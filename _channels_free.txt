@@ -118,16 +118,12 @@
 
 ### --- 5 SPORT ---
 
-"RTS UN","FR| RTS UN FHD","FR| RTS UN HD","FR| RTS UN HEVC",{tvg-id:"RTSUn.ch"},{group:"4 Sport"}
 
 
-"RDS1 HD","CA| RDS HD","CA| RDS INFO HD","CA| RDS INFO",{tvg-id:"RDS.ca"},{exact},{group:"4 Sport"}
 "RDS2 HD","CA| RDS 2 HD",{tvg-id:"RDS2.ca"},{group:"4 Sport"}
 
 "CANAL+ SPORT 1","FR| CANAL+ SPORT 1 HEVC","FR| CANAL+ SPORT 1 FHD","FR| CANAL+ SPORT 1 HD","FR| CANAL+ SPORT 1",{tvg-id:"CanalPlusSport1.fr"},{exact},{group:"4 Sport"}
 "CANAL+ SPORT 2","FR| CANAL+ SPORT 2 HEVC","FR| CANAL+ SPORT 2 FHD","FR| CANAL+ SPORT 2 HD","FR| CANAL+ SPORT 2",{tvg-id:"CanalPlusSport2.fr"},{exact},{group:"4 Sport"}
-"CANAL+ SPORT 3","FR| CANAL+ SPORT 3 HEVC","FR| CANAL+ SPORT 3 FHD","FR| CANAL+ SPORT 3 HD","FR| CANAL+ SPORT 3",{tvg-id:"CanalPlusSport3.fr"},{exact},{group:"4 Sport"}
-"CANAL+ SPORT 4","FR| CANAL+ SPORT 4 HEVC","FR| CANAL+ SPORT 4 FHD","FR| CANAL+ SPORT 4 HD","FR| CANAL+ SPORT 4",{tvg-id:"CanalPlusSport4.fr"},{exact},{group:"4 Sport"}
 "CANAL+ SPORT 5","FR| CANAL+ SPORT 5 HEVC","FR| CANAL+ SPORT 5 FHD","FR| CANAL+ SPORT 5 HD","FR| CANAL+ SPORT 5",{tvg-id:"CanalPlusSport5.fr"},{exact},{group:"4 Sport"}
 
 
@@ -136,7 +132,6 @@
 "FR| EUROSPORT 2 HD" ,{tvg-id:"eurosport2.fr"},{exact},{group:"4 Sport"}
 
 
-"BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"4 Sport"}
 "BEIN SPORTS 2","FR| BEIN SPORTS 2 FHD","FR| BEIN SPORTS 2 HD","FR| BEIN SPORTS 2 HEVC","FR| BEIN SPORTS 2 SD","BEIN SPORT 2 FHD","BEIN SPORT 2 HD",{tvg-id:"beINSPORTS2.fr"},{group:"4 Sport"}
 "BEIN SPORTS 3","FR| BEIN SPORTS 3 FHD","FR| BEIN SPORTS 3 HD","FR| BEIN SPORTS 3 HEVC","FR| BEIN SPORTS 3 SD","BEIN SPORT 3 FHD","BEIN SPORT 3 HD",{tvg-id:"beINSPORTS3.fr"},{group:"4 Sport"}
 "BEIN SPORTS MAX 4","FR| BEIN SPORTS MAX4 FHD (EVENT ONLY)","FR| BEIN SPORTS MAX4 HD (EVENT ONLY)",{tvg-id:"beINSPORTSMAX4.fr"},{group:"4 Sport"}
@@ -149,7 +144,6 @@
 "TSN1","CA| TSN 1 HD","CA| TSN1 FHD", {tvg-id:"TSN1.ca"}, {group:"4 Sport"}
 "TSN2","CA| TSN 2 HD","CA| TSN2 FHD", {tvg-id:"TSN2.ca"}, {group:"4 Sport"}
 "TSN3","CA| TSN 3 HD","CA| TSN3 FHD", {tvg-id:"TSN3.ca"}, {group:"4 Sport"}
-"TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"4 Sport"}
 "TSN5","CA| TSN 5 HD","CA| TSN5 FHD", {tvg-id:"TSN5.ca"}, {group:"4 Sport"}
 "SPORTSNET EAST","CA| SPORTSNET EAST HD","CA| SPORTSNET EAST FHD",{tvg-id:"SportsnetEast.ca"},{group:"4 Sport"}
 "SPORTSNET ONTARIO","CA| SPORTSNET ONTARIO HD","CA| SPORTSNET ONTARIO FHD",{tvg-id:"SportsnetOntario.ca"},{group:"4 Sport"}
@@ -157,13 +151,11 @@
 "SPORTSNET PACIFIC","CA| SPORTSNET PACIFIC HD","CA| SPORTSNET PACIFIC FHD",{tvg-id:"SportsnetPacific.ca"},{group:"4 Sport"}
 "SPORTSNET ONE","CA| SPORTSNET ONE HD","CA| SPORTSNET ONE FHD",{tvg-id:"SportsnetOne.ca"},{group:"4 Sport"}
 "SPORTSNET 360","CA| SPORTSNET 360 HD","CA| SPORTSNET 360 FHD",{tvg-id:"Sportsnet360.ca"},{group:"4 Sport"}
-"SPORTSNET WORLD","CA| SPORTSNET WORLD HD","CA| SPORTSNET WORLD FHD",{tvg-id:"SportsnetWorld.ca"},{group:"4 Sport"}
 "FRANCE TV SPORT","FRANCE TV SPORT",{tvg-id:"SportEnFrance.fr"},{group:"4 Sport"}
 
 
 "BE| VOO SPORT WORLD 1 HD" ,{tvg-id:"VOOSportWorld1.be"},{group:"4 Sport"}
 "BE| VOO SPORT WORLD 2 HD" ,{tvg-id:"VOOSportWorld2.be"},{group:"4 Sport"}
-"BE| VOO SPORT WORLD 3 HD" ,{tvg-id:"VOOSportWorld3.be"},{group:"4 Sport"}
 
  
  
@@ -954,3 +946,6 @@
 "RMC MECANIC",{tvg-id:"RMCMecanic.fr"},{group:"0 Gratuit"}
 "Turbo",{group:"0 Gratuit"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"0 Gratuit"}
+"RTS UN","FR| RTS UN FHD","FR| RTS UN HD","FR| RTS UN HEVC",{tvg-id:"RTSUn.ch"},{group:"0 Gratuit"}
+"BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"0 Gratuit"}
+"TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"0 Gratuit"}
