@@ -27,7 +27,6 @@
 "RMC Story",{tvg-id:"RMCSTORY.fr"},{group:"0 Gratuit"}
 "RMC Life",{tvg-id:"Cherie25.fr"},{group:"0 Gratuit"}
 "RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"0 Gratuit"}
-"Pluto TV Histoire",{group:"0 Gratuit"}
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"0 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"0 Gratuit"}
 "Enquêtes de Choc",{group:"0 Gratuit"}
@@ -35,6 +34,7 @@
 "BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"0 Gratuit"}  
 "RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"0 Gratuit"}
 "Voyages & Saveurs",{group:"0 Gratuit"}
+"Pluto TV Histoire",{group:"0 Gratuit"}
 "Pluto TV Aventure",{group:"0 Gratuit"}
 "Pluto TV Inside",{group:"0 Gratuit"}
 "ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
