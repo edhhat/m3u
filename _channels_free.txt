@@ -399,16 +399,9 @@
 
 
 
-"Pluto TV Dating",{group:"9 Realite"}
 
 
-"MTV Catfish",{group:"9 Realite"}
-"Space Live",{group:"9 Realite"}
 
-"Just Tattoo of Us",{group:"9 Realite"}
-"Toute une histoire",{group:"9 Realite"}
-"Le meilleur d'Arthur",{group:"9 Realite"}
-"Ardivision",{group:"9 Realite"}
 ### --- 11 Francophone ---
 
 
@@ -1034,3 +1027,10 @@
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
 "FilmRise Binge Watch" {group:"0 Gratuit"}
 "ACTION TOTALE ADRÉNALINE" {group:"0 Gratuit"}
+"Pluto TV Dating",{group:"0 Gratuit"}
+"MTV Catfish",{group:"0 Gratuit"}
+"Space Live",{group:"0 Gratuit"}
+"Just Tattoo of Us",{group:"0 Gratuit"}
+"Toute une histoire",{group:"0 Gratuit"}
+"Le meilleur d'Arthur",{group:"0 Gratuit"}
+"Ardivision",{group:"0 Gratuit"}
