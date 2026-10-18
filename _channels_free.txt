@@ -716,6 +716,7 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "QVC (720p)"
+"QVC West (720p)"
 
 # fin de liste
 "Drames - Rakuten TV",{group:"0 Gratuit"}
