@@ -835,4 +835,4 @@
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
-"lcn" {group:"0 Gratuit"}
+"TVA [Geo-blocked]" {group:"0 Gratuit"}
