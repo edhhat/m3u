@@ -832,3 +832,5 @@
 "WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"0 Gratuit"}
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
+"LCN [Geo-blocked]" {group:"0 Gratuit"}
+"lcn" {group:"0 Gratuit"}
