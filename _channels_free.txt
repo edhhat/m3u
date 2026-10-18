@@ -102,7 +102,6 @@
 "FR| CANAL+ HD",{tvg-id:"CanalPlus.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+5"},{group:"0 Gratuit"}
 "Pluto TV Retro Toons",{group:"0 Gratuit"}
 "Pluto TV Toons",{group:"0 Gratuit"}
-"Sony One Action HITS",{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "MacGyver",{group:"0 Gratuit"}
 "CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"0 Gratuit"}
@@ -111,6 +110,7 @@
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
 "Bravo","US| BRAVO HD","US| BRAVO EAST HD",{tvg-id:"Bravo.us"},{group:"0 Gratuit"}
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
+"FilmRise Binge Watch"
 
 
 
@@ -1051,10 +1051,10 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"FilmRise Binge Watch"
+"ACTION TOTALE ADRÉNALINE"
 
 # fin de liste
-"ACTION TOTALE ADRÉNALINE"
 "101 LG 1: Film"
 "100 LG 1"
 "102 LG 1: Spotlight"
+"Sony One Action HITS",{group:"0 Gratuit"}
