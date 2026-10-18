@@ -831,6 +831,7 @@
 "ICI RDI - CANADA"
 "LCI HD"
 "CINE RETRO"
+"THRILLERS"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
