@@ -1,7 +1,7 @@
 ### --- 0 Gratuit ---
 
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
-"LCI", "AFR| LCI",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
+"LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
 "CNEWS",{tvg-id:"CNews.fr"},{exact},{group:"0 Gratuit"}
 "TF1","FR| TF1 HD","FR| TF1 FHD ᴿᴬᵂ","FR| TF1 FHD","FR| TF1 HEVC",{tvg-id:"TF1.fr"},{group:"0 Gratuit"}
