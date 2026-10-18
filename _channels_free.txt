@@ -44,7 +44,6 @@
 
 
 
-"Le Meilleur de la TV Réalité",{group:"0 Gratuit"}
 "Pluto TV Téléréalité France",{group:"0 Gratuit"}
 "Pluto TV Reality",{group:"0 Gratuit"}
 "Les Anges",{group:"0 Gratuit"}
@@ -58,9 +57,9 @@
 "Ciné Thrillers by Pluto TV",{group:"0 Gratuit"}
 "Ciné Action by Pluto TV",{group:"0 Gratuit"}
 "Pluto TV Comédies Cultes",{group:"0 Gratuit"}
-"Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
 "Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
+"Le Meilleur de la TV Réalité",{group:"0 Gratuit"}
 "Ciné Rétro by Pluto TV",{group:"0 Gratuit"}
 "Emotion'L",{exact},{group:"0 Gratuit"}
 "CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"0 Gratuit"}
@@ -68,8 +67,8 @@
 "Ciné Catastrophe by Pluto TV",{group:"0 Gratuit"}
 "Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
 "Horrorland by Pluto TV",{group:"0 Gratuit"}
-  
 "Ciné 666 by Pluto TV",{group:"0 Gratuit"}
+  
 "Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Ciné d'Asie by Pluto TV",{group:"0 Gratuit"}
 "Ciné Western by Pluto TV",{group:"0 Gratuit"}
@@ -83,14 +82,14 @@
 "WARNER TV","FR| WARNER TV FHD","FR| WARNER TV HD",{tvg-id:"WarnerTV.fr"},{exact},{group:"0 Gratuit"}
 "FR| ABXPLORE HD ᴿᴬᵂ" ,{exact}, {tvg-id:"ABXploreFR.fr"}            ,{group:"0 Gratuit"}
 "AB3","FR| AB3 FHD",{tvg-id:"AB3.fr"},{group:"0 Gratuit"}
-
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
+
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 "BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 "Wasabi la chaîne anime (1080p)",{tvg-id:"Wasabi.fr"},{group:"0 Gratuit"}
 "TV BREIZH","FR| TV BREIZH FHD",{tvg-id:"TvBreizh.fr"},{group:"0 Gratuit"}
-
 "FR| TNH HAITI",{tvg-id:"TNHHAITI.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
+
 "FR| TV METROPOLE",{tvg-id:"METROPOLE.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
 "HT| TELE GINEN",{tvg-id:"TELE GINEN.ht"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+1"},{group:"0 Gratuit"}
 "FR| CANAL+BOX OFFICE HD",{tvg-id:"CANAL+BOXOFFICE.mq"},{canal-epg:"CANAL+ BOX OFFICE"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+0"},{group:"0 Gratuit"}
@@ -104,6 +103,7 @@
 "NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
+"Sony One Action HITS",{group:"0 Gratuit"}
 
 
 
@@ -832,7 +832,6 @@
 "M6 CH/SWISS"
 
 # fin de liste
-"Sony One Action HITS",{group:"0 Gratuit"}
 "Box Office Thriller",{group:"0 Gratuit"}
 "Films d'action - Rakuten TV",{group:"0 Gratuit"}
 "Drames - Rakuten TV",{group:"0 Gratuit"}
@@ -926,3 +925,4 @@
 "BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"0 Gratuit"}
 "TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
+"Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
