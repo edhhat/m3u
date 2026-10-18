@@ -715,15 +715,14 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"QVC (720p)"
 "QVC West (720p)"
 "QVC UK (540p)"
 "LCN [Geo-blocked]"
 "LG 1"
 "LG 1 FILM"
+"Drames - Rakuten TV",{group:"0 Gratuit"}
 
 # fin de liste
-"Drames - Rakuten TV",{group:"0 Gratuit"}
 "Comédies - Rakuten TV",{group:"0 Gratuit"}
 "Famille - Rakuten TV",{group:"0 Gratuit"}
 "Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
@@ -831,6 +830,7 @@
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
+"QVC (720p)"
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
