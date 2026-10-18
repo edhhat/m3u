@@ -832,6 +832,7 @@
 "LCI HD"
 "CINE RETRO"
 "THRILLERS"
+"M6 (1080p)"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
