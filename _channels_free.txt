@@ -828,6 +828,7 @@
 # "ZEE WORLD"
 "TVA [Geo-blocked]"
 "LCN [Geo-blocked]"
+"ICI RDI - CANADA"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
