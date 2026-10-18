@@ -221,6 +221,7 @@
 "Oxygen","US| OXYGEN HD","US| OXYGEN EAST HD",{tvg-id:"Oxygen.us"},{group:"5 USA"}
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"5 USA"}
 "Nick at Nite","US| NICK AT NITE HD",{tvg-id:"NickAtNite.us"},{group:"5 USA"}
+"TG4","TG4 (Ireland)",{tvg-id:"TG4.ie"},{group:"5 USA"}
 --- 7 CANADA Eng ---
 "FOOD NETWORK HD","CA| FOOD NETWORK HD",{tvg-id:"FoodNetwork.ca"},{exact},{group:"5 Canada Eng"}
 "FOOD NETWORK US WEST","US| FOOD NETWORK (WEST)",{tvg-id:"FoodNetwork.us"},{group:"5 Canada Eng"}
@@ -275,114 +276,33 @@
 "CTV Toronto","CA| CTV TORONTO HD","CA| CTV TORONTO HD",{tvg-id:"CTVToronto-CFTO.ca"},{group:"5 Canada Eng"}
 "The X-Files",{exact},{tvg-id:"691b023a7613e09a8b209539"},{group:"5 Canada Eng"}
 ### --- 8 UK ---
-"TG4","TG4 (Ireland)",{tvg-id:"TG4.ie"},{group:"6 UK"}
-"4seven","UK| 4SEVEN FHD","UK| 4SEVEN HD","UK| 4SEVEN SD",{tvg-id:"4seven.uk"},{exact},{group:"6 UK"}
-"E4 HD","UEFA-UK|E4 HD","UK|E4 HEVC","UK| E4 HD","UK|E4 FHD","UK| E4 FHD","UK| E4 HEVC",{tvg-id:"E4.uk"},{exact},{group:"6 UK"}
-"E4+1","UK| E4+1 SD","UK| E4+1 HD",{tvg-id:"E4+1.uk"},{exact},{group:"6 UK"}
-"E4 EXTRA","UK| E4 EXTRA","UK| E4 EXTRA HD","UK| E4 EXTRA SD",{tvg-id:"E4Extra.uk"},{exact},{group:"6 UK"}
-"Channel 4","UK| Channel 4 FHD",{tvg-id:"Channel4.uk"},{exact},{group:"6 UK"}
-"Channel 4+1","UK| Channel 4+1 SD",{tvg-id:"Channel4+1.uk"},{exact},{group:"6 UK"}
-"Channel 5","UK| Channel 5 FHD",{tvg-id:"Channel5.uk"},{exact},{group:"6 UK"}
-"Channel 5+1" ,"UK| Channel 5 + 1 HD",{tvg-id:"Channel5+1.uk"},{group:"6 UK"}
-"ITV1 HD","UEFA-UK|ITV 1 HD","UK| ITV1 HD","UK| ITV 1 HD","UK| ITV 1 FHD","UK| ITV 1 SD","UK| ITV1 FHD","UK| ITV1 SD",{tvg-id:"ITV1London.uk"},{exact},{group:"6 UK"}
-"ITV1+1","UK| ITV1+1 HD","UK| ITV 1+1 HD","UK| ITV+ 1 HD","UK| ITV1+1 SD",{tvg-id:"ITV1London+1.uk"},{exact},{group:"6 UK"}
-"ITV2 HD","UK| (ITVX) ITV2","UK| ITV2 HD","UK| ITV 2 HD","UK| ITV 2 FHD","UK| ITV2 FHD","UK| ITV 2 SD","UK| ITV2 SD",{tvg-id:"ITV2.uk"},{exact},{group:"6 UK"}
-"ITV2+1","UK| ITV2+1 SD","UK| ITV 2+1 SD",{tvg-id:"ITV2+1.uk"},{exact},{group:"6 UK"}
-"ITV3 HD","UK| (ITVX) ITV3","UK| ITV3 HD","UK| ITV 3 HD","UK| ITV 3 FHD","UK| ITV3 FHD","UK| ITV 3 SD","UK| ITV3 SD",{tvg-id:"ITV3.uk"},{exact},{group:"6 UK"}
-"ITV3+1","UK| ITV3+1 SD","UK| ITV 3+1 SD",{tvg-id:"ITV3+1.uk"},{exact},{group:"6 UK"}
-"ITV4 HD","UK| (ITVX) ITV4","UK| ITV4 HD","UK| ITV 4 HD","UK| ITV 4 FHD","UK| ITV4 FHD","UK| ITV 4 SD","UK| ITV4 SD","UK| ITV 4 +1 HD",{tvg-id:"ITV4.uk"},{exact},{group:"6 UK"}
-"ITV4+1","UK| ITV4+1 HD","UK| ITV 4+1 HD","UK| ITV 4 +1 HD",{tvg-id:"ITV4+1.uk"},{exact},{group:"6 UK"}
-"MORE4",     "UK| MORE4 FHD",{tvg-id:"More4.uk"},{exact},{group:"6 UK"}
-"MORE4+1 SD","UK| MORE4+1 SD",{tvg-id:"More4+1.uk"},{exact},{group:"6 UK"}
-"FILM4 FHD","UK| FILM4 FHD",{tvg-id:"Film4.uk"},{exact},{group:"6 UK"}
-"FILM4+1 SD","UK| FILM4+1 SD",{tvg-id:"Film4+1.uk"},{exact},{group:"6 UK"}
-"5 USA HD","UK| 5 USA HD",{tvg-id:"5USA.uk"},{exact},{group:"6 UK"}
-"5 USA+1 HD","UK| 5 USA+1 HD",{tvg-id:"5USA+1.uk"},{exact},{group:"6 UK"}
-"5STAR HD","UK| 5STAR HD",{tvg-id:"5STAR.uk"},{exact},{group:"6 UK"}
-"5STAR+1 HD","UK| 5STAR+1 HD","UK| 5STAR + 1 HD","UK| 5STAR+1 SD","UK| 5STAR + 1 SD",{tvg-id:"5STAR+1.uk"},{exact},{group:"6 UK"}
-"5Action SD","UK| 5Action SD","UK| 5 Action SD","UK| 5ACTION SD","UK| 5 ACTION SD",{tvg-id:"5Action.uk"},{exact},{group:"6 UK"}
-"5SELECT SD","UK| 5SELECT SD","UK| 5 SELECT SD","UK| 5SELECT HD","UK| 5 SELECT HD",{tvg-id:"5SELECT.uk"},{exact},{group:"6 UK"}
-"ALIBI FHD","UK| ALIBI FHD",{tvg-id:"UAndAlibi.uk"},{exact},{group:"6 UK"}
-"ALIBI+1 HD","UK| ALIBI+1 HD","UK| ALIBI +1 HD","UK| ALIBI+1 SD","UK| ALIBI +1 SD",{tvg-id:"UAndAlibi+1.uk"},{exact},{group:"6 UK"}
-"DAVE FHD","UK| DAVE FHD",{tvg-id:"UandDave.uk"},{exact},{group:"6 UK"}
-"DAVE JA-VU SD","UK| DAVE JA-VU SD",{tvg-id:"UandDavejavu.uk"},{exact},{group:"6 UK"}
-"DRAMA HD","UK| DRAMA HD",{tvg-id:"UandDrama.uk"},{exact},{group:"6 UK"}
-"DRAMA+1 HD","UK| DRAMA+1 HD",{tvg-id:"UandDrama+1.uk"},{exact},{group:"6 UK"}
-"FOOD NETWORK HD","UK| FOOD NETWORK HD",{tvg-id:"FoodNetwork.uk"},{exact},{group:"6 UK"}
-"FOOD NETWORK+1 HD","UK| FOOD NETWORK+1 HD","UK| FOOD NETWORK + 1 HD","UK| FOOD NETWORK+1 SD","UK| FOOD NETWORK + 1 SD",{tvg-id:"FoodNetwork+1.uk"},{exact},{group:"6 UK"}
-"Sky ONE","UK| Sky MAX FHD",{tvg-id:"SkyOne.uk"},{exact},{group:"6 UK"}
-"VIRGIN ONE ","UK| VIRGIN ONE SD",{tvg-id:"VirginOne.ie"},{exact},{group:"6 UK"}
-"RTE1 FHD","UK| RTE 1 FHD",{tvg-id:"RTEOne.ie"},{exact},{group:"6 UK"}
-"RTE2 FHD","UK| RTE 2 FHD",{tvg-id:"RTE2.ie"},{exact},{group:"6 UK"}
-"UTV FHD","UK| UTV FHD",{tvg-id:"UTV.ie"},{exact},{group:"6 UK"}
-"S4C FHD","UK| S4C FHD",{tvg-id:"S4C.uk"},{exact},{group:"6 UK"}
-"BBC1 FHD","UK| BBC1 FHD","UK| BBC1 HD","UK| BBC 1 FHD",{tvg-id:"BBCOne.uk"},{exact},{group:"6 UK"}
-"BBC2 FHD","UK| BBC2 FHD","UK| BBC TWO ENGLAND SD",{tvg-id:"BBCTwo.uk"},{exact},{group:"6 UK"}
-"BBC3 CBBC HD","UK| BBC3 CBBC HD","UK| BBC 3 CBBC HD","UK| BBC 3 SD","UK| BBC3 SD",{tvg-id:"BBCThree_CBBC.uk"},{exact},{group:"6 UK"}
-"BBC4/CBEEBIES HD","UK| BBC4/CBEEBIES HD","UK| BBC 4 / CBEEBIES FHD","UK| BBC 4 / CBEEBIES HD","UK| BBC 4 / CBEEBIES SD","UK| BBC4/CBEEBIES FHD","UK| BBC4/CBEEBIES SD",{tvg-id:"BBCFour_CBeebies.uk"},{exact},{group:"6 UK"}
-"LEGEND EXTRA SD","UK| LEGEND EXTRA SD","UK| LEGEND XTRA SD","UK| LEGEND XTRA HD","UK| LEGEND EXTRA HD",{tvg-id:"LegendXtra.uk"},{exact},{group:"6 UK"}
-"Sky ATLANTIC FHD","UK| Sky ATLANTIC FHD",{tvg-id:"SkyAtlantic.uk"},{exact},{group:"6 UK"}
-"SKY ARTS FHD","UK| SKY ARTS FHD",{tvg-id:"SkyArts.uk"},{exact},{group:"6 UK"}
-"SYFY FHD","UK| SYFY FHD",{tvg-id:"SkySci-Fi.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA COMEDY FHD","UK| Sky CINEMA COMEDY FHD",{tvg-id:"SkyCinemaComedy.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA GREATS FHD","UK| Sky CINEMA GREATS FHD",{tvg-id:"SkyCinemaGreats.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA FAMILY FHD","UK| Sky CINEMA FAMILY FHD",{tvg-id:"SkyCinemaFamily.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA DRAMA FHD","UK| Sky CINEMA DRAMA FHD",{tvg-id:"SkyCinemaDrama.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA PREMIERE FHD","UK| Sky CINEMA PREMIERE FHD",{tvg-id:"SkyCinemaPremiere.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA THRILLER FHD","UK| Sky CINEMA THRILLER FHD",{tvg-id:"SkyCinemaThriller.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA HITS FHD","UK| Sky CINEMA HITS FHD",{tvg-id:"SkyCinemaHits.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA ACTION FHD","UK| Sky CINEMA ACTION FHD",{tvg-id:"SkyCinemaAction.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA SCIFI FHD","UK| Sky CINEMA SCIFI FHD",{tvg-id:"SkyCinemaSci-fiAndHorror.uk"},{exact},{group:"6 UK"}
-"Sky CINEMA ANIMATION FHD","UK| Sky CINEMA ANIMATION FHD","UK| Sky CINEMA ANIMATION HD","UK| Sky CINEMA ANIMATION HEVC","UK| SKY ANIMATION FHD","UK| SKY ANIMATION HD",{tvg-id:"SkyCinemaAnimation.uk"},{exact},{group:"6 UK"}
 ### --- 9 DOCUMENTAIRE ---
-"100% Docs Crime",{group:"7 Documentaire"}
-"CRIME DISTRICT","FR| CRIME DISTRICT SD","FR| CRIME DISTRICT HEVC","FR| CRIME DISTRICT FHD","FR| CRIME DISTRICT HD",{tvg-id:"CrimeDistrict.fr"},{group:"7 Documentaire"}
-"Love Crime & History",{group:"7 Documentaire"}
-"Dossiers FBI",{group:"7 Documentaire"}
-"Planète+ Crime ","FR| PLANETE+ CI HD","FR| PLANETE+ CI FHD","FR| PLANETE+ CI HEVC","FR| PLANETE+ CI SD",{tvg-id:"PLANETEJustice.fr"},{group:"7 Documentaire"}
-"DISCOVERY ID","FR|DISCOVERY ID HD","FR|DISCOVERY ID FHD","FR|DISCOVERY ID HEVC","FR|DISCOVERY ID SD",{tvg-id:"DiscoveryInvestigation.fr"},{group:"7 Documentaire"}
 "PLANETE+","FR| PLANETE+ HEVC","FR| PLANETE+ HD","FR| PLANETE+ FHD","FR| PLANETE+ SD",{tvg-id:"Planete.fr"},{group:"7 Documentaire"}
 "PLANETE+ Aventure","FR| PLANETE+ A&E HD","FR| PLANETE+ A&E FHD","FR| PLANETE+ A&E HEVC","FR| PLANETE+ A&E SD",{tvg-id:"PlaneteAction.fr"},{group:"7 Documentaire"}
 "DOC STORY",{group:"7 Documentaire"}
 
 
 "Pêche à haut risque",{group:"7 Documentaire"}
-"Mayday: Catastrophe Aérienne",{group:"7 Documentaire"}
 "Cap Terre",{group:"7 Documentaire"}
 "Destination Nature",{group:"7 Documentaire"}
 "Nature Time",{group:"7 Documentaire"}
 "Echappées belles & co",{group:"7 Documentaire"}
 
-"Investigation by Pluto TV",{group:"7 Documentaire"}
-"True Crime by Pluto TV",{group:"7 Documentaire"}
-"Faites entrer l'accusé",{group:"7 Documentaire"}
 
-"MAISON & TRAVAUX",{tvg-id:"MaisonEtTravaux.fr"},{group:"7 Documentaire"}
-"Adjugé vendu !",{group:"7 Documentaire"}
 
-"Mission Intervention",{group:"7 Documentaire"}
 
 "Pluto TV Paranormal",{group:"7 Documentaire"}
-"Most Haunted",{group:"7 Documentaire"}
 "DRIVE TV",{group:"7 Documentaire"}
 "Epicurieux avec Jamy",{group:"7 Documentaire"}
 "Ça Chauffe en Cuisine",{group:"7 Documentaire"}
-"Pluto TV Cuisine",{group:"7 Documentaire"}
 "RMC MECANIC",{tvg-id:"RMCMecanic.fr"},{group:"7 Documentaire"}
 "Turbo",{group:"7 Documentaire"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"7 Documentaire"}
-"Tech & Co",{tvg-id:"01TV.fr"},{group:"7 Documentaire"}
 
 
 "BFM 2",{tvg-id:"BFM2.fr"},{group:"7 Documentaire"}
 "CNEWS PRIME","CNEWS PRIME",{tvg-id:"CNewsPrime.fr"},{group:"7 Documentaire"}
 "TV5 Monde Info",{tvg-id:"TV5MondeInfo.fr"},{group:"7 Documentaire"}
-"FR| MARTINIQUE 1ERE",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
-"FR| GUADELOUPE 1ERE",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
-"FR| GUYANE 1ERE",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
-"FR| CANAL+ CARAIBES HD",{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
-"FR| CANAL+ HD",{tvg-id:"CanalPlus.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
-"FR| CANAL+BOX OFFICE HD",{tvg-id:" CANAL+BOX OFFICE.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{group:"7 Documentaire"}
 
 ### --- 10 REALITE ---
 
@@ -1029,3 +949,19 @@
 "Les Nouveaux Detectives",{group:"0 Gratuit"}
 "IntoCrime",{group:"0 Gratuit"}
 "Au coeur du danger",{group:"0 Gratuit"}
+"100% Docs Crime",{group:"0 Gratuit"}
+"CRIME DISTRICT","FR| CRIME DISTRICT SD","FR| CRIME DISTRICT HEVC","FR| CRIME DISTRICT FHD","FR| CRIME DISTRICT HD",{tvg-id:"CrimeDistrict.fr"},{group:"0 Gratuit"}
+"Love Crime & History",{group:"0 Gratuit"}
+"Dossiers FBI",{group:"0 Gratuit"}
+"Planète+ Crime ","FR| PLANETE+ CI HD","FR| PLANETE+ CI FHD","FR| PLANETE+ CI HEVC","FR| PLANETE+ CI SD",{tvg-id:"PLANETEJustice.fr"},{group:"0 Gratuit"}
+"DISCOVERY ID","FR|DISCOVERY ID HD","FR|DISCOVERY ID FHD","FR|DISCOVERY ID HEVC","FR|DISCOVERY ID SD",{tvg-id:"DiscoveryInvestigation.fr"},{group:"0 Gratuit"}
+"Mayday: Catastrophe Aérienne",{group:"0 Gratuit"}
+"Adjugé vendu !",{group:"0 Gratuit"}
+"Investigation by Pluto TV",{group:"0 Gratuit"}
+"True Crime by Pluto TV",{group:"0 Gratuit"}
+"Tech & Co",{tvg-id:"01TV.fr"},{group:"0 Gratuit"}
+"Pluto TV Cuisine",{group:"0 Gratuit"}
+"Most Haunted",{group:"0 Gratuit"}
+"Faites entrer l'accusé",{group:"0 Gratuit"}
+"MAISON & TRAVAUX",{tvg-id:"MaisonEtTravaux.fr"},{group:"0 Gratuit"}
+"Mission Intervention",{group:"0 Gratuit"}
