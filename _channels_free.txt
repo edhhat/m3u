@@ -826,9 +826,6 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"TVA [Geo-blocked]"
-"LCN [Geo-blocked]"
-"ICI RDI - CANADA"
 "LCI HD"
 "CINE RETRO"
 "THRILLERS"
@@ -931,3 +928,4 @@
 "RTS UN","FR| RTS UN FHD","FR| RTS UN HD","FR| RTS UN HEVC",{tvg-id:"RTSUn.ch"},{group:"0 Gratuit"}
 "BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"0 Gratuit"}
 "TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"0 Gratuit"}
+"ICI RDI - CANADA" {group:"0 Gratuit"}
