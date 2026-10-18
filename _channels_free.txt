@@ -814,7 +814,6 @@
 "M6 CH/SWISS" {group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
-"Star trek" {group:"0 Gratuit"}
 "W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"0 Gratuit"}
 "HBO 1","CA| HBO 1 HD","CA| HBO 1 HD",{tvg-id:"HBO1.ca"},{group:"0 Gratuit"}
 "HBO 2","CA| HBO 2 HD","CA| HBO 2 HD",{tvg-id:"HBO2.ca"},{group:"0 Gratuit"}
@@ -834,5 +833,6 @@
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
+"Star trek" {group:"0 Gratuit"}
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
 "TVA [Geo-blocked]" {group:"0 Gratuit"}
