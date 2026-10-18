@@ -926,3 +926,4 @@
 "TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
+"Star trek" {group:"0 Gratuit"}
