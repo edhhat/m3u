@@ -78,10 +78,7 @@
 "MyTime Movie Network",{group:"0 Gratuit"}
 "CANAL+ CINEMA","FR| CANAL+ CINEMA FHD",{tvg-id:"CanalPlusCinema.fr"},{group:"0 Gratuit"}
 "TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"0 Gratuit"}
-"FR| WARNER TV",{tvg-id:"WarnerTV.fr"},{exact},{xtream-group:"FR| CARIBBEAN"},{tvg-shift:"+6"},{group:"0 Gratuit"}
-"WARNER TV","FR| WARNER TV FHD","FR| WARNER TV HD",{tvg-id:"WarnerTV.fr"},{exact},{group:"0 Gratuit"}
 "FR| ABXPLORE HD ᴿᴬᵂ" ,{exact}, {tvg-id:"ABXploreFR.fr"}            ,{group:"0 Gratuit"}
-"AB3","FR| AB3 FHD",{tvg-id:"AB3.fr"},{group:"0 Gratuit"}
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
@@ -103,7 +100,7 @@
 "NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
-"Sony One Action HITS",{group:"0 Gratuit"}
+"Box Office Thriller",{group:"0 Gratuit"}
 
 
 
@@ -826,13 +823,8 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"LCI HD"
-"M6 MÉTROPOLE (backup)"
-"M6 INT. MONDE"
-"M6 CH/SWISS"
 
 # fin de liste
-"Box Office Thriller",{group:"0 Gratuit"}
 "Films d'action - Rakuten TV",{group:"0 Gratuit"}
 "Drames - Rakuten TV",{group:"0 Gratuit"}
 "Comédies - Rakuten TV",{group:"0 Gratuit"}
@@ -847,9 +839,6 @@
 "COMEDY CENTRAL","FR| COMEDY CENTRAL FHD","FR| COMEDY CENTRAL HD","FR| COMEDY CENTRAL HEVC","FR| COMEDY CENTRAL SD",{tvg-id:"ComedyCentral.fr"},{group:"0 Gratuit"}
 "Star Trek: The Original Series",{group:"0 Gratuit"}
 "Mission Impossible",{group:"0 Gratuit"}
-"FR| VIKINGS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
-"FR| PEAKY BLINDERS FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
-"FR| LOST FHD",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
 "FR| ENCHÈRES À TOUT PRIX",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
 "Olive & Tom",{group:"0 Gratuit"}
 "One Piece",{group:"0 Gratuit"}
@@ -893,8 +882,6 @@
 "Love Crime & History",{group:"0 Gratuit"}
 "Dossiers FBI",{group:"0 Gratuit"}
 "Planète+ Crime ","FR| PLANETE+ CI HD","FR| PLANETE+ CI FHD","FR| PLANETE+ CI HEVC","FR| PLANETE+ CI SD",{tvg-id:"PLANETEJustice.fr"},{group:"0 Gratuit"}
-"DISCOVERY ID","FR|DISCOVERY ID HD","FR|DISCOVERY ID FHD","FR|DISCOVERY ID HEVC","FR|DISCOVERY ID SD",{tvg-id:"DiscoveryInvestigation.fr"},{group:"0 Gratuit"}
-"Mayday: Catastrophe Aérienne",{group:"0 Gratuit"}
 "Adjugé vendu !",{group:"0 Gratuit"}
 "Investigation by Pluto TV",{group:"0 Gratuit"}
 "True Crime by Pluto TV",{group:"0 Gratuit"}
@@ -925,5 +912,10 @@
 "BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"0 Gratuit"}
 "TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
+"Sony One Action HITS",{group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
+"M6 INT. MONDE" {group:"0 Gratuit"}
+"M6 MÉTROPOLE (backup)" {group:"0 Gratuit"}
+"M6 CH/SWISS" {group:"0 Gratuit"}
+"LCI HD" {group:"0 Gratuit"}
