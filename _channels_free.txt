@@ -834,6 +834,7 @@
 "THRILLERS"
 "M6 (1080p)"
 "M6 MÉTROPOLE (backup)"
+"M6 INT. MONDE"
 
 # fin de liste
 "Sony One Action HITS",{group:"0 Gratuit"}
