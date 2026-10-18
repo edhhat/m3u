@@ -823,15 +823,14 @@
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"0 Gratuit"}
 "MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"0 Gratuit"}
-"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
 "Oxygen","US| OXYGEN HD","US| OXYGEN EAST HD",{tvg-id:"Oxygen.us"},{group:"0 Gratuit"}
 "ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"0 Gratuit"}
 "ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"0 Gratuit"}   
-"ABC Kids",{tvg-id:"ABCKids_ABC VPlusCanberra.au"},{group:"0 Gratuit"}
 "USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"0 Gratuit"}
 "WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"0 Gratuit"}
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
+"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
