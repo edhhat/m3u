@@ -719,6 +719,8 @@
 "QVC West (720p)"
 "QVC UK (540p)"
 "LCN [Geo-blocked]"
+"LG 1"
+"LG 1 FILM"
 
 # fin de liste
 "Drames - Rakuten TV",{group:"0 Gratuit"}
