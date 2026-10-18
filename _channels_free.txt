@@ -835,7 +835,6 @@
 "Runtime",{group:"0 Gratuit"}
 "Shadowz",{group:"0 Gratuit"}
 "Ciné Nanar",{group:"0 Gratuit"}
-"COMEDY CENTRAL","FR| COMEDY CENTRAL FHD","FR| COMEDY CENTRAL HD","FR| COMEDY CENTRAL HEVC","FR| COMEDY CENTRAL SD",{tvg-id:"ComedyCentral.fr"},{group:"0 Gratuit"}
 "Star Trek: The Original Series",{group:"0 Gratuit"}
 "Mission Impossible",{group:"0 Gratuit"}
 "FR| ENCHÈRES À TOUT PRIX",{exact},{xtream-group:"FR| PREMIUM PLAY"},{group:"0 Gratuit"}
