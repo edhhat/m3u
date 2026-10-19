@@ -775,31 +775,30 @@
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
-"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
-"Box Office Thriller",{group:"0 Gratuit"}
-"Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
 "ACTION TOTALE ADRÉNALINE" {group:"0 Gratuit"}
-"Crime - Rakuten TV",{group:"0 Gratuit"}
 "Wasabi","Wasabi la chaîne anime (1080p)","941 Wasabi",{group:"0 Gratuit"}
 "Bob l'éponge" {group:"0 Gratuit"}
-"Star Trek: The Original Series",{group:"0 Gratuit"}
+"The Asylum",{group:"0 Gratuit"}
+"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "QVC (720p)" {group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
-"Pluto TV Comédie",{group:"0 Gratuit"}
 "Comédies - Rakuten TV",{group:"0 Gratuit"}
-"Ciné Action by Pluto TV",{group:"0 Gratuit"}
-"Drames - Rakuten TV",{group:"0 Gratuit"}
+"Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
+"Scream'IN",{group:"0 Gratuit"}
+"Pluto TV Comédie",{group:"0 Gratuit"}
+"Crime - Rakuten TV",{group:"0 Gratuit"}
 "Box Office Drama",{group:"0 Gratuit"}
+"Box Office Thriller",{group:"0 Gratuit"}
 "Famille - Rakuten TV",{group:"0 Gratuit"}
-"The Asylum",{group:"0 Gratuit"}
+"Drames - Rakuten TV",{group:"0 Gratuit"}
 "Ciné d'Asie by Pluto TV",{group:"0 Gratuit"}
-"Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
 "Ciné Catastrophe by Pluto TV",{group:"0 Gratuit"}
+"Ciné Action by Pluto TV",{group:"0 Gratuit"}
 "Ciné Romance by Pluto TV",{group:"0 Gratuit"}
 "Ciné Rétro by Pluto TV",{group:"0 Gratuit"}
+"Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
 "Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
-"Scream'IN",{group:"0 Gratuit"}
 "Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
 "Ciné 666 by Pluto TV",{group:"0 Gratuit"}
 "Horrorland by Pluto TV",{group:"0 Gratuit"}
