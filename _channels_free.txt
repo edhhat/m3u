@@ -806,6 +806,5 @@
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
-"Wasabi la chaîne anime (1080p)",{tvg-id:"Wasabi.fr"},{group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
