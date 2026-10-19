@@ -807,3 +807,4 @@
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
 "TVA [Geo-blocked]" {group:"0 Gratuit"}
 "Wasabi la chaîne anime (1080p)",{tvg-id:"Wasabi.fr"},{group:"0 Gratuit"}
+"QVC (720p)" {group:"0 Gratuit"}
