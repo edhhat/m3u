@@ -781,6 +781,7 @@
 "ACTION TOTALE ADRÉNALINE" {group:"0 Gratuit"}
 "Crime - Rakuten TV",{group:"0 Gratuit"}
 "Star Trek: The Original Series",{group:"0 Gratuit"}
+"QVC (720p)" {group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "Pluto TV Comédie",{group:"0 Gratuit"}
 "Comédies - Rakuten TV",{group:"0 Gratuit"}
@@ -807,4 +808,3 @@
 "LCN [Geo-blocked]" {group:"0 Gratuit"}
 "TVA [Geo-blocked]" {group:"0 Gratuit"}
 "Wasabi la chaîne anime (1080p)",{tvg-id:"Wasabi.fr"},{group:"0 Gratuit"}
-"QVC (720p)" {group:"0 Gratuit"}
