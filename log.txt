@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-18 05:28:17
+Date : 2026-10-19 05:41:50
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -914,7 +914,7 @@ XTREAM_GROUPS_EXCLUS = [
     FR| FRANCE FHD  (171 chaines)
     FR| FRANCE HD  (200 chaines)
     FR| FRANCE LQ  (122 chaines)
-    FR| FRANCE SPORT VIP ᴿᴬᵂ  (13 chaines)
+    FR| FRANCE SPORT VIP ᴿᴬᵂ  (143 chaines)
     FR| FRANCE VIP ᴿᴬᵂ  (214 chaines)
     FR| L'EQUIPE LIVE  (11 chaines)
     FR| LIGUE 1+  (11 chaines)
