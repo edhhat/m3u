@@ -1,6 +1,6 @@
 ### --- 0 Gratuit ---
 
-"Wasabi" {group:"0 Gratuit"}
+"Wasabi","Wasabi la chaîne anime (1080p)","941 Wasabi",{group:"0 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
 "LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
