@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-10-19 05:41:50
+Date : 2026-10-20 05:50:26
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -940,7 +940,7 @@ XTREAM_GROUPS_EXCLUS = [
     BE| TELESAT ᴿᴬᵂ  (38 chaines)
     BE| WALLONIË  (147 chaines)
   [CA] (21)
-    CANADA ENGLISH  (194 chaines)
+    CANADA ENGLISH  (193 chaines)
     CANADA FRENCH  (55 chaines)
     CA| AHL PPV  (47 chaines)
     CA| AHL TEAM  (32 chaines)
