@@ -689,7 +689,6 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "Mission Impossible",{group:"0 Gratuit"}
-"Top Sci-Fi"
 
 # fin de liste
 "MTV Catfish",{group:"0 Gratuit"}
@@ -777,3 +776,4 @@
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
 "Noovo" {group:"0 Gratuit"}
+"Top Sci-Fi" {group:"0 Gratuit"}
