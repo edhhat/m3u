@@ -689,6 +689,7 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "Wild Side TV",{group:"0 Gratuit"}
+"Ici Radio-Canada Télé (1080p) [Geo-blocked]"
 
 # fin de liste
 "Runtime",{group:"0 Gratuit"}
