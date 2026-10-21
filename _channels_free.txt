@@ -689,6 +689,8 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "MTV Catfish",{group:"0 Gratuit"}
+"Pluto TV Anime Retro"
+"Pluto TV Kids Club"
 
 # fin de liste
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
