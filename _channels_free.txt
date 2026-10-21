@@ -748,6 +748,7 @@
 "Crime - Rakuten TV",{group:"0 Gratuit"}
 "Famille - Rakuten TV",{group:"0 Gratuit"}
 "Films d'action - Rakuten TV",{group:"0 Gratuit"}
+"Top Sci-Fi" {group:"0 Gratuit"}
 "Comédies - Rakuten TV",{group:"0 Gratuit"}
 "Emotion'L",{exact},{group:"0 Gratuit"}
 "Box Office Thriller",{group:"0 Gratuit"}
@@ -773,7 +774,6 @@
 "Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Ici Radio-Canada Télé (1080p) [Geo-blocked]" {group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
+"Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
-"Noovo" {group:"0 Gratuit"}
-"Top Sci-Fi" {group:"0 Gratuit"}
