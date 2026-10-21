@@ -765,6 +765,7 @@
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
 "Box Office Action",{group:"0 Gratuit"}
 "LG 1 FILM" {group:"0 Gratuit"}
+"LG 1+1" {group:"0 Gratuit"}
 "LG 1" {group:"0 Gratuit"}
 "Box Office Thriller",{group:"0 Gratuit"}
 "Box Office Drama",{group:"0 Gratuit"}
