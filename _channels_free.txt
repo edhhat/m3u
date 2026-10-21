@@ -65,15 +65,15 @@
 "CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
 "Mission Intervention",{group:"0 Gratuit"}
-"Shadowz",{group:"0 Gratuit"}
-  
 "Olive & Tom",{group:"0 Gratuit"}
+  
 "Detective Conan",{group:"0 Gratuit"}
 "Les Schtroumpfs",{group:"0 Gratuit"}
-
-
 "One Piece",{group:"0 Gratuit"}
+
+
 "BBC Series",{group:"0 Gratuit"}
+"Mission Impossible",{group:"0 Gratuit"}
 
 
 
@@ -688,10 +688,9 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"Mission Impossible",{group:"0 Gratuit"}
+"MTV Catfish",{group:"0 Gratuit"}
 
 # fin de liste
-"MTV Catfish",{group:"0 Gratuit"}
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
 "Homicide",{group:"0 Gratuit"}
 "Les Nouveaux Detectives",{group:"0 Gratuit"}
@@ -737,6 +736,7 @@
 "QVC (720p)" {group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "Scream'IN",{group:"0 Gratuit"}
+"Shadowz",{group:"0 Gratuit"}
 "The Asylum",{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "Ciné Western by Pluto TV",{group:"0 Gratuit"}
