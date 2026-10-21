@@ -689,7 +689,6 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "Mission Impossible",{group:"0 Gratuit"}
-"Ici Radio-Canada Télé (1080p) [Geo-blocked]"
 
 # fin de liste
 "MTV Catfish",{group:"0 Gratuit"}
@@ -776,3 +775,4 @@
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
 "Noovo" {group:"0 Gratuit"}
+"Ici Radio-Canada Télé (1080p) [Geo-blocked]" {group:"0 Gratuit"}
