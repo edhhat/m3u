@@ -693,8 +693,6 @@
 "Series by Pluto TV"
 "Top Action"
 "CANAL+ FHD"
-"LG 1"
-"LG 1 FILM"
 "La chaine du fait divers"
 "Wasabi"
 "That's 90s00s"
@@ -788,3 +786,5 @@
 "Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
+"LG 1" {group:"0 Gratuit"}
+"LG 1 FILM" {group:"0 Gratuit"}
