@@ -691,6 +691,7 @@
 "MTV Catfish",{group:"0 Gratuit"}
 "Pluto TV Séries Fantastiques"
 "Series by Pluto TV"
+"Top Action"
 
 # fin de liste
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
