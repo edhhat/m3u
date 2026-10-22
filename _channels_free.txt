@@ -787,3 +787,6 @@
 "Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
+"Series by Pluto TV" {group:"0 Gratuit"}
+"Pluto TV Kids Classics" {group:"0 Gratuit"}
+"Pluto TV Super Kids" {group:"0 Gratuit"}
