@@ -1,5 +1,6 @@
 ### --- 0 Gratuit ---
 
+"SONY ONE SERIES THRILLER" {group:"0 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
 "LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
@@ -737,8 +738,9 @@
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"0 Gratuit"}
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
-"Series by Pluto TV" {group:"0 Gratuit"}
+"Fox West (720p)" {group:"0 Gratuit"}
 "QVC (720p)" {group:"0 Gratuit"}
+"Series by Pluto TV" {group:"0 Gratuit"}
 "Pluto TV Kids Classics" {group:"0 Gratuit"}
 "Pluto TV Kids Club" {group:"0 Gratuit"}
 "Pluto TV Super Kids" {group:"0 Gratuit"}
