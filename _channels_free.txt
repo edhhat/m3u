@@ -779,6 +779,7 @@
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
 "Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
 "Ciné 666 by Pluto TV",{group:"0 Gratuit"}
+"LG 1 SPOTLIGHT" {group:"0 Gratuit"}
 "Horrorland by Pluto TV",{group:"0 Gratuit"}
 "Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Ici Radio-Canada Télé (1080p) [Geo-blocked]" {group:"0 Gratuit"}
