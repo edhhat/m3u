@@ -690,10 +690,6 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "MTV Catfish",{group:"0 Gratuit"}
-"Top Action"
-"CANAL+ FHD"
-"La chaine du fait divers"
-"Wasabi"
 
 # fin de liste
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
