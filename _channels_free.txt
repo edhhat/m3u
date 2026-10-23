@@ -29,6 +29,7 @@
 "RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"0 Gratuit"}
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"0 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"0 Gratuit"}
+"Bons Plans et Arnaques" {group:"0 Gratuit"}
 "Enquêtes de Choc",{group:"0 Gratuit"}
 "Crimes Enquêtes Faits Divers",{group:"0 Gratuit"}
 "Pluto TV Aventure",{group:"0 Gratuit"}
@@ -45,10 +46,10 @@
 "Turbo",{group:"0 Gratuit"}
 "Pluto TV Téléréalité France",{group:"0 Gratuit"}
 "Les Anges",{group:"0 Gratuit"}
+
+
+
 "Les Marseillais",{group:"0 Gratuit"}
-
-
-
 "Teen Mom",{group:"0 Gratuit"}
 "CATFISH TV",{group:"0 Gratuit"}
 "MTV CLASSICS",{group:"0 Gratuit"}
@@ -69,15 +70,14 @@
 "Detective Conan",{group:"0 Gratuit"}
 "Les Schtroumpfs",{group:"0 Gratuit"}
 "One Piece",{group:"0 Gratuit"}
-"BBC Series",{group:"0 Gratuit"}
   
+"BBC Series",{group:"0 Gratuit"}
 "Mission Impossible",{group:"0 Gratuit"}
 "MTV Catfish",{group:"0 Gratuit"}
+
+
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
-
-
 "Homicide",{group:"0 Gratuit"}
-"Les Nouveaux Detectives",{group:"0 Gratuit"}
 
 
 
@@ -692,9 +692,10 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"Au coeur du danger",{group:"0 Gratuit"}
+"Les Nouveaux Detectives",{group:"0 Gratuit"}
 
 # fin de liste
+"Au coeur du danger",{group:"0 Gratuit"}
 "Adjugé vendu !",{group:"0 Gratuit"}
 "Dossiers FBI",{group:"0 Gratuit"}
 "IntoCrime",{group:"0 Gratuit"}
@@ -791,4 +792,3 @@
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
 "Dragon TV" {group:"0 Gratuit"}
 "Confessions Intimes" {group:"0 Gratuit"}
-"Bons Plans et Arnaques" {group:"0 Gratuit"}
