@@ -763,6 +763,7 @@
 "Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
 "Top Action" {group:"0 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
+"Dragon TV" {group:"0 Gratuit"}
 "Box Office Action",{group:"0 Gratuit"}
 "LG 1 FILM" {group:"0 Gratuit"}
 "LG 1+1" {group:"0 Gratuit"}
@@ -791,4 +792,3 @@
 "Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
-"Dragon TV" {group:"0 Gratuit"}
