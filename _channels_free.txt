@@ -690,13 +690,6 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
-"Pluto TV Séries Fantastiques"
-"Monstres et Créatures TV"
-"Top Action"
-"Si près de chez vous"
-"Bons Plans et Arnaques"
-"Docs & enquêtes by Society+"
-"Daystar TV"
 
 # fin de liste
 "Homicide",{group:"0 Gratuit"}
@@ -795,3 +788,4 @@
 "Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
+"Top Action" {group:"0 Gratuit"}
