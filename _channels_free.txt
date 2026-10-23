@@ -692,6 +692,8 @@
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
 "Pluto TV Séries Fantastiques"
 "Monstres et Créatures TV"
+"Top Action"
+"Si près de chez vous"
 
 # fin de liste
 "Homicide",{group:"0 Gratuit"}
