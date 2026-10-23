@@ -694,6 +694,7 @@
 "Monstres et Créatures TV"
 "Top Action"
 "Si près de chez vous"
+"Bons Plans et Arnaques"
 
 # fin de liste
 "Homicide",{group:"0 Gratuit"}
