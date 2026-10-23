@@ -696,6 +696,7 @@
 "Si près de chez vous"
 "Bons Plans et Arnaques"
 "Docs & enquêtes by Society+"
+"Daystar TV"
 
 # fin de liste
 "Homicide",{group:"0 Gratuit"}
