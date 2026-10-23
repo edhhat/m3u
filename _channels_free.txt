@@ -1,5 +1,6 @@
 ### --- 0 Gratuit ---
 
+"Dragon TV" {group:"0 Gratuit"}
 "Bons Plans et Arnaques" {group:"0 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
 "Confessions Intimes" {group:"0 Gratuit"}
