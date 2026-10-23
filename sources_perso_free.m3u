@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="LCI",LCI
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
+#EXTINF:-1 tvg-name="Si près de chez vous",Si près de chez vous
+https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
