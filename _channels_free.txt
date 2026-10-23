@@ -1,6 +1,5 @@
 ### --- 0 Gratuit ---
 
-"SONY ONE SERIES THRILLER" {group:"0 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
 "LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
@@ -43,10 +42,10 @@
 "ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
 "La Vie",{group:"0 Gratuit"}
 "Turbo",{group:"0 Gratuit"}
-
-
-
 "Pluto TV Téléréalité France",{group:"0 Gratuit"}
+
+
+
 "Les Anges",{group:"0 Gratuit"}
 "Les Marseillais",{group:"0 Gratuit"}
 "Teen Mom",{group:"0 Gratuit"}
@@ -67,14 +66,15 @@
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
 "Mission Intervention",{group:"0 Gratuit"}
 "Olive & Tom",{group:"0 Gratuit"}
-  
 "Detective Conan",{group:"0 Gratuit"}
+  
 "Les Schtroumpfs",{group:"0 Gratuit"}
 "One Piece",{group:"0 Gratuit"}
-
-
 "BBC Series",{group:"0 Gratuit"}
+
+
 "Mission Impossible",{group:"0 Gratuit"}
+"MTV Catfish",{group:"0 Gratuit"}
 
 
 
@@ -689,10 +689,9 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"MTV Catfish",{group:"0 Gratuit"}
+"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
 
 # fin de liste
-"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
 "Homicide",{group:"0 Gratuit"}
 "Les Nouveaux Detectives",{group:"0 Gratuit"}
 "Au coeur du danger",{group:"0 Gratuit"}
@@ -753,6 +752,7 @@
 "Emotion'L",{exact},{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
+"SONY ONE SERIES THRILLER" {group:"0 Gratuit"}
 "Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
 "Crime - Rakuten TV",{group:"0 Gratuit"}
 "Comédies - Rakuten TV",{group:"0 Gratuit"}
