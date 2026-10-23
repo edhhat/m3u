@@ -782,13 +782,13 @@
 "Ciné 666 by Pluto TV",{group:"0 Gratuit"}
 "LG 1 SPOTLIGHT" {group:"0 Gratuit"}
 "Horrorland by Pluto TV",{group:"0 Gratuit"}
+"Monstres et Créatures TV" {group:"0 Gratuit"}
 "Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Ici Radio-Canada Télé (1080p) [Geo-blocked]" {group:"0 Gratuit"}
 "ICI RDI - CANADA" {group:"0 Gratuit"}
 "Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
-"Monstres et Créatures TV" {group:"0 Gratuit"}
 "Dragon TV" {group:"0 Gratuit"}
 "Confessions Intimes" {group:"0 Gratuit"}
 "Bons Plans et Arnaques" {group:"0 Gratuit"}
