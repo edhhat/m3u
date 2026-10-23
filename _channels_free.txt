@@ -42,13 +42,14 @@
 "Pluto TV Inside",{group:"0 Gratuit"}
 "Mission Intervention",{group:"0 Gratuit"}
 "ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
+"Confessions Intimes" {group:"0 Gratuit"}
 "La Vie",{group:"0 Gratuit"}
 "Turbo",{group:"0 Gratuit"}
 "Pluto TV Téléréalité France",{group:"0 Gratuit"}
+
+
+
 "Les Anges",{group:"0 Gratuit"}
-
-
-
 "Les Marseillais",{group:"0 Gratuit"}
 "Teen Mom",{group:"0 Gratuit"}
 "CATFISH TV",{group:"0 Gratuit"}
@@ -69,15 +70,14 @@
 "Olive & Tom",{group:"0 Gratuit"}
 "Detective Conan",{group:"0 Gratuit"}
 "Les Schtroumpfs",{group:"0 Gratuit"}
-"One Piece",{group:"0 Gratuit"}
   
+"One Piece",{group:"0 Gratuit"}
 "BBC Series",{group:"0 Gratuit"}
 "Mission Impossible",{group:"0 Gratuit"}
+
+
 "MTV Catfish",{group:"0 Gratuit"}
-
-
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
-"Homicide",{group:"0 Gratuit"}
 
 
 
@@ -692,9 +692,10 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"Les Nouveaux Detectives",{group:"0 Gratuit"}
+"Homicide",{group:"0 Gratuit"}
 
 # fin de liste
+"Les Nouveaux Detectives",{group:"0 Gratuit"}
 "Au coeur du danger",{group:"0 Gratuit"}
 "Adjugé vendu !",{group:"0 Gratuit"}
 "Dossiers FBI",{group:"0 Gratuit"}
@@ -791,4 +792,3 @@
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
 "Dragon TV" {group:"0 Gratuit"}
-"Confessions Intimes" {group:"0 Gratuit"}
