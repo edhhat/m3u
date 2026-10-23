@@ -747,7 +747,6 @@
 "Wild Side TV",{group:"0 Gratuit"}
 "The Asylum",{group:"0 Gratuit"}
 "Runtime",{group:"0 Gratuit"}
-"Top Sci-Fi" {group:"0 Gratuit"}
 "Ciné Western by Pluto TV",{group:"0 Gratuit"}
 "Emotion'L",{exact},{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
