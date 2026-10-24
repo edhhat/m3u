@@ -33,54 +33,54 @@
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"0 Gratuit"}
 "Bons Plans et Arnaques" {group:"0 Gratuit"}
 "Enquêtes de Choc",{group:"0 Gratuit"}
+"Echappées belles & co",{group:"0 Gratuit"}
 "Crimes Enquêtes Faits Divers",{group:"0 Gratuit"}
 "Pluto TV Aventure",{group:"0 Gratuit"}
 "Incroyables Fortunes",{group:"0 Gratuit"}
 "Pluto TV Histoire",{group:"0 Gratuit"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"0 Gratuit"}
 "BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"0 Gratuit"}  
-"Echappées belles & co",{group:"0 Gratuit"}
 "RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"0 Gratuit"}
 "Voyages & Saveurs",{group:"0 Gratuit"}
 "Pluto TV Inside",{group:"0 Gratuit"}
 "Mission Intervention",{group:"0 Gratuit"}
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
-"ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
-"Brut",{group:"0 Gratuit"}
 "Confessions Intimes" {group:"0 Gratuit"}
 "La Vie",{group:"0 Gratuit"}
-
-
-
 "Docs & enquêtes by Society+" {group:"0 Gratuit"}
 "Turbo",{group:"0 Gratuit"}
+
+
+
+"Brut",{group:"0 Gratuit"}
 "Pluto TV Téléréalité France",{group:"0 Gratuit"}
 "Les Anges",{group:"0 Gratuit"}
 "Les Marseillais",{group:"0 Gratuit"}
 "Teen Mom",{group:"0 Gratuit"}
-"CATFISH TV",{group:"0 Gratuit"}
 "MTV CLASSICS",{group:"0 Gratuit"}
+"MTV Catfish",{group:"0 Gratuit"}
+"CATFISH TV",{group:"0 Gratuit"}
 "TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"0 Gratuit"}
+"ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
 "BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
-"Pluto TV Toons",{group:"0 Gratuit"}
-"MacGyver",{group:"0 Gratuit"}
-"CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"0 Gratuit"}
 "Pluto TV Anime Retro" {group:"0 Gratuit"}
+"Pluto TV Toons",{group:"0 Gratuit"}
+"CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"0 Gratuit"}
 "Pluto TV Super Kids" {group:"0 Gratuit"}
-"CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
 "Pluto TV Retro Toons",{group:"0 Gratuit"}
 "Pluto TV Kids Classics" {group:"0 Gratuit"}
 "Pluto TV Kids Club" {group:"0 Gratuit"}
-  
 "One Piece",{group:"0 Gratuit"}
+  
 "Detective Conan",{group:"0 Gratuit"}
 "Olive & Tom",{group:"0 Gratuit"}
-
-
 "Les Schtroumpfs",{group:"0 Gratuit"}
+
+
 "Bob l'éponge" {group:"0 Gratuit"}
+"Pluto TV 90's Classics",{group:"0 Gratuit"}
 
 
 
@@ -695,16 +695,18 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"Mission Impossible",{group:"0 Gratuit"}
+"BBC Series",{group:"0 Gratuit"}
 
 # fin de liste
-"BBC Series",{group:"0 Gratuit"}
-"MTV Catfish",{group:"0 Gratuit"}
+"MacGyver",{group:"0 Gratuit"}
+"Mission Impossible",{group:"0 Gratuit"}
+"Series by Pluto TV" {group:"0 Gratuit"}
 "Homicide",{group:"0 Gratuit"}
 "Les Nouveaux Detectives",{group:"0 Gratuit"}
 "Au coeur du danger",{group:"0 Gratuit"}
 "Adjugé vendu !",{group:"0 Gratuit"}
 "Dossiers FBI",{group:"0 Gratuit"}
+"CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
 "IntoCrime",{group:"0 Gratuit"}
 "Investigation by Pluto TV",{group:"0 Gratuit"}
 "Tech & Co",{tvg-id:"01TV.fr"},{group:"0 Gratuit"}
@@ -738,18 +740,14 @@
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "NBC West (San Diego) (1080p) [Not 24/7]" {group:"0 Gratuit"}
 "QVC","QVC (720p)",{group:"0 Gratuit"}
-"Series by Pluto TV" {group:"0 Gratuit"}
-"Star trek" {group:"0 Gratuit"}
+"MyTime Movie Network",{group:"0 Gratuit"}
 "Scream'IN",{group:"0 Gratuit"}
 "Shadowz",{group:"0 Gratuit"}
 "Shark TV",{group:"0 Gratuit"}
 "Ciné Nanar",{group:"0 Gratuit"}
 "Wild Side TV",{group:"0 Gratuit"}
 "The Asylum",{group:"0 Gratuit"}
-"MyTime Movie Network",{group:"0 Gratuit"}
 "Runtime",{group:"0 Gratuit"}
-"Ciné Western by Pluto TV",{group:"0 Gratuit"}
-"Emotion'L",{exact},{group:"0 Gratuit"}
 "Sony One HITS Comédie",{group:"0 Gratuit"}
 "Sony One Action HITS",{group:"0 Gratuit"}
 "SONY ONE SERIES THRILLER" {group:"0 Gratuit"}
@@ -762,15 +760,18 @@
 "Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
 "Top Action" {group:"0 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
-"Box Office Action",{group:"0 Gratuit"}
-"LG 1 FILM" {group:"0 Gratuit"}
 "LG 1 SPOTLIGHT" {group:"0 Gratuit"}
+"LG 1 FILM" {group:"0 Gratuit"}
 "LG 1+1" {group:"0 Gratuit"}
 "Monstres et Créatures TV" {group:"0 Gratuit"}
 "LG 1" {group:"0 Gratuit"}
+"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"0 Gratuit"}
+"Star trek" {group:"0 Gratuit"}
 "Box Office Thriller",{group:"0 Gratuit"}
+"Emotion'L",{exact},{group:"0 Gratuit"}
+"Box Office Action",{group:"0 Gratuit"}
 "Box Office Drama",{group:"0 Gratuit"}
-"Pluto TV 90's Classics",{group:"0 Gratuit"}
+"Ciné Western by Pluto TV",{group:"0 Gratuit"}
 "Ciné Action by Pluto TV",{group:"0 Gratuit"}
 "Ciné Romance by Pluto TV",{group:"0 Gratuit"}
 "Pluto TV Comédie",{group:"0 Gratuit"}
@@ -779,7 +780,6 @@
 "Ciné Rétro by Pluto TV",{group:"0 Gratuit"}
 "Pluto TV Comédies Cultes",{group:"0 Gratuit"}
 "Pluto TV ciné",{group:"0 Gratuit"}
-"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"0 Gratuit"}
 "Ciné Thrillers by Pluto TV",{group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
 "Dragon TV" {group:"0 Gratuit"}
