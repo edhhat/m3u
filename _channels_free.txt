@@ -1,796 +1,177 @@
-### --- 0 Gratuit ---
+### --- 3 Gratuit ---
 
-"BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
-"LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
-"FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
-"CNEWS",{tvg-id:"CNews.fr"},{exact},{group:"0 Gratuit"}
-"TF1","FR| TF1 HD","FR| TF1 FHD ᴿᴬᵂ","FR| TF1 FHD","FR| TF1 HEVC","TF1 HD","TF1 TNT","TF1 (576p)","TF1 WEB","TF1 FHD","TF1+1 HD","TF1 CH/SWISS",{tvg-id:"TF1.fr"},{group:"0 Gratuit"}
-"France 2","France 2 (1080p)","FR| FRANCE 2 HD","FR| FRANCE 2 FHD","FR| FRANCE 2 HEVC","France 2 France",{tvg-id:"France2.fr"},{exact},{group:"0 Gratuit"}
-"France 4","FR| FRANCE 4 HD","FR| FRANCE 4 FHD","FR| FRANCE 4 HEVC","France 4 France",{tvg-id:"France4.fr"},{exact},{group:"0 Gratuit"}
-"France 5","France 5 (1080p)","FR| FRANCE 5 HD","FR| FRANCE 5 FHD","FR| FRANCE 5 HEVC","France 5 France",{tvg-id:"France5.fr"},{exact},{group:"0 Gratuit"}
-"M6","FR| M6 HD","FR| M6 FHD","FR| M6 HEVC",{tvg-id:"M6.fr"},{group:"0 Gratuit"}
-"W9","FR| W9 HD","FR| W9 FHD","FR| W9 HEVC",{tvg-id:"W9.fr"},{group:"0 Gratuit"}
-"6TER","FR| 6TER HD","FR| 6TER FHD","FR| 6TER HEVC",{tvg-id:"6ter.fr"},{group:"0 Gratuit"}
-"M6 INTERNATIONAL","AFR| M6 INTERNATIONAL",{tvg-id:"M6International.fr"},{exact},{group:"0 Gratuit"}
-"TMC","FR| TMC HD","FR| TMC FHD","FR| TMC HEVC",{tvg-id:"TMC.fr"},{group:"0 Gratuit"}
-"TFX","FR| TFX HD","FR| TFX FHD","FR| TFX HEVC",{tvg-id:"NT1.fr"},{group:"0 Gratuit"}
-"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
-"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
-"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
-"France 3","France 3 Lorraine (1080p)",{group:"0 Gratuit"}
-"Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"0 Gratuit"}
-"CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"0 Gratuit"}
-"T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"0 Gratuit"}
-"NOVO 19","NOVO19","FR| NOVO 19 FHD",{tvg-id:"NOVO19.fr"},{group:"0 Gratuit"}
-"PARIS PREMIERE","FR| PARIS PREMIERE FHD",{tvg-id:"ParisPremiere.fr"},{group:"0 Gratuit"}
-"AB1","FR| AB1 FHD",{tvg-id:"AB1.fr"},{group:"0 Gratuit"}
-"RTL 9","FR| RTL9 FHD","RTL 9 HD",{tvg-id:"RTL9.fr"},{group:"0 Gratuit"}
-"TEVA","FR| TEVA FHD",{tvg-id:"Teva.fr"},{group:"0 Gratuit"}
-"RMC Story",{tvg-id:"RMCSTORY.fr"},{group:"0 Gratuit"}
-"RMC Life",{tvg-id:"Cherie25.fr"},{group:"0 Gratuit"}
-"RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"0 Gratuit"}
-"RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"0 Gratuit"}
-"RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"0 Gratuit"}
-"Bons Plans et Arnaques" {group:"0 Gratuit"}
-"Enquêtes de Choc",{group:"0 Gratuit"}
-"Echappées belles & co",{group:"0 Gratuit"}
-"Crimes Enquêtes Faits Divers",{group:"0 Gratuit"}
-"Pluto TV Aventure",{group:"0 Gratuit"}
-"Incroyables Fortunes",{group:"0 Gratuit"}
-"Pluto TV Histoire",{group:"0 Gratuit"}
-"HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"0 Gratuit"}
-"BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"0 Gratuit"}  
-"RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"0 Gratuit"}
-"Voyages & Saveurs",{group:"0 Gratuit"}
-"Pluto TV Inside",{group:"0 Gratuit"}
-"Mission Intervention",{group:"0 Gratuit"}
-"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
-"Confessions Intimes" {group:"0 Gratuit"}
-"La Vie",{group:"0 Gratuit"}
-"Docs & enquêtes by Society+" {group:"0 Gratuit"}
-"Turbo",{group:"0 Gratuit"}
-
-
-
-"Brut",{group:"0 Gratuit"}
-"Pluto TV Téléréalité France",{group:"0 Gratuit"}
-"Les Anges",{group:"0 Gratuit"}
-"Les Marseillais",{group:"0 Gratuit"}
-"Teen Mom",{group:"0 Gratuit"}
-"MTV CLASSICS",{group:"0 Gratuit"}
-"MTV Catfish",{group:"0 Gratuit"}
-"CATFISH TV",{group:"0 Gratuit"}
-"TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"0 Gratuit"}
-"ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
-"BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
-"BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
-"BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"0 Gratuit"}
-"Pluto TV Anime Retro" {group:"0 Gratuit"}
-"Pluto TV Toons",{group:"0 Gratuit"}
-"CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"0 Gratuit"}
-"Pluto TV Super Kids" {group:"0 Gratuit"}
-"Pluto TV Retro Toons",{group:"0 Gratuit"}
-"Pluto TV Kids Classics" {group:"0 Gratuit"}
-"Pluto TV Kids Club" {group:"0 Gratuit"}
-"One Piece",{group:"0 Gratuit"}
-  
-"Detective Conan",{group:"0 Gratuit"}
-"Olive & Tom",{group:"0 Gratuit"}
-"Les Schtroumpfs",{group:"0 Gratuit"}
-
-
-"Bob l'éponge" {group:"0 Gratuit"}
-"Pluto TV 90's Classics",{group:"0 Gratuit"}
-
-
-
-
-
-
-
-
-
-
-
-
-### --- 5 SPORT ---
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-  
-  
-### --- 6 USA ---
-### FOX
-### ABC
-### NBC
-
-### CBS
-###CW
-### Cable National
-
-
---- 7 CANADA Eng ---
-
-### --- 8 UK ---
-### --- 9 DOCUMENTAIRE ---
-
-
-
-
-
-
-
-
-
-### --- 10 REALITE ---
-
-
-
-
-
-
-
-
-
-
-
-### --- 11 Francophone ---
-
-
-
-### --- 12 M6 ---
-
-### --- 13 International ---
-### --- 14 Enfants ---
-# Voici les chaînes disponibles. Copiez le nom exact dans votre tag {canal-epg:"..."}
-
-
-### --- CHAINES CANAL+ MQ DISPONIBLES ---
-# "13EME RUE"
-# "6TER"
-# "A+"
-# "ACTION"
-# "AFRICA 24"
-# "ARTE France"
-# "ATV Martinique"
-# "AUTOMOTO"
-# "BBC Earth"
-# "BBC NEWS"
-# "BBLACK CARIBBEAN"
-# "BEIN SPORTS 1 HD"
-# "BEIN SPORTS 2 HD"
-# "BEIN SPORTS 3 HD"
-# "BEIN SPORTS MAX 10"
-# "BEIN SPORTS MAX 4"
-# "BEIN SPORTS MAX 5"
-# "BEIN SPORTS MAX 6"
-# "BEIN SPORTS MAX 7"
-# "BEIN SPORTS MAX 8"
-# "BEIN SPORTS MAX 9"
-# "BFM BUSINESS"
-# "BFM TV"
-# "BOOMERANG"
-# "BRAVO"
-# "C+SPORT AYITI 1 HD"
-# "C+SPORT AYITI 2"
-# "CANAL 10"
-# "CANAL EVENEMENT CARA"
-# "CANAL J"
-# "CANAL SONY"
-# "CANAL+ 3 CINEMA(S) HD"
-# "CANAL+ HD"
-# "CANAL+AYITI HD"
-# "CANAL+DOCS"
-# "CANAL+FOOT HD"
-# "CANAL+KIDS HD"
-# "CANAL+LIVE 1"
-# "CANAL+LIVE 10"
-# "CANAL+LIVE 11"
-# "CANAL+LIVE 12"
-# "CANAL+LIVE 13"
-# "CANAL+LIVE 14"
-# "CANAL+LIVE 15"
-# "CANAL+LIVE 16"
-# "CANAL+LIVE 17"
-# "CANAL+LIVE 18"
-# "CANAL+LIVE 2"
-# "CANAL+LIVE 3"
-# "CANAL+LIVE 4"
-# "CANAL+LIVE 5"
-# "CANAL+LIVE 6"
-# "CANAL+LIVE 7"
-# "CANAL+LIVE 8"
-# "CANAL+LIVE 9"
-# "CANAL+MAGIC"
-# "CANAL+PREMIER LEAGUE"
-# "CANAL+SPORT HD"
-# "CANAL+SPORT360 HD"
-# "CARTOON NETWORK"
-# "CARTOONITO"
-# "CHEVAL TV"
-# "CINE+CLASSIC"
-# "CINE+EMOTION"
-# "CINE+FAMILY"
-# "CINE+FESTIVAL"
-# "CINE+FRISSON HD"
-# "CNEWS"
-# "CNEWS PRIME"
-# "CNN"
-# "COMEDIE+"
-# "COMEDY CENTRAL"
-# "CSTAR"
-# "DISCOVERY CHANNEL"
-# "DISCOVERY INVESTIGATION"
-# "DOG & CAT TV"
-# "DORCEL TV"
-# "EMCI"
-# "ENGLISH CLUB TV"
-# "EQUIDIA HD"
-# "ESPN"
-# "ESPN2 LATIN NETWORK"
-# "ETV"
-# "EUROPE 1 TV"
-# "EUROPE 2 POP TV"
-# "EUROSPORT 1 HD"
-# "EUROSPORT 2 HD"
-# "EVANGILE TV"
-# "FRANCE 2"
-# "FRANCE 24"
-# "FRANCE 3"
-# "FRANCE 4"
-# "FRANCE 5"
-# "FRANCE INFO:"
-# "FUSION TV"
-# "GOLF+"
-# "GRAPHE TV"
-# "GUADELOUPE 1ERE"
-# "GULLI"
-# "GUYANE 1ERE"
-# "HBO"
-# "HBO Family"
-# "HBO XTREME"
-# "HUSTLER"
-# "INFOSPORT+"
-# "IOTV"
-# "KMT"
-# "KOUROU TV"
-# "KTO"
-# "L'EQUIPE"
-# "LCI"
-# "LCP"
-# "LOVE NATURE"
-# "LUDIKIDS OI"
-# "M6 HD"
-# "MANGAS"
-# "MARTINIQUE 1ERE"
-# "MEZZO"
-# "MEZZO LIVE "
-# "MIEUX"
-# "MTV France"
-# "MUSEUM TV"
-# "MY TV CARAIBES"
-# "NICKELODEON"
-# "NICKELODEON JR"
-# "NOLLYWOOD TV EPIC"
-# "NOLLYWOOD TV france"
-# "NOVELAS TV"
-# "NOVO19"
-# "OCS HD"
-# "OLYMPIA TV"
-# "PARIS PREMIERE"
-# "PENTHOUSE BLACK"
-# "PINK TV"
-# "PIWI+"
-# "PLANETE+"
-# "PLANETE+ AVENTURE"
-# "PLANETE+ CRIME"
-# "PRIVATE"
-# "PUNCH TV"
-# "RADIO TELE ECLAIR"
-# "RMC DECOUVERTE"
-# "RMC LIFE"
-# "RMC STORY"
-# "RTL9"
-# "SCIFI"
-# "SEASONS"
-# "SPORT EN FRANCE"
-# "STUDIOCANAL TV"
-# "STVS"
-# "T18"
-# "TCM 3 CINEMA"
-# "TELE 20"
-# "TELE MICRO"
-# "TELE PEYI GUYANE"
-# "TELEMUNDO"
-# "TELETOON+"
-# "TEST DROM"
-# "TEVA"
-# "TF1 HD"
-# "TF1 SERIES FILMS"
-# "TFX"
-# "TLC"
-# "TMC"
-# "TNH HAITI"
-# "TOUTE L HISTOIRE"
-# "TRACE AYITI"
-# "TRACE CARIBBEAN"
-# "TRACE URBAN"
-# "TROTTERS TV"
-# "TV BREIZH"
-# "TV GLOBO"
-# "TV Métropole"
-# "TV5 MONDE (Amérique Latine)"
-# "USHUAIA TVHD"
-# "VIXEN"
-# "VOIR+"
-# "W9"
-# "WARNER TV"
-# "WARNER TV NEXT"
-# "XXL"
-# "ZITATA TV"
-# "ZOUK TV"
+"BFM TV",{tvg-id:"BFMTV.fr"},{group:"3 Gratuit"}
+"LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"3 Gratuit"}
+"FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"3 Gratuit"}
+"CNEWS",{tvg-id:"CNews.fr"},{exact},{group:"3 Gratuit"}
+"TF1","FR| TF1 HD","FR| TF1 FHD ᴿᴬᵂ","FR| TF1 FHD","FR| TF1 HEVC","TF1 HD","TF1 TNT","TF1 (576p)","TF1 WEB","TF1 FHD","TF1+1 HD","TF1 CH/SWISS",{tvg-id:"TF1.fr"},{group:"3 Gratuit"}
+"France 2","France 2 (1080p)","FR| FRANCE 2 HD","FR| FRANCE 2 FHD","FR| FRANCE 2 HEVC","France 2 France",{tvg-id:"France2.fr"},{exact},{group:"3 Gratuit"}
+"France 4","FR| FRANCE 4 HD","FR| FRANCE 4 FHD","FR| FRANCE 4 HEVC","France 4 France",{tvg-id:"France4.fr"},{exact},{group:"3 Gratuit"}
+"France 5","France 5 (1080p)","FR| FRANCE 5 HD","FR| FRANCE 5 FHD","FR| FRANCE 5 HEVC","France 5 France",{tvg-id:"France5.fr"},{exact},{group:"3 Gratuit"}
+"M6","FR| M6 HD","FR| M6 FHD","FR| M6 HEVC",{tvg-id:"M6.fr"},{group:"3 Gratuit"}
+"W9","FR| W9 HD","FR| W9 FHD","FR| W9 HEVC",{tvg-id:"W9.fr"},{group:"3 Gratuit"}
+"6TER","FR| 6TER HD","FR| 6TER FHD","FR| 6TER HEVC",{tvg-id:"6ter.fr"},{group:"3 Gratuit"}
+"M6 INTERNATIONAL","AFR| M6 INTERNATIONAL",{tvg-id:"M6International.fr"},{exact},{group:"3 Gratuit"}
+"TMC","FR| TMC HD","FR| TMC FHD","FR| TMC HEVC",{tvg-id:"TMC.fr"},{group:"3 Gratuit"}
+"TFX","FR| TFX HD","FR| TFX FHD","FR| TFX HEVC",{tvg-id:"NT1.fr"},{group:"3 Gratuit"}
+"Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"3 Gratuit"}
+"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
+"Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
+"France 3","France 3 Lorraine (1080p)",{group:"3 Gratuit"}
+"Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"3 Gratuit"}
+"CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"3 Gratuit"}
+"T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"3 Gratuit"}
+"NOVO 19","NOVO19","FR| NOVO 19 FHD",{tvg-id:"NOVO19.fr"},{group:"3 Gratuit"}
+"PARIS PREMIERE","FR| PARIS PREMIERE FHD",{tvg-id:"ParisPremiere.fr"},{group:"3 Gratuit"}
+"AB1","FR| AB1 FHD",{tvg-id:"AB1.fr"},{group:"3 Gratuit"}
+"RTL 9","FR| RTL9 FHD","RTL 9 HD",{tvg-id:"RTL9.fr"},{group:"3 Gratuit"}
+"TEVA","FR| TEVA FHD",{tvg-id:"Teva.fr"},{group:"3 Gratuit"}
+"RMC Story",{tvg-id:"RMCSTORY.fr"},{group:"3 Gratuit"}
+"RMC Life",{tvg-id:"Cherie25.fr"},{group:"3 Gratuit"}
+"RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"3 Gratuit"}
+"RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"3 Gratuit"}
+"RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"3 Gratuit"}
+"Bons Plans et Arnaques" {group:"3 Gratuit"}
+"Enquêtes de Choc",{group:"3 Gratuit"}
+"Echappées belles & co",{group:"3 Gratuit"}
+"Crimes Enquêtes Faits Divers",{group:"3 Gratuit"}
+"Pluto TV Aventure",{group:"3 Gratuit"}
+"Incroyables Fortunes",{group:"3 Gratuit"}
+"Pluto TV Histoire",{group:"3 Gratuit"}
+"HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"3 Gratuit"}
+"BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"3 Gratuit"}  
+"RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"3 Gratuit"}
+"Voyages & Saveurs",{group:"3 Gratuit"}
+"Pluto TV Inside",{group:"3 Gratuit"}
+"Mission Intervention",{group:"3 Gratuit"}
+"J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"3 Gratuit"}
+"Confessions Intimes" {group:"3 Gratuit"}
+"La Vie",{group:"3 Gratuit"}
+"Docs & enquêtes by Society+" {group:"3 Gratuit"}
+"Turbo",{group:"3 Gratuit"}
+"Brut",{group:"3 Gratuit"}
+"Pluto TV Téléréalité France",{group:"3 Gratuit"}
+"Les Anges",{group:"3 Gratuit"}
+"Les Marseillais",{group:"3 Gratuit"}
+"Teen Mom",{group:"3 Gratuit"}
+"MTV CLASSICS",{group:"3 Gratuit"}
+"MTV Catfish",{group:"3 Gratuit"}
+"CATFISH TV",{group:"3 Gratuit"}
+"TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"3 Gratuit"}
+"ARTE",{tvg-id:"Arte.fr"},{group:"3 Gratuit"}
+"BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
+"BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
+"BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
+"Pluto TV Anime Retro" {group:"3 Gratuit"}
+"Pluto TV Toons",{group:"3 Gratuit"}
+"CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"3 Gratuit"}
+"Pluto TV Super Kids" {group:"3 Gratuit"}
+"Pluto TV Retro Toons",{group:"3 Gratuit"}
+"Pluto TV Kids Classics" {group:"3 Gratuit"}
+"Pluto TV Kids Club" {group:"3 Gratuit"}
+"One Piece",{group:"3 Gratuit"}
+"Detective Conan",{group:"3 Gratuit"}
+"Olive & Tom",{group:"3 Gratuit"}
+"Les Schtroumpfs",{group:"3 Gratuit"}
+"Bob l'éponge" {group:"3 Gratuit"}
+"Pluto TV 90's Classics",{group:"3 Gratuit"}
+"BBC Series",{group:"3 Gratuit"}
+"MacGyver",{group:"3 Gratuit"}
+"Mission Impossible",{group:"3 Gratuit"}
+"Series by Pluto TV" {group:"3 Gratuit"}
+"Homicide",{group:"3 Gratuit"}
+"Les Nouveaux Detectives",{group:"3 Gratuit"}
+"Au coeur du danger",{group:"3 Gratuit"}
+"Adjugé vendu !",{group:"3 Gratuit"}
+"Dossiers FBI",{group:"3 Gratuit"}
+"CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"3 Gratuit"}
+"IntoCrime",{group:"3 Gratuit"}
+"Investigation by Pluto TV",{group:"3 Gratuit"}
+"Tech & Co",{tvg-id:"01TV.fr"},{group:"3 Gratuit"}
+"Pluto TV Cuisine",{group:"3 Gratuit"}
+"Most Haunted",{group:"3 Gratuit"}
+"Faites entrer l'accusé",{group:"3 Gratuit"}
+"Pêche à haut risque",{group:"3 Gratuit"}
+"Pluto TV Paranormal",{group:"3 Gratuit"}
+"Destination Nature",{group:"3 Gratuit"}
+"Nature Time",{group:"3 Gratuit"}
+"DRIVE TV",{group:"3 Gratuit"}
+"True Crime by Pluto TV",{group:"3 Gratuit"}
+"BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"3 Gratuit"}
+"TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"3 Gratuit"}
+"MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"3 Gratuit"}
+"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"3 Gratuit"}
+"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"3 Gratuit"}
+"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"3 Gratuit"}   
+"ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"3 Gratuit"}
+"NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"3 Gratuit"}
+"ABC NEWS AUSTRALIA" {group:"3 Gratuit"}
+"NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"3 Gratuit"}
+"TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"3 Gratuit"}
+"W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"3 Gratuit"}
+"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"3 Gratuit"}
+"WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"3 Gratuit"}
+"TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"3 Gratuit"}
+"USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"3 Gratuit"}
+"STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"3 Gratuit"}
+"Fox West (720p)" {group:"3 Gratuit"}
+"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"3 Gratuit"}
+"NBC West (San Diego) (1080p) [Not 24/7]" {group:"3 Gratuit"}
+"QVC","QVC (720p)",{group:"3 Gratuit"}
+"MyTime Movie Network",{group:"3 Gratuit"}
+"Scream'IN",{group:"3 Gratuit"}
+"Shadowz",{group:"3 Gratuit"}
+"Shark TV",{group:"3 Gratuit"}
+"Ciné Nanar",{group:"3 Gratuit"}
+"Wild Side TV",{group:"3 Gratuit"}
+"The Asylum",{group:"3 Gratuit"}
+"Runtime",{group:"3 Gratuit"}
+"Sony One HITS Comédie",{group:"3 Gratuit"}
+"Sony One Action HITS",{group:"3 Gratuit"}
+"SONY ONE SERIES THRILLER" {group:"3 Gratuit"}
+"Films Romantiques - Rakuten TV",{group:"3 Gratuit"}
+"Crime - Rakuten TV",{group:"3 Gratuit"}
+"Comédies - Rakuten TV",{group:"3 Gratuit"}
+"Famille - Rakuten TV",{group:"3 Gratuit"}
+"Films d'action - Rakuten TV",{group:"3 Gratuit"}
+"Drames - Rakuten TV",{group:"3 Gratuit"}
+"Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"3 Gratuit"}
+"Top Action" {group:"3 Gratuit"}
+"Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"3 Gratuit"}
+"LG 1 SPOTLIGHT" {group:"3 Gratuit"}
+"LG 1 FILM" {group:"3 Gratuit"}
+"LG 1+1" {group:"3 Gratuit"}
+"Monstres et Créatures TV" {group:"3 Gratuit"}
+"LG 1" {group:"3 Gratuit"}
+"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"3 Gratuit"}
+"Star trek" {group:"3 Gratuit"}
+"Box Office Thriller",{group:"3 Gratuit"}
+"Emotion'L",{exact},{group:"3 Gratuit"}
+"Box Office Action",{group:"3 Gratuit"}
+"Box Office Drama",{group:"3 Gratuit"}
+"Ciné Western by Pluto TV",{group:"3 Gratuit"}
+"Ciné Action by Pluto TV",{group:"3 Gratuit"}
+"Ciné Romance by Pluto TV",{group:"3 Gratuit"}
+"Pluto TV Comédie",{group:"3 Gratuit"}
+"Ciné d'Asie by Pluto TV",{group:"3 Gratuit"}
+"Ciné Catastrophe by Pluto TV",{group:"3 Gratuit"}
+"Ciné Rétro by Pluto TV",{group:"3 Gratuit"}
+"Pluto TV Comédies Cultes",{group:"3 Gratuit"}
+"Pluto TV ciné",{group:"3 Gratuit"}
+"Ciné Thrillers by Pluto TV",{group:"3 Gratuit"}
+"Ciné Sci-Fi by Pluto TV",{group:"3 Gratuit"}
+"Dragon TV" {group:"3 Gratuit"}
+"Ciné Gore & Slasher by Pluto TV",{group:"3 Gratuit"}
+"Ciné 666 by Pluto TV",{group:"3 Gratuit"}
+"Horrorland by Pluto TV",{group:"3 Gratuit"}
+"Ciné Horreur by Pluto TV",{group:"3 Gratuit"}
+"Ici Radio-Canada Télé","Ici Radio-Canada Télé (1080p) [Geo-blocked]",{group:"3 Gratuit"}
+"ICI RDI - CANADA" {group:"3 Gratuit"}
+"Noovo" {group:"3 Gratuit"}
+"TVA","TVA [Geo-blocked]",{group:"3 Gratuit"}
+"LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
 
 
-### --- CHAINES CANAL+ CI DISPONIBLES ---
-# "13EME RUE"
-# "2M"
-# "2STV"
-# "3TV"
-# "7INFO"
-# "7TV"
-# "A+"
-# "A+ BENIN"
-# "A+ IVOIRE Antenne"
-# "AB1"
-# "ACTION HD"
-# "AES TV HD"
-# "AFRICA 24"
-# "AFRICA 24 ENGLISH"
-# "AFRICA 24 INFINITY"
-# "AFRICA 24 SPORT"
-# "AFRICA MAGIC EPIC"
-# "AFRICA MAGIC HAUSA"
-# "AFRICA MAGIC SHOWCASE"
-# "AFRICA MAGIC YORUBA"
-# "AFRICABLE"
-# "AFRIKINFO TV"
-# "AL JAZEERA"
-# "AL JAZEERA ENG"
-# "AL MOURIDIYYAH TV"
-# "AL NASSR"
-# "ALAFIA TV"
-# "ALBAYANE"
-# "ANIMAUX"
-# "ANTENNE A"
-# "AREWA 24"
-# "ARTE France"
-# "ASFIYAHI"
-# "ASONGA TV"
-# "AUTOMOTO"
-# "B-ONE"
-# "BALAFON TV"
-# "BBC EARTH"
-# "BBC NEWS"
-# "BBLACK AFRICA"
-# "BCN TV"
-# "BENIE TV"
-# "BENIN TV ALAFIA"
-# "BENIN TV HD"
-# "BF1 TV"
-# "BLOOMBERG ORIGINALS"
-# "BLOOMBERG TV"
-# "BNEWS"
-# "BONFEREY"
-# "BOOMERANG"
-# "BOSOLO TV"
-# "BRAVO"
-# "BRAVO ENG"
-# "BRIK TV"
-# "BTN TV"
-# "BUJA TV"
-# "BURKINA INFO"
-# "Bukedde TV"
-# "C+ KIDS"
-# "CAM10"
-# "CANAL 2 INTER"
-# "CANAL 2 MOVIES"
-# "CANAL 3 BENIN"
-# "CANAL 3 BURKINA"
-# "CANAL EVENEMENT AFRIQUE"
-# "CANAL+ ACTION CENTRE"
-# "CANAL+ 3 CINEMA CENTRE"
-# "CANAL+ DOCS"
-# "CANAL+ POP "
-# "CANAL+ PREMIERE CENTRE"
-# "CANAL+ SPORT 1"
-# "CANAL+ SPORT 2"
-# "CANAL+ SPORT 3"
-# "CANAL+ SPORT 4"
-# "CANAL+ SPORT 5"
-# "CARTOON NETWORK"
-# "CARTOON NETWORK Africa SA"
-# "CARTOONITO"
-# "CAVI MEDIAS"
-# "CDIRECT"
-# "CHERIFLA TV"
-# "CHIF TV"
-# "CHINGUIT TV"
-# "CIS TV"
-# "CITIZEN TELEVISION"
-# "CNBC AFRICA"
-# "CNEWS"
-# "CNEWS PRIME"
-# "CNN"
-# "CONGO 26"
-# "CRIME DISTRICT"
-# "CRTV"
-# "CRTV NEWS"
-# "CRTV SPORT"
-# "CSTAR"
-# "CUISINES"
-# "DASH TV"
-# "DBS"
-# "DIGITAL CONGO"
-# "DISCOVERY CHANNEL"
-# "DISCOVERY INVESTIGATION"
-# "DNTV"
-# "DORCEL TV"
-# "DORCEL TV AFRICA"
-# "DOUNIA"
-# "DRTV"
-# "E-TELEVISION"
-# "ECCLESIA TV"
-# "EDEN TV"
-# "EDUC TV"
-# "EDUCA TV"
-# "ELECTRON TV"
-# "ELWATANIYA TV"
-# "EMCI"
-# "EQUINOXE TV"
-# "ESPACE TV"
-# "ESPERANCE TV"
-# "EURONEWS"
-# "EUROPE 1 TV"
-# "EUROPE 2 POP TV"
-# "EVANGILE TV"
-# "EVASION TV"
-# "FLASH TV"
-# "FRANCE 24"
-# "FRANCE 24 EN"
-# "FRANCE 3"
-# "FRANCE 5"
-# "FULBE"
-# "France 2 INT"
-# "GABON 1ERE"
-# "GABON 24"
-# "GABON CULTURE"
-# "GALAXIE TELE"
-# "GLOBAL AFRICA"
-# "GO TV"
-# "GOLF+ HD"
-# "GTV"
-# "GULLI AFRICA"
-# "GULLI BIL ARABI"
-# "HERITAGE TV"
-# "HISTOIRE TV"
-# "HOREB TV"
-# "HTV BURUNDI"
-# "HUSTLER HD"
-# "IMPACT TV"
-# "INFO TV"
-# "INFOSPORT+"
-# "IQRAA"
-# "ISANGO STAR TV"
-# "ISHUSHO TV"
-# "ISIBO TV"
-# "ITV"
-# "IVOIRE TV Music"
-# "JESUS 24 TV"
-# "JOLIBA"
-# "KABACK TV"
-# "KALAC TV"
-# "KAYES TV"
-# "KC2"
-# "KTN"
-# "KTO"
-# "LA GUINEE FE HD"
-# "LA3"
-# "LABARI"
-# "LAMP FALL TV"
-# "LCI"
-# "LERAL TV"
-# "LIFE TV"
-# "LIPTAKO TV"
-# "LMTV"
-# "LOVE NATURE"
-# "LTM"
-# "LUDIKIDS OI"
-# "LUMEN CHRISTI"
-# "LUTTE TV"
-# "LUX TV"
-# "M6 INTERNATIONAL"
-# "M7"
-# "MAAJABU TV"
-# "MABOKE TV"
-# "MADI TV"
-# "MAISHA MAGIC BONGO"
-# "MAISHA MAGIC EAST"
-# "MAISHA MAGIC PLUS"
-# "MALAIKA TV"
-# "MALIKIA TV"
-# "MANDE TV"
-# "MANDEKA HD"
-# "MANGAS"
-# "MCR TV"
-# "MELODY D'AFRIQUE"
-# "MEZZO"
-# "MIEUX"
-# "MIKUBA TV"
-# "MNET MOVIES 3"
-# "MNET MOVIES 4"
-# "MOLIERE TV"
-# "MOURCHID TV"
-# "MRTV"
-# "MSI TV"
-# "MTV France"
-# "MTV LEBANON"
-# "MUSEUM TV"
-# "MY MEDIA PRIME"
-# "NATHAN+"
-# "NATIONAL GEOGRAPHIC ENG"
-# "NBA TV"
-# "NCA"
-# "NCI "
-# "NHK WORLD JAPAN (fermé)"
-# "NICKELODEON ENG"
-# "NICKELODEON GLOBAL"
-# "NICKELODEON JR"
-# "NICKELODEON JR ENG"
-# "NIETA TV"
-# "NOLLYWOOD EPIC"
-# "NOLLYWOOD TV"
-# "NOVELAS (Cameroun)"
-# "NOVELAS TV"
-# "NOVELAS TV HD (RDC)"
-# "NYOTA"
-# "ONE TV"
-# "ORTM1"
-# "ORTM2"
-# "PACIS TV"
-# "PARLEMENT TV"
-# "PAROLE ETERNELLE TV"
-# "PASSION BOLLYWOOD"
-# "PENTHOUSE BLACK"
-# "PITCHOUN AFRICA"
-# "PIWI+"
-# "PLANETE+"
-# "PLANETE+ AVENTURE"
-# "PLANETE+ CRIME"
-# "PRC"
-# "PRIVATE TV"
-# "PULAAGU HD"
-# "PYRAMIDE TV"
-# "RATELKI"
-# "REFLET TV"
-# "RENOUVEAU TV"
-# "RTB"
-# "RTB 3"
-# "RTB ZENITH"
-# "RTCE"
-# "RTD"
-# "RTDS"
-# "RTG1"
-# "RTG2"
-# "RTGA"
-# "RTI 1"
-# "RTI2"
-# "RTL9 HD"
-# "RTNB"
-# "RTNC"
-# "RTS"
-# "RTS 2"
-# "RTVC"
-# "RTVS 1"
-# "RWANDA TV"
-# "SAHARA TV"
-# "SARAOUNIA TV"
-# "SAVANE TV"
-# "SCIENCE ET VIE TV"
-# "SCIFI"
-# "SEN TV"
-# "SENSATION TV"
-# "SERIE CLUB"
-# "SINEMA ZETU"
-# "SOS DOCTEUR TV"
-# "SPORT EN FRANCE"
-# "SS AFRICA 2 HD"
-# "SS EPL"
-# "SS FOOTBALL HD"
-# "SS FOOTBALL PLUS HD"
-# "SS LA LIGA"
-# "SS WWE"
-# "SSM TV"
-# "STUDIO UNIVERSAL"
-# "STV"
-# "SUD 1ERE"
-# "SUN+ TV"
-# "SUNNA TV SAVANA"
-# "SUNNA TV ZARMA"
-# "SUNU YEUF"
-# "SUPERSPORT ACTION"
-# "TAURARUWA"
-# "TCHAD 24"
-# "TCHAD INFOS"
-# "TELE 24"
-# "TELE 50"
-# "TELE CONGO"
-# "TELE SAHEL"
-# "TELEMUNDO"
-# "TELEMUSIK SENEGAL"
-# "TELETOON+"
-# "TENERE"
-# "TEST 19"
-# "TEST AFRIQUE"
-# "TF1"
-# "TF1 SERIES FILMS"
-# "TFM"
-# "TFX"
-# "TGB"
-# "TIJI"
-# "TIVI5 MONDE"
-# "TM1"
-# "TMC"
-# "TNT Africa"
-# "TOUBA TV"
-# "TOUMAI TV"
-# "TOUTE L HISTOIRE"
-# "TPT+"
-# "TRACE AFRICA AFRIQUE"
-# "TRACE GOSPEL"
-# "TRACE IVOIRE"
-# "TRACE KITOKO"
-# "TRACE MBOA "
-# "TRACE TERANGA"
-# "TRACE Urban Afrique"
-# "TREK"
-# "TV AL HOUDA"
-# "TV MAURITANIE"
-# "TV O"
-# "TV TCHAD"
-# "TV TOGO"
-# "TV+ AFRIQUE"
-# "TV1"
-# "TV10"
-# "TV2"
-# "TV5 MONDE (Afrique)"
-# "TV7"
-# "TVC"
-# "TVCA"
-# "TVGE"
-# "UNIVERS TV"
-# "UNIVERSAL "
-# "USHUAÏA TV"
-# "VISION 4 RCA"
-# "VIXEN"
-# "VOIR+"
-# "VOIR+ COTE D IVOIRE"
-# "VOIR+ RDC"
-# "VOX AFRICA"
-# "VOX TV"
-# "WALF TV"
-# "WEST AFRICA TV"
-# "XXL"
-# "ZACU TV"
-# "ZEE ALWAN"
-# "ZEE MAGIC"
-# "ZEE WORLD"
-"BBC Series",{group:"0 Gratuit"}
-"Fox Sports 1 (720p)"
-"American Horrors (480p)"
-
-# fin de liste
-"MacGyver",{group:"0 Gratuit"}
-"Mission Impossible",{group:"0 Gratuit"}
-"Series by Pluto TV" {group:"0 Gratuit"}
-"Homicide",{group:"0 Gratuit"}
-"Les Nouveaux Detectives",{group:"0 Gratuit"}
-"Au coeur du danger",{group:"0 Gratuit"}
-"Adjugé vendu !",{group:"0 Gratuit"}
-"Dossiers FBI",{group:"0 Gratuit"}
-"CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
-"IntoCrime",{group:"0 Gratuit"}
-"Investigation by Pluto TV",{group:"0 Gratuit"}
-"Tech & Co",{tvg-id:"01TV.fr"},{group:"0 Gratuit"}
-"Pluto TV Cuisine",{group:"0 Gratuit"}
-"Most Haunted",{group:"0 Gratuit"}
-"Faites entrer l'accusé",{group:"0 Gratuit"}
-"Pêche à haut risque",{group:"0 Gratuit"}
-"Pluto TV Paranormal",{group:"0 Gratuit"}
-"Destination Nature",{group:"0 Gratuit"}
-"Nature Time",{group:"0 Gratuit"}
-"DRIVE TV",{group:"0 Gratuit"}
-"True Crime by Pluto TV",{group:"0 Gratuit"}
-"BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"0 Gratuit"}
-"TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"0 Gratuit"}
-"MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"0 Gratuit"}
-"ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"0 Gratuit"}
-"ABC TV NSW",{tvg-id:"ABCSydney.au"},{group:"0 Gratuit"}
-"ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"0 Gratuit"}   
-"ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
-"NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
-"ABC NEWS AUSTRALIA" {group:"0 Gratuit"}
-"NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"0 Gratuit"}
-"TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
-"W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"0 Gratuit"}
-"truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"0 Gratuit"}
-"WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"0 Gratuit"}
-"TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"0 Gratuit"}
-"USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"0 Gratuit"}
-"STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
-"Fox West (720p)" {group:"0 Gratuit"}
-"AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
-"NBC West (San Diego) (1080p) [Not 24/7]" {group:"0 Gratuit"}
-"QVC","QVC (720p)",{group:"0 Gratuit"}
-"MyTime Movie Network",{group:"0 Gratuit"}
-"Scream'IN",{group:"0 Gratuit"}
-"Shadowz",{group:"0 Gratuit"}
-"Shark TV",{group:"0 Gratuit"}
-"Ciné Nanar",{group:"0 Gratuit"}
-"Wild Side TV",{group:"0 Gratuit"}
-"The Asylum",{group:"0 Gratuit"}
-"Runtime",{group:"0 Gratuit"}
-"Sony One HITS Comédie",{group:"0 Gratuit"}
-"Sony One Action HITS",{group:"0 Gratuit"}
-"SONY ONE SERIES THRILLER" {group:"0 Gratuit"}
-"Films Romantiques - Rakuten TV",{group:"0 Gratuit"}
-"Crime - Rakuten TV",{group:"0 Gratuit"}
-"Comédies - Rakuten TV",{group:"0 Gratuit"}
-"Famille - Rakuten TV",{group:"0 Gratuit"}
-"Films d'action - Rakuten TV",{group:"0 Gratuit"}
-"Drames - Rakuten TV",{group:"0 Gratuit"}
-"Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"0 Gratuit"}
-"Top Action" {group:"0 Gratuit"}
-"Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
-"LG 1 SPOTLIGHT" {group:"0 Gratuit"}
-"LG 1 FILM" {group:"0 Gratuit"}
-"LG 1+1" {group:"0 Gratuit"}
-"Monstres et Créatures TV" {group:"0 Gratuit"}
-"LG 1" {group:"0 Gratuit"}
-"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"0 Gratuit"}
-"Star trek" {group:"0 Gratuit"}
-"Box Office Thriller",{group:"0 Gratuit"}
-"Emotion'L",{exact},{group:"0 Gratuit"}
-"Box Office Action",{group:"0 Gratuit"}
-"Box Office Drama",{group:"0 Gratuit"}
-"Ciné Western by Pluto TV",{group:"0 Gratuit"}
-"Ciné Action by Pluto TV",{group:"0 Gratuit"}
-"Ciné Romance by Pluto TV",{group:"0 Gratuit"}
-"Pluto TV Comédie",{group:"0 Gratuit"}
-"Ciné d'Asie by Pluto TV",{group:"0 Gratuit"}
-"Ciné Catastrophe by Pluto TV",{group:"0 Gratuit"}
-"Ciné Rétro by Pluto TV",{group:"0 Gratuit"}
-"Pluto TV Comédies Cultes",{group:"0 Gratuit"}
-"Pluto TV ciné",{group:"0 Gratuit"}
-"Ciné Thrillers by Pluto TV",{group:"0 Gratuit"}
-"Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
-"Dragon TV" {group:"0 Gratuit"}
-"Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
-"Ciné 666 by Pluto TV",{group:"0 Gratuit"}
-"Horrorland by Pluto TV",{group:"0 Gratuit"}
-"Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
-"Ici Radio-Canada Télé","Ici Radio-Canada Télé (1080p) [Geo-blocked]",{group:"0 Gratuit"}
-"ICI RDI - CANADA" {group:"0 Gratuit"}
-"Noovo" {group:"0 Gratuit"}
-"TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
-"LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
+### --- 4 Anglais ---
+"Fox Sports 1 (720p)",{group:"4 Anglais"}
+"American Horrors (480p)",{group:"4 Anglais"}
