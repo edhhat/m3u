@@ -788,3 +788,4 @@
 "Noovo" {group:"0 Gratuit"}
 "TVA","TVA [Geo-blocked]",{group:"0 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"0 Gratuit"}
+"Docs & enquêtes by Society+" {group:"0 Gratuit"}
