@@ -113,6 +113,10 @@
 "Ciné Nanar",{group:"3 Gratuit"}
 "Wild Side TV",{group:"3 Gratuit"}
 "The Asylum",{group:"3 Gratuit"}
+"LG 1+1" {group:"3 Gratuit"}
+"LG 1 SPOTLIGHT" {group:"3 Gratuit"}
+"LG 1 FILM" {group:"3 Gratuit"}
+"LG 1" {group:"3 Gratuit"}
 "Runtime",{group:"3 Gratuit"}
 "Sony One HITS Comédie",{group:"3 Gratuit"}
 "Sony One Action HITS",{group:"3 Gratuit"}
@@ -126,11 +130,7 @@
 "Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"3 Gratuit"}
 "Top Action" {group:"3 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"3 Gratuit"}
-"LG 1 SPOTLIGHT" {group:"3 Gratuit"}
-"LG 1 FILM" {group:"3 Gratuit"}
-"LG 1+1" {group:"3 Gratuit"}
 "Monstres et Créatures TV" {group:"3 Gratuit"}
-"LG 1" {group:"3 Gratuit"}
 "CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"3 Gratuit"}
 "Star trek" {group:"3 Gratuit"}
 "Box Office Thriller",{group:"3 Gratuit"}
@@ -181,5 +181,3 @@
 "W NETWORK","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"4 Anglais"}
 "USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"4 Anglais"}
 "Fox West (720p)",{group:"4 Anglais"}
-
-
