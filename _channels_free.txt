@@ -1,7 +1,5 @@
 ### --- 0 Gratuit ---
 
-"ABC NEWS AUSTRALIA" {group:"0 Gratuit"}
-"NBC West (San Diego) (1080p) [Not 24/7]" {group:"0 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"0 Gratuit"}
 "LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"0 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"0 Gratuit"}
@@ -49,11 +47,11 @@
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"0 Gratuit"}
 "ARTE",{tvg-id:"Arte.fr"},{group:"0 Gratuit"}
 "Brut",{group:"0 Gratuit"}
-
-
-
 "Confessions Intimes" {group:"0 Gratuit"}
 "La Vie",{group:"0 Gratuit"}
+
+
+
 "Docs & enquêtes by Society+" {group:"0 Gratuit"}
 "Turbo",{group:"0 Gratuit"}
 "Pluto TV Téléréalité France",{group:"0 Gratuit"}
@@ -73,14 +71,16 @@
 "Pluto TV Super Kids" {group:"0 Gratuit"}
 "CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"0 Gratuit"}
 "Pluto TV Retro Toons",{group:"0 Gratuit"}
-  
 "Pluto TV Kids Classics" {group:"0 Gratuit"}
 "Pluto TV Kids Club" {group:"0 Gratuit"}
+  
 "One Piece",{group:"0 Gratuit"}
-
-
 "Detective Conan",{group:"0 Gratuit"}
 "Olive & Tom",{group:"0 Gratuit"}
+
+
+"Les Schtroumpfs",{group:"0 Gratuit"}
+"Bob l'éponge" {group:"0 Gratuit"}
 
 
 
@@ -695,11 +695,9 @@
 # "ZEE ALWAN"
 # "ZEE MAGIC"
 # "ZEE WORLD"
-"Les Schtroumpfs",{group:"0 Gratuit"}
+"Mission Impossible",{group:"0 Gratuit"}
 
 # fin de liste
-"Bob l'éponge" {group:"0 Gratuit"}
-"Mission Impossible",{group:"0 Gratuit"}
 "BBC Series",{group:"0 Gratuit"}
 "MTV Catfish",{group:"0 Gratuit"}
 "Homicide",{group:"0 Gratuit"}
@@ -727,6 +725,7 @@
 "ABC TV QLD",{tvg-id:"ABCBrisbane.au"},{group:"0 Gratuit"}   
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"0 Gratuit"}
 "NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"0 Gratuit"}
+"ABC NEWS AUSTRALIA" {group:"0 Gratuit"}
 "NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"0 Gratuit"}
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"0 Gratuit"}
 "W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"0 Gratuit"}
@@ -737,6 +736,7 @@
 "STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"0 Gratuit"}
 "Fox West (720p)" {group:"0 Gratuit"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
+"NBC West (San Diego) (1080p) [Not 24/7]" {group:"0 Gratuit"}
 "QVC (720p)" {group:"0 Gratuit"}
 "Series by Pluto TV" {group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
