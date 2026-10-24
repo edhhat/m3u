@@ -162,14 +162,13 @@
 
 ### --- 4 Anglais ---
 "QVC","QVC (720p)",{group:"4 Anglais"}
-"ABC NEWS AUSTRALIA" ,{group:"4 Anglais"}
+"ABC NEWS AUSTRALIA",{group:"4 Anglais"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"4 Anglais"}
-"STARZ 1","CA| STARZ 1 HD","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"4 Anglais"}
+"STARZ 1","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"4 Anglais"}
 "TBS","US| TBS EAST FHD","US| TBS HD","US| TBS EAST HD",{tvg-id:"TBS.us"},{group:"4 Anglais"}
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"4 Anglais"}
 "WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"4 Anglais"}
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"4 Anglais"}
-
 "Fox Sports 1","Fox Sports 1 (720p)",{group:"4 Anglais"}
 "American Horrors (480p)",{group:"4 Anglais"}
 "MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"4 Anglais"}
@@ -179,9 +178,8 @@
 "ABC TV NT",{tvg-id:"ABCDarwin.au"},{group:"4 Anglais"}
 "NBC NY","US| NBC 04 (WNBC) NEW YORK","WNBC",{tvg-id:"NBCWNBC.us"},{group:"4 Anglais"}
 "NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"4 Anglais"}
-"W NETWORK ","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"4 Anglais"}
+"W NETWORK","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"4 Anglais"}
 "USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"4 Anglais"}
 "Fox West (720p)",{group:"4 Anglais"}
-
 
 
