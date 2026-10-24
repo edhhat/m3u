@@ -17,7 +17,7 @@
 "Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
-"France 3 Lorraine (1080p)" {group:"0 Gratuit"}
+"France 3","France 3 Lorraine (1080p)",{group:"0 Gratuit"}
 "Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"0 Gratuit"}
 "CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"0 Gratuit"}
 "T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"0 Gratuit"}
