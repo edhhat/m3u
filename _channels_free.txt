@@ -17,13 +17,13 @@
 "Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"0 Gratuit"}
+"France 3 Lorraine (1080p)" {group:"0 Gratuit"}
 "Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"0 Gratuit"}
 "CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"0 Gratuit"}
 "T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"0 Gratuit"}
 "NOVO 19","NOVO19","FR| NOVO 19 FHD",{tvg-id:"NOVO19.fr"},{group:"0 Gratuit"}
 "PARIS PREMIERE","FR| PARIS PREMIERE FHD",{tvg-id:"ParisPremiere.fr"},{group:"0 Gratuit"}
 "AB1","FR| AB1 FHD",{tvg-id:"AB1.fr"},{group:"0 Gratuit"}
-"France 3 Lorraine (1080p)" {group:"0 Gratuit"}
 "RTL 9","FR| RTL9 FHD","RTL 9 HD",{tvg-id:"RTL9.fr"},{group:"0 Gratuit"}
 "TEVA","FR| TEVA FHD",{tvg-id:"Teva.fr"},{group:"0 Gratuit"}
 "RMC Story",{tvg-id:"RMCSTORY.fr"},{group:"0 Gratuit"}
