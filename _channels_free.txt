@@ -765,7 +765,9 @@
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"0 Gratuit"}
 "Box Office Action",{group:"0 Gratuit"}
 "LG 1 FILM" {group:"0 Gratuit"}
+"LG 1 SPOTLIGHT" {group:"0 Gratuit"}
 "LG 1+1" {group:"0 Gratuit"}
+"Monstres et Créatures TV" {group:"0 Gratuit"}
 "LG 1" {group:"0 Gratuit"}
 "Box Office Thriller",{group:"0 Gratuit"}
 "Box Office Drama",{group:"0 Gratuit"}
@@ -780,11 +782,9 @@
 "Pluto TV ciné",{group:"0 Gratuit"}
 "Ciné Thrillers by Pluto TV",{group:"0 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"0 Gratuit"}
-"Monstres et Créatures TV" {group:"0 Gratuit"}
 "Dragon TV" {group:"0 Gratuit"}
 "Ciné Gore & Slasher by Pluto TV",{group:"0 Gratuit"}
 "Ciné 666 by Pluto TV",{group:"0 Gratuit"}
-"LG 1 SPOTLIGHT" {group:"0 Gratuit"}
 "Horrorland by Pluto TV",{group:"0 Gratuit"}
 "Ciné Horreur by Pluto TV",{group:"0 Gratuit"}
 "Ici Radio-Canada Télé (1080p) [Geo-blocked]" {group:"0 Gratuit"}
