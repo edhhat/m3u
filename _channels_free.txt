@@ -119,14 +119,14 @@
 "LG 1" {group:"3 Gratuit"}
 "Runtime",{group:"3 Gratuit"}
 "SONY ONE SERIES THRILLER" {group:"3 Gratuit"}
-"Films Romantiques - Rakuten TV",{group:"3 Gratuit"}
 "Crime - Rakuten TV",{group:"3 Gratuit"}
 "Comédies - Rakuten TV",{group:"3 Gratuit"}
 "Famille - Rakuten TV",{group:"3 Gratuit"}
-"Films d'action - Rakuten TV",{group:"3 Gratuit"}
 "Drames - Rakuten TV",{group:"3 Gratuit"}
 "Top Action" {group:"3 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"3 Gratuit"}
+"Films Romantiques - Rakuten TV",{group:"3 Gratuit"}
+"Films d'action - Rakuten TV",{group:"3 Gratuit"}
 "Monstres et Créatures TV" {group:"3 Gratuit"}
 "CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"3 Gratuit"}
 "Ciné Western by Pluto TV",{group:"3 Gratuit"}
@@ -135,23 +135,23 @@
 "Box Office Action",{group:"3 Gratuit"}
 "Box Office Drama",{group:"3 Gratuit"}
 "Box Office Thriller",{group:"3 Gratuit"}
-"Ciné Romance by Pluto TV",{group:"3 Gratuit"}
-"Pluto TV Comédie",{group:"3 Gratuit"}
 "Ciné d'Asie by Pluto TV",{group:"3 Gratuit"}
 "Ciné Catastrophe by Pluto TV",{group:"3 Gratuit"}
+"Pluto TV ciné",{group:"3 Gratuit"}
+"Pluto TV Comédie",{group:"3 Gratuit"}
+"Dragon TV" {group:"3 Gratuit"}
 "Ciné Rétro by Pluto TV",{group:"3 Gratuit"}
 "Pluto TV Comédies Cultes",{group:"3 Gratuit"}
-"Pluto TV ciné",{group:"3 Gratuit"}
-"Ciné Thrillers by Pluto TV",{group:"3 Gratuit"}
-"Dragon TV" {group:"3 Gratuit"}
-"Ciné Gore & Slasher by Pluto TV",{group:"3 Gratuit"}
+"Ciné Romance by Pluto TV",{group:"3 Gratuit"}
 "Ciné 666 by Pluto TV",{group:"3 Gratuit"}
-"Horrorland by Pluto TV",{group:"3 Gratuit"}
 "Ciné Horreur by Pluto TV",{group:"3 Gratuit"}
-"Sony One HITS Comédie",{group:"3 Gratuit"}
+"Horrorland by Pluto TV",{group:"3 Gratuit"}
+"Ciné Gore & Slasher by Pluto TV",{group:"3 Gratuit"}
+"Ciné Thrillers by Pluto TV",{group:"3 Gratuit"}
 "Ciné Action by Pluto TV",{group:"3 Gratuit"}
 "Sci-Fi - Rakuten TV",{tvg-id:"FR4100001D0"},{group:"3 Gratuit"}
 "Ciné Sci-Fi by Pluto TV",{group:"3 Gratuit"}
+"Sony One HITS Comédie",{group:"3 Gratuit"}
 "Sony One Action HITS",{group:"3 Gratuit"}
 "Ici Radio-Canada Télé","Ici Radio-Canada Télé (1080p) [Geo-blocked]",{group:"3 Gratuit"}
 "ICI RDI - CANADA" {group:"3 Gratuit"}
