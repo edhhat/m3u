@@ -696,6 +696,7 @@
 # "ZEE MAGIC"
 # "ZEE WORLD"
 "BBC Series",{group:"0 Gratuit"}
+"Fox Sports 1 (720p)"
 
 # fin de liste
 "MacGyver",{group:"0 Gratuit"}
