@@ -57,16 +57,18 @@
 "MTV CLASSICS",{group:"3 Gratuit"}
 "MTV Catfish",{group:"3 Gratuit"}
 "CATFISH TV",{group:"3 Gratuit"}
+
 "TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"3 Gratuit"}
 "ARTE",{tvg-id:"Arte.fr"},{group:"3 Gratuit"}
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
-"Pluto TV Anime Retro" {group:"3 Gratuit"}
-"Pluto TV Toons",{group:"3 Gratuit"}
 "CANAL+ SPORT","FR| CANAL+ SPORT HD","FR| CANAL+ SPORT FHD","FR| CANAL+ SPORT HEVC","FR| CANAL+ SPORT SD",{tvg-id:"CanalPlusSport.fr"},{group:"3 Gratuit"}
-"Pluto TV Super Kids" {group:"3 Gratuit"}
+
+"Pluto TV Anime Retro" {group:"3 Gratuit"}
 "Pluto TV Retro Toons",{group:"3 Gratuit"}
+"Pluto TV Toons",{group:"3 Gratuit"}
+"Pluto TV Super Kids" {group:"3 Gratuit"}
 "Pluto TV Kids Classics" {group:"3 Gratuit"}
 "Pluto TV Kids Club" {group:"3 Gratuit"}
 "One Piece",{group:"3 Gratuit"}
