@@ -3184,15 +3184,12 @@ https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Africanews English (720p)
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD",arte (720p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 #EXTINF:-1 tvg-id="BFMLyon.fr@SD",BFM Lyon (576p)
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr@SD",Canal+ (1080p) [Geo-blocked]
-http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr@SD",Canal+ Sport 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr@SD",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
@@ -9803,7 +9800,7 @@ http://demiroren.daioncdn.net/teve2/teve2.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 TNT
-https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNDkuMTAyLjI0NS4xNjIiLCJjbWNkIjoiIiwiZXhwIjoxNzkyODA0NzAwLCJnaWQiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiIsImlhdCI6MTc5Mjc5MDMwMCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL3Byb2QvVEYxL2NtYWYvb3V0Iiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJ2aWRlb2lkIjoiIn0.ntALwof0DE9LzxfR2WC8OKNlEYMrpMPVmwcrRxR7R6Q/prod/TF1/cmaf/out/TF1.m3u8
+https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNDkuMTAyLjI0NS4xNjIiLCJjbWNkIjoiIiwiZXhwIjoxNzkyODExOTYxLCJnaWQiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiIsImlhdCI6MTc5Mjc5NzU2MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL3Byb2QvVEYxL2NtYWYvb3V0Iiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJ2aWRlb2lkIjoiIn0._sUuoVt4wjMfsR260Kb9At7Dufute_nbW_u6x1F1yxg/prod/TF1/cmaf/out/TF1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TFM (SN)
