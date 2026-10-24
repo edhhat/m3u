@@ -737,7 +737,7 @@
 "Fox West (720p)" {group:"0 Gratuit"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"0 Gratuit"}
 "NBC West (San Diego) (1080p) [Not 24/7]" {group:"0 Gratuit"}
-"QVC (720p)" {group:"0 Gratuit"}
+"QVC","QVC (720p)",{group:"0 Gratuit"}
 "Series by Pluto TV" {group:"0 Gratuit"}
 "Star trek" {group:"0 Gratuit"}
 "Scream'IN",{group:"0 Gratuit"}
