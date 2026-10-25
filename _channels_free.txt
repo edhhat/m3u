@@ -183,3 +183,4 @@
 "NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"4 Anglais"}
 "USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"4 Anglais"}
 "Fox West (720p)",{group:"4 Anglais"}
+"Starz Comedy (1080p)"
