@@ -161,7 +161,7 @@
 
 
 ### --- 4 Anglais ---
-"QVC","QVC (720p)",{group:"4 Anglais"}
+"QVC","QVC (720p)",{tvg-id:"QVC.us"},{group:"4 Anglais"}
 "ABC NEWS AUSTRALIA",{tvg-id:"ABCNewsDarwin.au"},{group:"4 Anglais"}
 "AMC","US| AMC HD","US| AMC EAST HD",{tvg-id:"AMC.us"},{group:"4 Anglais"}
 "STARZ 1","CA| STARZ 1 HD",{tvg-id:"STARZ1.ca"},{group:"4 Anglais"}
