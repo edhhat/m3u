@@ -19,8 +19,8 @@
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
 "Pluto TV Cuisine",{group:"3 Gratuit"}
-"Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"3 Gratuit"}
 "CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"3 Gratuit"}
+"Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"3 Gratuit"}
 "T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"3 Gratuit"}
 "NOVO 19","NOVO19","FR| NOVO 19 FHD",{tvg-id:"NOVO19.fr"},{group:"3 Gratuit"}
 "PARIS PREMIERE","FR| PARIS PREMIERE FHD",{tvg-id:"ParisPremiere.fr"},{group:"3 Gratuit"}
