@@ -185,3 +185,6 @@
 "Fox West (720p)",{group:"4 Anglais"}
 "Starz Comedy (1080p)" {group:"4 Anglais"}
 "Showtime Family Zone (720p)" {group:"4 Anglais"}
+
+# fin de liste
+"Show ! Variété" {group:"3 Gratuit"}
