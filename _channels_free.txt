@@ -170,7 +170,7 @@
 "WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"4 Anglais"}
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"4 Anglais"}
 "Fox Sports 1","Fox Sports 1 (720p)",{group:"4 Anglais"}
-"Fox Sports 2 (720p)" {group:"4 Anglais"}
+"Fox Sports 2","Fox Sports 2 (720p)",{group:"4 Anglais"}
 "American Horrors (480p)",{group:"4 Anglais"}
 "MTV","US| MTV HD","US| MTV EAST HD",{tvg-id:"MTV.us"},{group:"4 Anglais"}
 "ABC Entertains",{tvg-id:"ABCMECanberra.au"},{group:"4 Anglais"}
