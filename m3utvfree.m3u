@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="France2.fr",France 2
 http://149.62.177.107:9999/France_2/index.m3u8
+#EXTINF:-1, tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/langfr-250px-France_3_2018.svg.png" tvg-name="France 3"  group-title="3 Gratuit",France 3
+http://212.102.60.80/France3/index.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="France4.fr",France 4
 http://149.62.177.107:9999/France_4/index.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="France5.fr",France 5
@@ -25,12 +27,10 @@ https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
 https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
 #EXTINF:-1 channel-id="66f55d0b5e4a6e0008c2b920" tvg-id="EnquetesCriminelles2424.fr" tvg-chno="405" tvg-name="Enquêtes Criminelles" tvg-logo="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/colorLogoPNG.png" group-title="3 Gratuit",Enquêtes Criminelles
 https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
-#EXTINF:-1 channel-id="63921a3d00c96100082a3cb4" tvg-id="63921a3d00c96100082a3cb4" tvg-chno="440" tvg-name="Homicide" tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" group-title="3 Gratuit",Homicide
+#EXTINF:-1 channel-id="63921a3d00c96100082a3cb4" tvg-id="homicide" tvg-chno="440" tvg-name="Homicide" tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" group-title="3 Gratuit",Homicide
 https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
 #EXTINF:-1 channel-id="5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-chno="830" tvg-name="Pluto TV Cuisine" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="3 Gratuit",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
-#EXTINF:-1, tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/langfr-250px-France_3_2018.svg.png" tvg-name="France 3"  group-title="3 Gratuit",France 3
-http://212.102.60.80/France3/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" group-title="3 Gratuit" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",Gulli
 https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" group-title="3 Gratuit" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
@@ -39,12 +39,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="NOVO19.fr",NOVO 19
 http://149.62.177.107:9999/NOVO19/index.m3u8
-#EXTINF:-1 tvg-id="RMCSTORY.fr" group-title="3 Gratuit" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Altice/Images/logos-chaines-200-RMCSTORY.png",RMC Story
-https://live-cdn-rmcstor-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCStory_all-LG_smartTV-Live&content_id=rmc_story_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&ads.devicemodel=[DEVICE_MODEL]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 channel-id="FR4000003O1" tvg-id="Cherie25.fr" tvg-chno="4031" tvg-name="RMC Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000003O1_20260707T051731SQUARE.png" group-title="3 Gratuit",RMC Life
-https://jmp2.uk/stvp-FR4000003O1
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="3 Gratuit" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Altice/Images/logos-chaines-200-RMCDECOUVERTE.png",RMC Découverte
-https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCDecouverte_all-LG_smartTV-Live&content_id=rmc_decouverte_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&ads.devicemodel=[DEVICE_MODEL]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 channel-id="FRBD41000097I" tvg-id="RMCSTORY.fr" tvg-chno="4008" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20251209T004435SQUARE.png" group-title="3 Gratuit",RMC Story
+https://jmp2.uk/stvp-FRBD41000097I
+#EXTINF:-1 tvg-id="Cherie25.fr" group-title="3 Gratuit" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/LG_Logo_400x200_RMC_LIFE.png",RMC Life
+https://live-cdn-rmclife-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCStory_all-LG_smartTV-Live&content_id=rmc_story_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 channel-id="FRBD4100008QS" tvg-id="RMCDecouverte.fr" tvg-chno="4009" tvg-name="RMC Découverte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20260407T040126SQUARE.png" group-title="3 Gratuit",RMC Découverte
+https://jmp2.uk/stvp-FRBD4100008QS
 #EXTINF:-1 channel-id="FR300006GF" tvg-id="RMCMystere.fr" tvg-chno="4034" tvg-name="RMC MYSTERE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="3 Gratuit",RMC MYSTERE
 https://jmp2.uk/stvp-FR300006GF
 #EXTINF:-1 channel-id="FR300001M1" tvg-id="RMCWOW.fr" tvg-chno="4032" tvg-name="RMC Wow" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" group-title="3 Gratuit",RMC Wow
@@ -79,6 +79,8 @@ https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 https://jmp2.uk/stvp-FR700002UP
 #EXTINF:-1 channel-id="FRBD4800001P4" tvg-id="BFMJiraiDormirChezVous.fr" tvg-chno="4354" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="3 Gratuit",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
+#EXTINF:-1 channel-id="FR3000017Y1" tvg-id="FR3000017Y1" tvg-chno="4218" tvg-name="Confessions Intimes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000017Y1_20261020T053542SQUARE.png" group-title="3 Gratuit",Confessions Intimes
+https://jmp2.uk/stvp-FR3000017Y1
 #EXTINF:-1 channel-id="FR3900003Y7" tvg-id="FR3900003Y7" tvg-chno="4364" tvg-name="La Vie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900003Y7_20260818T050826SQUARE.png" group-title="3 Gratuit",La Vie
 https://jmp2.uk/stvp-FR3900003Y7
 #EXTINF:-1 channel-id="FR15000010E" tvg-id="FR15000010E" tvg-chno="4413" tvg-name="Docs & enquêtes by Society+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR15000010E_20260915T041440SQUARE.png" group-title="3 Gratuit",Docs & enquêtes by Society+
@@ -115,14 +117,16 @@ https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1 channel-id="6380c94947c72b0007ee9a13" tvg-id="6380c94947c72b0007ee9a13" tvg-chno="510" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG_1765795729899.png" group-title="3 Gratuit",One Piece
 https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
-#EXTINF:-1 channel-id="62f3e8ad2a8e8000077b013d" tvg-id="62f3e8ad2a8e8000077b013d" tvg-chno="506" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png" group-title="3 Gratuit",Detective Conan
-https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-id="62f3e8ad2a8e8000077b013d" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png" group-title="3 Gratuit",Detective Conan
+https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=c877bf56-d063-11f1-a9dd-6045bd32e781&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=c877bf56-d063-11f1-a9dd-6045bd32e781&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=c883ecac-d063-11f1-8f56-527eb01d6d24&sid=c883ecac-d063-11f1-8f56-527eb01d6d24&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY0NzA2NjVmLTI0M2QtNDg4OC04ZTMwLWEzYjQ3YzE3YTc3YSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjODgzZWNhYy1kMDYzLTExZjEtOGY1Ni01MjdlYjAxZDZkMjQiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiYzg3N2JmNTYtZDA2My0xMWYxLWE5ZGQtNjA0NWJkMzJlNzgxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyQWRTZXNzaW9uRXZlbnQiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImppdFBhY2siOiJyZXBhY2tKaXQsZGVjcnlwdCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjODc3YmY1Ni1kMDYzLTExZjEtYTlkZC02MDQ1YmQzMmU3ODEiLCJmd1ZjSUQyQ29wcGEiOiJjODc3YmY1Ni1kMDYzLTExZjEtYTlkZC02MDQ1YmQzMmU3ODEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImM4NzdiZjU2LWQwNjMtMTFmMS1hOWRkLTYwNDViZDMyZTc4MSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjEsMTAwMDksMTAwMjAsMTAwMjIsMTAwMjMsMTAwMjUifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTI5MjYyNDA5NjIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpZemczTjJKbU5UWXRaREEyTXkweE1XWXhMV0U1WkdRdE5qQTBOV0prTXpKbE56Z3giLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkzMDEyNjQxLCJpYXQiOjE3OTI5MjYyNDEsImp0aSI6ImQwOTRlZTMxLThlOWYtNDY3Ni1hYzI1LTc3ZmRlMWFiMTVhNSJ9.JiZFB0F5JBJ8Fcb9CA5ZbS8o8cRLOrMSEeBisV9beqs&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 #EXTINF:-1 channel-id="662a63275a402e00086bc8a5" tvg-id="662a63275a402e00086bc8a5" tvg-chno="535" tvg-name="Olive & Tom" tvg-logo="https://images.pluto.tv/channels/662a63275a402e00086bc8a5/colorLogoPNG.png" group-title="3 Gratuit",Olive & Tom
 https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
 #EXTINF:-1 channel-id="68b16d2282862c1f067dc763" tvg-id="68b16d2282862c1f067dc763" tvg-chno="1006" tvg-name="Les Schtroumpfs" tvg-logo="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/colorLogoPNG_1760383270761.png" group-title="3 Gratuit",Les Schtroumpfs
 https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8
 #EXTINF:-1 channel-id="5ffc8c345822750007e167de" tvg-id="5ffc8c345822750007e167de" tvg-chno="1015" tvg-name="Bob l'éponge" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="3 Gratuit",Bob l'éponge
 https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
+#EXTINF:-1 channel-id="66b4990746762a00084c2f78" tvg-id="66b4990746762a00084c2f78" tvg-chno="140" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="3 Gratuit",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 channel-id="60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-chno="160" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG_1771579997925.png" group-title="3 Gratuit",BBC Series
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
 #EXTINF:-1 channel-id="6245ccd0c6cdb800074632e4" tvg-id="6245ccd0c6cdb800074632e4" tvg-chno="105" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="3 Gratuit",MacGyver
@@ -137,8 +141,8 @@ https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 channel-id="FR300032ZK" tvg-id="FR300032ZK" tvg-chno="4307" tvg-name="IntoCrime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300032ZK_20250304T015622SQUARE.png" group-title="3 Gratuit",IntoCrime
 https://jmp2.uk/stvp-FR300032ZK
-#EXTINF:-1 tvg-id="6683cd2fca74680008772545" tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="3 Gratuit",Investigation by Pluto TV
-https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/6683cd2fca74680008772545/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=c877bf56-d063-11f1-a9dd-6045bd32e781&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=c877bf56-d063-11f1-a9dd-6045bd32e781&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=c883ecac-d063-11f1-8f56-527eb01d6d24&sid=c883ecac-d063-11f1-8f56-527eb01d6d24&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY0NzA2NjVmLTI0M2QtNDg4OC04ZTMwLWEzYjQ3YzE3YTc3YSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjODgzZWNhYy1kMDYzLTExZjEtOGY1Ni01MjdlYjAxZDZkMjQiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiYzg3N2JmNTYtZDA2My0xMWYxLWE5ZGQtNjA0NWJkMzJlNzgxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyQWRTZXNzaW9uRXZlbnQiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImppdFBhY2siOiJyZXBhY2tKaXQsZGVjcnlwdCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjODc3YmY1Ni1kMDYzLTExZjEtYTlkZC02MDQ1YmQzMmU3ODEiLCJmd1ZjSUQyQ29wcGEiOiJjODc3YmY1Ni1kMDYzLTExZjEtYTlkZC02MDQ1YmQzMmU3ODEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImM4NzdiZjU2LWQwNjMtMTFmMS1hOWRkLTYwNDViZDMyZTc4MSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjEsMTAwMDksMTAwMjAsMTAwMjIsMTAwMjMsMTAwMjUifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTI5MjYyNDA5NjIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpZemczTjJKbU5UWXRaREEyTXkweE1XWXhMV0U1WkdRdE5qQTBOV0prTXpKbE56Z3giLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkzMDEyNjQxLCJpYXQiOjE3OTI5MjYyNDEsImp0aSI6ImQwOTRlZTMxLThlOWYtNDY3Ni1hYzI1LTc3ZmRlMWFiMTVhNSJ9.JiZFB0F5JBJ8Fcb9CA5ZbS8o8cRLOrMSEeBisV9beqs&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+#EXTINF:-1 channel-id="6683cd2fca74680008772545" tvg-id="6683cd2fca74680008772545" tvg-chno="415" tvg-name="Investigation by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" group-title="3 Gratuit",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
 #EXTINF:-1 channel-id="5f8edb6df1ebb800072edf10" tvg-id="5f8edb6df1ebb800072edf10" tvg-chno="435" tvg-name="Les Nouveaux Detectives" tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" group-title="3 Gratuit",Les Nouveaux Detectives
 https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
 #EXTINF:-1 channel-id="FR3900002FW" tvg-id="FR3900002FW" tvg-chno="4372" tvg-name="Au coeur du danger" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900002FW_20260310T031715SQUARE.png" group-title="3 Gratuit",Au coeur du danger
@@ -183,8 +187,8 @@ https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png" tvg-name="LG 1 FILM"  group-title="3 Gratuit",LG 1 FILM
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
-#EXTINF:-1 group-title="3 Gratuit" tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png",LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png" tvg-name="LG 1"  group-title="3 Gratuit",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 #EXTINF:-1 channel-id="FRBB50000016B" tvg-id="FRBB50000016B" tvg-chno="4893" tvg-name="Runtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png" group-title="3 Gratuit",Runtime
 https://jmp2.uk/stvp-FRBB50000016B
 #EXTINF:-1 channel-id="FR2600009UG" tvg-id="FR2600009UG" tvg-chno="4305" tvg-name="Crime - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" group-title="3 Gratuit",Crime - Rakuten TV
@@ -197,8 +201,6 @@ https://jmp2.uk/stvp-FR2600001PI
 https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="FR2600003OZ" tvg-id="FR2600003OZ" tvg-chno="4888" tvg-name="Films Romantiques - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600003OZ_20250121T012912SQUARE.png" group-title="3 Gratuit",Films Romantiques - Rakuten TV
 https://jmp2.uk/stvp-FR2600003OZ
-#EXTINF:-1 channel-id="FR1600003GH" tvg-id="FR1600003GH" tvg-chno="4957" tvg-name="Monstres et Créatures TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1600003GH_20260901T054509SQUARE.png" group-title="3 Gratuit",Monstres et Créatures TV
-https://jmp2.uk/stvp-FR1600003GH
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="CinePlusClassic.fr",CINE+ CLASSIC
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" tvg-chno="370" tvg-name="Ciné Western by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="3 Gratuit",Ciné Western by Pluto TV
@@ -241,21 +243,23 @@ https://jmp2.uk/plu-68236417b85ccee1c1a025ad.m3u8
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 channel-id="5f8ed1ff5c39700007e2204a" tvg-id="5f8ed1ff5c39700007e2204a" tvg-chno="300" tvg-name="Ciné Action by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="3 Gratuit",Ciné Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 channel-id="FR4100001D0" tvg-id="FR4100001D0" tvg-chno="4951" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4100001D0_20251125T101552SQUARE.png" group-title="3 Gratuit",Sci-Fi - Rakuten TV
+https://jmp2.uk/stvp-FR4100001D0
 #EXTINF:-1 channel-id="60c34592c911890007f29a73" tvg-id="60c34592c911890007f29a73" tvg-chno="310" tvg-name="Ciné Sci-Fi by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="3 Gratuit",Ciné Sci-Fi by Pluto TV
 https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="Sony One HITS Comédie"  group-title="3 Gratuit",Sony One HITS Comédie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="Sony One Action HITS"  group-title="3 Gratuit",Sony One Action HITS
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="3 Gratuit" tvg-id="IciRadioCanadaTele.ca@CBFTDT",Ici Radio-Canada Télé
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 group-title="3 Gratuit" tvg-logo="https://i.ibb.co/4npJcFhs/noovooo.png",Noovo
+#EXTINF:-1 group-title="3 Gratuit" tvg-id="CBVT.ca",Ici Radio-Canada Télé
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 tvg-id="NOOVO-Montreal-CFJP.ca" group-title="3 Gratuit" tvg-logo="https://i.ibb.co/4npJcFhs/noovooo.png",Noovo
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
-#EXTINF:-1 tvg-name="TVA" tvg-logo="https://i.imgur.com/1GR8Szn.png" tvg-chno="3" tvg-country="CA" group-title="3 Gratuit",TVA
+#EXTINF:-1 tvg-id="TVAHD.ca" tvg-name="TVA" tvg-logo="https://i.imgur.com/1GR8Szn.png" tvg-chno="3" tvg-country="CA" group-title="3 Gratuit",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="LCN.ca@SD",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVCUK.uk" tvg-chno="18" tvg-country="GB" group-title="4 Anglais",QVC
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVC.us" tvg-chno="18" tvg-country="GB" group-title="4 Anglais",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
 #EXTINF:-1 tvg-id="ABCNewsDarwin.au" group-title="4 Anglais" tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC NEWS AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
@@ -264,7 +268,7 @@ http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="STARZ1.ca",STARZ 1
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="TBS.us",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="TruTV.us",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="WeTV.us",WE tv
@@ -273,6 +277,8 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 https://alt-al.otteravision.com/alt/al/al.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="Bravo.us",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 channel-id="11f70f2cc59750f4ad9a019d72ad17b1" tvg-id="WNetwork.ca" tvg-chno="610" tvg-name="W NETWORK" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png" group-title="4 Anglais",W NETWORK
+https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="4 Anglais" tvg-name="Fox Sports 1",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="MTV.us",MTV
@@ -281,15 +287,7 @@ http://198.58.104.90:8989/mtv/index.m3u8
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="ABCSydney.au",ABC TV NSW
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 group-title="4 Anglais" tvg-id="ABCBrisbane.au",ABC TV QLD
-https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 group-title="4 Anglais" tvg-id="ABCDarwin.au",ABC TV NT
-https://c.mjh.nz/abc-nt.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="NBCWNBC.us",NBC NY
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
 #EXTINF:-1 group-title="4 Anglais" tvg-id="NBCWMAQ.us",NBC CHI
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
-#EXTINF:-1 group-title="4 Anglais" tvg-id="WNetwork.ca",W NETWORK
-http://103.151.60.162:2122/play/a00p/index.m3u8?hls
-#EXTINF:-1 group-title="4 Anglais" tvg-id="USANetwork.us",USA Network
-http://138.121.15.230:9002/USA/index.m3u8
