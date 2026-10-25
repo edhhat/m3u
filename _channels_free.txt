@@ -23,6 +23,7 @@
 "Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"3 Gratuit"}
 "T18","FR| T18 HD","FR| T18 FHD","FR| T18 HEVC","FR| T18 SD",{tvg-id:"T18.fr"},{group:"3 Gratuit"}
 "NOVO 19","NOVO19","FR| NOVO 19 FHD",{tvg-id:"NOVO19.fr"},{group:"3 Gratuit"}
+"TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"3 Gratuit"}
 "PARIS PREMIERE","FR| PARIS PREMIERE FHD",{tvg-id:"ParisPremiere.fr"},{group:"3 Gratuit"}
 "AB1","FR| AB1 FHD",{tvg-id:"AB1.fr"},{group:"3 Gratuit"}
 "RTL 9","FR| RTL9 FHD","RTL 9 HD",{tvg-id:"RTL9.fr"},{group:"3 Gratuit"}
@@ -51,14 +52,13 @@
 "Confessions Intimes" {group:"3 Gratuit"}
 "La Vie",{group:"3 Gratuit"}
 "Docs & enquêtes by Society+" {group:"3 Gratuit"}
-"Pluto TV Téléréalité France",{group:"3 Gratuit"}
 
+"Pluto TV Téléréalité France",{group:"3 Gratuit"}
 "Les Anges",{group:"3 Gratuit"}
 "Les Marseillais",{group:"3 Gratuit"}
 "Teen Mom",{group:"3 Gratuit"}
 "MTV CLASSICS",{group:"3 Gratuit"}
 "MTV Catfish",{group:"3 Gratuit"}
-"TF1 SERIES FILMS","TF1 Series Films HD",{tvg-id:"TF1SeriesFilms.fr"},{group:"3 Gratuit"}
 
 
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
