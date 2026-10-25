@@ -169,6 +169,7 @@
 "truTV","US| TRUTV HD","US| TRUTV EAST HD",{tvg-id:"TruTV.us"},{group:"4 Anglais"}
 "WE tv","US| WE TV HD","US| WE TV EAST HD",{tvg-id:"WeTV.us"},{group:"4 Anglais"}
 "TV Land","US| TV LAND HD",{tvg-id:"TVLand.us"},{group:"4 Anglais"}
+"Bravo","Bravo (720p)",{tvg-id:"Bravo.us"},{group:"4 Anglais"}
 "Fox Sports 1","Fox Sports 1 (720p)",{tvg-id:"FoxSports1.us"},{group:"4 Anglais"}
 "Fox Sports 2","Fox Sports 2 (720p)",{tvg-id:"FoxSports2.us"},{group:"4 Anglais"}
 "American Horrors (480p)",{group:"4 Anglais"}
@@ -181,5 +182,4 @@
 "NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"4 Anglais"}
 "W NETWORK","CA| W NETWORK EAST HD",{tvg-id:"WNetwork.ca"},{group:"4 Anglais"}
 "USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"4 Anglais"}
-"Bravo","Bravo (720p)",{tvg-id:"Bravo.us"},{group:"4 Anglais"}
 "Fox West (720p)",{group:"4 Anglais"}
