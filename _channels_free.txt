@@ -158,7 +158,7 @@
 "NOOVO CINEMAS" {group:"3 Gratuit"}
 "Ici Radio-Canada Télé","Ici Radio-Canada Télé (1080p) [Geo-blocked]",{tvg-id:"CBVT.ca"},{group:"3 Gratuit"}
 "ICI RDI - CANADA" {group:"3 Gratuit"}
-"Noovo",{tvg-id:"NOOVO-Montreal-CFJP.ca"},{group:"3 Gratuit"}
+"Noovo",{tvg-id:"NOOVO-Montreal-CFJP.ca"},{exact},group:"3 Gratuit"}
 "TVA","TVA [Geo-blocked]",{tvg-id:"TVAHD.ca"},{group:"3 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
 
