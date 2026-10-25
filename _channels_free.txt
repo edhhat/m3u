@@ -111,7 +111,7 @@
 "Shadowz",{group:"3 Gratuit"}
 "Shark TV",{group:"3 Gratuit"}
 "Ciné Nanar",{group:"3 Gratuit"}
-"Wild Side TV",{group:"3 Gratuit"}
+"Wild Side TV",{tvg-id:"WildSideTV.fr"},{group:"3 Gratuit"}
 "The Asylum",{group:"3 Gratuit"}
 "LG 1+1" {group:"3 Gratuit"}
 "LG 1 SPOTLIGHT" {group:"3 Gratuit"}
@@ -158,7 +158,7 @@
 "NOOVO CINEMAS" {group:"3 Gratuit"}
 "Ici Radio-Canada Télé","Ici Radio-Canada Télé (1080p) [Geo-blocked]",{tvg-id:"CBVT.ca"},{group:"3 Gratuit"}
 "ICI RDI - CANADA" {group:"3 Gratuit"}
-"Noovo",{tvg-id:"NOOVO-Montreal-CFJP.ca"},{exact},group:"3 Gratuit"}
+"Noovo",{tvg-id:"NOOVO-Montreal-CFJP.ca"},{exact},group:"3 Gratuit"} {group:"3 Gratuit"}
 "TVA","TVA [Geo-blocked]",{tvg-id:"TVAHD.ca"},{group:"3 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
 
