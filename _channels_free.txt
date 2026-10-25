@@ -182,3 +182,4 @@
 "Fox West (720p)",{group:"4 Anglais"}
 "NOOVO CINEMAS"
 "NOOVO COMEDIES"
+"NOOVO TELEREALITE"
