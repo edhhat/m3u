@@ -37,6 +37,18 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
 #EXTINF:-1, tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" tvg-name="AB1"  group-title="1 France",.AB1
 http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 channel-id="xt_1811882" tvg-id="BeCine.be" tvg-chno="" tvg-name="BE| BE CINE FHD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1811882.png" group-title="1 France",.BE| BE CINE FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1811882.ts
+#EXTINF:-1 channel-id="xt_1138903" tvg-id="Be1.be" tvg-chno="" tvg-name="BE| BE 1" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1138903.png" group-title="1 France",.BE| BE 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1138903.ts
+#EXTINF:-1 channel-id="xt_812106" tvg-id="Tipik.be" tvg-chno="" tvg-name="BE| TIPIK HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812106.png" group-title="1 France",.BE| TIPIK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812106.ts
 #EXTINF:-1, tvg-id="TvBreizh.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" tvg-name="TV BREIZH"  group-title="1 France",.TV BREIZH
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116090
 #EXTINF:-1 channel-id="FR600002ZR" tvg-id="FR600002ZR" tvg-chno="4308" tvg-name="Crimes Enquêtes Faits Divers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20251202T002626SQUARE.png" group-title="1 France",Crimes Enquêtes Faits Divers
@@ -143,10 +155,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177319.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177320.ts
-#EXTINF:-1 channel-id="xt_906570" tvg-id="RDS.ca" tvg-chno="" tvg-name="RDS1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/906570.png" group-title="2 Canada",.RDS1 HD
+#EXTINF:-1 channel-id="xt_177302" tvg-id="RDS.ca" tvg-chno="" tvg-name="RDS1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177302.png" group-title="2 Canada",.RDS1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/906570.ts
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177302.ts
 #EXTINF:-1 channel-id="xt_177303" tvg-id="RDS2.ca" tvg-chno="" tvg-name="RDS2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177303.png" group-title="2 Canada",.RDS2 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -175,6 +187,14 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177310.ts
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116416
 #EXTINF:-1, tvg-id="CanalPlusCinema.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-33.png" tvg-name="CANAL+ CINEMA"  group-title="3 Cinema",.CANAL+ CINEMA
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116411
+#EXTINF:-1 channel-id="xt_1897960" tvg-id="CinePlusFamiz.fr" tvg-chno="" tvg-name="CINE+ FAMILY" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1897960.png" group-title="3 Cinema",.CINE+ FAMILY
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1897960.ts
+#EXTINF:-1 channel-id="xt_812173" tvg-id="CinePlusClassic.fr" tvg-chno="" tvg-name="CINE+ CLASSIC" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812173.png" group-title="3 Cinema",.CINE+ CLASSIC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812173.ts
 #EXTINF:-1 group-title="3 Cinema" tvg-logo="https://i.ibb.co/KxScZcQD/boxoffact.png",Box Office Action
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15080
 #EXTINF:-1 group-title="3 Cinema" tvg-logo="https://i.ibb.co/21c2QcYm/boxoffthr.png",Box Office Thriller
@@ -259,14 +279,28 @@ https://jmp2.uk/stvp-FRBA2200010VN
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="EmotionL.fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png" tvg-name="Emotion'L"  group-title="3 Cinema",Emotion'L
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8#origine-860=https://tvradiozap.eu
-#EXTINF:-1, tvg-id="ComedyCentral.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/langfr-330px-Comedy_Central_2018.svg.png" tvg-name="COMEDY CENTRAL"  group-title="3 Cinema",.COMEDY CENTRAL
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116094
+#EXTINF:-1 channel-id="xt_45448" tvg-id="ComedyCentral.fr" tvg-chno="" tvg-name="COMEDY CENTRAL" tvg-logo="http://103.176.90.154/picons/logos/USA/45448.png" group-title="3 Cinema",.COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45448.ts
 #EXTINF:-1 tvg-id="68236417b85ccee1c1a025ad" tvg-logo="https://images.pluto.tv/channels/68236417b85ccee1c1a025ad/colorLogoPNG_1751376882405.png" group-title="3 Cinema2",Ciné Gore & Slasher by Pluto TV
 https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/68236417b85ccee1c1a025ad/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=30e8f1c2-d0b4-11f1-a9dd-6045bd2ceb7f&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=30e8f1c2-d0b4-11f1-a9dd-6045bd2ceb7f&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=30f857b5-d0b4-11f1-be2a-5a96277d92a5&sid=30f857b5-d0b4-11f1-be2a-5a96277d92a5&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgzOTcyNjAyLTIwMTUtNGRmZC1hNjdiLWRlZjdlZDFlOGM2ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMGY4NTdiNS1kMGI0LTExZjEtYmUyYS01YTk2Mjc3ZDkyYTUiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMzBlOGYxYzItZDBiNC0xMWYxLWE5ZGQtNjA0NWJkMmNlYjdmIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyQWRTZXNzaW9uRXZlbnQiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImppdFBhY2siOiJyZXBhY2tKaXQsZGVjcnlwdCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIzMGU4ZjFjMi1kMGI0LTExZjEtYTlkZC02MDQ1YmQyY2ViN2YiLCJmd1ZjSUQyQ29wcGEiOiIzMGU4ZjFjMi1kMGI0LTExZjEtYTlkZC02MDQ1YmQyY2ViN2YiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjMwZThmMWMyLWQwYjQtMTFmMS1hOWRkLTYwNDViZDJjZWI3ZiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjUsMTAwMTQsMTAwMTYsMTAwMjAsMTAwMjIsMTAwMjMsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTUsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTI5NjA3NzU5NDYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpNekJsT0dZeFl6SXRaREJpTkMweE1XWXhMV0U1WkdRdE5qQTBOV0prTW1ObFlqZG0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkzMDQ3MTc1LCJpYXQiOjE3OTI5NjA3NzUsImp0aSI6ImQ5MGJiZWZkLTM3NWUtNGEzZC04NjQ2LTliYTFiYzUxYjVjMyJ9.6KbcqLeLJ7o7KeFHRGb6lR-oO5TejBlCYzNjteKRFjI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="6a43b329539f6cfa9cd0c807" tvg-logo="https://images.pluto.tv/channels/6a43b329539f6cfa9cd0c807/colorLogoPNG_1789399951913.png" group-title="3 Cinema2",Horrorland by Pluto TV
 https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/6a43b329539f6cfa9cd0c807/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=30e8f1c2-d0b4-11f1-a9dd-6045bd2ceb7f&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=30e8f1c2-d0b4-11f1-a9dd-6045bd2ceb7f&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=30f857b5-d0b4-11f1-be2a-5a96277d92a5&sid=30f857b5-d0b4-11f1-be2a-5a96277d92a5&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgzOTcyNjAyLTIwMTUtNGRmZC1hNjdiLWRlZjdlZDFlOGM2ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMGY4NTdiNS1kMGI0LTExZjEtYmUyYS01YTk2Mjc3ZDkyYTUiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMzBlOGYxYzItZDBiNC0xMWYxLWE5ZGQtNjA0NWJkMmNlYjdmIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyQWRTZXNzaW9uRXZlbnQiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImppdFBhY2siOiJyZXBhY2tKaXQsZGVjcnlwdCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIzMGU4ZjFjMi1kMGI0LTExZjEtYTlkZC02MDQ1YmQyY2ViN2YiLCJmd1ZjSUQyQ29wcGEiOiIzMGU4ZjFjMi1kMGI0LTExZjEtYTlkZC02MDQ1YmQyY2ViN2YiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjMwZThmMWMyLWQwYjQtMTFmMS1hOWRkLTYwNDViZDJjZWI3ZiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjUsMTAwMTQsMTAwMTYsMTAwMjAsMTAwMjIsMTAwMjMsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTUsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTI5NjA3NzU5NDYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpNekJsT0dZeFl6SXRaREJpTkMweE1XWXhMV0U1WkdRdE5qQTBOV0prTW1ObFlqZG0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkzMDQ3MTc1LCJpYXQiOjE3OTI5NjA3NzUsImp0aSI6ImQ5MGJiZWZkLTM3NWUtNGEzZC04NjQ2LTliYTFiYzUxYjVjMyJ9.6KbcqLeLJ7o7KeFHRGb6lR-oO5TejBlCYzNjteKRFjI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 #EXTINF:-1, tvg-id="CinePlusFrisson.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/94856021" tvg-name="CINE+ FRISSON _CI"  group-title="3 Cinema2",.CINE+ FRISSON _CI
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116421
+#EXTINF:-1 channel-id="xt_812174" tvg-id="CinePlusClub.fr" tvg-chno="" tvg-name="CINE+ FESTIVAL _CI" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812174.png" group-title="3 Cinema2",.CINE+ FESTIVAL _CI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812174.ts
+#EXTINF:-1 channel-id="xt_1138903" tvg-id="Be1.be" tvg-chno="" tvg-name="BE1 _CI" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1138903.png" group-title="3 Cinema2",.BE1 _CI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1138903.ts
+#EXTINF:-1 channel-id="xt_1811882" tvg-id="BeCine.be" tvg-chno="" tvg-name="BE CINE _CI" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1811882.png" group-title="3 Cinema2",.BE CINE _CI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1811882.ts
 #EXTINF:-1 channel-id="FRBD410000783" tvg-id="BFMTV.fr" tvg-chno="4002" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" group-title="3 Gratuit",BFM TV
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1, tvg-id="CNews.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/54/Canal_News_logo.svg.png/revision/latest?cb=20190726111247&path-prefix=fr" tvg-name="CNEWS"  group-title="3 Gratuit",CNEWS
@@ -575,6 +609,10 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="4 Anglais" tvg-name="Showtime Family Zone",Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 channel-id="xt_812106" tvg-id="Tipik.be" tvg-chno="" tvg-name="TIPIK _SP" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812106.png" group-title="5 Sport",.TIPIK _SP
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812106.ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" tvg-name="CANAL+ SPORT"  group-title="5 Sport",.CANAL+ SPORT
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116503
 #EXTINF:-1 channel-id="xt_177319" tvg-id="TVASports.ca" tvg-chno="" tvg-name="TVA SPORTS HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177319.png" group-title="5 Sport",.TVA SPORTS HD
@@ -585,10 +623,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177319.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177320.ts
-#EXTINF:-1 channel-id="xt_177304" tvg-id="RDS.ca" tvg-chno="" tvg-name="RDS1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177304.png" group-title="5 Sport",.RDS1 HD
+#EXTINF:-1 channel-id="xt_177302" tvg-id="RDS.ca" tvg-chno="" tvg-name="RDS1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177302.png" group-title="5 Sport",.RDS1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177304.ts
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177302.ts
 #EXTINF:-1 channel-id="xt_177303" tvg-id="RDS2.ca" tvg-chno="" tvg-name="RDS2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177303.png" group-title="5 Sport",.RDS2 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -663,18 +701,58 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920742.ts
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/904205.ts
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png" group-title="5 Sport",FRANCE TV SPORT
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/sport.m3u8
+#EXTINF:-1 channel-id="xt_2151992" tvg-id="FOXWFLD.us" tvg-chno="" tvg-name="FOX CHI" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FOX.png" group-title="6 USA",.FOX CHI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151992.ts
+#EXTINF:-1 channel-id="xt_2151990" tvg-id="NBCWMAQ.us" tvg-chno="" tvg-name="NBC CHI" tvg-logo="http://103.176.90.154/picons/logos/USANEW/NBC.png" group-title="6 USA",.NBC CHI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151990.ts
+#EXTINF:-1 channel-id="xt_2151993" tvg-id="CBSWBBM.us" tvg-chno="" tvg-name="CBS CHI" tvg-logo="http://103.176.90.154/picons/logos/USANEW/CBS.png" group-title="6 USA",.CBS CHI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151993.ts
 #EXTINF:-1 tvg-id="FX.us" group-title="6 USA" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",FX
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 channel-id="xt_176882" tvg-id="EEntertainmentTelevision.us" tvg-chno="" tvg-name="E!" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176882.png" group-title="6 USA",.E!
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176882.ts
+#EXTINF:-1 channel-id="xt_45446" tvg-id="Bravo.us" tvg-chno="" tvg-name="Bravo" tvg-logo="http://103.176.90.154/picons/logos/USA/45446.png" group-title="6 USA",.Bravo
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45446.ts
 #EXTINF:-1 tvg-id="TNT.us" group-title="6 USA" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",TNT
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ma/arryadiatnt.m3u8
+#EXTINF:-1 channel-id="xt_45475" tvg-id="TBS.us" tvg-chno="" tvg-name="TBS" tvg-logo="http://103.176.90.154/picons/logos/USA/45475.png" group-title="6 USA",.TBS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45475.ts
 #EXTINF:-1 channel-id="xt_176864" tvg-id="AMC.us" tvg-chno="" tvg-name="AMC" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176864.png" group-title="6 USA",.AMC
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176864.ts
+#EXTINF:-1 channel-id="xt_91887" tvg-id="SHOWTIMEextreme.us" tvg-chno="" tvg-name="SHOWTIME EXTREME" tvg-logo="http://103.176.90.154/picons/logos/USA/91887.png" group-title="6 USA",.SHOWTIME EXTREME
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91887.ts
+#EXTINF:-1 channel-id="xt_45502" tvg-id="SHOWTIMESHOWCASE.us" tvg-chno="" tvg-name="SHOWTIME SHOWCASE" tvg-logo="http://103.176.90.154/picons/logos/USA/45502.png" group-title="6 USA",.SHOWTIME SHOWCASE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45502.ts
+#EXTINF:-1 channel-id="xt_303331" tvg-id="SHOWTIME.us" tvg-chno="" tvg-name="SHOWTIME" tvg-logo="http://103.176.90.154/picons/logos/USA/303331.png" group-title="6 USA",.SHOWTIME
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/303331.ts
+#EXTINF:-1 channel-id="xt_45504" tvg-id="Showtime.us" tvg-chno="" tvg-name="SHOWTIME EAST" tvg-logo="http://103.176.90.154/picons/logos/USA/45504.png" group-title="6 USA",.SHOWTIME EAST
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45504.ts
+#EXTINF:-1 channel-id="xt_45505" tvg-id="SHOWTIME2.us" tvg-chno="" tvg-name="SHOWTIME 2" tvg-logo="http://103.176.90.154/picons/logos/USA/45505.png" group-title="6 USA",.SHOWTIME 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45505.ts
 #EXTINF:-1 channel-id="xt_176913" tvg-id="HBO.us" tvg-chno="" tvg-name="HBO" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176913.png" group-title="6 USA",.HBO
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -683,26 +761,50 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176913.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176914.ts
+#EXTINF:-1 channel-id="xt_45547" tvg-id="HBOSIGNATURE.us" tvg-chno="" tvg-name="HBO SIGNATURE" tvg-logo="http://103.176.90.154/picons/logos/USA/45547.png" group-title="6 USA",.HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45547.ts
+#EXTINF:-1 channel-id="xt_2151705" tvg-id="HBOMOVIES.us" tvg-chno="" tvg-name="HBO MOVIES" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBO.png" group-title="6 USA",.HBO MOVIES
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151705.ts
 #EXTINF:-1 channel-id="xt_176929" tvg-id="starz.us" tvg-chno="" tvg-name="STARZ" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176929.png" group-title="6 USA",.STARZ
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176929.ts
-#EXTINF:-1, tvg-id="Syfy.us" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-479.png" tvg-name="Syfy"  group-title="6 USA",.Syfy
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116093
+#EXTINF:-1 channel-id="xt_45476" tvg-id="Syfy.us" tvg-chno="" tvg-name="Syfy" tvg-logo="http://103.176.90.154/picons/logos/USA/45476.png" group-title="6 USA",.Syfy
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45476.ts
 #EXTINF:-1 channel-id="xt_176919" tvg-id="Lifetime.us" tvg-chno="" tvg-name="Lifetime" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176919.png" group-title="6 USA",.Lifetime
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176919.ts
+#EXTINF:-1 channel-id="xt_45464" tvg-id="WeTV.us" tvg-chno="" tvg-name="WE tv" tvg-logo="http://103.176.90.154/picons/logos/USA/45464.png" group-title="6 USA",.WE tv
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45464.ts
 #EXTINF:-1 channel-id="xt_1788438" tvg-id="Oxygen.us" tvg-chno="" tvg-name="Oxygen" tvg-logo="http://103.176.90.154/picons/logos/CANADA/OXYGEN.png" group-title="6 USA",.Oxygen
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1788438.ts
+#EXTINF:-1 channel-id="xt_45467" tvg-id="TVLand.us" tvg-chno="" tvg-name="TV Land" tvg-logo="http://103.176.90.154/picons/logos/USA/45467.png" group-title="6 USA",.TV Land
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45467.ts
 #EXTINF:-1 channel-id="xt_176861" tvg-id="AandENetwork.us" tvg-chno="" tvg-name="A&E" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176861.png" group-title="6 USA",.A&E
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176861.ts
-#EXTINF:-1, tvg-id="ComedyCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/langfr-330px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central"  group-title="6 USA",.Comedy Central
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116094
+#EXTINF:-1 channel-id="xt_45468" tvg-id="TruTV.us" tvg-chno="" tvg-name="truTV" tvg-logo="http://103.176.90.154/picons/logos/USA/45468.png" group-title="6 USA",.truTV
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45468.ts
+#EXTINF:-1 channel-id="xt_45448" tvg-id="ComedyCentral.us" tvg-chno="" tvg-name="Comedy Central" tvg-logo="http://103.176.90.154/picons/logos/USA/45448.png" group-title="6 USA",.Comedy Central
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45448.ts
 #EXTINF:-1 channel-id="xt_176868" tvg-id="BET.us" tvg-chno="" tvg-name="BET" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176868.png" group-title="6 USA",.BET
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -715,8 +817,24 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176900.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176912.ts
+#EXTINF:-1 channel-id="xt_1788449" tvg-id="USANetwork.us" tvg-chno="" tvg-name="USA Network" tvg-logo="http://103.176.90.154/picons/logos/CANADA/USANETWORK.png" group-title="6 USA",.USA Network
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1788449.ts
+#EXTINF:-1 channel-id="xt_91882" tvg-id="USANetworkwest.us" tvg-chno="" tvg-name="USA Network West" tvg-logo="http://103.176.90.154/picons/logos/USA/91882.png" group-title="6 USA",.USA Network West
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91882.ts
+#EXTINF:-1 channel-id="xt_2151713" tvg-id="HallmarkChannel.us" tvg-chno="" tvg-name="Hallmark Channel" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HALLMARKCHANNEL.png" group-title="6 USA",.Hallmark Channel
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151713.ts
 #EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="6 USA",MTV
 https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=Z7gEXajoUzAMs-T0JSpnTg:aENeECTTHuRgEEIGUybwAEf8A5ST1f8KgZP38V51g4mE_caDroYvJzznSiR3rQr-XTVlWqqXP4F4ao7KbjAldqOh5R0zLL4zrr4hKOWCRgY9Rwk04_CnWk54Od13diPJPVM1MRKZdLQ-8XtvWslCqGfBbiVlK2x3neZkw-OgNV4TqEYQlG8JlB7LH1liqhWgAEhQbGLFWtI26ZZWc92t0BTF3mwemnunex98rT_IX8w6X9NakiPhgi7h4bd5Tw5_
+#EXTINF:-1 channel-id="xt_45436" tvg-id="VH1.us" tvg-chno="" tvg-name="VH1" tvg-logo="http://103.176.90.154/picons/logos/USA/45436.png" group-title="6 USA",.VH1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45436.ts
 #EXTINF:-1 tvg-id="FOXWNYW.us" group-title="6 USA",.FOX NY
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -765,14 +883,22 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176888.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176888.ts
+#EXTINF:-1 channel-id="xt_1350214" tvg-id="MagnoliaNetwork.us" tvg-chno="" tvg-name="Magnolia US" tvg-logo="http://103.176.90.154/picons/logos/USA/1350214.png" group-title="7 Canada Eng",.Magnolia US
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1350214.ts
+#EXTINF:-1 channel-id="xt_176920" tvg-id="MakefulTV.ca" tvg-chno="" tvg-name="MAKEFUL HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176920.png" group-title="7 Canada Eng",.MAKEFUL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176920.ts
 #EXTINF:-1 channel-id="xt_176882" tvg-id="EEntertainmentTelevision.ca" tvg-chno="" tvg-name="E! ENTERTAINMENT CA" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176882.png" group-title="7 Canada Eng",.E! ENTERTAINMENT CA
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176882.ts
-#EXTINF:-1 channel-id="xt_176933" tvg-id="BravoVault.pluto" tvg-chno="" tvg-name="BRAVO Vault" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176933.png" group-title="7 Canada Eng",.BRAVO Vault
+#EXTINF:-1 channel-id="xt_2151824" tvg-id="BravoVault.pluto" tvg-chno="" tvg-name="BRAVO Vault" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BRAVOVAULT.png" group-title="7 Canada Eng",.BRAVO Vault
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
-http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176933.ts
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151824.ts
 #EXTINF:-1 channel-id="xt_176843" tvg-id="Flavour.ca" tvg-chno="" tvg-name="Flavour" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176843.png" group-title="7 Canada Eng",.Flavour
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -785,6 +911,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176873.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176891.ts
+#EXTINF:-1 channel-id="xt_45541" tvg-id="Lifetime.us" tvg-chno="" tvg-name="LIFETIME USA" tvg-logo="http://103.176.90.154/picons/logos/USA/45541.png" group-title="7 Canada Eng",.LIFETIME USA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45541.ts
 #EXTINF:-1 channel-id="xt_176919" tvg-id="Lifetime.ca" tvg-chno="" tvg-name="LIFETIME HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176919.png" group-title="7 Canada Eng",.LIFETIME HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -793,6 +923,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176919.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176902.ts
+#EXTINF:-1 channel-id="xt_1458846" tvg-id="TLN.ca" tvg-chno="" tvg-name="TLN HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TLN.png" group-title="7 Canada Eng",.TLN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458846.ts
 #EXTINF:-1 channel-id="xt_176940" tvg-id="WNetwork.ca" tvg-chno="" tvg-name="W NETWORK" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176940.png" group-title="7 Canada Eng",.W NETWORK
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -801,6 +935,14 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176940.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176881.ts
+#EXTINF:-1 channel-id="xt_91834" tvg-id="EEntertainmentTelevisionPacific.us" tvg-chno="" tvg-name="E! ENTERTAINMENT WEST" tvg-logo="http://103.176.90.154/picons/logos/USA/91834.png" group-title="7 Canada Eng",.E! ENTERTAINMENT WEST
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91834.ts
+#EXTINF:-1 channel-id="xt_45557" tvg-id="Freeform.us" tvg-chno="" tvg-name="FREEFORM" tvg-logo="http://103.176.90.154/picons/logos/USA/45557.png" group-title="7 Canada Eng",.FREEFORM
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45557.ts
 #EXTINF:-1 channel-id="xt_176900" tvg-id="OWN.us" tvg-chno="" tvg-name="OWN HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176900.png" group-title="7 Canada Eng",.OWN HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -865,6 +1007,14 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176864.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176921.ts
+#EXTINF:-1 channel-id="xt_413617" tvg-id="rewind.ca" tvg-chno="" tvg-name="Rewind" tvg-logo="http://103.176.90.154/picons/logos/CANADA/REWIND.png" group-title="7 Canada Eng",.Rewind
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/413617.ts
+#EXTINF:-1 channel-id="xt_811919" tvg-id="ParamountNetwork.us" tvg-chno="" tvg-name="PARAMOUNT NETWORK" tvg-logo="http://103.176.90.95/images/811919.png" group-title="7 Canada Eng",.PARAMOUNT NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/811919.ts
 #EXTINF:-1 channel-id="xt_1147062" tvg-id="HollywoodSuite2010s+Movies.ca" tvg-chno="" tvg-name="Hollywood Suite 2010s" tvg-logo="http://103.176.90.154/picons/logos/CANADA/1147062.png" group-title="7 Canada Eng",.Hollywood Suite 2010s
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -885,8 +1035,168 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176912.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176911.ts
+#EXTINF:-1 channel-id="xt_177369" tvg-id="CBCToronto-CBLT.ca" tvg-chno="" tvg-name="CBC Toronto" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177369.png" group-title="7 Canada Eng",.CBC Toronto
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177369.ts
+#EXTINF:-1 channel-id="xt_177374" tvg-id="CityTv.ca" tvg-chno="" tvg-name="CITY Toronto" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177374.png" group-title="7 Canada Eng",.CITY Toronto
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177374.ts
+#EXTINF:-1 channel-id="xt_177404" tvg-id="GlobalToronto-CIII.ca" tvg-chno="" tvg-name="Global Toronto" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177404.png" group-title="7 Canada Eng",.Global Toronto
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177404.ts
+#EXTINF:-1 channel-id="xt_177393" tvg-id="CTVToronto-CFTO.ca" tvg-chno="" tvg-name="CTV Toronto" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177393.png" group-title="7 Canada Eng",.CTV Toronto
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177393.ts
+#EXTINF:-1 channel-id="xt_30545" tvg-id="E4.uk" tvg-chno="" tvg-name="E4 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30545.png" group-title="8 UK",.E4 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30545.ts
+#EXTINF:-1 channel-id="xt_1990796" tvg-id="4seven.uk" tvg-chno="" tvg-name="4seven" tvg-logo="http://103.176.90.154/picons/logos/UK/1990796.png" group-title="8 UK",.4seven
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1990796.ts
+#EXTINF:-1 channel-id="xt_1014314" tvg-id="E4Extra.uk" tvg-chno="" tvg-name="E4 EXTRA" tvg-logo="http://103.176.90.154/picons/logos/UK/1014314.png" group-title="8 UK",.E4 EXTRA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014314.ts
+#EXTINF:-1 channel-id="xt_164074" tvg-id="More4.uk" tvg-chno="" tvg-name="MORE4" tvg-logo="http://103.176.90.154/picons/logos/UK/164074.png" group-title="8 UK",.MORE4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/164074.ts
+#EXTINF:-1 tvg-shift="+5" channel-id="xt_30555" tvg-id="Channel4.uk" tvg-chno="" tvg-name="Channel 4" tvg-logo="http://103.176.90.154/picons/logos/UK/30555.png" group-title="8 UK",.Channel 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30555.ts
+#EXTINF:-1 tvg-shift="+6" channel-id="xt_1014307" tvg-id="Channel4.uk" tvg-chno="" tvg-name="Channel 4+1" tvg-logo="http://103.176.90.154/picons/logos/UK/1014307.png" group-title="8 UK",.Channel 4+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014307.ts
+#EXTINF:-1 channel-id="xt_30554" tvg-id="Channel5.uk" tvg-chno="" tvg-name="Channel 5" tvg-logo="http://103.176.90.154/picons/logos/UK/30554.png" group-title="8 UK",.Channel 5
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30554.ts
+#EXTINF:-1 tvg-shift="+6" channel-id="xt_45286" tvg-id="Channel5.uk" tvg-chno="" tvg-name="Channel 5+1" tvg-logo="http://103.176.90.154/picons/logos/UK/45286.png" group-title="8 UK",.Channel 5+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45286.ts
+#EXTINF:-1 channel-id="xt_741954" tvg-id="SkyOne.uk" tvg-chno="" tvg-name="Sky ONE" tvg-logo="http://103.176.90.154/picons/logos/UK/741954.png" group-title="8 UK",.Sky ONE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/741954.ts
+#EXTINF:-1 channel-id="xt_30518" tvg-id="SkyAtlantic.uk" tvg-chno="" tvg-name="Sky ATLANTIC FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30518.png" group-title="8 UK",.Sky ATLANTIC FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30518.ts
+#EXTINF:-1 channel-id="xt_45319" tvg-id="5USA.uk" tvg-chno="" tvg-name="5 USA HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45319.png" group-title="8 UK",.5 USA HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45319.ts
+#EXTINF:-1 channel-id="xt_79694" tvg-id="5USA+1.uk" tvg-chno="" tvg-name="5 USA+1 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/79694.png" group-title="8 UK",.5 USA+1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/79694.ts
+#EXTINF:-1 channel-id="xt_79737" tvg-id="5Action.uk" tvg-chno="" tvg-name="5Action" tvg-logo="http://103.176.90.154/picons/logos/UK/79737.png" group-title="8 UK",.5Action
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/79737.ts
+#EXTINF:-1 channel-id="xt_30533" tvg-id="ITV1London.uk" tvg-chno="" tvg-name="ITV1 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30533.png" group-title="8 UK",.ITV1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30533.ts
+#EXTINF:-1 tvg-shift="+6" channel-id="xt_686073" tvg-id="ITV1London.uk" tvg-chno="" tvg-name="ITV1+1" tvg-logo="http://103.176.90.154/picons/logos/UK/686073.png" group-title="8 UK",.ITV1+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/686073.ts
+#EXTINF:-1 channel-id="xt_30532" tvg-id="ITV2.uk" tvg-chno="" tvg-name="ITV2 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30532.png" group-title="8 UK",.ITV2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30532.ts
+#EXTINF:-1 tvg-shift="+6" channel-id="xt_228571" tvg-id="ITV2.uk" tvg-chno="" tvg-name="ITV2+1" tvg-logo="http://103.176.90.154/picons/logos/UK/228571.png" group-title="8 UK",.ITV2+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228571.ts
+#EXTINF:-1 channel-id="xt_30531" tvg-id="ITV3.uk" tvg-chno="" tvg-name="ITV3 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30531.png" group-title="8 UK",.ITV3 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30531.ts
+#EXTINF:-1 tvg-shift="+6" channel-id="xt_228572" tvg-id="ITV3.uk" tvg-chno="" tvg-name="ITV3+1" tvg-logo="http://103.176.90.154/picons/logos/UK/228572.png" group-title="8 UK",.ITV3+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228572.ts
+#EXTINF:-1 channel-id="xt_30530" tvg-id="ITV4.uk" tvg-chno="" tvg-name="ITV4 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30530.png" group-title="8 UK",.ITV4 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30530.ts
+#EXTINF:-1 tvg-shift="+6" channel-id="xt_228573" tvg-id="ITV4.uk" tvg-chno="" tvg-name="ITV4+1" tvg-logo="http://103.176.90.154/picons/logos/UK/228573.png" group-title="8 UK",.ITV4+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228573.ts
+#EXTINF:-1 channel-id="xt_30584" tvg-id="UAndAlibi.uk" tvg-chno="" tvg-name="ALIBI FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30584.png" group-title="8 UK",.ALIBI FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30584.ts
+#EXTINF:-1 channel-id="xt_229430" tvg-id="UAndAlibi+1.uk" tvg-chno="" tvg-name="ALIBI+1" tvg-logo="http://103.176.90.154/picons/logos/UK/229430.png" group-title="8 UK",.ALIBI+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/229430.ts
+#EXTINF:-1 channel-id="xt_30550" tvg-id="UandDave.uk" tvg-chno="" tvg-name="DAVE" tvg-logo="http://103.176.90.154/picons/logos/UK/30550.png" group-title="8 UK",.DAVE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30550.ts
+#EXTINF:-1 channel-id="xt_1206422" tvg-id="UandDavejavu.uk" tvg-chno="" tvg-name="DAVE & AVA" tvg-logo="http://103.176.90.92/images/1206422.png" group-title="8 UK",.DAVE & AVA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1206422.ts
+#EXTINF:-1 channel-id="xt_1014317" tvg-id="LegendXtra.uk" tvg-chno="" tvg-name="LEGEND" tvg-logo="http://103.176.90.154/picons/logos/UK/1014317.png" group-title="8 UK",.LEGEND
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014317.ts
+#EXTINF:-1 channel-id="xt_1879960" tvg-id="LegendXtra.uk" tvg-chno="" tvg-name="LEGEND EXTRA" tvg-logo="http://103.176.90.154/picons/logos/UK/1879960.png" group-title="8 UK",.LEGEND EXTRA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1879960.ts
+#EXTINF:-1 channel-id="xt_45275" tvg-id="FoodNetwork.uk" tvg-chno="" tvg-name="FOOD NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45275.png" group-title="8 UK",.FOOD NETWORK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45275.ts
+#EXTINF:-1 channel-id="xt_164047" tvg-id="FoodNetwork+1.uk" tvg-chno="" tvg-name="FOOD NETWORK+1 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/164047.png" group-title="8 UK",.FOOD NETWORK+1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/164047.ts
+#EXTINF:-1 channel-id="xt_1458572" tvg-id="BBCOne.uk" tvg-chno="" tvg-name="BBC1" tvg-logo="http://103.176.90.154/picons/logos/UK/1458572.png" group-title="8 UK",.BBC1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458572.ts
+#EXTINF:-1 channel-id="xt_45336" tvg-id="BBCThree_CBBC.uk" tvg-chno="" tvg-name="BBC3 CBBC HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45336.png" group-title="8 UK",.BBC3 CBBC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45336.ts
+#EXTINF:-1 channel-id="xt_45335" tvg-id="BBCFour_CBeebies.uk" tvg-chno="" tvg-name="BBC4/CBEEBIES HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45335.png" group-title="8 UK",.BBC4/CBEEBIES HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45335.ts
+#EXTINF:-1 channel-id="xt_230677" tvg-id="UTV.ie" tvg-chno="" tvg-name="UTV FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/230677.png" group-title="8 UK",.UTV FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/230677.ts
+#EXTINF:-1 channel-id="xt_79711" tvg-id="S4C.uk" tvg-chno="" tvg-name="S4C FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/79711.png" group-title="8 UK",.S4C FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/79711.ts
+#EXTINF:-1 channel-id="xt_30583" tvg-id="amc.uk" tvg-chno="" tvg-name="AMC" tvg-logo="http://103.176.90.154/picons/logos/UK/30583.png" group-title="8 UK",.AMC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30583.ts
 #EXTINF:-1 group-title="8 UK" tvg-id="TG4.ie",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 channel-id="xt_30584" tvg-id="Alibi.uk" tvg-chno="" tvg-name="ALIBI" tvg-logo="http://103.176.90.154/picons/logos/UK/30584.png" group-title="8 UK",.ALIBI
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30584.ts
 #EXTINF:-1 channel-id="FRBD4800001P4" tvg-id="BFMJiraiDormirChezVous.fr" tvg-chno="4354" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="9 Documentaire",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 channel-id="FRBD39000064E" tvg-id="FRBD39000064E" tvg-chno="4003" tvg-name="100% Docs Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20261020T053535SQUARE.png" group-title="9 Documentaire",100% Docs Crime
@@ -901,6 +1211,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1624010.ts
+#EXTINF:-1 channel-id="xt_1829003" tvg-id="PlaneteAction.fr" tvg-chno="" tvg-name="PLANETE+ Aventure" tvg-logo="http://103.176.90.95/images/1829003.png" group-title="9 Documentaire",.PLANETE+ Aventure
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829003.ts
 #EXTINF:-1 tvg-id="611e7811eb9daf000764cbfd" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="9 Documentaire",Pluto TV Aventure
 https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=30e8f1c2-d0b4-11f1-a9dd-6045bd2ceb7f&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=30e8f1c2-d0b4-11f1-a9dd-6045bd2ceb7f&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=30f857b5-d0b4-11f1-be2a-5a96277d92a5&sid=30f857b5-d0b4-11f1-be2a-5a96277d92a5&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgzOTcyNjAyLTIwMTUtNGRmZC1hNjdiLWRlZjdlZDFlOGM2ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMGY4NTdiNS1kMGI0LTExZjEtYmUyYS01YTk2Mjc3ZDkyYTUiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiMzBlOGYxYzItZDBiNC0xMWYxLWE5ZGQtNjA0NWJkMmNlYjdmIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyQWRTZXNzaW9uRXZlbnQiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImppdFBhY2siOiJyZXBhY2tKaXQsZGVjcnlwdCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIzMGU4ZjFjMi1kMGI0LTExZjEtYTlkZC02MDQ1YmQyY2ViN2YiLCJmd1ZjSUQyQ29wcGEiOiIzMGU4ZjFjMi1kMGI0LTExZjEtYTlkZC02MDQ1YmQyY2ViN2YiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjMwZThmMWMyLWQwYjQtMTFmMS1hOWRkLTYwNDViZDJjZWI3ZiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjUsMTAwMTQsMTAwMTYsMTAwMjAsMTAwMjIsMTAwMjMsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTUsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTI5NjA3NzU5NDYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpNekJsT0dZeFl6SXRaREJpTkMweE1XWXhMV0U1WkdRdE5qQTBOV0prTW1ObFlqZG0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzkzMDQ3MTc1LCJpYXQiOjE3OTI5NjA3NzUsImp0aSI6ImQ5MGJiZWZkLTM3NWUtNGEzZC04NjQ2LTliYTFiYzUxYjVjMyJ9.6KbcqLeLJ7o7KeFHRGb6lR-oO5TejBlCYzNjteKRFjI&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="9 Documentaire",Pluto TV Inside
@@ -1083,10 +1397,30 @@ https://i.mjh.nz/.r/te-reo.m3u8
 https://i.mjh.nz/.r/maori-tv.m3u8
 #EXTINF:-1 group-title="14 Enfants" tvg-id="Wasabi.fr",Wasabi la chaîne anime (1080p)
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
+#EXTINF:-1 channel-id="xt_1897964" tvg-id="Mangas.fr" tvg-chno="" tvg-name="MANGAS" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1897964.png" group-title="14 Enfants",.MANGAS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1897964.ts
+#EXTINF:-1 channel-id="xt_1326935" tvg-id="Cartoonito.fr" tvg-chno="" tvg-name="CARTOONITO" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1326935.png" group-title="14 Enfants",.CARTOONITO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1326935.ts
 #EXTINF:-1 channel-id="xt_177335" tvg-id="NickelodeonFrance.fr" tvg-chno="" tvg-name="Nickelodeon" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177335.png" group-title="14 Enfants",.Nickelodeon
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177335.ts
+#EXTINF:-1 channel-id="xt_1014236" tvg-id="NickelodeonPlus1.fr" tvg-chno="" tvg-name="Nickelodeon +1" tvg-logo="http://103.176.90.92/images/1014236.png" group-title="14 Enfants",.Nickelodeon +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014236.ts
+#EXTINF:-1 channel-id="xt_812191" tvg-id="NickelodeonJuniorFrance.fr" tvg-chno="" tvg-name="Nickelodeon Junior" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812191.png" group-title="14 Enfants",.Nickelodeon Junior
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812191.ts
+#EXTINF:-1 channel-id="xt_812190" tvg-id="NickelodeonTeenFrance.fr" tvg-chno="" tvg-name="Nickelodeon Teen" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812190.png" group-title="14 Enfants",.Nickelodeon Teen
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812190.ts
 #EXTINF:-1 channel-id="xt_177332" tvg-id="Boomerang.fr" tvg-chno="" tvg-name="Boomerang" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177332.png" group-title="14 Enfants",.Boomerang
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4812,6 +5146,134 @@ http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116520
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1, tvg-id="BET.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1960.png" tvg-name="BET HD"  group-title="HS",.BET HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116441
+#EXTINF:-1 channel-id="xt_1138903" tvg-id="Be1.be" tvg-chno="" tvg-name="BE| BE 1" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1138903.png" group-title="HS",.BE| BE 1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1138903.ts
+#EXTINF:-1 channel-id="xt_1811882" tvg-id="BeCine.be" tvg-chno="" tvg-name="BE| BE CINE FHD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1811882.png" group-title="HS",.BE| BE CINE FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1811882.ts
+#EXTINF:-1 channel-id="xt_812031" tvg-id="nl.Boomerang" tvg-chno="" tvg-name="BE| BOOMERANG" tvg-logo="http://103.176.90.95/images/812031.png" group-title="HS",.BE| BOOMERANG
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812031.ts
+#EXTINF:-1 channel-id="xt_1326935" tvg-id="Cartoonito.nl" tvg-chno="" tvg-name="BE| CARTOONITO" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1326935.png" group-title="HS",.BE| CARTOONITO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1326935.ts
+#EXTINF:-1 channel-id="xt_812173" tvg-id="CinePlusClassic.fr" tvg-chno="" tvg-name="BE| CINE+ CLASSIC HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812173.png" group-title="HS",.BE| CINE+ CLASSIC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812173.ts
+#EXTINF:-1 channel-id="xt_812174" tvg-id="CinePlusClub.fr" tvg-chno="" tvg-name="BE| CINE+ CLUB HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812174.png" group-title="HS",.BE| CINE+ CLUB HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812174.ts
+#EXTINF:-1 channel-id="xt_1897960" tvg-id="" tvg-chno="" tvg-name="BE| CINE+ FAMILY" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1897960.png" group-title="HS",.BE| CINE+ FAMILY
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1897960.ts
+#EXTINF:-1 channel-id="xt_812176" tvg-id="CinePlusFamiz.fr" tvg-chno="" tvg-name="BE| CINE+ FAMIZ HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812176.png" group-title="HS",.BE| CINE+ FAMIZ HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812176.ts
+#EXTINF:-1 channel-id="xt_812178" tvg-id="CinePlusPremier.fr" tvg-chno="" tvg-name="BE| CINE+ PREMIER HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812178.png" group-title="HS",.BE| CINE+ PREMIER HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812178.ts
+#EXTINF:-1 channel-id="xt_811962" tvg-id="ComedyCentral.nl" tvg-chno="" tvg-name="BE| COMEDY CENTRAL HD" tvg-logo="http://103.176.90.95/images/811962.png" group-title="HS",.BE| COMEDY CENTRAL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/811962.ts
+#EXTINF:-1 channel-id="xt_811963" tvg-id="nl.E!" tvg-chno="" tvg-name="BE| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.95/images/811963.png" group-title="HS",.BE| E! ENTERTAINMENT HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/811963.ts
+#EXTINF:-1 channel-id="xt_812135" tvg-id="France2.fr" tvg-chno="" tvg-name="BE| FRANCE 2 HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812135.png" group-title="HS",.BE| FRANCE 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812135.ts
+#EXTINF:-1 channel-id="xt_1829025" tvg-id="" tvg-chno="" tvg-name="BE| FRANCE 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829025.png" group-title="HS",.BE| FRANCE 2 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829025.ts
+#EXTINF:-1 channel-id="xt_1897978" tvg-id="" tvg-chno="" tvg-name="BE| FRANCE 3 NOA FHD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1897978.png" group-title="HS",.BE| FRANCE 3 NOA FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1897978.ts
+#EXTINF:-1 channel-id="xt_1829024" tvg-id="" tvg-chno="" tvg-name="BE| FRANCE 3 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829024.png" group-title="HS",.BE| FRANCE 3 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829024.ts
+#EXTINF:-1 channel-id="xt_812133" tvg-id="France4.fr" tvg-chno="" tvg-name="BE| FRANCE 4 HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812133.png" group-title="HS",.BE| FRANCE 4 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812133.ts
+#EXTINF:-1 channel-id="xt_1829023" tvg-id="" tvg-chno="" tvg-name="BE| FRANCE 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829023.png" group-title="HS",.BE| FRANCE 4 ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829023.ts
+#EXTINF:-1 channel-id="xt_1829026" tvg-id="" tvg-chno="" tvg-name="BE| FRANCE INFO ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829026.png" group-title="HS",.BE| FRANCE INFO ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829026.ts
+#EXTINF:-1 channel-id="xt_1897964" tvg-id="" tvg-chno="" tvg-name="BE| MANGAS FHD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/1897964.png" group-title="HS",.BE| MANGAS FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1897964.ts
+#EXTINF:-1 channel-id="xt_1829009" tvg-id="" tvg-chno="" tvg-name="BE| MTV 00S ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829009.png" group-title="HS",.BE| MTV 00S ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829009.ts
+#EXTINF:-1 channel-id="xt_1829008" tvg-id="" tvg-chno="" tvg-name="BE| MTV 80S ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829008.png" group-title="HS",.BE| MTV 80S ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829008.ts
+#EXTINF:-1 channel-id="xt_1829007" tvg-id="" tvg-chno="" tvg-name="BE| MTV FRANCE ᴿᴬᵂ (+)" tvg-logo="http://103.176.90.95/images/1829007.png" group-title="HS",.BE| MTV FRANCE ᴿᴬᵂ (+)
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829007.ts
+#EXTINF:-1 channel-id="xt_812036" tvg-id="MTV.be" tvg-chno="" tvg-name="BE| MTV HEVC" tvg-logo="http://103.176.90.92/images/812036.png" group-title="HS",.BE| MTV HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812036.ts
+#EXTINF:-1 channel-id="xt_812190" tvg-id="NickelodeonTeen.fr" tvg-chno="" tvg-name="BE| NICKELODEON 4 TEEN HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812190.png" group-title="HS",.BE| NICKELODEON 4 TEEN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812190.ts
+#EXTINF:-1 channel-id="xt_811944" tvg-id="Nickelodeon.nl" tvg-chno="" tvg-name="BE| NICKELODEON HD" tvg-logo="http://103.176.90.95/images/811944.png" group-title="HS",.BE| NICKELODEON HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/811944.ts
+#EXTINF:-1 channel-id="xt_812026" tvg-id="Nickelodeon.nl" tvg-chno="" tvg-name="BE| NICKELODEON HEVC" tvg-logo="http://103.176.90.95/images/812026.png" group-title="HS",.BE| NICKELODEON HEVC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812026.ts
+#EXTINF:-1 channel-id="xt_812191" tvg-id="NickJr.fr" tvg-chno="" tvg-name="BE| NICKELODEON JUNIOR HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812191.png" group-title="HS",.BE| NICKELODEON JUNIOR HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812191.ts
+#EXTINF:-1 channel-id="xt_2022531" tvg-id="" tvg-chno="" tvg-name="BE| NICKELODEON ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/BELGIUMNEW/NICKELODEON.png" group-title="HS",.BE| NICKELODEON ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2022531.ts
+#EXTINF:-1 channel-id="xt_811919" tvg-id="ParamountNetwork.nl" tvg-chno="" tvg-name="BE| PARAMOUNT NETWORK HD" tvg-logo="http://103.176.90.95/images/811919.png" group-title="HS",.BE| PARAMOUNT NETWORK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/811919.ts
+#EXTINF:-1 channel-id="xt_1829003" tvg-id="" tvg-chno="" tvg-name="BE| PLANETE+ AVENTURE ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829003.png" group-title="HS",.BE| PLANETE+ AVENTURE ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829003.ts
+#EXTINF:-1 channel-id="xt_1829002" tvg-id="" tvg-chno="" tvg-name="BE| PLANETE+ CRIME ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829002.png" group-title="HS",.BE| PLANETE+ CRIME ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1829002.ts
+#EXTINF:-1 channel-id="xt_812106" tvg-id="Tipik.be" tvg-chno="" tvg-name="BE| TIPIK HD" tvg-logo="http://103.176.90.154/picons/logos/BELGIUM/812106.png" group-title="HS",.BE| TIPIK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/812106.ts
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",.BFM ALPES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",.BFM ALSACE
@@ -4968,10 +5430,18 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177278.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177279.ts
+#EXTINF:-1 channel-id="xt_177369" tvg-id="CBC.ca" tvg-chno="" tvg-name="CA| CBC TORONTO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177369.png" group-title="HS",.CA| CBC TORONTO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177369.ts
 #EXTINF:-1 channel-id="xt_177282" tvg-id="Cinepop.ca" tvg-chno="" tvg-name="CA| CINEPOP HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177282.png" group-title="HS",.CA| CINEPOP HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177282.ts
+#EXTINF:-1 channel-id="xt_177374" tvg-id="CityTVToronto.ca" tvg-chno="" tvg-name="CA| CITY TV TORONTO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177374.png" group-title="HS",.CA| CITY TV TORONTO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177374.ts
 #EXTINF:-1 channel-id="xt_176873" tvg-id="CottageLife.ca" tvg-chno="" tvg-name="CA| COTTAGE LIFE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176873.png" group-title="HS",.CA| COTTAGE LIFE HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -4992,6 +5462,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176938.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176939.ts
+#EXTINF:-1 channel-id="xt_177393" tvg-id="CTV2Toronto.ca" tvg-chno="" tvg-name="CA| CTV 2 TORONTO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177393.png" group-title="HS",.CA| CTV 2 TORONTO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177393.ts
 #EXTINF:-1 channel-id="xt_176815" tvg-id="CTVComedy.ca" tvg-chno="" tvg-name="CA| CTV COMEDY CHANNEL HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176815.png" group-title="HS",.CA| CTV COMEDY CHANNEL HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5012,6 +5486,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176871.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176818.ts
+#EXTINF:-1 channel-id="xt_177392" tvg-id="CTVToronto.ca" tvg-chno="" tvg-name="CA| CTV TORONTO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177392.png" group-title="HS",.CA| CTV TORONTO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177392.ts
 #EXTINF:-1 channel-id="xt_176881" tvg-id="Dtour.ca" tvg-chno="" tvg-name="CA| DTOUR HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176881.png" group-title="HS",.CA| DTOUR HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5040,6 +5518,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176911.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176912.ts
+#EXTINF:-1 channel-id="xt_177404" tvg-id="ca.Global (CIII-DT-41) Toronto" tvg-chno="" tvg-name="CA| GLOBAL TORONTO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177404.png" group-title="HS",.CA| GLOBAL TORONTO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177404.ts
 #EXTINF:-1 channel-id="xt_176913" tvg-id="HBO.ca" tvg-chno="" tvg-name="CA| HBO 1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176913.png" group-title="HS",.CA| HBO 1 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5116,6 +5598,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177293.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176919.ts
+#EXTINF:-1 channel-id="xt_176920" tvg-id="Makeful.ca" tvg-chno="" tvg-name="CA| MAKEFUL HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176920.png" group-title="HS",.CA| MAKEFUL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/176920.ts
 #EXTINF:-1 channel-id="xt_177294" tvg-id="MAX.ca" tvg-chno="" tvg-name="CA| MAX HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177294.png" group-title="HS",.CA| MAX HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5152,6 +5638,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177300.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177303.ts
+#EXTINF:-1 channel-id="xt_177302" tvg-id="RDS.ca" tvg-chno="" tvg-name="CA| RDS HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177302.png" group-title="HS",.CA| RDS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177302.ts
 #EXTINF:-1 channel-id="xt_906570" tvg-id="ca.RDS Info" tvg-chno="" tvg-name="CA| RDS INFO" tvg-logo="http://103.176.90.154/picons/logos/CANADA/906570.png" group-title="HS",.CA| RDS INFO
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5284,6 +5774,14 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177297.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177344.ts
+#EXTINF:-1 channel-id="xt_177345" tvg-id="TSN2.ca" tvg-chno="" tvg-name="CA| TSN 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177345.png" group-title="HS",.CA| TSN 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177345.ts
+#EXTINF:-1 channel-id="xt_177346" tvg-id="TSN3.ca" tvg-chno="" tvg-name="CA| TSN 3 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177346.png" group-title="HS",.CA| TSN 3 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177346.ts
 #EXTINF:-1 channel-id="xt_904216" tvg-id="TSN1.ca" tvg-chno="" tvg-name="CA| TSN1 FHD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/904216.png" group-title="HS",.CA| TSN1 FHD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5320,6 +5818,10 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/235897.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177316.ts
+#EXTINF:-1 channel-id="xt_177317" tvg-id="TVA.ca" tvg-chno="" tvg-name="CA| TVA QUEBEC CITY HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/177317.png" group-title="HS",.CA| TVA QUEBEC CITY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/177317.ts
 #EXTINF:-1 channel-id="xt_1472764" tvg-id="TVA.ca" tvg-chno="" tvg-name="CA| TVA RIMOUSKI" tvg-logo="http://103.176.90.154/picons/logos/CANADA/1472764.png" group-title="HS",.CA| TVA RIMOUSKI
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5410,6 +5912,10 @@ https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-raku
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73123.ts
+#EXTINF:-1 channel-id="xt_776091" tvg-id="AddikTV.ca" tvg-chno="" tvg-name="CND| ADDIK TV HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/ADDIK.png" group-title="HS",.CND| ADDIK TV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776091.ts
 #EXTINF:-1 channel-id="xt_161392" tvg-id="AdultSwim.ca" tvg-chno="" tvg-name="CND| ADULT SWIM HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/ADULTSWIM.png" group-title="HS",.CND| ADULT SWIM HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5422,10 +5928,42 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73122.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73102.ts
+#EXTINF:-1 channel-id="xt_776086" tvg-id="CanalD.ca" tvg-chno="" tvg-name="CND| CANAL D HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CANALD.png" group-title="HS",.CND| CANAL D HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776086.ts
+#EXTINF:-1 channel-id="xt_776075" tvg-id="Investigation.ca" tvg-chno="" tvg-name="CND| CANAL INVESTIGATION HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CANALINVESTIGATION.png" group-title="HS",.CND| CANAL INVESTIGATION HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776075.ts
+#EXTINF:-1 channel-id="xt_776084" tvg-id="CanalVie.ca" tvg-chno="" tvg-name="CND| CANAL VIE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CANALVIE.png" group-title="HS",.CND| CANAL VIE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776084.ts
+#EXTINF:-1 channel-id="xt_776083" tvg-id="" tvg-chno="" tvg-name="CND| CANAL Z HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CANALZ.png" group-title="HS",.CND| CANAL Z HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776083.ts
+#EXTINF:-1 channel-id="xt_776082" tvg-id="CasaTV.ca" tvg-chno="" tvg-name="CND| CASA HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CASA.png" group-title="HS",.CND| CASA HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776082.ts
 #EXTINF:-1 channel-id="xt_73074" tvg-id="CottageLife.ca" tvg-chno="" tvg-name="CND| COTTAGE LIFE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/COTTAGELIFE.png" group-title="HS",.CND| COTTAGE LIFE HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73074.ts
+#EXTINF:-1 channel-id="xt_112884" tvg-id="CA| CRAVE 1 / TMN 1" tvg-chno="" tvg-name="CND| CRAVE 1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CRAVE.png" group-title="HS",.CND| CRAVE 1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112884.ts
+#EXTINF:-1 channel-id="xt_112885" tvg-id="CA| CRAVE 2 / TMN 2" tvg-chno="" tvg-name="CND| CRAVE 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CRAVE.png" group-title="HS",.CND| CRAVE 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112885.ts
+#EXTINF:-1 channel-id="xt_112886" tvg-id="CA| CRAVE 3 / TMN 3" tvg-chno="" tvg-name="CND| CRAVE 3 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CRAVE.png" group-title="HS",.CND| CRAVE 3 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112886.ts
 #EXTINF:-1 channel-id="xt_161369" tvg-id="CTVComedy.ca" tvg-chno="" tvg-name="CND| CTV COMEDY CHANNEL HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/CTVCOMEDYCHANNELWEST.png" group-title="HS",.CND| CTV COMEDY CHANNEL HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5458,10 +5996,74 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73098.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73091.ts
+#EXTINF:-1 channel-id="xt_776073" tvg-id="CanalEvasion.ca" tvg-chno="" tvg-name="CND| EVASION HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/EVASION.png" group-title="HS",.CND| EVASION HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776073.ts
+#EXTINF:-1 channel-id="xt_776071" tvg-id="FrissonsTV.ca" tvg-chno="" tvg-name="CND| FRISSONS TV HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/FRISSONS.png" group-title="HS",.CND| FRISSONS TV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776071.ts
+#EXTINF:-1 channel-id="xt_73097" tvg-id="FXNow.ca" tvg-chno="" tvg-name="CND| FX HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/FX.png" group-title="HS",.CND| FX HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73097.ts
+#EXTINF:-1 channel-id="xt_73096" tvg-id="FXX.ca" tvg-chno="" tvg-name="CND| FXX HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/FXX.png" group-title="HS",.CND| FXX HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73096.ts
+#EXTINF:-1 channel-id="xt_112872" tvg-id="HBO2.ca" tvg-chno="" tvg-name="CND| HBO 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/HBO2.png" group-title="HS",.CND| HBO 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112872.ts
 #EXTINF:-1 channel-id="xt_73105" tvg-id="ca.HGTV Canada HD" tvg-chno="" tvg-name="CND| HGTV HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/HGTV.png" group-title="HS",.CND| HGTV HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73105.ts
+#EXTINF:-1 channel-id="xt_776070" tvg-id="Historia.ca" tvg-chno="" tvg-name="CND| HISTORIA HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/HISTORIA.png" group-title="HS",.CND| HISTORIA HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776070.ts
+#EXTINF:-1 channel-id="xt_776069" tvg-id="ARTV.ca" tvg-chno="" tvg-name="CND| ICI ARTV HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/ICIARTV.png" group-title="HS",.CND| ICI ARTV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776069.ts
+#EXTINF:-1 channel-id="xt_776067" tvg-id="" tvg-chno="" tvg-name="CND| ICI RDI HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/ICIRDI.png" group-title="HS",.CND| ICI RDI HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776067.ts
+#EXTINF:-1 channel-id="xt_776065" tvg-id="" tvg-chno="" tvg-name="CND| ICI TELE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/ICITELE.png" group-title="HS",.CND| ICI TELE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776065.ts
+#EXTINF:-1 channel-id="xt_776063" tvg-id="LeCanalNouvelles.ca" tvg-chno="" tvg-name="CND| LCN HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/LCN.png" group-title="HS",.CND| LCN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776063.ts
+#EXTINF:-1 channel-id="xt_73099" tvg-id="ca.Lifetime TV - Canada" tvg-chno="" tvg-name="CND| LIFETIME HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/LIFETIME.png" group-title="HS",.CND| LIFETIME HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73099.ts
+#EXTINF:-1 channel-id="xt_112873" tvg-id="ca.Makeful" tvg-chno="" tvg-name="CND| MAKEFUL HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/MAKEFUL.png" group-title="HS",.CND| MAKEFUL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112873.ts
+#EXTINF:-1 channel-id="xt_776062" tvg-id="MAX.ca" tvg-chno="" tvg-name="CND| MAX HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/Max.png" group-title="HS",.CND| MAX HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776062.ts
+#EXTINF:-1 channel-id="xt_112874" tvg-id="ca.MovieTime" tvg-chno="" tvg-name="CND| MOVIETIME HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/MOVIETIME.png" group-title="HS",.CND| MOVIETIME HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112874.ts
+#EXTINF:-1 channel-id="xt_112875" tvg-id="MTV.ca" tvg-chno="" tvg-name="CND| MTV HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/MTV.png" group-title="HS",.CND| MTV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112875.ts
+#EXTINF:-1 channel-id="xt_776057" tvg-id="Noovo.ca" tvg-chno="" tvg-name="CND| NOOVO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/NOOVO.png" group-title="HS",.CND| NOOVO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776057.ts
 #EXTINF:-1 channel-id="xt_73087" tvg-id="OprahWinfreyNetwork.us" tvg-chno="" tvg-name="CND| OWN HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/OWN.png" group-title="HS",.CND| OWN HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
@@ -5470,6 +6072,106 @@ http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73087.ts
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1788438.ts
+#EXTINF:-1 channel-id="xt_776056" tvg-id="Prise2.ca" tvg-chno="" tvg-name="CND| PRISE 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/PRISE2.png" group-title="HS",.CND| PRISE 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776056.ts
+#EXTINF:-1 channel-id="xt_776054" tvg-id="RDS2.ca" tvg-chno="" tvg-name="CND| RDS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/RDS2.png" group-title="HS",.CND| RDS 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776054.ts
+#EXTINF:-1 channel-id="xt_776053" tvg-id="RDS.ca" tvg-chno="" tvg-name="CND| RDS HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/RDS.png" group-title="HS",.CND| RDS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776053.ts
+#EXTINF:-1 channel-id="xt_776052" tvg-id="RDSInfo.ca" tvg-chno="" tvg-name="CND| RDS INFO HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/RDSINFO.png" group-title="HS",.CND| RDS INFO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776052.ts
+#EXTINF:-1 channel-id="xt_413617" tvg-id="Rewind.ca" tvg-chno="" tvg-name="CND| REWIND HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/REWIND.png" group-title="HS",.CND| REWIND HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/413617.ts
+#EXTINF:-1 channel-id="xt_776050" tvg-id="ca.Series +" tvg-chno="" tvg-name="CND| SERIES PLUS HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SERIESPLUS.png" group-title="HS",.CND| SERIES PLUS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776050.ts
+#EXTINF:-1 channel-id="xt_73116" tvg-id="Showcase.ca" tvg-chno="" tvg-name="CND| SHOWCASE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SHOWCASE.png" group-title="HS",.CND| SHOWCASE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73116.ts
+#EXTINF:-1 channel-id="xt_73114" tvg-id="ca.Slice" tvg-chno="" tvg-name="CND| SLICE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SLICE.png" group-title="HS",.CND| SLICE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/73114.ts
+#EXTINF:-1 channel-id="xt_161409" tvg-id="ca.Super Channel Fuse HD" tvg-chno="" tvg-name="CND| SUPER CHANNEL FUSE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SUPERCHANNELFUSE.png" group-title="HS",.CND| SUPER CHANNEL FUSE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/161409.ts
+#EXTINF:-1 channel-id="xt_776049" tvg-id="SuperEcran.ca" tvg-chno="" tvg-name="CND| SUPER ECRAN 1 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SUPERECRAN.png" group-title="HS",.CND| SUPER ECRAN 1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776049.ts
+#EXTINF:-1 channel-id="xt_776048" tvg-id="SuperEcran2.ca" tvg-chno="" tvg-name="CND| SUPER ECRAN 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SUPERECRAN.png" group-title="HS",.CND| SUPER ECRAN 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776048.ts
+#EXTINF:-1 channel-id="xt_776047" tvg-id="SuperEcran3.ca" tvg-chno="" tvg-name="CND| SUPER ECRAN 3 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SUPERECRAN.png" group-title="HS",.CND| SUPER ECRAN 3 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776047.ts
+#EXTINF:-1 channel-id="xt_776046" tvg-id="SuperEcran4.ca" tvg-chno="" tvg-name="CND| SUPER ECRAN 4 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/SUPERECRAN.png" group-title="HS",.CND| SUPER ECRAN 4 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776046.ts
+#EXTINF:-1 channel-id="xt_776060" tvg-id="" tvg-chno="" tvg-name="CND| TEMOIN HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TEMOIN.png" group-title="HS",.CND| TEMOIN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776060.ts
+#EXTINF:-1 channel-id="xt_1458846" tvg-id="TeleNovelas.mx" tvg-chno="" tvg-name="CND| TLN" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TLN.png" group-title="HS",.CND| TLN
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458846.ts
+#EXTINF:-1 channel-id="xt_776037" tvg-id="ca.tv5-international-west" tvg-chno="" tvg-name="CND| TV5 QUEBEC HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TV5QUEBEC.png" group-title="HS",.CND| TV5 QUEBEC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776037.ts
+#EXTINF:-1 channel-id="xt_776036" tvg-id="TVA.ca" tvg-chno="" tvg-name="CND| TVA MONTREAL HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TVA.png" group-title="HS",.CND| TVA MONTREAL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776036.ts
+#EXTINF:-1 channel-id="xt_776035" tvg-id="" tvg-chno="" tvg-name="CND| TVA QUEBEC CITY HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TVA.png" group-title="HS",.CND| TVA QUEBEC CITY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776035.ts
+#EXTINF:-1 channel-id="xt_776034" tvg-id="" tvg-chno="" tvg-name="CND| TVA RIVIERE DU LOUP HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TVA.png" group-title="HS",.CND| TVA RIVIERE DU LOUP HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776034.ts
+#EXTINF:-1 channel-id="xt_776033" tvg-id="TVASports2.ca" tvg-chno="" tvg-name="CND| TVA SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TVA.png" group-title="HS",.CND| TVA SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776033.ts
+#EXTINF:-1 channel-id="xt_776032" tvg-id="TVASports.ca" tvg-chno="" tvg-name="CND| TVA SPORTS HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/TVA.png" group-title="HS",.CND| TVA SPORTS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776032.ts
+#EXTINF:-1 channel-id="xt_1788449" tvg-id="USANetwork.us" tvg-chno="" tvg-name="CND| USA NETWORK" tvg-logo="http://103.176.90.154/picons/logos/CANADA/USANETWORK.png" group-title="HS",.CND| USA NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1788449.ts
+#EXTINF:-1 channel-id="xt_112888" tvg-id="WNetwork.ca" tvg-chno="" tvg-name="CND| W NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/WNETWORK.png" group-title="HS",.CND| W NETWORK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/112888.ts
+#EXTINF:-1 channel-id="xt_413619" tvg-id="ca.W (WTN) - East HD" tvg-chno="" tvg-name="CND| W NETWORK WEST HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/WNETWORKWEST.png" group-title="HS",.CND| W NETWORK WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/413619.ts
+#EXTINF:-1 channel-id="xt_776025" tvg-id="Zeste.ca" tvg-chno="" tvg-name="CND| ZESTE HD" tvg-logo="http://103.176.90.154/picons/logos/CANADA/ZESTE.png" group-title="HS",.CND| ZESTE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/776025.ts
 #EXTINF:-1, tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/langfr-330px-CNN_Logo_%282014%29.svg.png" tvg-name="CNN"  group-title="HS",.CNN
 http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",.CNN TÜRK
@@ -6122,10 +6824,54 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/TBytjPVc/prima.png",.PRIMA
 https://estreams.tv.nej.cz/dash/CH_PRIMA_Portable.ism/playlist.mpd
+#EXTINF:-1 channel-id="xt_1920475" tvg-id="" tvg-chno="" tvg-name="PRIME| ALL REALITY WE TV ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920475.png" group-title="HS",.PRIME| ALL REALITY WE TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920475.ts
+#EXTINF:-1 channel-id="xt_1920474" tvg-id="" tvg-chno="" tvg-name="PRIME| ALL WEDDINGS WE TV ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920474.png" group-title="HS",.PRIME| ALL WEDDINGS WE TV ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920474.ts
+#EXTINF:-1 channel-id="xt_1920468" tvg-id="" tvg-chno="" tvg-name="PRIME| AMC + ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920468.png" group-title="HS",.PRIME| AMC + ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920468.ts
+#EXTINF:-1 channel-id="xt_1920190" tvg-id="" tvg-chno="" tvg-name="PRIME| HBO ZONE ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920190.png" group-title="HS",.PRIME| HBO ZONE ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920190.ts
+#EXTINF:-1 channel-id="xt_1920122" tvg-id="" tvg-chno="" tvg-name="PRIME| LIFETIME MOVIES LOVE & DRAMA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920122.png" group-title="HS",.PRIME| LIFETIME MOVIES LOVE & DRAMA ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920122.ts
+#EXTINF:-1 channel-id="xt_1920075" tvg-id="" tvg-chno="" tvg-name="PRIME| MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920075.png" group-title="HS",.PRIME| MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920075.ts
+#EXTINF:-1 channel-id="xt_1920005" tvg-id="" tvg-chno="" tvg-name="PRIME| OXYGEN TRUE CRIME ARCHIVES ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1920005.png" group-title="HS",.PRIME| OXYGEN TRUE CRIME ARCHIVES ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920005.ts
+#EXTINF:-1 channel-id="xt_1919930" tvg-id="" tvg-chno="" tvg-name="PRIME| SHOWTIME WEST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1919930.png" group-title="HS",.PRIME| SHOWTIME WEST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1919930.ts
+#EXTINF:-1 channel-id="xt_1919929" tvg-id="" tvg-chno="" tvg-name="PRIME| SHOWTIME ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1919929.png" group-title="HS",.PRIME| SHOWTIME ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1919929.ts
 #EXTINF:-1 channel-id="xt_1920742" tvg-id="" tvg-chno="" tvg-name="PRIME| SPORTSNET 360 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/CANADA/1920742.png" group-title="HS",.PRIME| SPORTSNET 360 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
 http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1920742.ts
+#EXTINF:-1 channel-id="xt_1919876" tvg-id="" tvg-chno="" tvg-name="PRIME| THE ASYLUM MOVIE CHANNEL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1919876.png" group-title="HS",.PRIME| THE ASYLUM MOVIE CHANNEL ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1919876.ts
+#EXTINF:-1 channel-id="xt_1919861" tvg-id="" tvg-chno="" tvg-name="PRIME| THE FIRST 48 BY A&E ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USA/1919861.png" group-title="HS",.PRIME| THE FIRST 48 BY A&E ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1919861.ts
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",.QAZVIN
 https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg",.QUATRE LIÈGE
@@ -6568,6 +7314,198 @@ https://indisponible
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",.TVT TOURS
 https://live-tvtours.digiteka.com/1982825398/index.m3u8
+#EXTINF:-1 channel-id="xt_2151875" tvg-id="" tvg-chno="" tvg-name="TV| A&E ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/AE.png" group-title="HS",.TV| A&E ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151875.ts
+#EXTINF:-1 channel-id="xt_2152025" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 02 WCBS CBS NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/A3NEWYORK02WCBSCBSNEWYORK.png" group-title="HS",.TV| A3 NEW YORK 02 WCBS CBS NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152025.ts
+#EXTINF:-1 channel-id="xt_2151874" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 02 WCBS CBS ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/CBS.png" group-title="HS",.TV| A3 NEW YORK 02 WCBS CBS ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151874.ts
+#EXTINF:-1 channel-id="xt_2152024" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 04 WNBC NBC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/A3NEWYORK04WNBCNBCNEWYORK.png" group-title="HS",.TV| A3 NEW YORK 04 WNBC NBC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152024.ts
+#EXTINF:-1 channel-id="xt_2151873" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 04 WNBC NBC ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/NBC.png" group-title="HS",.TV| A3 NEW YORK 04 WNBC NBC ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151873.ts
+#EXTINF:-1 channel-id="xt_2152023" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 05 WNYW FOX NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/A3NEWYORK05WNYWFOXNEWYORK.png" group-title="HS",.TV| A3 NEW YORK 05 WNYW FOX NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152023.ts
+#EXTINF:-1 channel-id="xt_2151872" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 05 WNYW FOX ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FOX.png" group-title="HS",.TV| A3 NEW YORK 05 WNYW FOX ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151872.ts
+#EXTINF:-1 channel-id="xt_2152022" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 07 WABC ABC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/ABC.png" group-title="HS",.TV| A3 NEW YORK 07 WABC ABC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152022.ts
+#EXTINF:-1 channel-id="xt_2151871" tvg-id="" tvg-chno="" tvg-name="TV| A3 NEW YORK 07 WABC ABC ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/ABC.png" group-title="HS",.TV| A3 NEW YORK 07 WABC ABC ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151871.ts
+#EXTINF:-1 channel-id="xt_2151857" tvg-id="" tvg-chno="" tvg-name="TV| AMC ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/AMC.png" group-title="HS",.TV| AMC ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151857.ts
+#EXTINF:-1 channel-id="xt_2151837" tvg-id="" tvg-chno="" tvg-name="TV| BET HER ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BETHER.png" group-title="HS",.TV| BET HER ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151837.ts
+#EXTINF:-1 channel-id="xt_2151836" tvg-id="" tvg-chno="" tvg-name="TV| BET WEST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BET.png" group-title="HS",.TV| BET WEST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151836.ts
+#EXTINF:-1 channel-id="xt_2151835" tvg-id="" tvg-chno="" tvg-name="TV| BET ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BET.png" group-title="HS",.TV| BET ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151835.ts
+#EXTINF:-1 channel-id="xt_2152011" tvg-id="" tvg-chno="" tvg-name="TV| BINGHAMTON, NY WBGH NBC 20 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/NBC.png" group-title="HS",.TV| BINGHAMTON NY WBGH NBC 20 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152011.ts
+#EXTINF:-1 channel-id="xt_2152010" tvg-id="" tvg-chno="" tvg-name="TV| BINGHAMTON, NY WBNG CBS 12 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/CBS.png" group-title="HS",.TV| BINGHAMTON NY WBNG CBS 12 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152010.ts
+#EXTINF:-1 channel-id="xt_2152009" tvg-id="" tvg-chno="" tvg-name="TV| BINGHAMTON, NY WICZ FOX 40 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FOX.png" group-title="HS",.TV| BINGHAMTON NY WICZ FOX 40 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152009.ts
+#EXTINF:-1 channel-id="xt_2152008" tvg-id="" tvg-chno="" tvg-name="TV| BINGHAMTON, NY WIVT ABC 34 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/ABC.png" group-title="HS",.TV| BINGHAMTON NY WIVT ABC 34 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2152008.ts
+#EXTINF:-1 channel-id="xt_2151826" tvg-id="" tvg-chno="" tvg-name="TV| BOOMERANG ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BOOMERANG.png" group-title="HS",.TV| BOOMERANG ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151826.ts
+#EXTINF:-1 channel-id="xt_2151824" tvg-id="" tvg-chno="" tvg-name="TV| BRAVO VAULT ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BRAVOVAULT.png" group-title="HS",.TV| BRAVO VAULT ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151824.ts
+#EXTINF:-1 channel-id="xt_2151823" tvg-id="" tvg-chno="" tvg-name="TV| BRAVO ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/BRAVO.png" group-title="HS",.TV| BRAVO ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151823.ts
+#EXTINF:-1 channel-id="xt_2151993" tvg-id="" tvg-chno="" tvg-name="TV| CHICAGO, IL WBBM CBS 2 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/CBS.png" group-title="HS",.TV| CHICAGO IL WBBM CBS 2 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151993.ts
+#EXTINF:-1 channel-id="xt_2151992" tvg-id="" tvg-chno="" tvg-name="TV| CHICAGO, IL WFLD FOX 32 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FOX.png" group-title="HS",.TV| CHICAGO IL WFLD FOX 32 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151992.ts
+#EXTINF:-1 channel-id="xt_2151990" tvg-id="" tvg-chno="" tvg-name="TV| CHICAGO, IL WMAQ NBC 5 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/NBC.png" group-title="HS",.TV| CHICAGO IL WMAQ NBC 5 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151990.ts
+#EXTINF:-1 channel-id="xt_2151801" tvg-id="" tvg-chno="" tvg-name="TV| COMEDY CENTRAL WEST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/COMEDYCENTRAL.png" group-title="HS",.TV| COMEDY CENTRAL WEST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151801.ts
+#EXTINF:-1 channel-id="xt_2151800" tvg-id="" tvg-chno="" tvg-name="TV| COMEDY CENTRAL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/COMEDYCENTRAL.png" group-title="HS",.TV| COMEDY CENTRAL ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151800.ts
+#EXTINF:-1 channel-id="xt_2151786" tvg-id="" tvg-chno="" tvg-name="TV| DANCE MOMS BY LIFETIME ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/DANCEMOMSBYLIFETIME.png" group-title="HS",.TV| DANCE MOMS BY LIFETIME ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151786.ts
+#EXTINF:-1 channel-id="xt_2151776" tvg-id="" tvg-chno="" tvg-name="TV| DISCOVERY TURBO ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/DISCOVERYTURBO.png" group-title="HS",.TV| DISCOVERY TURBO ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151776.ts
+#EXTINF:-1 channel-id="xt_2151765" tvg-id="" tvg-chno="" tvg-name="TV| E! KEEPING UP ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/EKEEPINGUP.png" group-title="HS",.TV| E! KEEPING UP ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151765.ts
+#EXTINF:-1 channel-id="xt_2151764" tvg-id="" tvg-chno="" tvg-name="TV| E! ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/EE.png" group-title="HS",.TV| E! ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151764.ts
+#EXTINF:-1 channel-id="xt_2151732" tvg-id="" tvg-chno="" tvg-name="TV| FREEFORM ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FREEFORM.png" group-title="HS",.TV| FREEFORM ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151732.ts
+#EXTINF:-1 channel-id="xt_2151729" tvg-id="" tvg-chno="" tvg-name="TV| FX MOVIE CHANNEL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FXMOVIECHANNEL.png" group-title="HS",.TV| FX MOVIE CHANNEL ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151729.ts
+#EXTINF:-1 channel-id="xt_2151727" tvg-id="" tvg-chno="" tvg-name="TV| FX ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FX.png" group-title="HS",.TV| FX ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151727.ts
+#EXTINF:-1 channel-id="xt_2151728" tvg-id="" tvg-chno="" tvg-name="TV| FXX ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FXX.png" group-title="HS",.TV| FXX ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151728.ts
+#EXTINF:-1 channel-id="xt_2151713" tvg-id="" tvg-chno="" tvg-name="TV| HALLMARK CHANNEL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HALLMARKCHANNEL.png" group-title="HS",.TV| HALLMARK CHANNEL ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151713.ts
+#EXTINF:-1 channel-id="xt_2151711" tvg-id="" tvg-chno="" tvg-name="TV| HBO COMEDY ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBOCOMEDY.png" group-title="HS",.TV| HBO COMEDY ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151711.ts
+#EXTINF:-1 channel-id="xt_2151710" tvg-id="" tvg-chno="" tvg-name="TV| HBO DRAMA ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBODRAMA.png" group-title="HS",.TV| HBO DRAMA ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151710.ts
+#EXTINF:-1 channel-id="xt_2151709" tvg-id="" tvg-chno="" tvg-name="TV| HBO EAST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBO.png" group-title="HS",.TV| HBO EAST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151709.ts
+#EXTINF:-1 channel-id="xt_2151708" tvg-id="" tvg-chno="" tvg-name="TV| HBO HITS EAST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBOHITSEAST.png" group-title="HS",.TV| HBO HITS EAST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151708.ts
+#EXTINF:-1 channel-id="xt_2151707" tvg-id="" tvg-chno="" tvg-name="TV| HBO HITS WEST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBOHITSEAST.png" group-title="HS",.TV| HBO HITS WEST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151707.ts
+#EXTINF:-1 channel-id="xt_2151706" tvg-id="" tvg-chno="" tvg-name="TV| HBO LATINO ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBOLATINO.png" group-title="HS",.TV| HBO LATINO ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151706.ts
+#EXTINF:-1 channel-id="xt_2151705" tvg-id="" tvg-chno="" tvg-name="TV| HBO MOVIES ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBO.png" group-title="HS",.TV| HBO MOVIES ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151705.ts
+#EXTINF:-1 channel-id="xt_2151704" tvg-id="" tvg-chno="" tvg-name="TV| HBO WEST ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/HBO.png" group-title="HS",.TV| HBO WEST ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151704.ts
+#EXTINF:-1 channel-id="xt_2151942" tvg-id="" tvg-chno="" tvg-name="TV| LAFAYETTE, LA KADN FOX 15 A3 HD BROOKLYN ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FOX.png" group-title="HS",.TV| LAFAYETTE LA KADN FOX 15 A3 HD BROOKLYN ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151942.ts
+#EXTINF:-1 channel-id="xt_2151936" tvg-id="" tvg-chno="" tvg-name="TV| LAKE CHARLES, LA KPLC NBC 7 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/NBC.png" group-title="HS",.TV| LAKE CHARLES LA KPLC NBC 7 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151936.ts
+#EXTINF:-1 channel-id="xt_2151935" tvg-id="" tvg-chno="" tvg-name="TV| LAKE CHARLES, LA KSWL CBS 17 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/CBS.png" group-title="HS",.TV| LAKE CHARLES LA KSWL CBS 17 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151935.ts
+#EXTINF:-1 channel-id="xt_2151934" tvg-id="" tvg-chno="" tvg-name="TV| LAKE CHARLES, LA KVHP FOX 29 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/FOX.png" group-title="HS",.TV| LAKE CHARLES LA KVHP FOX 29 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151934.ts
+#EXTINF:-1 channel-id="xt_2151933" tvg-id="" tvg-chno="" tvg-name="TV| LAKE CHARLES, LA KVHP-D2 ABC 30 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/ABC.png" group-title="HS",.TV| LAKE CHARLES LA KVHP-D2 ABC 30 A3 HD MARIETTA ᶜᶦᵗʸ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151933.ts
+#EXTINF:-1 channel-id="xt_2151680" tvg-id="" tvg-chno="" tvg-name="TV| LIFETIME ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/USANEW/LIFETIME.png" group-title="HS",.TV| LIFETIME ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/2151680.ts
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png",.TÉBÉO TV
 https://indisponible
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/1RVPRkx/bocal.png",.TÉLÉ BOCAL
@@ -6584,6 +7522,238 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 http://69.64.57.208/telesahel/playlist.m3u8
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/3pbTbdG/ubizom.jpg",.UBIZNEWS OM5TV
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/ubiznews.m3u8
+#EXTINF:-1 channel-id="xt_45319" tvg-id="FiveUSA.uk" tvg-chno="" tvg-name="UK| 5 USA" tvg-logo="http://103.176.90.154/picons/logos/UK/45319.png" group-title="HS",.UK| 5 USA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45319.ts
+#EXTINF:-1 channel-id="xt_79694" tvg-id="uk.5 USA +1" tvg-chno="" tvg-name="UK| 5 USA +1" tvg-logo="http://103.176.90.154/picons/logos/UK/79694.png" group-title="HS",.UK| 5 USA +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/79694.ts
+#EXTINF:-1 channel-id="xt_79737" tvg-id="5Action.uk" tvg-chno="" tvg-name="UK| 5ACTION HD" tvg-logo="http://103.176.90.154/picons/logos/UK/79737.png" group-title="HS",.UK| 5ACTION HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/79737.ts
+#EXTINF:-1 channel-id="xt_229430" tvg-id="" tvg-chno="" tvg-name="UK| ALIBI +1" tvg-logo="http://103.176.90.154/picons/logos/UK/229430.png" group-title="HS",.UK| ALIBI +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/229430.ts
+#EXTINF:-1 channel-id="xt_30584" tvg-id="Alibi.uk" tvg-chno="" tvg-name="UK| ALIBI FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30584.png" group-title="HS",.UK| ALIBI FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30584.ts
+#EXTINF:-1 channel-id="xt_30583" tvg-id="AMC.uk" tvg-chno="" tvg-name="UK| AMC FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30583.png" group-title="HS",.UK| AMC FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30583.ts
+#EXTINF:-1 channel-id="xt_45336" tvg-id="CBBC.uk" tvg-chno="" tvg-name="UK| BBC 3 / CBBC HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45336.png" group-title="HS",.UK| BBC 3 / CBBC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45336.ts
+#EXTINF:-1 channel-id="xt_45335" tvg-id="CBeebies.uk" tvg-chno="" tvg-name="UK| BBC 4 / CBEEBIES HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45335.png" group-title="HS",.UK| BBC 4 / CBEEBIES HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45335.ts
+#EXTINF:-1 channel-id="xt_1458572" tvg-id="uk.BBC One HD (England)" tvg-chno="" tvg-name="UK| BBC1 HEVC HD" tvg-logo="http://103.176.90.154/picons/logos/UK/1458572.png" group-title="HS",.UK| BBC1 HEVC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458572.ts
+#EXTINF:-1 channel-id="xt_1014237" tvg-id="uk.Boomerang +1" tvg-chno="" tvg-name="UK| BOOMERANG +1" tvg-logo="http://103.176.90.92/images/1014237.png" group-title="HS",.UK| BOOMERANG +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014237.ts
+#EXTINF:-1 channel-id="xt_164013" tvg-id="Cartoonito.uk" tvg-chno="" tvg-name="UK| CARTOONITO" tvg-logo="http://103.176.90.92/images/164013.png" group-title="HS",.UK| CARTOONITO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/164013.ts
+#EXTINF:-1 channel-id="xt_1014307" tvg-id="" tvg-chno="" tvg-name="UK| CHANNEL 4 +1" tvg-logo="http://103.176.90.154/picons/logos/UK/1014307.png" group-title="HS",.UK| CHANNEL 4 +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014307.ts
+#EXTINF:-1 channel-id="xt_30555" tvg-id="Channel4.uk" tvg-chno="" tvg-name="UK| CHANNEL 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30555.png" group-title="HS",.UK| CHANNEL 4 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30555.ts
+#EXTINF:-1 channel-id="xt_229499" tvg-id="" tvg-chno="" tvg-name="UK| CHANNEL 4 LONDON" tvg-logo="http://103.176.90.154/picons/logos/UK/229499.png" group-title="HS",.UK| CHANNEL 4 LONDON
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/229499.ts
+#EXTINF:-1 channel-id="xt_1990796" tvg-id="Channel4.uk" tvg-chno="" tvg-name="UK| CHANNEL 4SEVEN" tvg-logo="http://103.176.90.154/picons/logos/UK/1990796.png" group-title="HS",.UK| CHANNEL 4SEVEN
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1990796.ts
+#EXTINF:-1 channel-id="xt_45286" tvg-id="uk.Channel 5+1" tvg-chno="" tvg-name="UK| CHANNEL 5 +1" tvg-logo="http://103.176.90.154/picons/logos/UK/45286.png" group-title="HS",.UK| CHANNEL 5 +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45286.ts
+#EXTINF:-1 channel-id="xt_30554" tvg-id="Channel5.uk" tvg-chno="" tvg-name="UK| CHANNEL 5 FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30554.png" group-title="HS",.UK| CHANNEL 5 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30554.ts
+#EXTINF:-1 channel-id="xt_1458570" tvg-id="Channel5.uk" tvg-chno="" tvg-name="UK| CHANNEL 5 HEVC FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/1458570.png" group-title="HS",.UK| CHANNEL 5 HEVC FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458570.ts
+#EXTINF:-1 channel-id="xt_1206422" tvg-id="" tvg-chno="" tvg-name="UK| DAVE & AVA HD" tvg-logo="http://103.176.90.92/images/1206422.png" group-title="HS",.UK| DAVE & AVA HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1206422.ts
+#EXTINF:-1 channel-id="xt_30550" tvg-id="UandDave.uk" tvg-chno="" tvg-name="UK| DAVE FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30550.png" group-title="HS",.UK| DAVE FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30550.ts
+#EXTINF:-1 channel-id="xt_45279" tvg-id="DiscoveryTurbo.uk" tvg-chno="" tvg-name="UK| DISCOVERY TURBO" tvg-logo="http://103.176.90.154/picons/logos/UK/45279.png" group-title="HS",.UK| DISCOVERY TURBO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45279.ts
+#EXTINF:-1 channel-id="xt_45278" tvg-id="EEntertainment.uk" tvg-chno="" tvg-name="UK| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.154/picons/logos/UK/45278.png" group-title="HS",.UK| E! ENTERTAINMENT HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45278.ts
+#EXTINF:-1 channel-id="xt_1014314" tvg-id="" tvg-chno="" tvg-name="UK| E4 EXTRA" tvg-logo="http://103.176.90.154/picons/logos/UK/1014314.png" group-title="HS",.UK| E4 EXTRA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014314.ts
+#EXTINF:-1 channel-id="xt_30545" tvg-id="E4.uk" tvg-chno="" tvg-name="UK| E4 FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30545.png" group-title="HS",.UK| E4 FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30545.ts
+#EXTINF:-1 channel-id="xt_45275" tvg-id="FoodNetwork.uk" tvg-chno="" tvg-name="UK| FOOD NETWORK" tvg-logo="http://103.176.90.154/picons/logos/UK/45275.png" group-title="HS",.UK| FOOD NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45275.ts
+#EXTINF:-1 channel-id="xt_164047" tvg-id="FoodNetwork.uk" tvg-chno="" tvg-name="UK| FOOD NETWORK +1" tvg-logo="http://103.176.90.154/picons/logos/UK/164047.png" group-title="HS",.UK| FOOD NETWORK +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/164047.ts
+#EXTINF:-1 channel-id="xt_1014294" tvg-id="uk.ITV London" tvg-chno="" tvg-name="UK| ITV +1 LONDON" tvg-logo="http://103.176.90.154/picons/logos/UK/1014294.png" group-title="HS",.UK| ITV +1 LONDON
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014294.ts
+#EXTINF:-1 channel-id="xt_686073" tvg-id="UK| ITV 1" tvg-chno="" tvg-name="UK| ITV 1 +1" tvg-logo="http://103.176.90.154/picons/logos/UK/686073.png" group-title="HS",.UK| ITV 1 +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/686073.ts
+#EXTINF:-1 channel-id="xt_30533" tvg-id="ITV1.uk" tvg-chno="" tvg-name="UK| ITV 1 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30533.png" group-title="HS",.UK| ITV 1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30533.ts
+#EXTINF:-1 channel-id="xt_30532" tvg-id="ITV2.uk" tvg-chno="" tvg-name="UK| ITV 2 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30532.png" group-title="HS",.UK| ITV 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30532.ts
+#EXTINF:-1 channel-id="xt_228571" tvg-id="ITV2.uk" tvg-chno="" tvg-name="UK| ITV 2+1" tvg-logo="http://103.176.90.154/picons/logos/UK/228571.png" group-title="HS",.UK| ITV 2+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228571.ts
+#EXTINF:-1 channel-id="xt_30531" tvg-id="ITV3.uk" tvg-chno="" tvg-name="UK| ITV 3 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30531.png" group-title="HS",.UK| ITV 3 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30531.ts
+#EXTINF:-1 channel-id="xt_228572" tvg-id="ITV3.uk" tvg-chno="" tvg-name="UK| ITV 3+1" tvg-logo="http://103.176.90.154/picons/logos/UK/228572.png" group-title="HS",.UK| ITV 3+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228572.ts
+#EXTINF:-1 channel-id="xt_30530" tvg-id="ITV4.uk" tvg-chno="" tvg-name="UK| ITV 4 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/30530.png" group-title="HS",.UK| ITV 4 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30530.ts
+#EXTINF:-1 channel-id="xt_228573" tvg-id="ITV4.uk" tvg-chno="" tvg-name="UK| ITV 4+1" tvg-logo="http://103.176.90.154/picons/logos/UK/228573.png" group-title="HS",.UK| ITV 4+1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228573.ts
+#EXTINF:-1 channel-id="xt_1014317" tvg-id="Legend.uk" tvg-chno="" tvg-name="UK| LEGEND" tvg-logo="http://103.176.90.154/picons/logos/UK/1014317.png" group-title="HS",.UK| LEGEND
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014317.ts
+#EXTINF:-1 channel-id="xt_1879960" tvg-id="Thats.TV.uk" tvg-chno="" tvg-name="UK| LEGEND XTRA" tvg-logo="http://103.176.90.154/picons/logos/UK/1879960.png" group-title="HS",.UK| LEGEND XTRA
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1879960.ts
+#EXTINF:-1 channel-id="xt_164074" tvg-id="More4.uk" tvg-chno="" tvg-name="UK| MORE4 HD" tvg-logo="http://103.176.90.154/picons/logos/UK/164074.png" group-title="HS",.UK| MORE4 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/164074.ts
+#EXTINF:-1 channel-id="xt_1014270" tvg-id="" tvg-chno="" tvg-name="UK| MTV 90S" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTV90S.png" group-title="HS",.UK| MTV 90S
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014270.ts
+#EXTINF:-1 channel-id="xt_45267" tvg-id="MTVBase.uk" tvg-chno="" tvg-name="UK| MTV BASE" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVBASE.png" group-title="HS",.UK| MTV BASE
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45267.ts
+#EXTINF:-1 channel-id="xt_45266" tvg-id="MTVClassic.uk" tvg-chno="" tvg-name="UK| MTV CLASSIC" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVCLASSIC.png" group-title="HS",.UK| MTV CLASSIC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45266.ts
+#EXTINF:-1 channel-id="xt_45265" tvg-id="" tvg-chno="" tvg-name="UK| MTV CLUB" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVCLUB.png" group-title="HS",.UK| MTV CLUB
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45265.ts
+#EXTINF:-1 channel-id="xt_45326" tvg-id="MTV.uk" tvg-chno="" tvg-name="UK| MTV FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTV.png" group-title="HS",.UK| MTV FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45326.ts
+#EXTINF:-1 channel-id="xt_1458548" tvg-id="MTV.uk" tvg-chno="" tvg-name="UK| MTV HEVC FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/1458548.png" group-title="HS",.UK| MTV HEVC FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458548.ts
+#EXTINF:-1 channel-id="xt_45264" tvg-id="MTVHits.uk" tvg-chno="" tvg-name="UK| MTV HITS" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVHITS.png" group-title="HS",.UK| MTV HITS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45264.ts
+#EXTINF:-1 channel-id="xt_45325" tvg-id="uk.MTV Live HD" tvg-chno="" tvg-name="UK| MTV LIVE FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVLIVE.png" group-title="HS",.UK| MTV LIVE FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45325.ts
+#EXTINF:-1 channel-id="xt_163792" tvg-id="MTVMusic.uk" tvg-chno="" tvg-name="UK| MTV MUSIC" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVMUSIC.png" group-title="HS",.UK| MTV MUSIC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/163792.ts
+#EXTINF:-1 channel-id="xt_1014290" tvg-id="" tvg-chno="" tvg-name="UK| MTV XMAS" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MTVXMAS.png" group-title="HS",.UK| MTV XMAS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014290.ts
+#EXTINF:-1 channel-id="xt_1014236" tvg-id="" tvg-chno="" tvg-name="UK| NICKELODEON +1" tvg-logo="http://103.176.90.92/images/1014236.png" group-title="HS",.UK| NICKELODEON +1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1014236.ts
+#EXTINF:-1 channel-id="xt_30524" tvg-id="Nickelodeon.uk" tvg-chno="" tvg-name="UK| NICKELODEON FHD" tvg-logo="http://103.176.90.92/images/30524.png" group-title="HS",.UK| NICKELODEON FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30524.ts
+#EXTINF:-1 channel-id="xt_228579" tvg-id="Nickelodeon.uk" tvg-chno="" tvg-name="UK| NICKELODEON HD" tvg-logo="http://103.176.90.92/images/228579.png" group-title="HS",.UK| NICKELODEON HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/228579.ts
+#EXTINF:-1 channel-id="xt_79711" tvg-id="S4C.uk" tvg-chno="" tvg-name="UK| S4C" tvg-logo="http://103.176.90.154/picons/logos/UK/79711.png" group-title="HS",.UK| S4C
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/79711.ts
+#EXTINF:-1 channel-id="xt_30518" tvg-id="SkyAtlantic.uk" tvg-chno="" tvg-name="UK| SKY ATLANTIC FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/30518.png" group-title="HS",.UK| SKY ATLANTIC FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/30518.ts
+#EXTINF:-1 channel-id="xt_741954" tvg-id="SkyMax.uk" tvg-chno="" tvg-name="UK| SKY MAX FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/741954.png" group-title="HS",.UK| SKY MAX FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/741954.ts
+#EXTINF:-1 channel-id="xt_1458754" tvg-id="uk.Syfy" tvg-chno="" tvg-name="UK| SYFY HEVC FHD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SYFY.png" group-title="HS",.UK| SYFY HEVC FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458754.ts
+#EXTINF:-1 channel-id="xt_1458755" tvg-id="uk.Syfy" tvg-chno="" tvg-name="UK| SYFY HEVC HD" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SYFY.png" group-title="HS",.UK| SYFY HEVC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1458755.ts
+#EXTINF:-1 channel-id="xt_230677" tvg-id="UTV.uk" tvg-chno="" tvg-name="UK| UTV FHD" tvg-logo="http://103.176.90.154/picons/logos/UK/230677.png" group-title="HS",.UK| UTV FHD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/230677.ts
+#EXTINF:-1 channel-id="xt_45234" tvg-id="VH1.uk" tvg-chno="" tvg-name="UK| VH1" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/VH1.png" group-title="HS",.UK| VH1
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45234.ts
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/f1FyTkt/universcine.jpg" tvg-name="UNIVERS CINÉ"  group-title="HS",.UNIVERS CINÉ
 https://samsunguk-universcine-samsung-fre-xxgab.amagi.tv/playlist/samsunguk-universcine-samsung-fre/playlist.m3u8
 #EXTINF:-1, tvg-id="UniversCine.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/LOGO_UC_BLACK.png/420px-LOGO_UC_BLACK.png" tvg-name="UNIVERSCINE"  group-title="HS",.UNIVERSCINE
@@ -6592,6 +7762,366 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116113
 #EXTINF:-1, tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ushuaia-tv-fr.png" tvg-name="USHUAIA TV HD"  group-title="HS",.USHUAIA TV HD
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116112
+#EXTINF:-1 channel-id="xt_45619" tvg-id="AandE.us" tvg-chno="" tvg-name="US| A&E HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45619.png" group-title="HS",.US| A&E HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45619.ts
+#EXTINF:-1 channel-id="xt_150345" tvg-id="AdultSwim.us" tvg-chno="" tvg-name="US| ADULT SWIM HD" tvg-logo="http://103.176.90.154/picons/logos/USA/150345.png" group-title="HS",.US| ADULT SWIM HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/150345.ts
+#EXTINF:-1 channel-id="xt_45445" tvg-id="AMC.us" tvg-chno="" tvg-name="US| AMC HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45445.png" group-title="HS",.US| AMC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45445.ts
+#EXTINF:-1 channel-id="xt_534381" tvg-id="AMCPlus.us" tvg-chno="" tvg-name="US| AMC PLUS" tvg-logo="http://103.176.90.154/picons/logos/USA/534381.png" group-title="HS",.US| AMC PLUS
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/534381.ts
+#EXTINF:-1 channel-id="xt_83953" tvg-id="liga" tvg-chno="" tvg-name="US| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.154/picons/logos/USA/83953.png" group-title="HS",.US| BEIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/83953.ts
+#EXTINF:-1 channel-id="xt_91767" tvg-id="BETGospel.us" tvg-chno="" tvg-name="US| BET GOSPEL" tvg-logo="http://103.176.90.154/picons/logos/USA/91767.png" group-title="HS",.US| BET GOSPEL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91767.ts
+#EXTINF:-1 channel-id="xt_45610" tvg-id="BET.us" tvg-chno="" tvg-name="US| BET HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45610.png" group-title="HS",.US| BET HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45610.ts
+#EXTINF:-1 channel-id="xt_91768" tvg-id="US-BET Her" tvg-chno="" tvg-name="US| BET HER HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91768.png" group-title="HS",.US| BET HER HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91768.ts
+#EXTINF:-1 channel-id="xt_91769" tvg-id="BETjams.us" tvg-chno="" tvg-name="US| BET JAMS HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91769.png" group-title="HS",.US| BET JAMS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91769.ts
+#EXTINF:-1 channel-id="xt_91770" tvg-id="BETSoul.us" tvg-chno="" tvg-name="US| BET SOUL" tvg-logo="http://103.176.90.154/picons/logos/USA/91770.png" group-title="HS",.US| BET SOUL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91770.ts
+#EXTINF:-1 channel-id="xt_45446" tvg-id="Bravo.us" tvg-chno="" tvg-name="US| BRAVO HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45446.png" group-title="HS",.US| BRAVO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45446.ts
+#EXTINF:-1 channel-id="xt_91772" tvg-id="US| BRAVO WEST HD" tvg-chno="" tvg-name="US| BRAVO WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91772.png" group-title="HS",.US| BRAVO WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91772.ts
+#EXTINF:-1 channel-id="xt_1149739" tvg-id="" tvg-chno="" tvg-name="US| COMEDY CENTRAL EAST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1149739.png" group-title="HS",.US| COMEDY CENTRAL EAST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1149739.ts
+#EXTINF:-1 channel-id="xt_45448" tvg-id="US-Comedy Central (US) - Eastern Feed" tvg-chno="" tvg-name="US| COMEDY CENTRAL HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45448.png" group-title="HS",.US| COMEDY CENTRAL HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45448.ts
+#EXTINF:-1 channel-id="xt_1131978" tvg-id="ComedyCentral.us" tvg-chno="" tvg-name="US| COMEDY CENTRAL WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1131978.png" group-title="HS",.US| COMEDY CENTRAL WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1131978.ts
+#EXTINF:-1 channel-id="xt_1092802" tvg-id="DiscoveryTurbo.uk" tvg-chno="" tvg-name="US| DISCOVERY TURBO" tvg-logo="http://103.176.90.154/picons/logos/USA/1092802.png" group-title="HS",.US| DISCOVERY TURBO
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1092802.ts
+#EXTINF:-1 channel-id="xt_45584" tvg-id="EEntertainment.us" tvg-chno="" tvg-name="US| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45584.png" group-title="HS",.US| E! ENTERTAINMENT HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45584.ts
+#EXTINF:-1 channel-id="xt_91834" tvg-id="US| E! ENTERTAINMENT WEST HD" tvg-chno="" tvg-name="US| E! ENTERTAINMENT WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91834.png" group-title="HS",.US| E! ENTERTAINMENT WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91834.ts
+#EXTINF:-1 channel-id="xt_45557" tvg-id="Freeform.us" tvg-chno="" tvg-name="US| FREEFORM HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45557.png" group-title="HS",.US| FREEFORM HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45557.ts
+#EXTINF:-1 channel-id="xt_91849" tvg-id="US| FREEFORM WEST HD" tvg-chno="" tvg-name="US| FREEFORM WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91849.png" group-title="HS",.US| FREEFORM WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91849.ts
+#EXTINF:-1 channel-id="xt_45451" tvg-id="FX.us" tvg-chno="" tvg-name="US| FX HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45451.png" group-title="HS",.US| FX HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45451.ts
+#EXTINF:-1 channel-id="xt_91852" tvg-id="US| FX WEST HD" tvg-chno="" tvg-name="US| FX WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91852.png" group-title="HS",.US| FX WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91852.ts
+#EXTINF:-1 channel-id="xt_45449" tvg-id="FXX.us" tvg-chno="" tvg-name="US| FXX HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45449.png" group-title="HS",.US| FXX HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45449.ts
+#EXTINF:-1 channel-id="xt_91853" tvg-id="US| FXX WEST HD" tvg-chno="" tvg-name="US| FXX WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91853.png" group-title="HS",.US| FXX WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91853.ts
+#EXTINF:-1 channel-id="xt_90961" tvg-id="HallmarkFamily.us" tvg-chno="" tvg-name="US| HALLMARK FAMILY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/90961.png" group-title="HS",.US| HALLMARK FAMILY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/90961.ts
+#EXTINF:-1 channel-id="xt_45458" tvg-id="Hallmark.us" tvg-chno="" tvg-name="US| HALLMARK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45458.png" group-title="HS",.US| HALLMARK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45458.ts
+#EXTINF:-1 channel-id="xt_45457" tvg-id="HallmarkMoviesMysteries.us" tvg-chno="" tvg-name="US| HALLMARK MYSTERY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45457.png" group-title="HS",.US| HALLMARK MYSTERY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45457.ts
+#EXTINF:-1 channel-id="xt_45552" tvg-id="HBO2.us" tvg-chno="" tvg-name="US| HBO 2 HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45552.png" group-title="HS",.US| HBO 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45552.ts
+#EXTINF:-1 channel-id="xt_45551" tvg-id="HBOComedy.us" tvg-chno="" tvg-name="US| HBO COMEDY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45551.png" group-title="HS",.US| HBO COMEDY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45551.ts
+#EXTINF:-1 channel-id="xt_45550" tvg-id="HBOFamily.us" tvg-chno="" tvg-name="US| HBO FAMILY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45550.png" group-title="HS",.US| HBO FAMILY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45550.ts
+#EXTINF:-1 channel-id="xt_45549" tvg-id="HBO.us" tvg-chno="" tvg-name="US| HBO HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45549.png" group-title="HS",.US| HBO HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45549.ts
+#EXTINF:-1 channel-id="xt_45547" tvg-id="HBOSignature.us" tvg-chno="" tvg-name="US| HBO SIGNATURE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45547.png" group-title="HS",.US| HBO SIGNATURE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45547.ts
+#EXTINF:-1 channel-id="xt_45546" tvg-id="HBOZone.us" tvg-chno="" tvg-name="US| HBO ZONE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45546.png" group-title="HS",.US| HBO ZONE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45546.ts
+#EXTINF:-1 channel-id="xt_1350074" tvg-id="HGTV.us" tvg-chno="" tvg-name="US| HGTV HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1350074.png" group-title="HS",.US| HGTV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1350074.ts
+#EXTINF:-1 channel-id="xt_91925" tvg-id="US| HGTV WEST HD" tvg-chno="" tvg-name="US| HGTV WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91925.png" group-title="HS",.US| HGTV WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91925.ts
+#EXTINF:-1 channel-id="xt_990397" tvg-id="ca.KTLA Los Angeles, CA" tvg-chno="" tvg-name="US| KTLA LOS ANGELES HD" tvg-logo="http://103.176.90.154/picons/logos/USA/990397.png" group-title="HS",.US| KTLA LOS ANGELES HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/990397.ts
+#EXTINF:-1 channel-id="xt_45541" tvg-id="US-Lifetime Network US - Eastern Feed" tvg-chno="" tvg-name="US| LIFETIME HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45541.png" group-title="HS",.US| LIFETIME HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45541.ts
+#EXTINF:-1 channel-id="xt_45456" tvg-id="US-Lifetime Movies - East" tvg-chno="" tvg-name="US| LIFETIME MOVIE NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45456.png" group-title="HS",.US| LIFETIME MOVIE NETWORK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45456.ts
+#EXTINF:-1 channel-id="xt_150353" tvg-id="LRW.us" tvg-chno="" tvg-name="US| LIFETIME REAL WOMEN HD" tvg-logo="http://103.176.90.154/picons/logos/USA/150353.png" group-title="HS",.US| LIFETIME REAL WOMEN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/150353.ts
+#EXTINF:-1 channel-id="xt_1350214" tvg-id="MagnoliaNetwork.us" tvg-chno="" tvg-name="US| MAGNOLIA NETWORK" tvg-logo="http://103.176.90.154/picons/logos/USA/1350214.png" group-title="HS",.US| MAGNOLIA NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1350214.ts
+#EXTINF:-1 channel-id="xt_90963" tvg-id="MTV2.us" tvg-chno="" tvg-name="US| MTV 2 HD" tvg-logo="http://103.176.90.154/picons/logos/USA/90963.png" group-title="HS",.US| MTV 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/90963.ts
+#EXTINF:-1 channel-id="xt_1827374" tvg-id="MTVClassic.us" tvg-chno="" tvg-name="US| MTV CLASSIC" tvg-logo="http://103.176.90.154/picons/logos/USA/1827374.png" group-title="HS",.US| MTV CLASSIC
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1827374.ts
+#EXTINF:-1 channel-id="xt_45461" tvg-id="MTV.us" tvg-chno="" tvg-name="US| MTV HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45461.png" group-title="HS",.US| MTV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45461.ts
+#EXTINF:-1 channel-id="xt_45460" tvg-id="MTVLive.us" tvg-chno="" tvg-name="US| MTV LIVE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45460.png" group-title="HS",.US| MTV LIVE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45460.ts
+#EXTINF:-1 channel-id="xt_45518" tvg-id="US-Oprah Winfrey Network USA Eastern" tvg-chno="" tvg-name="US| OWN HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45518.png" group-title="HS",.US| OWN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45518.ts
+#EXTINF:-1 channel-id="xt_45517" tvg-id="Oxygen.us" tvg-chno="" tvg-name="US| OXYGEN HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45517.png" group-title="HS",.US| OXYGEN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45517.ts
+#EXTINF:-1 channel-id="xt_91868" tvg-id="US| OXYGEN WEST HD" tvg-chno="" tvg-name="US| OXYGEN WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91868.png" group-title="HS",.US| OXYGEN WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91868.ts
+#EXTINF:-1 channel-id="xt_45505" tvg-id="Showtime2.us" tvg-chno="" tvg-name="US| SHOWTIME 2 HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45505.png" group-title="HS",.US| SHOWTIME 2 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45505.ts
+#EXTINF:-1 channel-id="xt_303331" tvg-id="Showtime.us" tvg-chno="" tvg-name="US| SHOWTIME BET HD" tvg-logo="http://103.176.90.154/picons/logos/USA/303331.png" group-title="HS",.US| SHOWTIME BET HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/303331.ts
+#EXTINF:-1 channel-id="xt_45504" tvg-id="Showtime.us" tvg-chno="" tvg-name="US| SHOWTIME EAST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45504.png" group-title="HS",.US| SHOWTIME EAST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45504.ts
+#EXTINF:-1 channel-id="xt_91887" tvg-id="ShowtimeExtreme.us" tvg-chno="" tvg-name="US| SHOWTIME EXTREME HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91887.png" group-title="HS",.US| SHOWTIME EXTREME HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91887.ts
+#EXTINF:-1 channel-id="xt_91888" tvg-id="ShowtimeFamilyZone.us" tvg-chno="" tvg-name="US| SHOWTIME FAMILY ZONE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91888.png" group-title="HS",.US| SHOWTIME FAMILY ZONE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91888.ts
+#EXTINF:-1 channel-id="xt_45503" tvg-id="Showtime.us" tvg-chno="" tvg-name="US| SHOWTIME HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45503.png" group-title="HS",.US| SHOWTIME HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45503.ts
+#EXTINF:-1 channel-id="xt_92019" tvg-id="ShowtimeNext.us" tvg-chno="" tvg-name="US| SHOWTIME NEXT HD" tvg-logo="http://103.176.90.154/picons/logos/USA/92019.png" group-title="HS",.US| SHOWTIME NEXT HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/92019.ts
+#EXTINF:-1 channel-id="xt_45502" tvg-id="ShowtimeShowcase.us" tvg-chno="" tvg-name="US| SHOWTIME SHOWCASE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45502.png" group-title="HS",.US| SHOWTIME SHOWCASE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45502.ts
+#EXTINF:-1 channel-id="xt_92020" tvg-id="US-Showtime West" tvg-chno="" tvg-name="US| SHOWTIME WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/92020.png" group-title="HS",.US| SHOWTIME WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/92020.ts
+#EXTINF:-1 channel-id="xt_92018" tvg-id="ShowtimeWomen.us" tvg-chno="" tvg-name="US| SHOWTIME WOMEN HD" tvg-logo="http://103.176.90.154/picons/logos/USA/92018.png" group-title="HS",.US| SHOWTIME WOMEN HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/92018.ts
+#EXTINF:-1 channel-id="xt_45498" tvg-id="StarzInBlack.us" tvg-chno="" tvg-name="US| STARZ BLACK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45498.png" group-title="HS",.US| STARZ BLACK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45498.ts
+#EXTINF:-1 channel-id="xt_45497" tvg-id="StarzCinema.us" tvg-chno="" tvg-name="US| STARZ CINEMA EAST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45497.png" group-title="HS",.US| STARZ CINEMA EAST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45497.ts
+#EXTINF:-1 channel-id="xt_45496" tvg-id="StarzCinema.us" tvg-chno="" tvg-name="US| STARZ CINEMA HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45496.png" group-title="HS",.US| STARZ CINEMA HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45496.ts
+#EXTINF:-1 channel-id="xt_45494" tvg-id="StarzComedy.us" tvg-chno="" tvg-name="US| STARZ COMEDY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45494.png" group-title="HS",.US| STARZ COMEDY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45494.ts
+#EXTINF:-1 channel-id="xt_45493" tvg-id="Starz.us" tvg-chno="" tvg-name="US| STARZ EAST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45493.png" group-title="HS",.US| STARZ EAST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45493.ts
+#EXTINF:-1 channel-id="xt_45492" tvg-id="StarzEdge.us" tvg-chno="" tvg-name="US| STARZ EDGE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45492.png" group-title="HS",.US| STARZ EDGE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45492.ts
+#EXTINF:-1 channel-id="xt_45489" tvg-id="StarzEncoreAction.us" tvg-chno="" tvg-name="US| STARZ ENCORE ACTION HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45489.png" group-title="HS",.US| STARZ ENCORE ACTION HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45489.ts
+#EXTINF:-1 channel-id="xt_45488" tvg-id="StarzEncoreBlack.us" tvg-chno="" tvg-name="US| STARZ ENCORE BLACK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45488.png" group-title="HS",.US| STARZ ENCORE BLACK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45488.ts
+#EXTINF:-1 channel-id="xt_45487" tvg-id="StarzEncoreClassics.us" tvg-chno="" tvg-name="US| STARZ ENCORE CLASSIC HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45487.png" group-title="HS",.US| STARZ ENCORE CLASSIC HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45487.ts
+#EXTINF:-1 channel-id="xt_45486" tvg-id="StarzEncore.us" tvg-chno="" tvg-name="US| STARZ ENCORE EAST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45486.png" group-title="HS",.US| STARZ ENCORE EAST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45486.ts
+#EXTINF:-1 channel-id="xt_45485" tvg-id="StarzEncoreFamily.us" tvg-chno="" tvg-name="US| STARZ ENCORE FAMILY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45485.png" group-title="HS",.US| STARZ ENCORE FAMILY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45485.ts
+#EXTINF:-1 channel-id="xt_45484" tvg-id="StarzEncore.us" tvg-chno="" tvg-name="US| STARZ ENCORE HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45484.png" group-title="HS",.US| STARZ ENCORE HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45484.ts
+#EXTINF:-1 channel-id="xt_45482" tvg-id="US-Starz Encore - Pacific" tvg-chno="" tvg-name="US| STARZ ENCORE WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45482.png" group-title="HS",.US| STARZ ENCORE WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45482.ts
+#EXTINF:-1 channel-id="xt_91947" tvg-id="StarzEncoreWesterns.us" tvg-chno="" tvg-name="US| STARZ ENCORE WESTERNS HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91947.png" group-title="HS",.US| STARZ ENCORE WESTERNS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91947.ts
+#EXTINF:-1 channel-id="xt_45481" tvg-id="" tvg-chno="" tvg-name="US| STARZ FAMILY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45481.png" group-title="HS",.US| STARZ FAMILY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45481.ts
+#EXTINF:-1 channel-id="xt_45480" tvg-id="Starz.us" tvg-chno="" tvg-name="US| STARZ HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45480.png" group-title="HS",.US| STARZ HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45480.ts
+#EXTINF:-1 channel-id="xt_45478" tvg-id="US-Starz - Pacific" tvg-chno="" tvg-name="US| STARZ WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45478.png" group-title="HS",.US| STARZ WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45478.ts
+#EXTINF:-1 channel-id="xt_45476" tvg-id="Syfy.us" tvg-chno="" tvg-name="US| SYFY HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45476.png" group-title="HS",.US| SYFY HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45476.ts
+#EXTINF:-1 channel-id="xt_91875" tvg-id="US| SYFY WEST HD" tvg-chno="" tvg-name="US| SYFY WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91875.png" group-title="HS",.US| SYFY WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91875.ts
+#EXTINF:-1 channel-id="xt_45475" tvg-id="US-TBS - East" tvg-chno="" tvg-name="US| TBS HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45475.png" group-title="HS",.US| TBS HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45475.ts
+#EXTINF:-1 channel-id="xt_91924" tvg-id="US| TBS WEST HD" tvg-chno="" tvg-name="US| TBS WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91924.png" group-title="HS",.US| TBS WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91924.ts
+#EXTINF:-1 channel-id="xt_45470" tvg-id="TNT.us" tvg-chno="" tvg-name="US| TNT" tvg-logo="http://103.176.90.154/picons/logos/USA/45470.png" group-title="HS",.US| TNT
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45470.ts
+#EXTINF:-1 channel-id="xt_45469" tvg-id="TNT.us" tvg-chno="" tvg-name="US| TNT HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45469.png" group-title="HS",.US| TNT HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45469.ts
+#EXTINF:-1 channel-id="xt_1198206" tvg-id="TNT.us" tvg-chno="" tvg-name="US| TNT HD(BK)" tvg-logo="http://103.176.90.154/picons/logos/USA/1198206.png" group-title="HS",.US| TNT HD(BK)
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/1198206.ts
+#EXTINF:-1 channel-id="xt_91879" tvg-id="US| TNT WEST HD" tvg-chno="" tvg-name="US| TNT WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91879.png" group-title="HS",.US| TNT WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91879.ts
+#EXTINF:-1 channel-id="xt_45468" tvg-id="truTV.us" tvg-chno="" tvg-name="US| TRUTV HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45468.png" group-title="HS",.US| TRUTV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45468.ts
+#EXTINF:-1 channel-id="xt_91878" tvg-id="US| TRUTV WEST HD" tvg-chno="" tvg-name="US| TRUTV WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91878.png" group-title="HS",.US| TRUTV WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91878.ts
+#EXTINF:-1 channel-id="xt_45467" tvg-id="TVLand.us" tvg-chno="" tvg-name="US| TV LAND HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45467.png" group-title="HS",.US| TV LAND HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45467.ts
+#EXTINF:-1 channel-id="xt_188997" tvg-id="USANetwork.us" tvg-chno="" tvg-name="US| USA NETWORK EAST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/188997.png" group-title="HS",.US| USA NETWORK EAST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/188997.ts
+#EXTINF:-1 channel-id="xt_45466" tvg-id="USANetwork.us" tvg-chno="" tvg-name="US| USA NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45466.png" group-title="HS",.US| USA NETWORK HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45466.ts
+#EXTINF:-1 channel-id="xt_91882" tvg-id="US| USA NETWORK WEST HD" tvg-chno="" tvg-name="US| USA NETWORK WEST HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91882.png" group-title="HS",.US| USA NETWORK WEST HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/91882.ts
+#EXTINF:-1 channel-id="xt_45436" tvg-id="VH1.us" tvg-chno="" tvg-name="US| VH1 HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45436.png" group-title="HS",.US| VH1 HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45436.ts
+#EXTINF:-1 channel-id="xt_45464" tvg-id="WeTV.us" tvg-chno="" tvg-name="US| WE TV HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45464.png" group-title="HS",.US| WE TV HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://vpn.flixdns.cc:80/live/21419136e4/a8a39684ef/45464.ts
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/c2MfMVN/valloire.jpg",.VALLOIRE TV
 https://indisponible
 #EXTINF:-1 group-title="HS" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",.VAN GÖLÜ TV
