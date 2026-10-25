@@ -18,7 +18,7 @@
 "Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"3 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
-"Homicide",{group:"3 Gratuit"}
+"Homicide",{tvg-id:"homicide"},{group:"3 Gratuit"}
 "Pluto TV Cuisine",{group:"3 Gratuit"}
 "Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"3 Gratuit"}
 "CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"3 Gratuit"}
