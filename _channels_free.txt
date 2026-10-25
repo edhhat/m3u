@@ -183,8 +183,8 @@
 "NBC CHI","US| NBC 05 (WMAQ) CHICAGO","WMAQ",{tvg-id:"NBCWMAQ.us"},{group:"4 Anglais"}
 "USA Network","US| USA NETWORK HD","US| USA NETWORK EAST HD",{tvg-id:"USANetwork.us"},{group:"4 Anglais"}
 "Fox West (720p)",{group:"4 Anglais"}
-"Starz Comedy (1080p)" {group:"4 Anglais"}
-"Showtime Family Zone (720p)" {group:"4 Anglais"}
+"Starz Comedy","Starz Comedy (1080p)",{tvg-id:"StarzComedy.us"},{group:"4 Anglais"}
+"Showtime Family Zone","Showtime Family Zone (720p)",{tvg-id:"ShowtimeFamilyzone.us"},{group:"4 Anglais"}
 
 # fin de liste
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
