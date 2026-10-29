@@ -192,7 +192,7 @@
 "Cinemax Hits (1080p)" {group:"4 Anglais"}
 "Universal Cinema","Universal Cinema (1080p)",{tvg-id:"UniversalCinema.us@SD"},{group:"4 Anglais"}
 "Starz Cinema","Starz Cinema (720p)",{tvg-id:"StarzCinema.us@East"},{group:"4 Anglais"}
-"Cinemax Classics (1080p)" {group:"4 Anglais"}
+"Cinemax Classics","Cinemax Classics (1080p)",{group:"4 Anglais"}
 
 # fin de liste
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
