@@ -186,7 +186,7 @@
 "Fox West (720p)",{group:"4 Anglais"}
 "Starz Comedy","Starz Comedy (1080p)",{tvg-id:"StarzComedy.us"},{group:"4 Anglais"}
 "Showtime Family Zone","Showtime Family Zone (720p)",{tvg-id:"ShowtimeFamilyzone.us"},{group:"4 Anglais"}
-"Cinemax West (720p)" {group:"4 Anglais"}
+"Cinemax West","Cinemax West (720p)",{group:"4 Anglais"}
 "NBC (1080p)" {group:"4 Anglais"}
 "Fuse (1080p)" {group:"4 Anglais"}
 
