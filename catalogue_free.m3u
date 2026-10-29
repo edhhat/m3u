@@ -2739,6 +2739,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 #EXTINF:-1 x-source="iptv-org AU" tvg-id="CTBPerthMoviesChannel.au@SD",CTB Perth Movies (720p)
 https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1 x-source="iptv-org AU" tvg-id="DGRadio.au@HD",DG:Radio (1080p)
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
 #EXTINF:-1 x-source="iptv-org AU" tvg-id="DGTV.au@HD",DG:TV (1080p)
 https://mdn.dg.church/673ac57a073a4-1/index.m3u8
 #EXTINF:-1 x-source="iptv-org AU" tvg-id="ExpoChannel.au@SD",Expo Channel (360p)
@@ -2799,6 +2801,8 @@ https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
 #EXTINF:-1 x-source="iptv-org BE" tvg-id="Klara.be@SD",Klara (720p)
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd
+#EXTINF:-1 x-source="iptv-org BE" tvg-id="LaUne.be@SD",La Une (1080p)
+http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 x-source="iptv-org BE" tvg-id="Matele.be@SD",MaTele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 x-source="iptv-org BE" tvg-id="MNM.be@SD",MNM (720p)
@@ -3861,6 +3865,8 @@ https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist/amg0
 https://web-primeprimetv2026.onrender.com/playlist.m3u8
 #EXTINF:-1 x-source="iptv-org UK" tvg-id="PanjabTV.uk@SD",Panjab TV (576p)
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
+#EXTINF:-1 x-source="iptv-org UK" tvg-id="PBSAmerica.uk@SD",PBS America (576p)
+http://185.19.191.2:8090/PBS/index.m3u8
 #EXTINF:-1 x-source="iptv-org UK" tvg-id="PlanetFun.uk@SD",Planet Fun (1080p)
 http://66.102.126.10:8000/play/a02k/index.m3u8
 #EXTINF:-1 x-source="iptv-org UK" tvg-id="Pop.uk@SD",Pop (1080p)
@@ -4586,6 +4592,8 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="DiscoveryWorld.us@LatinAmerica",Discovery World (1080p)
 http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="DiscoveryWorld.us@LatinAmerica",Discovery World (1080p)
+http://209.61.12.77:9000/play/a08v/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="DiscoveryWorld.us@Brazil",Discovery World Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (720p)
@@ -4898,6 +4906,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="HBOXtremeLatinAmerica.us@SD",HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="HBOPlusLatinAmerica.us@SD",HBO+ Latin America (1080p)
+http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="HBOPlusLatinAmerica.us@SD",HBO+ Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="HCTVEducationalAccessChannel.us@SD",HCTV Educational Access Channel
@@ -5225,6 +5235,8 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="MTV.us@East",MTV (720p)
 http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America
+http://181.78.79.131:8000/play/a0nc
 #EXTINF:-1 x-source="iptv-org US" tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
 http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
@@ -5283,6 +5295,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="Telemundo.us@KNSD",NBC West (San Diego) (1080p) [Not 24/7]
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="NBC.us@WKYC",NBC WKYC (1080p)
+https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="NBC.us@WTLV",NBC WTLV (1080p)
 http://190.197.41.183/NBC/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="NBCLX.us@SD",NBCLX (1080p)
@@ -5514,13 +5528,8 @@ https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b
 https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="RVTVVoices.us@SD",RVTV Voices (720p)
 https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 x-source="iptv-org US" tvg-id="SCorbyTV.us@HD",S Corby TV (480p)
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="SMetroTV.us@HD",S Metro TV (360p)
 https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
-#EXTINF:-1 x-source="iptv-org US" tvg-id="SPlayEvent.us@HD",S Play Event (1080p)
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6aa1fc1f063044342e102703
-https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="SBNTV.us@SD",SBN TV (720p)
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="SBNTVGlobal.us@SD",SBN TV Global (720p)
@@ -5704,6 +5713,8 @@ http://181.119.108.43:9001/play/a044/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="Telemundo.us@WKAQTV",Telemundo WKAQ-TV (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="TelevisionCaribe.us@HD",Television Caribe (1080p)
+https://televisioncaribe.com/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="TeleXitos.us@SD",TeleXitos (1080p)
 http://190.197.41.183/TELEXITOS/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
@@ -6160,6 +6171,8 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 x-source="iptv-org ZA" tvg-id="SABC2.za@SD",SABC 2 [Geo-blocked]
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 x-source="iptv-org ZA" tvg-id="SABC3.za@SD",SABC 3 (576i) [Geo-blocked]
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 #EXTINF:-1 x-source="iptv-org ZA" tvg-id="SABCLehae.za@SD",SABC Lehae [Geo-blocked]
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 x-source="iptv-org ZA" tvg-id="SABCNews.za@SD",SABC News (720p) [Geo-blocked]
@@ -8777,9 +8790,9 @@ https://estreams.tv.nej.cz/dash/CH_NOVA_Portable.ism/playlist.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=DrJ_srcHSBTr09Nl3eEbsQ&e=1793238608
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=kMGDcaIYVOoVmIsZYfrNBA&e=1793244367
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=DrJ_srcHSBTr09Nl3eEbsQ&e=1793238608
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=kMGDcaIYVOoVmIsZYfrNBA&e=1793244367
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
@@ -9855,7 +9868,7 @@ http://demiroren.daioncdn.net/teve2/teve2.m3u8?app=web
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 TNT
-[!] Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Wa8nNwCywxRp/TF1.m3u8
+https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjY4IiwiY21jZCI6IiIsImV4cCI6MTc5MzI0MDI5OSwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTMyMjU4OTksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RGMS9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.sZRjgG5HPrXEkw0674cgRc5lzxzRHlXFKsa0AaFlkuA/prod/TF1/cmaf/out/TF1.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TFM (SN)
@@ -9903,7 +9916,7 @@ https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",TMB AZ
 http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
-https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNDYuNzAuMTk0LjU2IiwiY21jZCI6IiIsImV4cCI6MTc5MzIyNTkwNywiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTMyMTE1MDcsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RNQy9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.lqIpbcrZURqWdux8UdI1LETOEMf_SXcbwkZ8w9kj5Xw/prod/TMC/cmaf/out/TMC.m3u8
+https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjY4IiwiY21jZCI6IiIsImV4cCI6MTc5MzI0MDMwMSwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTMyMjU5MDEsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RNQy9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.quHy5ul1ns7Q5p84O0LEXe2Eonehwj_n2kS4jtGLs6Y/prod/TMC/cmaf/out/TMC.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TON TV ÇANAKKALE
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",TOP CHANNEL
