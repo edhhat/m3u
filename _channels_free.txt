@@ -190,7 +190,7 @@
 "NBC","NBC (1080p)",{group:"4 Anglais"}
 "Fuse","Fuse (1080p)",{tvg-id:"Fuse.us@East"},{group:"4 Anglais"}
 "Cinemax Hits (1080p)" {group:"4 Anglais"}
-"Universal Cinema (1080p)" {group:"4 Anglais"}
+"Universal Cinema","Universal Cinema (1080p)",{tvg-id:"UniversalCinema.us@SD"},{group:"4 Anglais"}
 "Starz Cinema (720p)" {group:"4 Anglais"}
 "Cinemax Classics (1080p)" {group:"4 Anglais"}
 
