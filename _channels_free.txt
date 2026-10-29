@@ -188,7 +188,7 @@
 "Showtime Family Zone","Showtime Family Zone (720p)",{tvg-id:"ShowtimeFamilyzone.us"},{group:"4 Anglais"}
 "Cinemax West","Cinemax West (720p)",{group:"4 Anglais"}
 "NBC","NBC (1080p)",{group:"4 Anglais"}
-"Fuse","Fuse (1080p)",{group:"4 Anglais"}
+"Fuse","Fuse (1080p)",{tvg-id:"Fuse.us@East"},{group:"4 Anglais"}
 
 # fin de liste
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
