@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-01 17:13:37
+Date : 2026-11-01 23:39:19
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -910,7 +910,7 @@ XTREAM_GROUPS_EXCLUS = [
     FR| ENFANTS HD  (74 chaines)
     FR| EUROSPORTS 360  (19 chaines)
     FR| FRANCE 4K  (28 chaines)
-    FR| FRANCE FHD  (171 chaines)
+    FR| FRANCE FHD  (173 chaines)
     FR| FRANCE HD  (200 chaines)
     FR| FRANCE LQ  (122 chaines)
     FR| FRANCE SPORT VIP ᴿᴬᵂ  (143 chaines)
