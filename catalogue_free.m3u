@@ -10032,7 +10032,7 @@ https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",TMB AZ
 http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
-https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OS4xMjcuMTY5LjciLCJjbWNkIjoiIiwiZXhwIjoxNzkzNzUxNTUwLCJnaWQiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiIsImlhdCI6MTc5MzczNzE1MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL3Byb2QvVE1DL2NtYWYvb3V0Iiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJ2aWRlb2lkIjoiIn0.6C1RiF15ECO1uNm5u2LSCP3gZDmywH2pULL5AsYZUUY/prod/TMC/cmaf/out/TMC.m3u8
+https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4Mi42NC4xNjkuNjMiLCJjbWNkIjoiIiwiZXhwIjoxNzkzNzY1OTAxLCJnaWQiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiIsImlhdCI6MTc5Mzc1MTUwMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL3Byb2QvVE1DL2NtYWYvb3V0Iiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJ2aWRlb2lkIjoiIn0.VKYJt7bzu0ZjnLiSFAb12cBwcc79e940YutC4g6Owak/prod/TMC/cmaf/out/TMC.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TON TV ÇANAKKALE
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",TOP CHANNEL
