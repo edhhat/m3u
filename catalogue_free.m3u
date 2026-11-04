@@ -3360,6 +3360,8 @@ http://99.27.51.147:8080/M6/index.m3u8
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 #EXTINF:-1 x-source="iptv-org FR" tvg-id="MCMPop.fr@SD",MCM Pop (580p)
 http://188.115.15.121:8000/play/a014
+#EXTINF:-1 x-source="iptv-org FR" tvg-id="MCMTop.fr@SD",MCM Top
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 x-source="iptv-org FR" tvg-id="Mezzo.fr@SD",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=mezzo
@@ -4993,6 +4995,8 @@ http://212.5.144.156:8080/history/index.m3u8
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
 http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
+http://181.225.190.242:8000/play/a023
 #EXTINF:-1 x-source="iptv-org US" tvg-id="History2LatinAmerica.us@Brazil",History 2 Latin America Brazil (720p)
 http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="HistoryAsia.us@SD",History Asia (720p)
@@ -5404,8 +5408,6 @@ http://15.204.246.24:8080/NickHD/index.m3u8
 http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
 https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
-#EXTINF:-1 x-source="iptv-org US" tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
-https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
 http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 x-source="iptv-org US" tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
@@ -5881,10 +5883,10 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="ToonamiAftermath.us@West",Toonami Aftermath West (480p)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 x-source="iptv-org US" tvg-id="Tooncast.us@SD",Tooncast (1080p)
-http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="Tooncast.us@Panregional",Tooncast (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+#EXTINF:-1 x-source="iptv-org US" tvg-id="Tooncast.us@Panregional",Tooncast (480p)
+http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
 #EXTINF:-1 x-source="iptv-org US" tvg-id="Tooncast.us@Panregional",Tooncast (720p)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 x-source="iptv-org US" tvg-id="Tooncast.us@Argentina",Tooncast Argentina (720p)
@@ -8888,9 +8890,9 @@ https://estreams.tv.nej.cz/dash/CH_NOVA_Portable.ism/playlist.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=HBvnqXWMTVDBIr7G772H0g&e=1793757483
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=BvUVa8bx6bByJLCZ02XZXw&e=1793765403
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=HBvnqXWMTVDBIr7G772H0g&e=1793757483
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=BvUVa8bx6bByJLCZ02XZXw&e=1793765403
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
