@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://i.mjh.nz/PlutoTV/fr.xml.gz,https://i.mjh.nz/SamsungTVPlus/fr.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ca.xml,https://iptv-epg.org/files/epg-fr.xml.gz,https://iptv-epg.org/files/epg-be.xml.gz,https://iptv-epg.org/files/epg-ch.xml.gz,https://iptv-epg.org/files/epg-lu.xml.gz,https://iptv-epg.org/files/epg-au.xml.gz"
-#EXTINF:-1, tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" tvg-name="BFM TV"  group-title="3 Gratuit",BFM TV
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 channel-id="FRBD410000783" tvg-id="BFMTV.fr" tvg-chno="4002" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" group-title="3 Gratuit",BFM TV
+https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="LCI.fr",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1, tvg-id="CNews.fr" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/54/Canal_News_logo.svg.png/revision/latest?cb=20190726111247&path-prefix=fr" tvg-name="CNEWS"  group-title="3 Gratuit",CNEWS
@@ -47,8 +47,8 @@ http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 https://jmp2.uk/stvp-FRBD41000097I
 #EXTINF:-1 channel-id="FR4000003O1" tvg-id="Cherie25.fr" tvg-chno="4031" tvg-name="RMC Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000003O1_20260707T051731SQUARE.png" group-title="3 Gratuit",RMC Life
 https://jmp2.uk/stvp-FR4000003O1
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="3 Gratuit" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Altice/Images/logos-chaines-200-RMCDECOUVERTE.png",RMC Découverte
-https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCDecouverte_all-LG_smartTV-Live&content_id=rmc_decouverte_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&ads.devicemodel=[DEVICE_MODEL]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 channel-id="FRBD4100008QS" tvg-id="RMCDecouverte.fr" tvg-chno="4009" tvg-name="RMC Découverte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20260407T040126SQUARE.png" group-title="3 Gratuit",RMC Découverte
+https://jmp2.uk/stvp-FRBD4100008QS
 #EXTINF:-1 channel-id="FR300006GF" tvg-id="RMCMystere.fr" tvg-chno="4034" tvg-name="RMC MYSTERE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" group-title="3 Gratuit",RMC MYSTERE
 https://jmp2.uk/stvp-FR300006GF
 #EXTINF:-1 channel-id="FR300001M1" tvg-id="RMCWOW.fr" tvg-chno="4032" tvg-name="RMC Wow" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" group-title="3 Gratuit",RMC Wow
@@ -262,7 +262,7 @@ https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="Sony One HITS Comédie"  group-title="3 Gratuit",Sony One HITS Comédie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="Sony One Action HITS"  group-title="3 Gratuit",Sony One Action HITS
-https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 #EXTINF:-1 channel-id="625ec7a1c853fd00073b38fd" tvg-id="625ec7a1c853fd00073b38fd" tvg-chno="115" tvg-name="Pluto TV Séries Fantastiques" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png" group-title="3 Gratuit",Pluto TV Séries Fantastiques
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="CBVT.ca",Ici Radio-Canada Télé
