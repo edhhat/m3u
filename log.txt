@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-04 06:50:00
+Date : 2026-11-05 07:42:59
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -1056,7 +1056,7 @@ XTREAM_GROUPS_EXCLUS = [
     US| DAZN PPV  (100 chaines)
     US| DIRTVISION PPV  (9 chaines)
     US| DISNEY+ NETWORK  (14 chaines)
-    US| ENTERTAINMENT  (215 chaines)
+    US| ENTERTAINMENT  (214 chaines)
     US| ESPN PLAY  (98 chaines)
     US| ESPN PLUS  (500 chaines)
     US| ESPN+ PPV VIP  (1001 chaines)
