@@ -199,3 +199,4 @@
 
 # fin de liste
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
+"Pluto TV ANIME GO!" {group:"3 Gratuit"}
