@@ -66,6 +66,7 @@
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "BE| TIPIK HD",{tvg-id:"Tipik.be"}                                ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
+"Pluto TV ANIME GO!" {group:"3 Gratuit"}
 "Pluto TV Kids Collection" {group:"3 Gratuit"}
 "Pluto TV Anime Retro" {group:"3 Gratuit"}
 "Pluto TV Retro Toons",{group:"3 Gratuit"}
@@ -73,8 +74,9 @@
 "Pluto TV Toons",{group:"3 Gratuit"}
 "Pluto TV Super Kids" {group:"3 Gratuit"}
 "Pluto TV Kids Club" {group:"3 Gratuit"}
-"One Piece",{group:"3 Gratuit"}
 
+"One Piece",{group:"3 Gratuit"}
+"Wasabi la chaîne anime (1080p)" {group:"3 Gratuit"}
 "Detective Conan",{group:"3 Gratuit"}
 "Olive & Tom",{group:"3 Gratuit"}
 "Les Schtroumpfs",{group:"3 Gratuit"}
@@ -93,8 +95,8 @@
 "Adjugé vendu !",{group:"3 Gratuit"}
 "ARTE",{tvg-id:"Arte.fr"},{group:"3 Gratuit"}
 "Faites entrer l'accusé",{group:"3 Gratuit"}
-"Pluto TV Paranormal",{group:"3 Gratuit"}
 
+"Pluto TV Paranormal",{group:"3 Gratuit"}
 "Most Haunted",{group:"3 Gratuit"}
 "Destination Nature",{group:"3 Gratuit"}
 "Nature Time",{group:"3 Gratuit"}
@@ -104,9 +106,9 @@
 "CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"3 Gratuit"}
 "Tech & Co",{tvg-id:"01TV.fr"},{group:"3 Gratuit"}
 "BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"3 Gratuit"}
+
+
 "TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"3 Gratuit"}
-
-
 "MyTime Movie Network",{group:"3 Gratuit"}
 "Wild Side TV",{tvg-id:"WildSideTV.fr"},{group:"3 Gratuit"}
 "The Asylum",{group:"3 Gratuit"}
@@ -162,7 +164,6 @@
 "Ici Radio-Canada Télé","Ici Radio-Canada Télé (1080p) [Geo-blocked]",{tvg-id:"CBVT.ca"},{group:"3 Gratuit"}
 "ICI RDI - CANADA" {group:"3 Gratuit"}
 "Noovo",{tvg-id:"NOOVO-Montreal-CFJP.ca"},{exact},group:"3 Gratuit"} {group:"3 Gratuit"}
-"TVA","TVA [Geo-blocked]",{tvg-id:"TVAHD.ca"},{group:"3 Gratuit"}
 
 
 ### --- 4 Anglais ---
@@ -198,5 +199,5 @@
 "TNT (720p) [Geo-blocked]" {group:"4 Anglais"}
 
 # fin de liste
+"TVA","TVA [Geo-blocked]",{tvg-id:"TVAHD.ca"},{group:"3 Gratuit"}
 "LCN","LCN [Geo-blocked]",{group:"3 Gratuit"}
-"Pluto TV ANIME GO!" {group:"3 Gratuit"}
