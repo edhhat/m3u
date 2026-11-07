@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-06 07:44:12
+Date : 2026-11-07 06:56:15
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -943,7 +943,7 @@ XTREAM_GROUPS_EXCLUS = [
     CANADA FRENCH  (55 chaines)
     CA| AHL PPV  (47 chaines)
     CA| AHL TEAM  (32 chaines)
-    CA| ENGLISH  (153 chaines)
+    CA| ENGLISH  (154 chaines)
     CA| FOREIGN  (66 chaines)
     CA| FRENCH  (73 chaines)
     CA| KIDS  (13 chaines)
