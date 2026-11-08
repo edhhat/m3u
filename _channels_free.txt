@@ -1,5 +1,6 @@
 ### --- 3 Gratuit ---
 
+"La Une (1080p)" {group:"3 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"3 Gratuit"}
 "LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"3 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"3 Gratuit"}
@@ -62,8 +63,8 @@
 "MTV Catfish",{group:"3 Gratuit"}
 
 "BE| LA UNE FHD","BE| LA UNE HD","LA UNE RTBF",{tvg-id:"LaUne.be"},{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
-"BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "Tipik (1080p)" {group:"3 Gratuit"}
+"BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "Pluto TV ANIME GO!" {group:"3 Gratuit"}
 "Pluto TV Kids Collection" {group:"3 Gratuit"}
 "Pluto TV Anime Retro" {group:"3 Gratuit"}
