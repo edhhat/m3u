@@ -1,5 +1,6 @@
 ### --- 3 Gratuit ---
 
+"ANTENNE RÉUNION" {group:"3 Gratuit"}
 "BFM TV",{tvg-id:"BFMTV.fr"},{group:"3 Gratuit"}
 "LCI", "AFR| LCI","LCI HD (1080p)","LCI HD",{tvg-id:"LCI.fr"},{group:"3 Gratuit"}
 "FRANCE INFO","FR| FRANCE INFO FHD",{exact},{tvg-id:"FranceInfo.fr"},{group:"3 Gratuit"}
