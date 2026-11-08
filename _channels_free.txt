@@ -32,7 +32,7 @@
 "RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"3 Gratuit"}
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"3 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"3 Gratuit"}
-"Series by Pluto TV" {group:"3 Gratuit"}
+"Series by Pluto TV",{tvg-id:"5f8ed2d1c34c2300073bf02c"},{group:"3 Gratuit"}
 "Pluto TV 90's Classics",{group:"3 Gratuit"}
 "BBC Series",{group:"3 Gratuit"}
 "Wasabi la chaîne anime","Wasabi la chaîne anime (1080p)",{group:"3 Gratuit"}
