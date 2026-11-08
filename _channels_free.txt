@@ -12,7 +12,6 @@
 "M6","FR| M6 HD","FR| M6 FHD","FR| M6 HEVC",{tvg-id:"M6.fr"},{tvg-shift:"-6"},{group:"3 Gratuit"}
 "W9","FR| W9 HD","FR| W9 FHD","FR| W9 HEVC",{tvg-id:"W9.fr"},{group:"3 Gratuit"}
 "6TER","FR| 6TER HD","FR| 6TER FHD","FR| 6TER HEVC",{tvg-id:"6ter.fr"},{group:"3 Gratuit"}
-"M6 INTERNATIONAL","AFR| M6 INTERNATIONAL",{tvg-id:"M6International.fr"},{exact},{group:"3 Gratuit"}
 "TMC","FR| TMC HD","FR| TMC FHD","FR| TMC HEVC",{tvg-id:"TMC.fr"},{group:"3 Gratuit"}
 "TFX","FR| TFX HD","FR| TFX FHD","FR| TFX HEVC",{tvg-id:"NT1.fr"},{group:"3 Gratuit"}
 "Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"3 Gratuit"}
