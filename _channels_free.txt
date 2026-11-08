@@ -127,7 +127,6 @@
 "ICI RDI - CANADA" {group:"3 Gratuit"}
 "SONY ONE SERIES THRILLER" {group:"3 Gratuit"}
 "Crime - Rakuten TV",{group:"3 Gratuit"}
-"Comédies - Rakuten TV",{group:"3 Gratuit"}
 "Top Action" {group:"3 Gratuit"}
 "Pluto TV Comédie",{group:"3 Gratuit"}
 "Films Romantiques - Rakuten TV",{group:"3 Gratuit"}
@@ -146,6 +145,7 @@
 "Sony One HITS Comédie",{group:"3 Gratuit"}
 "Sony One Action HITS",{group:"3 Gratuit"}
 "Films d'action - Rakuten TV",{group:"3 Gratuit"}
+"Comédies - Rakuten TV",{group:"3 Gratuit"}
 "Famille - Rakuten TV",{tvg-id:"family-rakuten-tv"},{group:"3 Gratuit"}
 "Drames - Rakuten TV",{group:"3 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"3 Gratuit"}
