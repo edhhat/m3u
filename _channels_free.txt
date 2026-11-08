@@ -31,10 +31,9 @@
 "RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"3 Gratuit"}
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"3 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"3 Gratuit"}
+"Tipik","Tipik (1080p)",{tvg-id:"Tipik.be"},{group:"3 Gratuit"}
 "La Une","La Une (1080p)",{group:"3 Gratuit"}
 "ANTENNE RÉUNION" {group:"3 Gratuit"}
-"Tipik","Tipik (1080p)",{tvg-id:"Tipik.be"},{group:"3 Gratuit"}
-"Pluto TV Aventure",{group:"3 Gratuit"}
 "Echappées belles & co",{group:"3 Gratuit"}
 "Series by Pluto TV",{tvg-id:"5f8ed2d1c34c2300073bf02c"},{group:"3 Gratuit"}
 "Pluto TV 90's Classics",{group:"3 Gratuit"}
@@ -51,10 +50,11 @@
 "One Piece",{group:"3 Gratuit"}
 "Olive & Tom",{group:"3 Gratuit"}
 "Detective Conan",{group:"3 Gratuit"}
-
 "Bob l'éponge" {group:"3 Gratuit"}
+
 "Les Schtroumpfs",{group:"3 Gratuit"}
 "Crimes Enquêtes Faits Divers",{group:"3 Gratuit"}
+"Pluto TV Aventure",{group:"3 Gratuit"}
 "Homicide",{tvg-id:"homicide"},{group:"3 Gratuit"}
 "Incroyables Fortunes",{group:"3 Gratuit"}
 "Pluto TV Histoire",{group:"3 Gratuit"}
