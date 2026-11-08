@@ -17,6 +17,7 @@
 "Zone Interdite",{tvg-id:"ZoneInterdite2424.fr"},{group:"3 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
 "Enquêtes Criminelles",{tvg-id:"EnquetesCriminelles2424.fr"},{group:"3 Gratuit"}
+"Bons Plans et Arnaques" {group:"3 Gratuit"}
 "Pluto TV Cuisine",{group:"3 Gratuit"}
 "CSTAR","CSTAR","FR| CStar FHD","FR| CStar HEVC",{tvg-id:"CStar.fr"},{group:"3 Gratuit"}
 "Gulli","Gulli","FR| Gulli HD","FR| Gulli FHD","FR| Gulli HEVC",{tvg-id:"Gulli.fr"},{group:"3 Gratuit"}
@@ -31,59 +32,55 @@
 "RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"3 Gratuit"}
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"3 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"3 Gratuit"}
-"Bons Plans et Arnaques" {group:"3 Gratuit"}
-"Enquêtes de Choc",{group:"3 Gratuit"}
+"Series by Pluto TV" {group:"3 Gratuit"}
+"Pluto TV 90's Classics",{group:"3 Gratuit"}
+"BBC Series",{group:"3 Gratuit"}
+"Wasabi la chaîne anime","Wasabi la chaîne anime (1080p)",{group:"3 Gratuit"}
+"Bob l'éponge" {group:"3 Gratuit"}
+"Pluto TV Retro Toons",{group:"3 Gratuit"}
+"Pluto TV Anime Retro" {group:"3 Gratuit"}
+"Pluto TV Super Kids" {group:"3 Gratuit"}
+"Pluto TV Toons",{group:"3 Gratuit"}
+"Pluto TV Kids Classics" {group:"3 Gratuit"}
+"Pluto TV Kids Club" {group:"3 Gratuit"}
+"Pluto TV ANIME GO!" {group:"3 Gratuit"}
+"One Piece",{group:"3 Gratuit"}
+"Les Schtroumpfs",{group:"3 Gratuit"}
+"Olive & Tom",{group:"3 Gratuit"}
+"Detective Conan",{group:"3 Gratuit"}
+"Pluto TV Kids Collection" {group:"3 Gratuit"}
 "Echappées belles & co",{group:"3 Gratuit"}
 "Crimes Enquêtes Faits Divers",{group:"3 Gratuit"}
+
 "Pluto TV Aventure",{group:"3 Gratuit"}
 "Homicide",{tvg-id:"homicide"},{group:"3 Gratuit"}
 "Incroyables Fortunes",{group:"3 Gratuit"}
 "Pluto TV Histoire",{group:"3 Gratuit"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"3 Gratuit"}
 "BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"3 Gratuit"}  
+
+
 "RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"3 Gratuit"}
-"Brut",{group:"3 Gratuit"}
+
 "Voyages & Saveurs",{group:"3 Gratuit"}
 "Pluto TV Inside",{group:"3 Gratuit"}
 "Mission Intervention",{group:"3 Gratuit"}
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"3 Gratuit"}
 "Confessions Intimes" {group:"3 Gratuit"}
 "La Vie",{group:"3 Gratuit"}
-"Pêche à haut risque",{group:"3 Gratuit"}
 "Docs & enquêtes by Society+" {group:"3 Gratuit"}
-
 "Pluto TV Téléréalité France",{group:"3 Gratuit"}
 "Les Anges",{group:"3 Gratuit"}
 "Les Marseillais",{group:"3 Gratuit"}
+
 "Teen Mom",{group:"3 Gratuit"}
 "MTV CLASSICS",{group:"3 Gratuit"}
 "MTV Catfish",{group:"3 Gratuit"}
-
-
 "La Une (1080p)" {group:"3 Gratuit"}
-
 "Tipik (1080p)" {group:"3 Gratuit"}
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
-"Pluto TV ANIME GO!" {group:"3 Gratuit"}
-"Pluto TV Kids Collection" {group:"3 Gratuit"}
-"Pluto TV Anime Retro" {group:"3 Gratuit"}
-"Pluto TV Retro Toons",{group:"3 Gratuit"}
-"Pluto TV Kids Classics" {group:"3 Gratuit"}
-"Pluto TV Toons",{group:"3 Gratuit"}
-"Pluto TV Super Kids" {group:"3 Gratuit"}
-"Pluto TV Kids Club" {group:"3 Gratuit"}
-
-"One Piece",{group:"3 Gratuit"}
-"Wasabi la chaîne anime (1080p)" {group:"3 Gratuit"}
-"Detective Conan",{group:"3 Gratuit"}
-"Olive & Tom",{group:"3 Gratuit"}
-"Les Schtroumpfs",{group:"3 Gratuit"}
-"Bob l'éponge" {group:"3 Gratuit"}
-"Pluto TV 90's Classics",{group:"3 Gratuit"}
-"BBC Series",{group:"3 Gratuit"}
 "MacGyver",{group:"3 Gratuit"}
 "Mission Impossible",{group:"3 Gratuit"}
-"Series by Pluto TV" {group:"3 Gratuit"}
 "True Crime by Pluto TV",{group:"3 Gratuit"}
 "Dossiers FBI",{group:"3 Gratuit"}
 "IntoCrime",{group:"3 Gratuit"}
@@ -93,9 +90,11 @@
 "Adjugé vendu !",{group:"3 Gratuit"}
 "ARTE",{tvg-id:"Arte.fr"},{group:"3 Gratuit"}
 "Faites entrer l'accusé",{group:"3 Gratuit"}
-
 "Pluto TV Paranormal",{group:"3 Gratuit"}
+"Brut",{group:"3 Gratuit"}
 "Most Haunted",{group:"3 Gratuit"}
+
+"Pêche à haut risque",{group:"3 Gratuit"}
 "Destination Nature",{group:"3 Gratuit"}
 "Nature Time",{group:"3 Gratuit"}
 "DRIVE TV",{group:"3 Gratuit"}
@@ -104,6 +103,7 @@
 "CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"3 Gratuit"}
 "Tech & Co",{tvg-id:"01TV.fr"},{group:"3 Gratuit"}
 "BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"3 Gratuit"}
+"Enquêtes de Choc",{group:"3 Gratuit"}
 
 
 "TSN4","CA| TSN 4 HD","CA| TSN4 FHD", {tvg-id:"TSN4.ca"}, {group:"3 Gratuit"}
