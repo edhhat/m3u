@@ -35,11 +35,10 @@
 "Pluto TV 90's Classics",{group:"3 Gratuit"}
 "BBC Series",{group:"3 Gratuit"}
 "Wasabi la chaîne anime","Wasabi la chaîne anime (1080p)",{group:"3 Gratuit"}
-"Bob l'éponge" {group:"3 Gratuit"}
 "Pluto TV Retro Toons",{group:"3 Gratuit"}
 "Pluto TV Anime Retro" {group:"3 Gratuit"}
-"Pluto TV Super Kids" {group:"3 Gratuit"}
 "Pluto TV Toons",{group:"3 Gratuit"}
+"Pluto TV Super Kids" {group:"3 Gratuit"}
 "Pluto TV Kids Classics" {group:"3 Gratuit"}
 "Pluto TV Kids Club" {group:"3 Gratuit"}
 "Pluto TV ANIME GO!" {group:"3 Gratuit"}
@@ -48,6 +47,7 @@
 "Olive & Tom",{group:"3 Gratuit"}
 "Detective Conan",{group:"3 Gratuit"}
 "Pluto TV Kids Collection" {group:"3 Gratuit"}
+"Bob l'éponge" {group:"3 Gratuit"}
 "Echappées belles & co",{group:"3 Gratuit"}
 "Crimes Enquêtes Faits Divers",{group:"3 Gratuit"}
 
