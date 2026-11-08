@@ -11,3 +11,5 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="France 4",France 4
 http://149.62.177.107:9999/France_4/index.m3u8
+#EXTINF:-1 tvg-name="BFM TV",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8#origine-727=https://tvradiozap.eu
