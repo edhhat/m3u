@@ -24055,7 +24055,7 @@ https://estreams.tv.nej.cz/dash/CH_NOVA_Portable.ism/playlist.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=RnzmtnCJtFH_A7cgsnh3Zg&e=1794161087
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=eMZLSDtfDFn5feXG1b6HJg&e=1794168931
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv2.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
@@ -24069,7 +24069,7 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv3
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://now.impresents.workers.dev/now.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=RnzmtnCJtFH_A7cgsnh3Zg&e=1794161087
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=eMZLSDtfDFn5feXG1b6HJg&e=1794168931
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
@@ -25153,7 +25153,7 @@ http://demiroren.daioncdn.net/teve2/teve2.m3u8?app=web
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 TNT
-https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjQ4IiwiY21jZCI6IiIsImV4cCI6MTc5NDE0Mzk5MiwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTQxMjk1OTIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RGMS9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.ylPhEX0shinHU8ftmMI31lb7KZjsg7U3ibNRkB9OFII/prod/TF1/cmaf/out/TF1.m3u8
+https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjQ4IiwiY21jZCI6IiIsImV4cCI6MTc5NDE2NTU5NywiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTQxNTExOTcsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RGMS9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.0j7ioouN3EhYfnapwq7UqV3LevdCvATHD_4LOVOWguk/prod/TF1/cmaf/out/TF1.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",TFM (SN)
