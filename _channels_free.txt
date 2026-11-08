@@ -31,6 +31,7 @@
 "RMC Découverte",{tvg-id:"RMCDecouverte.fr"},{group:"3 Gratuit"}
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"3 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"3 Gratuit"}
+"La Une","La Une (1080p)",{group:"3 Gratuit"}
 "Pluto TV Aventure",{group:"3 Gratuit"}
 "Echappées belles & co",{group:"3 Gratuit"}
 "Series by Pluto TV",{tvg-id:"5f8ed2d1c34c2300073bf02c"},{group:"3 Gratuit"}
@@ -49,18 +50,18 @@
 "Olive & Tom",{group:"3 Gratuit"}
 "Detective Conan",{group:"3 Gratuit"}
 "Bob l'éponge" {group:"3 Gratuit"}
-"Les Schtroumpfs",{group:"3 Gratuit"}
 
+"Les Schtroumpfs",{group:"3 Gratuit"}
 "Crimes Enquêtes Faits Divers",{group:"3 Gratuit"}
 "Homicide",{tvg-id:"homicide"},{group:"3 Gratuit"}
 "Incroyables Fortunes",{group:"3 Gratuit"}
 "Pluto TV Histoire",{group:"3 Gratuit"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"3 Gratuit"}
+
+
 "BFM Grands Reportages",{tvg-id:"BFMGrandsReportages.fr"},{group:"3 Gratuit"}  
 
-
 "RMC TALK INFO",{tvg-id:"RMCTalkInfo.fr"},{group:"3 Gratuit"}
-
 "Voyages & Saveurs",{group:"3 Gratuit"}
 "Pluto TV Inside",{group:"3 Gratuit"}
 "Mission Intervention",{group:"3 Gratuit"}
@@ -70,12 +71,11 @@
 "Docs & enquêtes by Society+" {group:"3 Gratuit"}
 "Pluto TV Téléréalité France",{group:"3 Gratuit"}
 "Les Anges",{group:"3 Gratuit"}
-"Les Marseillais",{group:"3 Gratuit"}
 
+"Les Marseillais",{group:"3 Gratuit"}
 "Teen Mom",{group:"3 Gratuit"}
 "MTV CLASSICS",{group:"3 Gratuit"}
 "MTV Catfish",{group:"3 Gratuit"}
-"La Une (1080p)" {group:"3 Gratuit"}
 "Tipik (1080p)" {group:"3 Gratuit"}
 "BE| LA TROIS HD",{tvg-id:"LaTrois.be"}                           ,{exact},{xtream-group:"BE| WALLONIË"},{group:"3 Gratuit"}
 "MacGyver",{group:"3 Gratuit"}
