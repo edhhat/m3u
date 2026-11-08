@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-07 06:56:15
+Date : 2026-11-08 06:24:56
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -954,8 +954,8 @@ XTREAM_GROUPS_EXCLUS = [
     CA| ROGERS ROGERS SUPER SPORTS  (39 chaines)
     CA| SN+ PPV  (100 chaines)
     CA| SOCCER PPV  (201 chaines)
-    CA| SPORT  (73 chaines)
-    CA| SPORTSNET  (19 chaines)
+    CA| SPORT  (37 chaines)
+    CA| SPORTSNET  (15 chaines)
     CA| SPORTSNET PPV  (51 chaines)
     CA| STINGRAY  (32 chaines)
     CA| TSN+ PPV  (100 chaines)
