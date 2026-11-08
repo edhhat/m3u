@@ -32,7 +32,7 @@
 "RMC MYSTERE",{tvg-id:"RMCMystere.fr"},{group:"3 Gratuit"}
 "RMC Wow",{tvg-id:"RMCWOW.fr"},{group:"3 Gratuit"}
 "La Une","La Une (1080p)",{group:"3 Gratuit"}
-"Tipik (1080p)" {group:"3 Gratuit"}
+"Tipik","Tipik (1080p)",{tvg-id:"Tipik.be"},{group:"3 Gratuit"}
 "Pluto TV Aventure",{group:"3 Gratuit"}
 "Echappées belles & co",{group:"3 Gratuit"}
 "Series by Pluto TV",{tvg-id:"5f8ed2d1c34c2300073bf02c"},{group:"3 Gratuit"}
