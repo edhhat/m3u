@@ -36,6 +36,7 @@
 "ANTENNE RÉUNION" {group:"3 Gratuit"}
 "Echappées belles & co",{group:"3 Gratuit"}
 "Series by Pluto TV",{tvg-id:"5f8ed2d1c34c2300073bf02c"},{group:"3 Gratuit"}
+"Pluto TV Séries Fantastiques" {group:"3 Gratuit"}
 "Pluto TV 90's Classics",{group:"3 Gratuit"}
 "BBC Series",{group:"3 Gratuit"}
 "Pluto TV Anime Retro" {group:"3 Gratuit"}
@@ -50,18 +51,18 @@
 "One Piece",{group:"3 Gratuit"}
 "Olive & Tom",{group:"3 Gratuit"}
 "Detective Conan",{group:"3 Gratuit"}
-"Bob l'éponge" {group:"3 Gratuit"}
 
+"Bob l'éponge" {group:"3 Gratuit"}
 "Les Schtroumpfs",{group:"3 Gratuit"}
 "Confessions Intimes" {group:"3 Gratuit"}
 "La Vie",{group:"3 Gratuit"}
 "Incroyables Fortunes",{group:"3 Gratuit"}
 "J'irai dormir chez vous","RMC J'irai dormir chez vous",{tvg-id:"BFMJiraiDormirChezVous.fr"},{exact},{group:"3 Gratuit"}
+
+
 "Crimes Enquêtes Faits Divers",{group:"3 Gratuit"}
 
-
 "Pluto TV Aventure",{group:"3 Gratuit"}
-
 "Pluto TV Histoire",{group:"3 Gratuit"}
 "HISTOIRE","FR| HISTOIRE FHD","FR| HISTOIRE HD","FR| HISTOIRE HEVC","FR| HISTOIRE SD",{tvg-id:"Histoire.fr"},{exact},{group:"3 Gratuit"}
 "Mission Intervention",{group:"3 Gratuit"}
@@ -71,8 +72,8 @@
 "Homicide",{tvg-id:"homicide"},{group:"3 Gratuit"}
 "Docs & enquêtes by Society+" {group:"3 Gratuit"}
 "Pluto TV Téléréalité France",{group:"3 Gratuit"}
-"Les Anges",{group:"3 Gratuit"}
 
+"Les Anges",{group:"3 Gratuit"}
 "Les Marseillais",{group:"3 Gratuit"}
 "Teen Mom",{group:"3 Gratuit"}
 "MTV CLASSICS",{group:"3 Gratuit"}
@@ -92,8 +93,8 @@
 "Faites entrer l'accusé",{group:"3 Gratuit"}
 "Pluto TV Paranormal",{group:"3 Gratuit"}
 "Brut",{group:"3 Gratuit"}
-"Most Haunted",{group:"3 Gratuit"}
 
+"Most Haunted",{group:"3 Gratuit"}
 "Pêche à haut risque",{group:"3 Gratuit"}
 "Destination Nature",{group:"3 Gratuit"}
 "Nature Time",{group:"3 Gratuit"}
@@ -103,9 +104,9 @@
 "CANAL+ 360","FR| CANAL+ 360 HD","FR| CANAL+ 360 FHD","FR| CANAL+ 360 HEVC","FR| CANAL+ 360 SD",{tvg-id:"CanalPlusSport360.fr"},{group:"3 Gratuit"}
 "Tech & Co",{tvg-id:"01TV.fr"},{group:"3 Gratuit"}
 "BEIN SPORTS 1","FR| BEIN SPORTS 1 FHD","FR| BEIN SPORTS 1 HD","FR| BEIN SPORTS 1 HEVC","FR| BEIN SPORTS 1 SD","BEIN SPORT 1 FHD","BEIN SPORT 1 HD",{tvg-id:"beINSPORTS1.fr"},{group:"3 Gratuit"}
+
+
 "Enquêtes de Choc",{group:"3 Gratuit"}
-
-
 "MyTime Movie Network",{group:"3 Gratuit"}
 "Wild Side TV",{tvg-id:"WildSideTV.fr"},{group:"3 Gratuit"}
 "The Asylum",{group:"3 Gratuit"}
@@ -122,7 +123,6 @@
 "Ciné Nanar",{group:"3 Gratuit"}
 "Shark TV",{group:"3 Gratuit"}
 "Shadowz",{group:"3 Gratuit"}
-"Pluto TV Séries Fantastiques" {group:"3 Gratuit"}
 "Noovo",{tvg-id:"NOOVO-Montreal-CFJP.ca"},{exact},group:"3 Gratuit"} {group:"3 Gratuit"}
 "ICI RDI - CANADA" {group:"3 Gratuit"}
 "SONY ONE SERIES THRILLER" {group:"3 Gratuit"}
