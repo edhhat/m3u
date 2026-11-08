@@ -128,10 +128,12 @@
 "SONY ONE SERIES THRILLER" {group:"3 Gratuit"}
 "Crime - Rakuten TV",{group:"3 Gratuit"}
 "Top Action" {group:"3 Gratuit"}
+"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"3 Gratuit"}
 "Pluto TV Comédie",{group:"3 Gratuit"}
 "Films Romantiques - Rakuten TV",{group:"3 Gratuit"}
 "Monstres et Créatures TV" {group:"3 Gratuit"}
-"CINE+ CLASSIC","CINE+ CLASSIC HD",{tvg-id:"CinePlusClassic.fr"},{group:"3 Gratuit"}
+"Ciné Catastrophe by Pluto TV",{group:"3 Gratuit"}
+"Ciné d'Asie by Pluto TV",{group:"3 Gratuit"}
 "Ciné Western by Pluto TV",{group:"3 Gratuit"}
 "Star trek" {group:"3 Gratuit"}
 "Emotion'L",{exact},{group:"3 Gratuit"}
@@ -139,11 +141,9 @@
 "Box Office Drama",{group:"3 Gratuit"}
 "Box Office Thriller",{group:"3 Gratuit"}
 "Dragon TV" {group:"3 Gratuit"}
-"Ciné Catastrophe by Pluto TV",{group:"3 Gratuit"}
-"Ciné d'Asie by Pluto TV",{group:"3 Gratuit"}
-"Ciné Romance by Pluto TV",{group:"3 Gratuit"}
 "Sony One HITS Comédie",{group:"3 Gratuit"}
 "Sony One Action HITS",{group:"3 Gratuit"}
+"Ciné Romance by Pluto TV",{group:"3 Gratuit"}
 "Films d'action - Rakuten TV",{group:"3 Gratuit"}
 "Comédies - Rakuten TV",{group:"3 Gratuit"}
 "Famille - Rakuten TV",{tvg-id:"FR26000068C"},{group:"3 Gratuit"}
