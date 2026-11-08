@@ -146,7 +146,7 @@
 "Sony One Action HITS",{group:"3 Gratuit"}
 "Films d'action - Rakuten TV",{group:"3 Gratuit"}
 "Comédies - Rakuten TV",{group:"3 Gratuit"}
-"Famille - Rakuten TV",{tvg-id:"family-rakuten-tv"},{group:"3 Gratuit"}
+"Famille - Rakuten TV",{tvg-id:"FR26000068C"},{group:"3 Gratuit"}
 "Drames - Rakuten TV",{group:"3 Gratuit"}
 "Top Films - Rakuten TV",{tvg-id:"FR2600007CB"},{group:"3 Gratuit"}
 "Ciné Action by Pluto TV",{group:"3 Gratuit"}
