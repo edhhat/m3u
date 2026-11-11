@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-10 08:19:20
+Date : 2026-11-11 07:16:43
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -926,7 +926,7 @@ XTREAM_GROUPS_EXCLUS = [
     FR| SOCCER PPV  (201 chaines)
     FR| SPORTS HD  (76 chaines)
   [BE] (12)
-    BE| ALGEMEEN  (46 chaines)
+    BE| ALGEMEEN  (56 chaines)
     BE| BELGIUM VIP ᴿᴬᵂ  (61 chaines)
     BE| DAZN PPV VIP  (100 chaines)
     BE| DAZN PPV VIP BK  (27 chaines)
@@ -939,8 +939,8 @@ XTREAM_GROUPS_EXCLUS = [
     BE| TELESAT ᴿᴬᵂ  (38 chaines)
     BE| WALLONIË  (147 chaines)
   [CA] (21)
-    CANADA ENGLISH  (193 chaines)
-    CANADA FRENCH  (55 chaines)
+    CANADA ENGLISH  (184 chaines)
+    CANADA FRENCH  (54 chaines)
     CA| AHL PPV  (47 chaines)
     CA| AHL TEAM  (32 chaines)
     CA| ENGLISH  (154 chaines)
@@ -1052,11 +1052,11 @@ XTREAM_GROUPS_EXCLUS = [
     US| CBS NETWORK  (224 chaines)
     US| CINEMANIA HOLLYWOOD  (61 chaines)
     US| CINEMANIA TV SHOWS  (321 chaines)
-    US| CW/MY NETWORK  (92 chaines)
+    US| CW/MY NETWORK  (93 chaines)
     US| DAZN PPV  (100 chaines)
     US| DIRTVISION PPV  (9 chaines)
     US| DISNEY+ NETWORK  (14 chaines)
-    US| ENTERTAINMENT  (215 chaines)
+    US| ENTERTAINMENT  (214 chaines)
     US| ESPN PLAY  (98 chaines)
     US| ESPN PLUS  (500 chaines)
     US| ESPN+ PPV VIP  (1001 chaines)
