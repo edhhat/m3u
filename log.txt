@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-12 08:12:10
+Date : 2026-11-13 07:13:25
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (833 groupes) ===
+=== Xtream compte 1 (835 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -225,7 +225,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| VICTORY+ PPV
     US| VIX+ DEPORTES
     US| WNBA PACKAGE
-  [AUTRES] (621)
+  [AUTRES] (623)
     24/7 ACTION & ADVENTURE VIP
     24/7 CARTOON VIP
     24/7 CLASSIC SHOWS VIP
@@ -581,6 +581,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     FINLAND MTV PPV VIP
     FINLAND PLAY+ RAW
     FINLAND PREMIUM PLAY
+    FINLAND RUUTU PPV
     FINLAND SPORT HD & HEVC
     FINLAND TELIA PLAY PPV
     FINLAND TELIA PLAY PPV VIP
@@ -802,6 +803,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     SWEDEN DISNEY+ PPV
     SWEDEN DISNEY+ PPV VIP
     SWEDEN ETTAN PLAY PPV
+    SWEDEN ETTAN PPV VIP
     SWEDEN EXPRESSEN PPV
     SWEDEN EXPRESSEN PPV VIP
     SWEDEN FANSEAT PPV
@@ -911,7 +913,7 @@ XTREAM_GROUPS_EXCLUS = [
     FR| EUROSPORTS 360  (19 chaines)
     FR| FRANCE 4K  (28 chaines)
     FR| FRANCE FHD  (173 chaines)
-    FR| FRANCE HD  (200 chaines)
+    FR| FRANCE HD  (198 chaines)
     FR| FRANCE LQ  (122 chaines)
     FR| FRANCE SPORT VIP ᴿᴬᵂ  (143 chaines)
     FR| FRANCE VIP ᴿᴬᵂ  (214 chaines)
@@ -1052,7 +1054,7 @@ XTREAM_GROUPS_EXCLUS = [
     US| CBS NETWORK  (224 chaines)
     US| CINEMANIA HOLLYWOOD  (61 chaines)
     US| CINEMANIA TV SHOWS  (321 chaines)
-    US| CW/MY NETWORK  (93 chaines)
+    US| CW/MY NETWORK  (92 chaines)
     US| DAZN PPV  (100 chaines)
     US| DIRTVISION PPV  (9 chaines)
     US| DISNEY+ NETWORK  (14 chaines)
