@@ -24023,7 +24023,7 @@ https://estreams.tv.nej.cz/dash/CH_NOVA_Portable.ism/playlist.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=utx3YSSY-guv_-K-Te16Dw&e=1794545481
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8Ajbm9wijvXq2OwO-dZyxA&e=1794549949
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv2.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
@@ -24037,7 +24037,7 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv3
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://now.impresents.workers.dev/now.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=utx3YSSY-guv_-K-Te16Dw&e=1794545481
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8Ajbm9wijvXq2OwO-dZyxA&e=1794549949
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
@@ -25171,7 +25171,7 @@ https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",TMB AZ
 http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
-https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OS4xMjcuMTM0LjM0IiwiY21jZCI6IiIsImV4cCI6MTc5NDUyOTEwMiwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTQ1MTQ3MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RNQy9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.XZQ24paUwzUdFX4iGJmCHlCbY3YCNVvs1ihvg3lA-SU/prod/TMC/cmaf/out/TMC.m3u8
+https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OS4xMjcuMTM0LjM0IiwiY21jZCI6IiIsImV4cCI6MTc5NDU0MzUwMiwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTQ1MjkxMDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RNQy9jbWFmL291dCIsInN1YiI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwidmlkZW9pZCI6IiJ9.tX_W_91mAWRgXOq1TN7rld9PaRiytrGl6sDWDqizHGc/prod/TMC/cmaf/out/TMC.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TON TV ÇANAKKALE
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 x-source="RepTV" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",TOP CHANNEL
