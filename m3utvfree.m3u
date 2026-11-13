@@ -193,6 +193,8 @@ https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin
 https://jmp2.uk/stvp-FRBB39000020C
 #EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="4116" tvg-name="Shark TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="3 Gratuit",Shark TV
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
+#EXTINF:-1 channel-id="FR1800003VF" tvg-id="FR1800003VF" tvg-chno="4991" tvg-name="Shadowz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20260707T051611SQUARE.png" group-title="3 Gratuit",Shadowz
+https://jmp2.uk/stvp-FR1800003VF
 #EXTINF:-1 channel-id="FR2600009UG" tvg-id="FR2600009UG" tvg-chno="4305" tvg-name="Crime - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" group-title="3 Gratuit",Crime - Rakuten TV
 https://jmp2.uk/stvp-FR2600009UG
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="CinePlusClassic.fr",CINE+ CLASSIC
@@ -219,6 +221,8 @@ https://jmp2.uk/stvp-FR370000288
 https://jmp2.uk/stvp-FR3700003N4
 #EXTINF:-1 channel-id="FR3700001AG" tvg-id="FR3700001AG" tvg-chno="4964" tvg-name="Box Office Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20260324T034928SQUARE.png" group-title="3 Gratuit",Box Office Thriller
 https://jmp2.uk/stvp-FR3700001AG
+#EXTINF:-1 channel-id="FR130000539" tvg-id="FR130000539" tvg-chno="4955" tvg-name="Dragon TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR130000539_20261013T053842SQUARE.png" group-title="3 Gratuit",Dragon TV
+https://jmp2.uk/stvp-FR130000539
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="Sony One HITS Comédie"  group-title="3 Gratuit",Sony One HITS Comédie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png" tvg-name="Sony One Action HITS"  group-title="3 Gratuit",Sony One Action HITS
@@ -235,6 +239,8 @@ https://jmp2.uk/stvp-FR2600005LH
 https://jmp2.uk/stvp-FR2600007CB
 #EXTINF:-1 channel-id="5f8ed1ff5c39700007e2204a" tvg-id="5f8ed1ff5c39700007e2204a" tvg-chno="235" tvg-name="Ciné Action by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="3 Gratuit",Ciné Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 channel-id="60c3472a51a2050008dad272" tvg-id="60c3472a51a2050008dad272" tvg-chno="250" tvg-name="Ciné Thrillers by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="3 Gratuit",Ciné Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 channel-id="FRAJ3800002W5" tvg-id="FRAJ3800002W5" tvg-chno="4881" tvg-name="Pluto TV ciné" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800002W5_20241015T042543SQUARE.png" group-title="3 Gratuit",Pluto TV ciné
 https://jmp2.uk/stvp-FRAJ3800002W5
 #EXTINF:-1 channel-id="67b4b2d976a934282e92d71c" tvg-id="67b4b2d976a934282e92d71c" tvg-chno="275" tvg-name="Pluto TV Comédies Cultes" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="3 Gratuit",Pluto TV Comédies Cultes
@@ -257,10 +263,11 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsDarwin.au" group-title="4 Anglais" tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC NEWS AUSTRALIA
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:-1 group-title="4 Anglais" tvg-id="AMC.us",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 group-title="4 Anglais" tvg-id="STARZ1.ca",STARZ 1
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="4 Anglais" tvg-id="TBS.us",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="TruTV.us",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="WeTV.us",WE tv
@@ -306,5 +313,3 @@ https://streaming.onnethn.com/HGTV/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TVA-Montreal-CFTM.ca" tvg-name="TVA" tvg-logo="https://i.imgur.com/1GR8Szn.png" tvg-chno="3" tvg-country="CA" group-title="3 Gratuit",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 group-title="3 Gratuit" tvg-id="LCN.ca@SD",LCN
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
