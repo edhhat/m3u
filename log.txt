@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-15 07:27:02
+Date : 2026-11-16 06:28:13
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (835 groupes) ===
+=== Xtream compte 1 (833 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -73,7 +73,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     CA| STINGRAY
     CA| TSN+ PPV
     CA| WHL PPV
-  [UK] (80)
+  [UK] (78)
     UK| 24/7 MOVIES & SERIES
     UK| AMAZON PRIME +
     UK| APPLE TV F1 PPV
@@ -102,7 +102,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     UK| HUB PREMIER PPV
     UK| ITV X VIP
     UK| KIDS
-    UK| KIDS HEVC
     UK| LA LIGA TEAM PPV
     UK| LEAGUE ONE
     UK| LEAGUE TWO
@@ -152,7 +151,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     UK| VIAPLAY PPV
     UK| VIDIO EPL PPV
     UK| VOLLEY BALL WORLD PPV
-    UK| WORLD CUP 2026 REPLAY
     UK| WORLD SPORTS
   [US] (70)
     UNITED STATES
@@ -896,7 +894,7 @@ XTREAM_GROUPS_EXCLUS = [
 # Xtream compte 1 - AVEC FILTRE
 ################################################################################
 
-=== GROUPES RETENUS (227) ===
+=== GROUPES RETENUS (225) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ  (20 chaines)
     FR| CANAL PLAY  (11 chaines)
@@ -962,7 +960,7 @@ XTREAM_GROUPS_EXCLUS = [
     CA| STINGRAY  (32 chaines)
     CA| TSN+ PPV  (100 chaines)
     CA| WHL PPV  (13 chaines)
-  [UK] (80)
+  [UK] (78)
     UK| 24/7 MOVIES & SERIES  (320 chaines)
     UK| AMAZON PRIME +  (52 chaines)
     UK| APPLE TV F1 PPV  (21 chaines)
@@ -977,7 +975,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| DISCOVERY +  (12 chaines)
     UK| DOCUMENTARY  (35 chaines)
     UK| DOCUMENTARY HEVC  (19 chaines)
-    UK| ENTERTAINMENT  (81 chaines)
+    UK| ENTERTAINMENT  (80 chaines)
     UK| ENTERTAINMENT HEVC  (19 chaines)
     UK| EPL PREMIER LEAGUE  (34 chaines)
     UK| EPL PREMIER LEAGUE+ PPV  (10 chaines)
@@ -991,7 +989,6 @@ XTREAM_GROUPS_EXCLUS = [
     UK| HUB PREMIER PPV  (13 chaines)
     UK| ITV X VIP  (14 chaines)
     UK| KIDS  (31 chaines)
-    UK| KIDS HEVC  (11 chaines)
     UK| LA LIGA TEAM PPV  (20 chaines)
     UK| LEAGUE ONE  (25 chaines)
     UK| LEAGUE TWO  (25 chaines)
@@ -1004,7 +1001,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| MONOMAX PPV  (32 chaines)
     UK| MOVIES  (68 chaines)
     UK| MOVIES HEVC  (25 chaines)
-    UK| MUSIC  (43 chaines)
+    UK| MUSIC  (29 chaines)
     UK| MXGP PPV  (31 chaines)
     UK| NATIONAL LEAGUE  (38 chaines)
     UK| NETFLIX ORIGINAL  (27 chaines)
@@ -1029,7 +1026,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| SKYMIX SERIES  (17 chaines)
     UK| SOCCER REPLAY  (108 chaines)
     UK| SPORTS  (85 chaines)
-    UK| SPORTS HEVC  (54 chaines)
+    UK| SPORTS HEVC  (46 chaines)
     UK| SUPER LEAGUE+ PPV  (6 chaines)
     UK| SUPERCROSS PPV  (3 chaines)
     UK| TNT SPORTS EVENT  (18 chaines)
@@ -1041,8 +1038,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| VIAPLAY PPV  (56 chaines)
     UK| VIDIO EPL PPV  (35 chaines)
     UK| VOLLEY BALL WORLD PPV  (31 chaines)
-    UK| WORLD CUP 2026 REPLAY  (16 chaines)
-    UK| WORLD SPORTS  (71 chaines)
+    UK| WORLD SPORTS  (70 chaines)
   [US] (64)
     UNITED STATES  (261 chaines)
     US| ABC NETWORK  (218 chaines)
