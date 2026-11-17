@@ -17,6 +17,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-shift="-6" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/40px-Logo_M6_%282020%2C_fond_clair%29.svg.png" tvg-id="M6.fr" tvg-chno="6" tvg-country="FR" group-title="3 Gratuit",M6
 http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 group-title="3 Gratuit" tvg-id="W9.fr",W9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="6ter.fr",6TER
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="TMC.fr",TMC
@@ -39,6 +41,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="TF1SeriesFilms.fr",TF1 SERIES FILMS
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="3 Gratuit" tvg-id="AB1.fr",AB1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="3 Gratuit" tvg-id="RTL9.fr",RTL 9
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="3 Gratuit" tvg-id="Teva.fr",TEVA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
 #EXTINF:-1 channel-id="FRBD41000097I" tvg-id="RMCSTORY.fr" tvg-chno="4008" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20251209T004435SQUARE.png" group-title="3 Gratuit",RMC Story
 https://jmp2.uk/stvp-FRBD41000097I
 #EXTINF:-1 channel-id="FR4000003O1" tvg-id="Cherie25.fr" tvg-chno="4031" tvg-name="RMC Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000003O1_20260707T051731SQUARE.png" group-title="3 Gratuit",RMC Life
@@ -53,6 +61,8 @@ https://jmp2.uk/stvp-FR300001M1
 http://41.205.93.154/TIPIK/index.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="LaUne.be@SD",La Une
 http://41.205.93.154/LA-UNE/index.m3u8
+#EXTINF:-1 group-title="3 Gratuit" tvg-logo="https://i.ibb.co/PxqLyjh/antreu.png",ANTENNE RÉUNION
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 channel-id="63b578b524f0cf00072f2a52" tvg-id="63b578b524f0cf00072f2a52" tvg-chno="565" tvg-name="Echappées belles & co" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="3 Gratuit",Echappées belles & co
 https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
 #EXTINF:-1 channel-id="5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-chno="150" tvg-name="Series by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" group-title="3 Gratuit",Series by Pluto TV
@@ -173,16 +183,12 @@ https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8?ads_amagi_channel_id=930&ads_amznbrmid&ads_amznregion&ads_amznslots&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version&ads_brand_name&ads_content_categories=IAB17%2CIAB1&ads_content_genre=sports%2Chobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make&ads_device_model&ads_device_type=web&ads_device_year&ads_env=prod&ads_extra_eids&ads_gam_correlator&ads_gdpr_consent&ads_google_ad_manager_nonce&ads_ifa_type&ads_inv_partner_domain=rakuten.tv&ads_ip=152.228.139.33&ads_market=fr&ads_network_name=RakutenTV&ads_os_language&ads_placement=1&ads_player_height&ads_player_width&ads_pod_type=playerpage_midroll&ads_ppid&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=drive-tv_fr&ads_rtv_content_id=6121&ads_rtv_content_language=fr&ads_rtvid=271860&ads_streaming_id=5dfb4055-4f8a-4427-bbbf-64db6f4b0a44&ads_tivo_devcountry&ads_tivo_devmakedate&ads_tivo_mvpd&ads_tivo_platform&ads_tivo_usid&ads_tivo_uxloc&ads_user_type=visitor
 #EXTINF:-1 channel-id="66f55c3955567d0008ef9b68" tvg-id="66f55c3955567d0008ef9b68" tvg-chno="420" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="3 Gratuit",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-#EXTINF:-1 group-title="3 Gratuit" tvg-id="CanalPlusSport.fr",CANAL+ SPORT
-http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="CanalPlusSport360.fr",CANAL+ 360
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 channel-id="FRBD4100010ZZ" tvg-id="01TV.fr" tvg-chno="4565" tvg-name="Tech & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100010ZZ_20241015T042850SQUARE.png" group-title="3 Gratuit",Tech & Co
 https://jmp2.uk/stvp-FRBD4100010ZZ
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="beINSPORTS1.fr",BEIN SPORTS 1
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="mytime-movie-network-french" tvg-name="MyTime Movie Network" tvg-logo="" group-title="3 Gratuit" channel-number="34",MyTime Movie Network
-https://mytimemoviefrance-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytimemovienetworkfrance/CDN/master.m3u8?ads_amagi_channel_id=739&ads_amznbrmid&ads_amznregion&ads_amznslots&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version&ads_brand_name&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make&ads_device_model&ads_device_type=web&ads_device_year&ads_env=prod&ads_extra_eids&ads_gam_correlator&ads_gdpr_consent&ads_google_ad_manager_nonce&ads_ifa_type&ads_inv_partner_domain=rakuten.tv&ads_ip=152.228.139.33&ads_market=fr&ads_network_name=RakutenTV&ads_os_language&ads_placement=1&ads_player_height&ads_player_width&ads_pod_type=playerpage_midroll&ads_ppid&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=mytime-movie-network-french_fr&ads_rtv_content_id=3152&ads_rtv_content_language=fr&ads_rtvid=271860&ads_streaming_id=485b5e53-f546-4513-959a-1bb33c0edff4&ads_tivo_devcountry&ads_tivo_devmakedate&ads_tivo_mvpd&ads_tivo_platform&ads_tivo_usid&ads_tivo_uxloc&ads_user_type=visitor
 #EXTINF:-1, tvg-id="WildSideTV.fr" tvg-logo="https://i.imgur.com/cQkfRhH.png" tvg-name="Wild Side TV"  group-title="3 Gratuit",Wild Side TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d329ef28-8c5a-4451-bc8a-ab7d7083f320
 #EXTINF:-1 channel-id="5f8ece1a89d79800072510e6" tvg-id="5f8ece1a89d79800072510e6" tvg-chno="270" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" group-title="3 Gratuit",The Asylum
@@ -193,9 +199,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13956
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png" tvg-name="LG 1 FILM"  group-title="3 Gratuit",LG 1 FILM
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png" tvg-name="LG 1"  group-title="3 Gratuit",LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
-#EXTINF:-1 channel-id="FR3100003KZ" tvg-id="FR3100003KZ" tvg-chno="4740" tvg-name="Show ! Variété" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100003KZ_20260505T035846SQUARE.png" group-title="3 Gratuit",Show ! Variété
+#EXTINF:-1 group-title="3 Gratuit" tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780
+#EXTINF:-1 channel-id="FR3100003KZ" tvg-id="FR3100003KZ" tvg-chno="4740" tvg-name="Show ! Variété" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100003KZ_20261117T042221SQUARE.png" group-title="3 Gratuit",Show ! Variété
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 group-title="3 Gratuit" tvg-logo="https://i.ibb.co/4npJcFhs/noovooo.png",NOOVO COMEDIES
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
@@ -211,18 +217,18 @@ https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin
 https://jmp2.uk/stvp-FRBB39000020C
 #EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="4116" tvg-name="Shark TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="3 Gratuit",Shark TV
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
+#EXTINF:-1 channel-id="FR1800003VF" tvg-id="FR1800003VF" tvg-chno="4991" tvg-name="Shadowz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20260707T051611SQUARE.png" group-title="3 Gratuit",Shadowz
+https://jmp2.uk/stvp-FR1800003VF
 #EXTINF:-1 group-title="3 Gratuit" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/b14042b0-7a77-4907-8228-3b85ef5170fc-width400-height200.png",Crime - Rakuten TV
 https://crime-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6214-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=fr&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=crime-rakuten-tv_fr&ads.rtv_content_id=6214&ads.rtv_language=fr&ads.viewsize=&channel_id=6214&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 #EXTINF:-1 group-title="3 Gratuit" tvg-id="CinePlusClassic.fr",CINE+ CLASSIC
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 channel-id="5f8eb91bb9b9e7000817e67f" tvg-id="5f8eb91bb9b9e7000817e67f" tvg-chno="670" tvg-name="Pluto TV Comédie" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG_1789027818074.png" group-title="3 Gratuit",Pluto TV Comédie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
-#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="Films Romantiques - Rakuten TV" tvg-logo="" group-title="3 Gratuit" channel-number="4",Films Romantiques - Rakuten TV
-https://romance-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6195-playout/master.m3u8?ads.amznbrmid&ads.amznregion&ads.amznslots&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version&ads.brand_name&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make&ads.device_model&ads.device_year&ads.did&ads.env=prod&ads.extra_eids&ads.gam_correlator&ads.gdpr_consent&ads.google_ad_manager_nonce&ads.ifa_type&ads.inv_partner_domain=rakuten.tv&ads.ip=152.228.139.33&ads.market=fr&ads.network_name=RakutenTV&ads.os_language&ads.placement=1&ads.platform=web&ads.player_height&ads.player_width&ads.pod_type=playerpage_midroll&ads.ppid&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6195&ads.rtv_channel_name=romance-rakuten-tv_fr&ads.rtv_content_id=6195&ads.rtv_content_language=fr&ads.rtv_language=fr&ads.rtvid=271860&ads.streaming_id=254311bf-683c-47c5-a650-a514302d755f&ads.tivo_devcountry&ads.tivo_devmakedate&ads.tivo_mvpd&ads.tivo_platform&ads.tivo_usid&ads.tivo_uxloc&ads.user_type=visitor&channel_id=6195&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:-1 channel-id="FR1600003GH" tvg-id="FR1600003GH" tvg-chno="4957" tvg-name="Monstres et Créatures TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1600003GH_20260901T054509SQUARE.png" group-title="3 Gratuit",Monstres et Créatures TV
 https://jmp2.uk/stvp-FR1600003GH
-#EXTINF:-1 tvg-id="65a69ef53af63d000825e0ee" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="3 Gratuit",Ciné Catastrophe by Pluto TV
-https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=bfce3784-e16d-11f1-8000-02ffe5cf5d07&clientModelNumber=1.0.0&country=FR&deviceDNT=false&deviceId=bfce3784-e16d-11f1-8000-02ffe5cf5d07&deviceLat=50.6900&deviceLon=3.1800&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=FR&serverSideAds=false&sessionID=8359aa28-e17e-11f1-be0b-220add83db00&sid=8359aa28-e17e-11f1-be0b-220add83db00&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjlhZTM4MDA4LWQ4ODUtNGRhZC1hNjM4LTI0M2U3NTI1NGNjMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4MzU5YWEyOC1lMTdlLTExZjEtYmUwYi0yMjBhZGQ4M2RiMDAiLCJjbGllbnRJUCI6IjE3Ni4zMS44NC4yNDkiLCJjaXR5IjoiUm91YmFpeCIsInBvc3RhbENvZGUiOiI1OTEwMCIsImNvdW50cnkiOiJGUiIsImRtYSI6MjUwMDU5LCJhY3RpdmVSZWdpb24iOiJGUiIsImRldmljZUxhdCI6NTAuNjg5OTk4NjI2NzA4OTg0LCJkZXZpY2VMb24iOjMuMTgwMDAwMDY2NzU3MjAyLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiYmZjZTM3ODQtZTE2ZC0xMWYxLTgwMDAtMDJmZmU1Y2Y1ZDA3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9QYXJpcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyQWRTZXNzaW9uRXZlbnQiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImppdFBhY2siOiJyZXBhY2tKaXQsZGVjcnlwdCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJiZmNlMzc4NC1lMTZkLTExZjEtODAwMC0wMmZmZTVjZjVkMDciLCJmd1ZjSUQyQ29wcGEiOiJiZmNlMzc4NC1lMTZkLTExZjEtODAwMC0wMmZmZTVjZjVkMDciLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImJmY2UzNzg0LWUxNmQtMTFmMS04MDAwLTAyZmZlNWNmNWQwNyIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMTMsMTAwMjAsMTAwMjEsMTAwMjIsMTAwMjMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjUifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3OTQ4MDY4OTExMDEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpGUjpZbVpqWlRNM09EUXRaVEUyWkMweE1XWXhMVGd3TURBdE1ESm1abVUxWTJZMVpEQTMiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzk0ODkzMjkxLCJpYXQiOjE3OTQ4MDY4OTEsImp0aSI6IjBmZGFkNjY5LWZiNDItNDQzNi04Mjc1LTBkYzE0YmJmNjI5NSJ9.5VqN-FnGEnN_36KFgrTfi3de0M-dCImKkRo968WwMNA&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+#EXTINF:-1 channel-id="65a69ef53af63d000825e0ee" tvg-id="65a69ef53af63d000825e0ee" tvg-chno="265" tvg-name="Ciné Catastrophe by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" group-title="3 Gratuit",Ciné Catastrophe by Pluto TV
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
 #EXTINF:-1 channel-id="62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-chno="245" tvg-name="Ciné d'Asie by Pluto TV" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" group-title="3 Gratuit",Ciné d'Asie by Pluto TV
 https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
 #EXTINF:-1 channel-id="65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" tvg-chno="290" tvg-name="Ciné Western by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" group-title="3 Gratuit",Ciné Western by Pluto TV
@@ -249,10 +255,8 @@ https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
 https://action-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6068-playout/master.m3u8?ads.amznbrmid&ads.amznregion&ads.amznslots&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version&ads.brand_name&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make&ads.device_model&ads.device_year&ads.did&ads.env=prod&ads.extra_eids&ads.gam_correlator&ads.gdpr_consent&ads.google_ad_manager_nonce&ads.ifa_type&ads.inv_partner_domain=rakuten.tv&ads.ip=152.228.139.33&ads.market=fr&ads.network_name=RakutenTV&ads.os_language&ads.placement=1&ads.platform=web&ads.player_height&ads.player_width&ads.pod_type=playerpage_midroll&ads.ppid&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6068&ads.rtv_channel_name=action-rakuten-tv_fr&ads.rtv_content_id=6068&ads.rtv_content_language=fr&ads.rtv_language=fr&ads.rtvid=271860&ads.streaming_id=fd8f4f15-4163-4329-a715-95c156c78f19&ads.tivo_devcountry&ads.tivo_devmakedate&ads.tivo_mvpd&ads.tivo_platform&ads.tivo_usid&ads.tivo_uxloc&ads.user_type=visitor&channel_id=6068&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:-1 channel-id="FR26000068C" tvg-id="FR26000068C" tvg-chno="4910" tvg-name="Comédies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png" group-title="3 Gratuit",Comédies - Rakuten TV
 https://jmp2.uk/stvp-FR26000068C
-#EXTINF:-1 tvg-id="FR26000068C" group-title="3 Gratuit" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/16dc4603-a1cf-488a-947c-5f46e3050fa6-width400-height200.png",Famille - Rakuten TV
-https://family-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6206-playout/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.market=fr&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=family-rakuten-tv_fr&ads.rtv_content_id=6206&ads.rtv_language=fr&ads.viewsize=&channel_id=6206&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-#EXTINF:-1 tvg-id="FR2600007CB" tvg-name="Top Films - Rakuten TV" tvg-logo="" group-title="3 Gratuit" channel-number="0",Top Films - Rakuten TV
-https://top-movies-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-5986-playout/master.m3u8?ads.amznbrmid&ads.amznregion&ads.amznslots&ads.app_bundle=&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version&ads.brand_name&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make&ads.device_model&ads.device_year&ads.did&ads.env=prod&ads.extra_eids&ads.gam_correlator&ads.gdpr_consent&ads.google_ad_manager_nonce&ads.ifa_type&ads.inv_partner_domain=rakuten.tv&ads.ip=152.228.139.33&ads.market=fr&ads.network_name=RakutenTV&ads.os_language&ads.placement=1&ads.platform=web&ads.player_height&ads.player_width&ads.pod_type=playerpage_midroll&ads.ppid&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5986&ads.rtv_channel_name=top-movies-rakuten-tv_fr&ads.rtv_content_id=5986&ads.rtv_content_language=fr&ads.rtv_language=fr&ads.rtvid=271860&ads.streaming_id=50af9693-05c8-446b-ab6a-e2f8b8c03325&ads.tivo_devcountry&ads.tivo_devmakedate&ads.tivo_mvpd&ads.tivo_platform&ads.tivo_usid&ads.tivo_uxloc&ads.user_type=visitor&channel_id=5986&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1 channel-id="FR2600005LH" tvg-id="FR2600005LH" tvg-chno="4962" tvg-name="Drames - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20260707T051651SQUARE.png" group-title="3 Gratuit",Drames - Rakuten TV
+https://jmp2.uk/stvp-FR2600005LH
 #EXTINF:-1 channel-id="5f8ed1ff5c39700007e2204a" tvg-id="5f8ed1ff5c39700007e2204a" tvg-chno="235" tvg-name="Ciné Action by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" group-title="3 Gratuit",Ciné Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
 #EXTINF:-1 channel-id="60c3472a51a2050008dad272" tvg-id="60c3472a51a2050008dad272" tvg-chno="250" tvg-name="Ciné Thrillers by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" group-title="3 Gratuit",Ciné Thrillers by Pluto TV
@@ -282,8 +286,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 group-title="4 Anglais" tvg-id="STARZ1.ca",STARZ 1
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 group-title="4 Anglais" tvg-id="TBS.us",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="TruTV.us",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="WeTV.us",WE tv
@@ -307,6 +309,8 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
 #EXTINF:-1 group-title="4 Anglais" tvg-id="NBCWMAQ.us",NBC CHI
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+#EXTINF:-1 group-title="4 Anglais" tvg-id="StarzComedy.us",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="4 Anglais" tvg-name="Showtime Family Zone",Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 group-title="4 Anglais" tvg-id="Cinemax.us@West",Cinemax West
