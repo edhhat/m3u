@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-16 06:28:13
+Date : 2026-11-19 07:31:37
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (833 groupes) ===
+=== Xtream compte 1 (834 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -223,7 +223,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| VICTORY+ PPV
     US| VIX+ DEPORTES
     US| WNBA PACKAGE
-  [AUTRES] (623)
+  [AUTRES] (624)
     24/7 ACTION & ADVENTURE VIP
     24/7 CARTOON VIP
     24/7 CLASSIC SHOWS VIP
@@ -599,6 +599,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     GR| ΜΟΥΣΙΚΗ/MUSIC
     GR| ΝΤΟΚΙΜΑΝΤΈΡ/DOCUMENTARY
     GR| ΠΑΙΔΙΚΆ/KIDS
+    GTA 6 LIVE STREAM
     HK| HONGKONG SPORTS
     HR| CROATIA
     HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ
