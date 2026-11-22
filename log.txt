@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-19 07:31:37
+Date : 2026-11-22 06:50:12
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (834 groupes) ===
+=== Xtream compte 1 (831 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -51,7 +51,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     BE| TELENET
     BE| TELESAT ᴿᴬᵂ
     BE| WALLONIË
-  [CA] (21)
+  [CA] (20)
     CANADA ENGLISH
     CANADA FRENCH
     CA| AHL PPV
@@ -64,7 +64,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     CA| OHL PPV
     CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ
     CA| QMJHL PPV
-    CA| ROGERS ROGERS SUPER SPORTS
     CA| SN+ PPV
     CA| SOCCER PPV
     CA| SPORT
@@ -152,7 +151,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     UK| VIDIO EPL PPV
     UK| VOLLEY BALL WORLD PPV
     UK| WORLD SPORTS
-  [US] (70)
+  [US] (73)
     UNITED STATES
     US| ABC NETWORK
     US| APPLE TV F1 PPV
@@ -167,6 +166,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| DAZN PPV
     US| DIRTVISION PPV
     US| DISNEY+ NETWORK
+    US| DISNEY+ PPV
     US| ENTERTAINMENT
     US| ESPN PLAY
     US| ESPN PLUS
@@ -177,9 +177,11 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| FLO NETWORK
     US| FLO RACING PPV
     US| FOX NETWORK
+    US| FUBO PPV
     US| HBO MAX NETWORK
     US| HULU NETWORK
     US| KIDS NETWORK
+    US| LATIN UNIMAS
     US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ
     US| MAX PPV
     US| MILB TV PPV
@@ -223,7 +225,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| VICTORY+ PPV
     US| VIX+ DEPORTES
     US| WNBA PACKAGE
-  [AUTRES] (624)
+  [AUTRES] (619)
     24/7 ACTION & ADVENTURE VIP
     24/7 CARTOON VIP
     24/7 CLASSIC SHOWS VIP
@@ -483,7 +485,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     DE| FILME UND SERIEN
     DE| GERMANY HEVC
     DE| HULU ᴿᴬᵂ
-    DE| JOYN ᴿᴬᵂ
     DE| KINDER
     DE| LEAGUES FOOTBALL PPV
     DE| MAGENTA FILME 4K
@@ -684,9 +685,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     MY| MALAYSIA SPORTS
     NA| HOCKEY LEAGUE
     NA| PPV & LIVE EVENTS
-    NL| 24/7 DISNEY
-    NL| 24/7 MAX
-    NL| 24/7 NETFLIX
     NL| ALGEMEEN
     NL| BUITENLAND
     NL| CAIWAY ᴿᴬᵂ
@@ -696,7 +694,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     NL| CANAL+ ONLINE VERMAAK ᴿᴬᵂ
     NL| CLIPMYHORSE PPV
     NL| DAZN PPV
-    NL| DAZN PPV ˢᵘᵖᵉ
     NL| DISNEY+ PPV
     NL| DOCUMENTAIRE
     NL| ENTERTAINMENT
@@ -895,7 +892,7 @@ XTREAM_GROUPS_EXCLUS = [
 # Xtream compte 1 - AVEC FILTRE
 ################################################################################
 
-=== GROUPES RETENUS (225) ===
+=== GROUPES RETENUS (227) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ  (20 chaines)
     FR| CANAL PLAY  (11 chaines)
@@ -939,24 +936,23 @@ XTREAM_GROUPS_EXCLUS = [
     BE| TELENET  (27 chaines)
     BE| TELESAT ᴿᴬᵂ  (38 chaines)
     BE| WALLONIË  (147 chaines)
-  [CA] (21)
+  [CA] (20)
     CANADA ENGLISH  (184 chaines)
-    CANADA FRENCH  (54 chaines)
-    CA| AHL PPV  (47 chaines)
+    CANADA FRENCH  (0 chaines)  !! ERREUR HTTP 403
+    CA| AHL PPV  (0 chaines)  !! ERREUR HTTP 403
     CA| AHL TEAM  (32 chaines)
     CA| ENGLISH  (154 chaines)
     CA| FOREIGN  (66 chaines)
     CA| FRENCH  (73 chaines)
-    CA| KIDS  (13 chaines)
+    CA| KIDS  (0 chaines)  !! ERREUR HTTP 403
     CA| LOCALS  (58 chaines)
     CA| OHL PPV  (13 chaines)
     CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (89 chaines)
     CA| QMJHL PPV  (13 chaines)
-    CA| ROGERS ROGERS SUPER SPORTS  (39 chaines)
     CA| SN+ PPV  (100 chaines)
     CA| SOCCER PPV  (201 chaines)
     CA| SPORT  (37 chaines)
-    CA| SPORTSNET  (15 chaines)
+    CA| SPORTSNET  (0 chaines)  !! ERREUR HTTP 403
     CA| SPORTSNET PPV  (51 chaines)
     CA| STINGRAY  (32 chaines)
     CA| TSN+ PPV  (100 chaines)
@@ -1040,7 +1036,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| VIDIO EPL PPV  (35 chaines)
     UK| VOLLEY BALL WORLD PPV  (31 chaines)
     UK| WORLD SPORTS  (70 chaines)
-  [US] (64)
+  [US] (67)
     UNITED STATES  (261 chaines)
     US| ABC NETWORK  (218 chaines)
     US| APPLE TV F1 PPV  (21 chaines)
@@ -1055,13 +1051,16 @@ XTREAM_GROUPS_EXCLUS = [
     US| DAZN PPV  (100 chaines)
     US| DIRTVISION PPV  (9 chaines)
     US| DISNEY+ NETWORK  (14 chaines)
-    US| ENTERTAINMENT  (215 chaines)
+    US| DISNEY+ PPV  (300 chaines)
+    US| ENTERTAINMENT  (0 chaines)  !! ERREUR HTTP 403
     US| ESPN PLAY  (98 chaines)
     US| ESPN PLUS  (500 chaines)
     US| ESPN+ PPV VIP  (1001 chaines)
+    US| FUBO PPV  (50 chaines)
     US| HBO MAX NETWORK  (19 chaines)
     US| HULU NETWORK  (21 chaines)
     US| KIDS NETWORK  (32 chaines)
+    US| LATIN UNIMAS  (39 chaines)
     US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (10 chaines)
     US| MAX PPV  (41 chaines)
     US| MILB TV PPV  (100 chaines)
