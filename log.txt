@@ -1,13 +1,13 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-22 06:50:12
+Date : 2026-11-25 08:39:29
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
 # XTREAM DE BASE (TOUS LES GROUPES, SANS FILTRE)
 ################################################################################
 
-=== Xtream compte 1 (831 groupes) ===
+=== Xtream compte 1 (835 groupes) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ
     FR| CANAL PLAY
@@ -151,7 +151,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     UK| VIDIO EPL PPV
     UK| VOLLEY BALL WORLD PPV
     UK| WORLD SPORTS
-  [US] (73)
+  [US] (77)
     UNITED STATES
     US| ABC NETWORK
     US| APPLE TV F1 PPV
@@ -177,11 +177,13 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| FLO NETWORK
     US| FLO RACING PPV
     US| FOX NETWORK
+    US| FOX ONE PPV
     US| FUBO PPV
     US| HBO MAX NETWORK
     US| HULU NETWORK
     US| KIDS NETWORK
     US| LATIN UNIMAS
+    US| LATIN UNIVISION
     US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ
     US| MAX PPV
     US| MILB TV PPV
@@ -193,6 +195,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| NBA NETWORK VIP
     US| NBA PACKAGE
     US| NBC NETWORK
+    US| NCAA MARCH MADNESS
     US| NCAAB PACKAGE
     US| NCAAF PACKAGE
     US| NETFLIX ON AIR ᴿᴬᵂ ⁶⁰ᶠᵖˢ
@@ -218,6 +221,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     US| TELEMUNDO NETWORK
     US| TENNIS CHANNEL PLUS
     US| TENNIS PPV
+    US| TRILLER TV PPV
     US| TUBI ᴿᴬᵂ
     US| TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ
     US| TV ᶜᶦᵗʸ ᴿᴬᵂ ⁶⁰ᶠᵖˢ
@@ -504,6 +508,7 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     DE| SKY GO SPORT
     DE| SKY MAX PPV 4K
     DE| SOCCER PPV
+    DE| SPORT EUROPE PPV
     DE| SPORTS
     DE| STAIGE PPV
     DE| UNTERHALTUNG
@@ -600,7 +605,6 @@ Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
     GR| ΜΟΥΣΙΚΗ/MUSIC
     GR| ΝΤΟΚΙΜΑΝΤΈΡ/DOCUMENTARY
     GR| ΠΑΙΔΙΚΆ/KIDS
-    GTA 6 LIVE STREAM
     HK| HONGKONG SPORTS
     HR| CROATIA
     HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ
@@ -892,7 +896,7 @@ XTREAM_GROUPS_EXCLUS = [
 # Xtream compte 1 - AVEC FILTRE
 ################################################################################
 
-=== GROUPES RETENUS (227) ===
+=== GROUPES RETENUS (231) ===
   [FR] (29)
     FR| 24/7 BEIN CINEMA ᴿᴬᵂ  (20 chaines)
     FR| CANAL PLAY  (11 chaines)
@@ -938,13 +942,13 @@ XTREAM_GROUPS_EXCLUS = [
     BE| WALLONIË  (147 chaines)
   [CA] (20)
     CANADA ENGLISH  (184 chaines)
-    CANADA FRENCH  (0 chaines)  !! ERREUR HTTP 403
-    CA| AHL PPV  (0 chaines)  !! ERREUR HTTP 403
+    CANADA FRENCH  (54 chaines)
+    CA| AHL PPV  (47 chaines)
     CA| AHL TEAM  (32 chaines)
     CA| ENGLISH  (154 chaines)
     CA| FOREIGN  (66 chaines)
     CA| FRENCH  (73 chaines)
-    CA| KIDS  (0 chaines)  !! ERREUR HTTP 403
+    CA| KIDS  (13 chaines)
     CA| LOCALS  (58 chaines)
     CA| OHL PPV  (13 chaines)
     CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (89 chaines)
@@ -952,7 +956,7 @@ XTREAM_GROUPS_EXCLUS = [
     CA| SN+ PPV  (100 chaines)
     CA| SOCCER PPV  (201 chaines)
     CA| SPORT  (37 chaines)
-    CA| SPORTSNET  (0 chaines)  !! ERREUR HTTP 403
+    CA| SPORTSNET  (15 chaines)
     CA| SPORTSNET PPV  (51 chaines)
     CA| STINGRAY  (32 chaines)
     CA| TSN+ PPV  (100 chaines)
@@ -1036,7 +1040,7 @@ XTREAM_GROUPS_EXCLUS = [
     UK| VIDIO EPL PPV  (35 chaines)
     UK| VOLLEY BALL WORLD PPV  (31 chaines)
     UK| WORLD SPORTS  (70 chaines)
-  [US] (67)
+  [US] (71)
     UNITED STATES  (261 chaines)
     US| ABC NETWORK  (218 chaines)
     US| APPLE TV F1 PPV  (21 chaines)
@@ -1052,15 +1056,17 @@ XTREAM_GROUPS_EXCLUS = [
     US| DIRTVISION PPV  (9 chaines)
     US| DISNEY+ NETWORK  (14 chaines)
     US| DISNEY+ PPV  (300 chaines)
-    US| ENTERTAINMENT  (0 chaines)  !! ERREUR HTTP 403
+    US| ENTERTAINMENT  (215 chaines)
     US| ESPN PLAY  (98 chaines)
     US| ESPN PLUS  (500 chaines)
     US| ESPN+ PPV VIP  (1001 chaines)
+    US| FOX ONE PPV  (50 chaines)
     US| FUBO PPV  (50 chaines)
     US| HBO MAX NETWORK  (19 chaines)
     US| HULU NETWORK  (21 chaines)
     US| KIDS NETWORK  (32 chaines)
     US| LATIN UNIMAS  (39 chaines)
+    US| LATIN UNIVISION  (56 chaines)
     US| MAX ESPN ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (10 chaines)
     US| MAX PPV  (41 chaines)
     US| MILB TV PPV  (100 chaines)
@@ -1072,6 +1078,7 @@ XTREAM_GROUPS_EXCLUS = [
     US| NBA NETWORK VIP  (21 chaines)
     US| NBA PACKAGE  (68 chaines)
     US| NBC NETWORK  (249 chaines)
+    US| NCAA MARCH MADNESS  (40 chaines)
     US| NCAAB PACKAGE  (101 chaines)
     US| NCAAF PACKAGE  (71 chaines)
     US| NETFLIX ON AIR ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (135 chaines)
@@ -1097,6 +1104,7 @@ XTREAM_GROUPS_EXCLUS = [
     US| TELEMUNDO NETWORK  (78 chaines)
     US| TENNIS CHANNEL PLUS  (100 chaines)
     US| TENNIS PPV  (30 chaines)
+    US| TRILLER TV PPV  (16 chaines)
     US| TUBI ᴿᴬᵂ  (144 chaines)
     US| TV ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (404 chaines)
     US| TV ᶜᶦᵗʸ ᴿᴬᵂ ⁶⁰ᶠᵖˢ  (146 chaines)
