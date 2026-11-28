@@ -1,6 +1,6 @@
 LOG DES GROUPES XTREAM
 ================================================================================
-Date : 2026-11-25 08:39:29
+Date : 2026-11-28 07:59:11
 Ordre des groupes : FR, BE, CA, CND, UK, US, puis le reste
 
 ################################################################################
@@ -1121,7 +1121,7 @@ XTREAM_GROUPS_EXCLUS = [
     AFR| MAURITIUS  (6 chaines)
     AFR| SOMALI  (21 chaines)
     CH| SWITZERLAND  (100 chaines)
-    CRB| AMP  (131 chaines)
+    CRB| AMP  (133 chaines)
     CRB| ESPN PLAY PPV  (101 chaines)
     CRB| HAITI  (62 chaines)
     EU| LUXEMBOURG  (6 chaines)
